@@ -2,12 +2,12 @@
   "date": "2025-09-10",
   "category": "astro-ph",
   "subcategories": [
-    "astro-ph.HE",
-    "astro-ph.IM",
+    "astro-ph.GA",
     "astro-ph.CO",
+    "astro-ph.IM",
+    "astro-ph.HE",
     "astro-ph.EP",
-    "astro-ph.SR",
-    "astro-ph.GA"
+    "astro-ph.SR"
   ],
   "total_papers": 130,
   "gw_related_papers": 10,
