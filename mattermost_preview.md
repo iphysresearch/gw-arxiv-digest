@@ -141,25 +141,5 @@ Subjects: **astro-ph.HE**
 
 ---
 
-[arXiv:2509.07684](https://arxiv.org/abs/2509.07684) (cross-list from physics.atom-ph) [Submitted on 10 Sep 2025]
-**Benchmarking the Plane-Wave Born and Distorted Waves approximations for electron-impact collision strengthcomputations: the sample case of Sr II**
-Jérôme Deprince, Lucas Maison
-Subjects: **astro-ph.HE**
-
----
-
-[arXiv:2502.13209](https://arxiv.org/abs/2502.13209) (replaced) [Submitted on 10 Sep 2025]
-**Mass Segregation and Transient Formation in Nuclear Stellar Clusters**
-Barak Rom, Re'em Sari
-Subjects: **astro-ph.HE**; astro-ph.GA
-
----
-
-[arXiv:2503.15316](https://arxiv.org/abs/2503.15316) (replaced) [Submitted on 10 Sep 2025]
-**Euclid Quick Data Release (Q1). Optical and near-infrared identification and classification of point-like X-ray selected sources**
-Euclid Collaboration: W. Roster, M. Salvato, J. Buchner, R. Shirley, E. Lusso, H. Landt, G. Zamorani, M. Siudek, B. Laloux, T. Matamoro Zatarain, F. Ricci, S. Fotopoulou, A. Ferré-Mateu, X. Lopez Lopez, N. Aghanim, B. Altieri, A. Amara, S. Andreon, N. Auricchio, H. Aussel, C. Baccigalupi, M. Baldi, A. Balestra, S. Bardelli, P. Battaglia, A. Biviano, A. Bonchi, E. Branchini, M. Brescia, J. Brinchmann, S. Camera, G. Cañas-Herrera, V. Capobianco, C. Carbone, J. Carretero, S. Casas, M. Castellano, G. Castignani, S. Cavuoti, K. C. Chambers, A. Cimatti, C. Colodro-Conde, G. Congedo, C. J. Conselice, L. Conversi, Y. Copin, F. Courbin, H. M. Courtois, M. Cropper, A. Da Silva, H. Degaudenzi, G. De Lucia, A. M. Di Giorgio, C. Dolding, H. Dole, F. Dubath, C. A. J. Duncan, X. Dupac, S. Dusini, S. Escoffier, M. Fabricius, M. Farina, R. Farinelli, F. Faustini, S. Ferriol, F. Finelli, P. Fosalba, N. Fourmanoit, M. Frailis, E. Franceschi, S. Galeotta, K. George, B. Gillis, C. Giocoli, J. Gracia-Carpio, B. R. Granett, A. Grazian, F. Grupp, S. Gwyn, S. V. H. Haugan, W. Holmes, I. M. Hook, F. Hormuth, A. Hornstrup, P. Hudelot, K. Jahnke, M. Jhabvala, E. Keihänen, S. Kermiche, A. Kiessling, B. Kubik, M. Kümmel, M. Kunz, H. Kurki-Suonio, Q. Le Boulc'h, A. M. C. Le Brun, D. Le Mignant, S. Ligori, P. B. Lilje
-Subjects: **astro-ph.GA**
-
----
-
 📊 **Summary**: 14 New • 5 Cross-lists • 4 Replacements
+📋 Showing top 20 of 23 papers
