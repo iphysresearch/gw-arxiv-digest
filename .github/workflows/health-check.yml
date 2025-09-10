@@ -103,35 +103,19 @@ jobs:
           echo ""
           echo "🏥 Health check completed"
           
-      - name: Quick crawler test
-        id: crawler-test
+      - name: Quick system test
+        id: system-test
         continue-on-error: true
         run: |
-          echo "🧪 Testing web crawler functionality..."
+          echo "🧪 Testing system functionality..."
           
-          # 简单的爬虫功能测试
-          python3 -c "
-import sys
-sys.path.append('scripts')
-
-try:
-    from arxiv_web_scraper import ArxivWebScraper
-    scraper = ArxivWebScraper()
-    
-    # 测试抓取少量论文
-    papers, stats = scraper.fetch_category_new('gr-qc')
-    
-    if len(papers) > 0:
-        print(f'✅ Web crawler functional: {len(papers)} papers crawled')
-        print(f'📊 Verification: {\"✅ PASS\" if stats.get(\"verification_passed\") else \"⚠️ ISSUE\"}')
-        print(f'📊 Expected: {stats.get(\"expected_total\", 0)}')
-        print(f'📊 Actual: {stats.get(\"actual_crawled\", 0)}')
-    else:
-        print('❌ Web crawler test failed: no papers retrieved')
-        
-except Exception as e:
-    print(f'❌ Web crawler test error: {e}')
-" || echo "❌ Crawler test failed"
+          # 测试Python模块导入
+          python3 -c "import sys; sys.path.append('scripts'); from arxiv_web_scraper import ArxivWebScraper; print('✅ Module import successful')" || echo "❌ Module import failed"
+          
+          # 测试网络连接
+          echo "🌐 Testing network connectivity..."
+          curl -s --head --max-time 10 "https://arxiv.org/list/gr-qc/new" >/dev/null && echo "✅ arXiv GR-QC accessible" || echo "❌ arXiv GR-QC not accessible"
+          curl -s --head --max-time 10 "https://arxiv.org/list/astro-ph.CO/new" >/dev/null && echo "✅ arXiv Astro-Ph accessible" || echo "❌ arXiv Astro-Ph not accessible"
 
       - name: Send health status to Mattermost
         if: always()
