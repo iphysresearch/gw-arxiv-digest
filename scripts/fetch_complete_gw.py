@@ -25,7 +25,7 @@ ARXIV_MAX_RESULTS = int(os.getenv('ARXIV_MAX_RESULTS', '300'))
 ARCHIVE_DIR = os.getenv('ARCHIVE_DIR', 'archives/complete')
 ENABLE_ARCHIVE = os.getenv('ENABLE_ARCHIVE', 'true').lower() == 'true'
 MATTERMOST_WEBHOOK_URL = os.getenv('MATTERMOST_WEBHOOK_URL')
-MATTERMOST_MAX_PAPERS = int(os.getenv('MATTERMOST_MAX_PAPERS', '20'))
+MATTERMOST_MAX_PAPERS = int(os.getenv('MATTERMOST_MAX_PAPERS', '100'))
 
 def fetch_category_papers(category: str, max_results: int = 200):
     """获取特定类别的论文，包含自检功能"""

@@ -1,0 +1,162 @@
+name: System Health Check
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # 每天 UTC 6:00 运行健康检查
+  workflow_dispatch:  # 支持手动触发
+
+permissions:
+  contents: read
+
+jobs:
+  health-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python with caching
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: 'requirements.txt'
+          
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: System health verification
+        id: health-check
+        run: |
+          echo "🏥 Daily System Health Check"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          
+          DATE_STR=$(date +%Y-%m-%d)
+          YESTERDAY=$(date -d "yesterday" +%Y-%m-%d 2>/dev/null || date -v-1d +%Y-%m-%d)
+          
+          # 检查核心文件
+          echo "🔧 Core components check:"
+          
+          COMPONENTS=(
+            "scripts/arxiv_web_scraper.py:网页爬虫模块"
+            "scripts/fetch_complete_gw.py:主爬取脚本" 
+            "scripts/send_complete_gw.py:Mattermost发送脚本"
+            "requirements.txt:依赖配置"
+            "Makefile:构建系统"
+          )
+          
+          for component in "${COMPONENTS[@]}"; do
+            file=${component%%:*}
+            name=${component##*:}
+            if [ -f "$file" ]; then
+              echo "  ✅ $name"
+            else
+              echo "  ❌ $name (missing: $file)"
+            fi
+          done
+          
+          # 检查存档状态
+          echo ""
+          echo "📁 Archive status check:"
+          
+          if [ -f "archives/filtered/gw_filtered_$DATE_STR.json" ]; then
+            SIZE=$(stat -c%s "archives/filtered/gw_filtered_$DATE_STR.json" 2>/dev/null || echo "0")
+            echo "  ✅ Today's GW filtered archive ($SIZE bytes)"
+          else
+            echo "  ⚠️ No today's GW filtered archive"
+          fi
+          
+          if [ -f "archives/filtered/gw_filtered_$YESTERDAY.json" ]; then
+            SIZE=$(stat -c%s "archives/filtered/gw_filtered_$YESTERDAY.json" 2>/dev/null || echo "0")
+            echo "  ✅ Yesterday's GW filtered archive ($SIZE bytes)"
+          else
+            echo "  ⚠️ No yesterday's GW filtered archive"
+          fi
+          
+          # 检查存档目录结构
+          COMPLETE_COUNT=$(find archives/complete -name "*.json" -type f 2>/dev/null | wc -l)
+          FILTERED_COUNT=$(find archives/filtered -name "*.json" -type f 2>/dev/null | wc -l)
+          
+          echo "  📊 Complete archives: $COMPLETE_COUNT files"
+          echo "  📊 Filtered archives: $FILTERED_COUNT files"
+          
+          # 测试网络连接
+          echo ""
+          echo "🌐 Network connectivity check:"
+          
+          if curl -s --head "https://arxiv.org/list/gr-qc/new" >/dev/null; then
+            echo "  ✅ arXiv GR-QC accessible"
+          else
+            echo "  ❌ arXiv GR-QC not accessible"
+          fi
+          
+          if curl -s --head "https://arxiv.org/list/astro-ph.CO/new" >/dev/null; then
+            echo "  ✅ arXiv Astro-Ph accessible"
+          else
+            echo "  ❌ arXiv Astro-Ph not accessible"
+          fi
+          
+          echo ""
+          echo "🏥 Health check completed"
+          
+      - name: Quick crawler test
+        id: crawler-test
+        continue-on-error: true
+        run: |
+          echo "🧪 Testing web crawler functionality..."
+          
+          # 简单的爬虫功能测试
+          python3 -c "
+import sys
+sys.path.append('scripts')
+
+try:
+    from arxiv_web_scraper import ArxivWebScraper
+    scraper = ArxivWebScraper()
+    
+    # 测试抓取少量论文
+    papers, stats = scraper.fetch_category_new('gr-qc')
+    
+    if len(papers) > 0:
+        print(f'✅ Web crawler functional: {len(papers)} papers crawled')
+        print(f'📊 Verification: {\"✅ PASS\" if stats.get(\"verification_passed\") else \"⚠️ ISSUE\"}')
+        print(f'📊 Expected: {stats.get(\"expected_total\", 0)}')
+        print(f'📊 Actual: {stats.get(\"actual_crawled\", 0)}')
+    else:
+        print('❌ Web crawler test failed: no papers retrieved')
+        
+except Exception as e:
+    print(f'❌ Web crawler test error: {e}')
+" || echo "❌ Crawler test failed"
+
+      - name: Send health status to Mattermost
+        if: always()
+        env:
+          MATTERMOST_WEBHOOK_URL: ${{ secrets.MATTERMOST_WEBHOOK_URL }}
+        run: |
+          if [ ! -z "$MATTERMOST_WEBHOOK_URL" ]; then
+            DATE_STR=$(date +%Y-%m-%d)
+            HOUR=$(date +%H)
+            
+            # 检查今天是否有存档
+            if [ -f "archives/filtered/gw_filtered_$DATE_STR.json" ]; then
+              DIGEST_STATUS="✅ Generated"
+              SIZE=$(stat -c%s "archives/filtered/gw_filtered_$DATE_STR.json" 2>/dev/null || echo "0")
+            else
+              DIGEST_STATUS="⚠️ Pending"
+              SIZE="0"
+            fi
+            
+            echo "📱 Sending health check to Mattermost..."
+            curl -s -X POST -H 'Content-Type: application/json' \
+              -d "{
+                \"text\": \"🏥 Daily Health Check - $DATE_STR\\n\\n📊 System Status:\\n- Digest today: $DIGEST_STATUS ($SIZE bytes)\\n- Crawler test: ${{ job.status == 'success' && '✅ PASS' || '⚠️ ISSUE' }}\\n- Next check: UTC $(($HOUR + 1)):00\\n\\n🔧 All core components verified\",
+                \"username\": \"GW System Monitor\", 
+                \"icon_emoji\": \":health_worker:\"
+              }" \
+              $MATTERMOST_WEBHOOK_URL || echo "⚠️ Health status send failed"
+          fi

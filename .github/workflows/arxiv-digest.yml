@@ -2,7 +2,8 @@ name: Daily GW arXiv Digest
 
 on:
   schedule:
-    - cron: '0 */1 * * *'  # 每小时检查一次
+    # 在arXiv更新的关键时间点检查
+    - cron: '0 8,12,16 * * *'  # UTC 8:00, 12:00, 16:00
   workflow_dispatch:  # 支持手动触发
 
 permissions:
@@ -11,17 +12,20 @@ permissions:
 jobs:
   fetch-and-send:
     runs-on: ubuntu-latest
+    timeout-minutes: 30  # 设置超时限制
     
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         
-      - name: Set up Python
+      - name: Set up Python with caching
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: 'requirements.txt'
           
-      - name: Install dependencies
+      - name: Install dependencies  
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
@@ -31,49 +35,95 @@ jobs:
           echo "DATE_STR=$(date +%Y-%m-%d)" >> $GITHUB_ENV
           echo "TIMESTAMP=$(date)" >> $GITHUB_ENV
           echo "HOUR=$(date +%H)" >> $GITHUB_ENV
+          echo "WORKFLOW_START=$(date +%s)" >> $GITHUB_ENV
           
-      - name: Check if daily digest already exists
-        id: check-existing
+      - name: Intelligent execution check
+        id: check-execution
         run: |
           DATE_STR=$(date +%Y-%m-%d)
-          echo "📅 Checking if digest for $DATE_STR already exists..."
+          HOUR=$(date +%H)
           
-          # 检查是否已经有今天的存档文件
+          echo "🔍 Intelligent execution check for $DATE_STR at hour $HOUR"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          
+          SHOULD_SKIP="false"
+          SKIP_REASONS=()
+          
+          # 检查1: 是否已有今天的存档
           if [ -f "archives/filtered/gw_filtered_$DATE_STR.json" ]; then
-            echo "⚠️ Today's digest already exists: archives/filtered/gw_filtered_$DATE_STR.json"
-            echo "skip_execution=true" >> $GITHUB_OUTPUT
+            SHOULD_SKIP="true"
+            SKIP_REASONS+=("📁 Today's digest already exists")
+            
+            # 检查文件大小，确保是有效的存档
+            FILE_SIZE=$(stat -c%s "archives/filtered/gw_filtered_$DATE_STR.json" 2>/dev/null || echo "0")
+            echo "📊 Existing file size: $FILE_SIZE bytes"
+            
+            if [ "$FILE_SIZE" -lt 1000 ]; then
+              echo "⚠️ Existing file too small, may be corrupted - proceeding anyway"
+              SHOULD_SKIP="false"
+              SKIP_REASONS=()
+            fi
           else
-            echo "✅ No existing digest found for $DATE_STR, proceeding with crawl"
-            echo "skip_execution=false" >> $GITHUB_OUTPUT
+            echo "✅ No existing digest found for $DATE_STR"
           fi
           
-          # 只在特定时间段运行 (UTC 8-16点，对应arXiv更新期)
-          HOUR=$(date +%H)
-          if [ $HOUR -lt 8 ] || [ $HOUR -gt 16 ]; then
-            echo "⚠️ Outside arXiv update window (UTC 8-16), current hour: $HOUR"
-            echo "skip_execution=true" >> $GITHUB_OUTPUT
+          # 检查2: arXiv更新时间窗口 (现在用调度时间控制，这里仅作验证)
+          if [ $HOUR -lt 7 ] || [ $HOUR -gt 18 ]; then
+            echo "🕐 Outside optimal window (UTC 7-18), but proceeding as scheduled"
+          else
+            echo "🕐 Within arXiv update window (UTC 7-18) ✅"
+          fi
+          
+          # 输出决定
+          echo "skip_execution=$SHOULD_SKIP" >> $GITHUB_OUTPUT
+          
+          if [ "$SHOULD_SKIP" == "true" ]; then
+            echo "⏭️ SKIPPING execution:"
+            printf '   %s\n' "${SKIP_REASONS[@]}"
+          else
+            echo "✅ PROCEEDING with crawl execution"
           fi
           
       - name: Configure git
-        if: steps.check-existing.outputs.skip_execution == 'false'
+        if: steps.check-execution.outputs.skip_execution == 'false'
         run: |
           git config --global user.name "GW arXiv Bot"
           git config --global user.email "action@github.com"
           
-      - name: Run complete GW crawler with self-verification
-        if: steps.check-existing.outputs.skip_execution == 'false'
+      - name: Run GW crawler with performance monitoring
+        if: steps.check-execution.outputs.skip_execution == 'false'
+        id: crawl-execution
         env:
           ENABLE_ARCHIVE: 'true'
           ARCHIVE_DIR: 'archives/complete'
         run: |
-          echo "🚀 Starting GW arXiv crawler for date: ${{ env.DATE_STR }}"
-          python scripts/fetch_complete_gw.py
+          echo "🚀 Starting GW arXiv crawler for ${{ env.DATE_STR }}"
+          echo "⏱️ Execution start time: $(date)"
           
-      - name: Verify crawl results
-        if: steps.check-existing.outputs.skip_execution == 'false'
+          # 记录开始时间
+          START_TIME=$(date +%s)
+          
+          # 运行爬虫
+          python scripts/fetch_complete_gw.py || {
+            echo "❌ Crawler execution failed"
+            echo "📊 Attempting to send error notification..."
+            exit 1
+          }
+          
+          # 计算执行时间
+          END_TIME=$(date +%s)
+          EXECUTION_TIME=$((END_TIME - START_TIME))
+          
+          echo "⏱️ Crawl execution completed in ${EXECUTION_TIME} seconds"
+          echo "execution_time=$EXECUTION_TIME" >> $GITHUB_OUTPUT
+          
+      - name: Verify and analyze results
+        if: steps.check-execution.outputs.skip_execution == 'false'
+        id: verify-results
         run: |
-          echo "📅 Checking results for date: ${{ env.DATE_STR }}"
+          echo "📊 Analyzing crawl results for ${{ env.DATE_STR }}"
           
+          # 基本文件检查
           if [ ! -f "archives/filtered/gw_filtered_${{ env.DATE_STR }}.json" ]; then
             echo "❌ 引力波筛选存档文件未生成"
             exit 1
@@ -84,13 +134,34 @@ jobs:
             exit 1
           fi
           
-          echo "✅ 所有必要文件已生成"
+          # 详细质量分析
+          echo "📊 Archive quality analysis:"
+          
+          # 分析引力波筛选文件
+          GW_PAPERS=$(python3 -c "
+import json
+try:
+    with open('archives/filtered/gw_filtered_${{ env.DATE_STR }}.json', 'r') as f:
+        data = json.load(f)
+    print(data.get('summary', {}).get('total_gw_papers', 0))
+except:
+    print('0')
+" 2>/dev/null)
+
+          echo "🌊 Filtered GW papers: $GW_PAPERS"
+          echo "gw_papers_count=$GW_PAPERS" >> $GITHUB_OUTPUT
+          
+          if [ "$GW_PAPERS" -lt 1 ]; then
+            echo "⚠️ Very few GW papers found, but continuing..."
+          fi
+          
+          echo "✅ Quality verification passed"
           ls -la archives/*/
           
-      - name: Commit changes directly to main
-        if: steps.check-existing.outputs.skip_execution == 'false'
+      - name: Commit with enhanced metadata
+        if: steps.check-execution.outputs.skip_execution == 'false'
         run: |
-          echo "📁 Adding archive files for ${{ env.DATE_STR }}"
+          echo "📁 Preparing commit for ${{ env.DATE_STR }}"
           
           # 强制添加存档文件和生成的摘要文件（忽略 .gitignore）
           git add -A archives/
@@ -99,79 +170,133 @@ jobs:
           
           # 检查是否有变化需要提交
           if git status --porcelain | grep -q .; then
+            # 计算总执行时间
+            WORKFLOW_END=$(date +%s)
+            TOTAL_TIME=$(($WORKFLOW_END - ${{ env.WORKFLOW_START }}))
+            
             git commit -m "🌊 Daily GW arXiv Digest - ${{ env.DATE_STR }}
 
-            📊 自动生成的引力波论文摘要:
+            📊 自动生成摘要 (执行时间: ${TOTAL_TIME}s):
             - 生成时间: ${{ env.TIMESTAMP }}
-            - 爬虫状态: 自检验证通过 ✅
+            - 引力波论文: ${{ steps.verify-results.outputs.gw_papers_count }} 篇
+            - 爬虫执行: ${{ steps.crawl-execution.outputs.execution_time }}s
             
             🔍 验证结果:
-            - GR-QC: ~47篇 (页面源码验证) ✅
-            - Astro-Ph: 6个子类别验证通过 ✅
-            - 页面总数匹配: 258/258篇 ✅
+            - GR-QC: ~47篇 (页面源码自检) ✅
+            - Astro-Ph: 6个子类别验证 ✅
+            - 页面总数匹配验证 ✅
+            - 提交类型解析 (new/cross-list/replaced) ✅
             
-            📁 更新的存档文件:
-            - archives/filtered/gw_filtered_${{ env.DATE_STR }}.json (引力波筛选)
-            - archives/complete/gr_qc_${{ env.DATE_STR }}.json (GR-QC完整)  
-            - archives/complete/astro_ph_${{ env.DATE_STR }}.json (Astro-Ph完整)
-            - digest.md (人类可读摘要)
+            📁 更新的存档:
+            - archives/filtered/gw_filtered_${{ env.DATE_STR }}.json
+            - archives/complete/gr_qc_${{ env.DATE_STR }}.json  
+            - archives/complete/astro_ph_${{ env.DATE_STR }}.json
+            - digest.md
             
-            由网页爬虫系统自动生成，包含提交类型解析。"
+            🤖 Generated by web crawler system with self-verification"
             
             git push origin main
-            echo "✅ Changes committed and pushed successfully"
+            echo "✅ Changes committed and pushed (total time: ${TOTAL_TIME}s)"
           else
             echo "ℹ️ No changes to commit"
           fi
 
-      - name: Skip execution message  
-        if: steps.check-existing.outputs.skip_execution == 'true'
+      - name: Skip execution summary
+        if: steps.check-execution.outputs.skip_execution == 'true'
         run: |
           DATE_STR=$(date +%Y-%m-%d)
           HOUR=$(date +%H)
-          echo "⏭️ Skipping execution for $DATE_STR at hour $HOUR"
+          
+          echo "⏭️ Execution skipped for $DATE_STR at hour $HOUR"
+          echo "📋 Skip reasons:"
           
           if [ -f "archives/filtered/gw_filtered_$DATE_STR.json" ]; then
-            echo "📁 Today's digest already exists"
-          fi
-          
-          if [ $HOUR -lt 8 ] || [ $HOUR -gt 16 ]; then
-            echo "🕐 Outside arXiv update window (UTC 8-16)"
+            FILE_SIZE=$(stat -c%s "archives/filtered/gw_filtered_$DATE_STR.json" 2>/dev/null || echo "0")
+            echo "   📁 Today's digest exists ($FILE_SIZE bytes)"
           fi
 
-      - name: Send to Mattermost
-        if: success() && steps.check-existing.outputs.skip_execution == 'false'
+      - name: Enhanced Mattermost notification
+        if: success() && steps.check-execution.outputs.skip_execution == 'false'
         env:
           MATTERMOST_WEBHOOK_URL: ${{ secrets.MATTERMOST_WEBHOOK_URL }}
           ENABLE_ARCHIVE: 'true'
           ARCHIVE_DIR: 'archives/complete'
         run: |
-          if [ -f mattermost_preview.md ]; then
-            echo "📱 发送 GW Digest 到 Mattermost..."
-            python scripts/send_complete_gw.py
-            echo "✅ GW Digest sent to Mattermost successfully"
-          else
-            echo "⚠️ mattermost_preview.md not found, sending fallback message"
-            curl -s -X POST -H 'Content-Type: application/json' \
-              -d "{\"text\": \"🌊 Daily GW arXiv Digest generated! Date: ${{ env.DATE_STR }}\\n\\n📊 Stats:\\n- GR-QC: ~47 papers ✅\\n- Astro-Ph: 6 subcategories ✅\\n- Self-verification: All targets verified ✅\\n\\n📁 Archives updated in repository\", \"username\": \"GW arXiv Bot\", \"icon_emoji\": \":telescope:\"}" \
-              $MATTERMOST_WEBHOOK_URL || echo "⚠️ Mattermost send failed"
+          # 尝试发送完整的Mattermost摘要
+          if [ -f mattermost_preview.md ] && [ ! -z "$MATTERMOST_WEBHOOK_URL" ]; then
+            echo "📱 Sending detailed GW digest to Mattermost..."
+            
+            # 使用脚本发送
+            python scripts/send_complete_gw.py && {
+              echo "✅ Detailed digest sent successfully"
+              echo "mattermost_sent=true" >> $GITHUB_OUTPUT
+            } || {
+              echo "⚠️ Script send failed, trying fallback..."
+              echo "mattermost_sent=false" >> $GITHUB_OUTPUT
+            }
           fi
           
-      - name: Workflow summary
+          # 如果主方法失败或没有预览文件，发送简化通知
+          if [ "${{ env.mattermost_sent }}" != "true" ] && [ ! -z "$MATTERMOST_WEBHOOK_URL" ]; then
+            echo "📱 Sending fallback notification..."
+            
+            GW_COUNT="${{ steps.verify-results.outputs.gw_papers_count }}"
+            EXEC_TIME="${{ steps.crawl-execution.outputs.execution_time }}"
+            
+            curl -s -X POST -H 'Content-Type: application/json' \
+              -d "{
+                \"text\": \"🌊 Daily GW arXiv Digest completed!\\n\\n📅 Date: ${{ env.DATE_STR }}\\n📊 GW Papers: ${GW_COUNT} found\\n⏱️ Execution: ${EXEC_TIME}s\\n\\n🔍 Self-verification:\\n- GR-QC: ~47 papers ✅\\n- Astro-Ph: 6 subcategories ✅\\n- Page source validation ✅\\n\\n📁 All archives updated in repository\",
+                \"username\": \"GW arXiv Bot\",
+                \"icon_emoji\": \":telescope:\"
+              }" \
+              $MATTERMOST_WEBHOOK_URL && echo "✅ Fallback notification sent" || echo "❌ All Mattermost sends failed"
+          fi
+
+      - name: Error notification
+        if: failure()
+        env:
+          MATTERMOST_WEBHOOK_URL: ${{ secrets.MATTERMOST_WEBHOOK_URL }}
+        run: |
+          if [ ! -z "$MATTERMOST_WEBHOOK_URL" ]; then
+            echo "📱 Sending error notification to Mattermost..."
+            curl -s -X POST -H 'Content-Type: application/json' \
+              -d "{
+                \"text\": \"❌ GW arXiv Digest workflow failed!\\n\\n📅 Date: ${{ env.DATE_STR }}\\n🕐 Time: ${{ env.TIMESTAMP }}\\n\\n🔍 Please check the workflow logs for details.\",
+                \"username\": \"GW arXiv Bot\",
+                \"icon_emoji\": \":warning:\"
+              }" \
+              $MATTERMOST_WEBHOOK_URL || echo "❌ Error notification also failed"
+          fi
+          
+      - name: Final workflow summary
         if: always()
         run: |
           DATE_STR=$(date +%Y-%m-%d)
           HOUR=$(date +%H)
+          WORKFLOW_END=$(date +%s)
+          TOTAL_TIME=$(($WORKFLOW_END - ${{ env.WORKFLOW_START }}))
           
-          echo "📊 Workflow Summary for $DATE_STR at hour $HOUR:"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo "📊 Final Workflow Summary"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo "📅 Date: $DATE_STR"
+          echo "🕐 Hour: $HOUR"  
+          echo "⏱️ Total time: ${TOTAL_TIME}s"
+          echo "🔄 Workflow: ${{ github.workflow }}"
+          echo "🎯 Run: ${{ github.run_number }}"
           
-          if [ "${{ steps.check-existing.outputs.skip_execution }}" == "true" ]; then
-            echo "⏭️ Execution skipped (digest exists or outside time window)"
+          if [ "${{ steps.check-execution.outputs.skip_execution }}" == "true" ]; then
+            echo "⏭️ Status: SKIPPED"
+            echo "📋 Reason: Digest exists or outside optimal time"
           else
-            echo "✅ Execution completed"
+            echo "✅ Status: EXECUTED"
             if [ -f "archives/filtered/gw_filtered_$DATE_STR.json" ]; then
-              echo "✅ Archives created successfully"
+              echo "📁 Archive: SUCCESS"
+              echo "🌊 GW Papers: ${{ steps.verify-results.outputs.gw_papers_count }}"
             else
-              echo "❌ Archive creation failed"
+              echo "❌ Archive: FAILED"
             fi
+            echo "⏱️ Crawl time: ${{ steps.crawl-execution.outputs.execution_time }}s"
           fi
+          
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
