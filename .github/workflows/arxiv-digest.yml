@@ -137,16 +137,8 @@ jobs:
           # 详细质量分析
           echo "📊 Archive quality analysis:"
           
-          # 分析引力波筛选文件
-          GW_PAPERS=$(python3 -c "
-import json
-try:
-    with open('archives/filtered/gw_filtered_${{ env.DATE_STR }}.json', 'r') as f:
-        data = json.load(f)
-    print(data.get('summary', {}).get('total_gw_papers', 0))
-except:
-    print('0')
-" 2>/dev/null)
+          # 分析引力波筛选文件 - 使用简单的grep避免YAML语法问题
+          GW_PAPERS=$(grep -o '"total_gw_papers":[[:space:]]*[0-9]*' "archives/filtered/gw_filtered_${{ env.DATE_STR }}.json" | grep -o '[0-9]*' || echo "0")
 
           echo "🌊 Filtered GW papers: $GW_PAPERS"
           echo "gw_papers_count=$GW_PAPERS" >> $GITHUB_OUTPUT
