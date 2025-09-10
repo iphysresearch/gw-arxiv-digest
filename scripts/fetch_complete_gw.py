@@ -162,7 +162,7 @@ def format_mattermost_message(papers: List[Any], date_str: str) -> str:
             cross_list_from = submission_info.get('cross_list_from', 'unknown')
             arxiv_link = f"[arXiv:{arxiv_id}](https://arxiv.org/abs/{arxiv_id}) (cross-list from {cross_list_from}) [Submitted on {pub_date}]"
         else:
-            arxiv_link = f"[arXiv:{arxiv_id}](https://arxiv.org/abs/{arxiv_id})[Submitted on {pub_date}]"
+            arxiv_link = f"[arXiv:{arxiv_id}](https://arxiv.org/abs/{arxiv_id}) [Submitted on {pub_date}]"
         
         # 按照格式输出
         message_parts.append(arxiv_link)
