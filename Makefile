@@ -262,7 +262,7 @@ status:
 	@[ -f scripts/arxiv_web_scraper.py ] && echo "  ✅ 网页爬虫模块" || echo "  ❌ 网页爬虫模块"
 	@[ -f scripts/fetch_complete_gw.py ] && echo "  ✅ 主爬取脚本" || echo "  ❌ 主爬取脚本"
 	@[ -f scripts/send_complete_gw.py ] && echo "  ✅ Mattermost 发送脚本" || echo "  ❌ Mattermost 发送脚本"
-	@[ -f comprehensive_crawler_test.py ] && echo "  ✅ 测试脚本" || echo "  ❌ 测试脚本"
+	@[ -f test_system_complete.py ] && echo "  ✅ 测试脚本" || echo "  ❌ 测试脚本"
 	@echo ""
 	@echo "📁 存档状态:"
 	@[ -d archives/complete ] && echo "  ✅ 完整存档目录 ($$(find archives/complete -name "*.json" | wc -l) 个文件)" || echo "  ❌ 完整存档目录"
