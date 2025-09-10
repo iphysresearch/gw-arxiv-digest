@@ -16,26 +16,18 @@ parts/
 sdist/
 var/
 wheels/
-pip-wheel-metadata/
-share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-MANIFEST
 
-# Environment variables
+# Virtual environments
 .env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# Archives (可选：如果你想在仓库中保留存档，删除下面这行)
-archives/
-
-# Generated files
-digest.md
-digest_*.md
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
 
 # IDE
 .vscode/
@@ -43,10 +35,22 @@ digest_*.md
 *.swp
 *.swo
 
-# macOS
-.DS_Store
+# Temporary files
+*.tmp
+*.temp
+digest.md
+mattermost_preview.md
+crawler_test_report_*.md
 
-# Test files
-test_*.py
-temp/
-tmp/
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archives are intentionally tracked
+# But exclude old/test archive formats
+archives/arxiv/
