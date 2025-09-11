@@ -1,0 +1,49 @@
+# 本地 GitHub Actions 测试环境
+FROM ubuntu:22.04
+
+# 避免交互式安装
+ENV DEBIAN_FRONTEND=noninteractive
+ENV PYTHONUNBUFFERED=1
+
+# 安装基础工具
+RUN apt-get update && apt-get install -y \
+    python3 \
+    python3-pip \
+    git \
+    curl \
+    jq \
+    wget \
+    ca-certificates \
+    && rm -rf /var/lib/apt/lists/*
+
+# 创建符号链接
+RUN ln -sf /usr/bin/python3 /usr/bin/python
+
+# 设置工作目录
+WORKDIR /workspace
+
+# 复制 requirements.txt 并安装 Python 依赖
+COPY requirements.txt .
+RUN pip3 install --no-cache-dir -r requirements.txt
+
+# 模拟 GitHub Actions 环境变量
+ENV GITHUB_WORKSPACE=/workspace
+ENV GITHUB_REPOSITORY=iphysresearch/gw-arxiv-digest
+ENV GITHUB_SHA=test-commit-sha
+ENV GITHUB_REF=refs/heads/main
+ENV GITHUB_ACTOR=test-user
+ENV GITHUB_WORKFLOW="Daily GW arXiv Digest"
+ENV GITHUB_RUN_ID=12345
+ENV GITHUB_RUN_NUMBER=1
+ENV RUNNER_OS=Linux
+ENV RUNNER_ARCH=X64
+ENV RUNNER_TEMP=/tmp
+
+# 复制项目文件
+COPY . .
+
+# 创建测试脚本
+RUN chmod +x scripts/*.sh 2>/dev/null || true
+
+# 默认命令
+CMD ["bash"]

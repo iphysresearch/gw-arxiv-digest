@@ -332,3 +332,100 @@ help:
 	@echo "  • GR-QC: ~47篇 (验证范围: 35-60篇)"
 	@echo "  • Astro-Ph: ~150篇 (验证范围: 120-200篇)"  
 	@echo "  • 自动验证页面总数与爬取数量的一致性"
+	@echo ""
+	@echo "🎭 GitHub Actions 测试:"
+	@echo "  make test-actions-local        # 本地 Actions 模拟 (推荐)"
+	@echo "  make test-actions-simple       # 简化 Actions 测试"
+	@echo "  make quick-docker-test         # 快速 Docker 测试"
+	@echo ""
+	@echo "🐳 Docker 测试环境 (可选):"
+	@echo "  make docker-up                 # 启动 Docker 测试环境"
+	@echo "  make docker-test               # 在 Docker 中测试 Actions"
+	@echo "  make docker-shell              # 进入 Docker 测试环境"
+	@echo "  make docker-down               # 停止 Docker 测试环境"
+
+# Docker 本地 Actions 测试环境
+docker-build:
+	@echo "🐳 Building Docker test image..."
+	@if ! docker info > /dev/null 2>&1; then \
+		echo "❌ Docker not running. Please start Docker Desktop"; \
+		exit 1; \
+	fi
+	docker build -f Dockerfile.test -t gw-arxiv-test .
+	@echo "✅ Docker test image built"
+
+docker-up: docker-build
+	@echo "🐳 Starting Docker test environment..."
+	@echo "📦 Starting containers..."
+	docker-compose -f docker-compose.test.yml up -d
+	@echo "✅ Docker test environment started"
+	@echo "🌐 Mattermost mock available at: http://localhost:8080"
+	@echo "⏳ Waiting for containers to be ready..."
+	@sleep 5
+
+docker-down:
+	@echo "🐳 Stopping Docker test environment..."
+	docker-compose -f docker-compose.test.yml down
+	docker rmi gw-arxiv-test 2>/dev/null || true
+	@echo "✅ Docker test environment stopped"
+
+docker-test:
+	@echo "🐳 Running Actions simulation in Docker..."
+	@if ! docker info > /dev/null 2>&1; then \
+		echo "❌ Docker not running. Run 'make docker-up' first"; \
+		exit 1; \
+	fi
+	@if ! docker ps | grep gw-arxiv-actions-test > /dev/null; then \
+		echo "❌ Test container not running. Run 'make docker-up' first"; \
+		exit 1; \
+	fi
+	@echo "🚀 Executing GitHub Actions workflow simulation..."
+	docker exec gw-arxiv-actions-test python3 scripts/simulate_actions.py
+
+docker-shell:
+	@echo "🐳 Opening shell in Docker test environment..."
+	@if ! docker ps | grep gw-arxiv-actions-test > /dev/null; then \
+		echo "❌ Test container not running. Run 'make docker-up' first"; \
+		exit 1; \
+	fi
+	docker exec -it gw-arxiv-actions-test bash
+
+# 本地 Actions 测试（推荐，不需要 Docker）
+test-actions-local:
+	@echo "🖥️ Running local GitHub Actions simulation..."
+	@echo "📋 This simulates the complete workflow locally"
+	python3 scripts/local_actions_test.py
+
+# 简化的本地 Actions 测试
+test-actions-simple:
+	@echo "🎭 Running simple Actions simulation..."
+	@echo "📋 This simulates the workflow steps without Docker"
+	python3 scripts/test_actions_local.py
+
+# 测试所有 Actions 功能（推荐）
+test-actions-complete: docker-up
+	@echo "🧪 Running complete Actions test suite..."
+	@echo ""
+	@echo "1. 🐳 Testing in Docker environment..."
+	make docker-test
+	@echo ""
+	@echo "2. 🔍 Verifying results..."
+	@if docker exec gw-arxiv-actions-test ls archives/filtered/ | grep gw_filtered > /dev/null; then \
+		echo "✅ Archive files created successfully"; \
+	else \
+		echo "⚠️ Archive files not found"; \
+	fi
+	@echo ""
+	@echo "3. 🌐 Testing Mattermost mock..."
+	@curl -s http://localhost:8080 > /dev/null && echo "✅ Mattermost mock responsive" || echo "⚠️ Mattermost mock not responsive"
+	@echo ""
+	@echo "✅ Complete Actions test finished"
+	make docker-down
+
+# 快速 Docker 测试（一键测试）
+quick-docker-test:
+	@echo "⚡ Quick Docker Actions test..."
+	make docker-up
+	@sleep 3
+	make docker-test
+	make docker-down
