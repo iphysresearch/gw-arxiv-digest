@@ -62,3 +62,5 @@ Thumbs.db
 # Archives are intentionally tracked
 # But exclude old/test archive formats
 archives/arxiv/
+archives/complete/
+archives/filtered/
