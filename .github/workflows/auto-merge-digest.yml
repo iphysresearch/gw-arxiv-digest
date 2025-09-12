@@ -1,8 +1,15 @@
 name: Auto-merge Daily Digest PRs
 
 on:
+  # 在 arxiv-digest workflow 完成后自动触发
+  workflow_run:
+    workflows: ["Daily GW arXiv Digest"]
+    types:
+      - completed
+  
   schedule:
     - cron: '0 */6 * * *'  # 每 6 小时检查一次
+  
   workflow_dispatch:  # 支持手动触发
 
 permissions:
@@ -24,7 +31,48 @@ jobs:
         run: |
           echo "🔍 Checking for auto-merge candidates..."
           
-          # 获取所有打开的 PR
+          # 检查触发来源
+          if [ "${{ github.event_name }}" = "workflow_run" ]; then
+            echo "🔄 Triggered by workflow completion: ${{ github.event.workflow_run.name }}"
+            echo "📊 Workflow status: ${{ github.event.workflow_run.conclusion }}"
+            
+            if [ "${{ github.event.workflow_run.conclusion }}" = "success" ]; then
+              echo "✅ Upstream workflow succeeded, checking for new PRs to process"
+              # 等待一下，确保 PR 已经创建
+              sleep 10
+            else
+              echo "❌ Upstream workflow failed, only checking old PRs"
+            fi
+          fi
+          
+          echo "📋 Scanning all digest PRs..."
+          
+          # 如果是由 workflow_run 触发，优先检查是否有立即可以处理的操作
+          if [ "${{ github.event_name }}" = "workflow_run" ]; then
+            echo "🚀 Checking for immediate actions after digest workflow..."
+            
+            # 检查是否有今天创建的 PR 需要特殊处理
+            TODAY=$(date +%Y-%m-%d)
+            TODAY_PRS=$(gh pr list --state open --search "Daily GW arXiv Digest $TODAY in:title" --json number,title,createdAt)
+            
+            if [ "$(echo "$TODAY_PRS" | jq length)" -gt 0 ]; then
+              echo "📋 Found $(echo "$TODAY_PRS" | jq length) PR(s) created today"
+              
+              # 发送确认通知到 Mattermost
+              if [ ! -z "${{ secrets.MATTERMOST_WEBHOOK_URL }}" ]; then
+                PR_COUNT=$(echo "$TODAY_PRS" | jq length)
+                curl -s -X POST -H 'Content-Type: application/json' \
+                  -d "{
+                    \"text\": \"🔄 Auto-merge workflow activated!\\n\\n📅 **Date**: $TODAY\\n📋 **New PRs**: $PR_COUNT\\n⏰ **Auto-merge**: Will check in 24 hours\\n\\n🤖 *Monitoring system active*\",
+                    \"username\": \"GW arXiv Bot\",
+                    \"icon_emoji\": \":arrows_counterclockwise:\"
+                  }" \
+                  ${{ secrets.MATTERMOST_WEBHOOK_URL }} && echo "✅ Monitoring notification sent" || echo "⚠️ Notification failed"
+              fi
+            fi
+          fi
+          
+          # 获取所有打开的 digest PR
           gh pr list --state open --json number,title,createdAt,headRefName | jq -r '.[] | select(.title | startswith("🌊 Daily GW arXiv Digest")) | "\(.number)|\(.title)|\(.createdAt)|\(.headRefName)"' | while IFS='|' read -r pr_number pr_title created_at head_ref; do
             
             echo "📋 Found digest PR: #$pr_number - $pr_title"

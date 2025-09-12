@@ -336,6 +336,7 @@ help:
 	@echo "🎭 GitHub Actions 测试:"
 	@echo "  make test-actions-local        # 本地 Actions 模拟 (推荐)"
 	@echo "  make test-pr-workflow          # 测试 PR 工作流程"
+	@echo "  make test-workflow-chain       # 测试 workflow 链式执行"
 	@echo "  make test-actions-simple       # 简化 Actions 测试"
 	@echo "  make quick-docker-test         # 快速 Docker 测试"
 	@echo ""
@@ -402,6 +403,12 @@ test-pr-workflow:
 	@echo "📋 Testing PR workflow logic..."
 	@echo "🔍 This tests skip logic, PR creation, and auto-merge"
 	python3 scripts/test_pr_workflow.py
+
+# 测试 workflow 链式执行
+test-workflow-chain:
+	@echo "🔗 Testing workflow chain execution..."
+	@echo "🔍 This tests arxiv-digest -> auto-merge-digest chain"
+	python3 scripts/test_workflow_chain.py
 
 # 简化的本地 Actions 测试
 test-actions-simple:

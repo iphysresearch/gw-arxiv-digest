@@ -46,6 +46,22 @@ jobs:
           echo "🔍 Intelligent execution check for $DATE_STR at hour $HOUR"
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
           
+      - name: Trigger auto-merge check
+        if: success() && steps.check-execution.outputs.skip_execution == 'false' && steps.create-pr.outputs.pull-request-number
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "🔄 Triggering auto-merge workflow check..."
+          
+          # 触发 auto-merge workflow 来检查是否有可以合并的旧 PR
+          gh workflow run auto-merge-digest.yml
+          
+          echo "✅ Auto-merge workflow triggered"
+          echo "📋 The auto-merge workflow will:"
+          echo "   - Check all open digest PRs"
+          echo "   - Auto-merge PRs older than 24 hours"
+          echo "   - Send notifications to Mattermost"
+          
           SHOULD_SKIP="false"
           SKIP_REASONS=()
           
@@ -306,8 +322,40 @@ jobs:
           TOTAL_TIME=$(($WORKFLOW_END - ${{ env.WORKFLOW_START }}))
           
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          
+      - name: Trigger auto-merge check
+        if: success() && steps.check-execution.outputs.skip_execution == 'false' && steps.create-pr.outputs.pull-request-number
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "🔄 Triggering auto-merge workflow check..."
+          
+          # 触发 auto-merge workflow 来检查是否有可以合并的旧 PR
+          gh workflow run auto-merge-digest.yml
+          
+          echo "✅ Auto-merge workflow triggered"
+          echo "📋 The auto-merge workflow will:"
+          echo "   - Check all open digest PRs"
+          echo "   - Auto-merge PRs older than 24 hours"
+          echo "   - Send notifications to Mattermost"
           echo "📊 Final Workflow Summary"
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          
+      - name: Trigger auto-merge check
+        if: success() && steps.check-execution.outputs.skip_execution == 'false' && steps.create-pr.outputs.pull-request-number
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "🔄 Triggering auto-merge workflow check..."
+          
+          # 触发 auto-merge workflow 来检查是否有可以合并的旧 PR
+          gh workflow run auto-merge-digest.yml
+          
+          echo "✅ Auto-merge workflow triggered"
+          echo "📋 The auto-merge workflow will:"
+          echo "   - Check all open digest PRs"
+          echo "   - Auto-merge PRs older than 24 hours"
+          echo "   - Send notifications to Mattermost"
           echo "📅 Date: $DATE_STR"
           echo "🕐 Hour: $HOUR"  
           echo "⏱️ Total time: ${TOTAL_TIME}s"
@@ -329,3 +377,19 @@ jobs:
           fi
           
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          
+      - name: Trigger auto-merge check
+        if: success() && steps.check-execution.outputs.skip_execution == 'false' && steps.create-pr.outputs.pull-request-number
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "🔄 Triggering auto-merge workflow check..."
+          
+          # 触发 auto-merge workflow 来检查是否有可以合并的旧 PR
+          gh workflow run auto-merge-digest.yml
+          
+          echo "✅ Auto-merge workflow triggered"
+          echo "📋 The auto-merge workflow will:"
+          echo "   - Check all open digest PRs"
+          echo "   - Auto-merge PRs older than 24 hours"
+          echo "   - Send notifications to Mattermost"
