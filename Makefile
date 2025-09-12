@@ -335,6 +335,7 @@ help:
 	@echo ""
 	@echo "🎭 GitHub Actions 测试:"
 	@echo "  make test-actions-local        # 本地 Actions 模拟 (推荐)"
+	@echo "  make test-pr-workflow          # 测试 PR 工作流程"
 	@echo "  make test-actions-simple       # 简化 Actions 测试"
 	@echo "  make quick-docker-test         # 快速 Docker 测试"
 	@echo ""
@@ -395,6 +396,12 @@ test-actions-local:
 	@echo "🖥️ Running local GitHub Actions simulation..."
 	@echo "📋 This simulates the complete workflow locally"
 	python3 scripts/local_actions_test.py
+
+# 测试 PR 工作流程
+test-pr-workflow:
+	@echo "📋 Testing PR workflow logic..."
+	@echo "🔍 This tests skip logic, PR creation, and auto-merge"
+	python3 scripts/test_pr_workflow.py
 
 # 简化的本地 Actions 测试
 test-actions-simple:

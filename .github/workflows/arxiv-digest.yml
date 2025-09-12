@@ -49,10 +49,10 @@ jobs:
           SHOULD_SKIP="false"
           SKIP_REASONS=()
           
-          # 检查1: 是否已有今天的存档
+          # 检查1: 是否已有今天的存档 (在 main 分支中)
           if [ -f "archives/filtered/gw_filtered_$DATE_STR.json" ]; then
             SHOULD_SKIP="true"
-            SKIP_REASONS+=("📁 Today's digest already exists")
+            SKIP_REASONS+=("📁 Today's digest already exists in main branch")
             
             # 检查文件大小，确保是有效的存档
             FILE_SIZE=$(stat -c%s "archives/filtered/gw_filtered_$DATE_STR.json" 2>/dev/null || echo "0")
@@ -62,9 +62,22 @@ jobs:
               echo "⚠️ Existing file too small, may be corrupted - proceeding anyway"
               SHOULD_SKIP="false"
               SKIP_REASONS=()
+            else
+              echo "✅ Valid digest file found in main branch"
             fi
           else
-            echo "✅ No existing digest found for $DATE_STR"
+            echo "✅ No existing digest found for $DATE_STR in main branch"
+          fi
+          
+          # 检查2: 是否有未合并的今天的 PR
+          EXISTING_PR=$(gh pr list --state open --search "Daily GW arXiv Digest $DATE_STR in:title" --json number --jq '.[0].number // empty' 2>/dev/null || echo "")
+          
+          if [ ! -z "$EXISTING_PR" ]; then
+            echo "📋 Found existing open PR #$EXISTING_PR for $DATE_STR"
+            SHOULD_SKIP="true"
+            SKIP_REASONS+=("📋 Open PR already exists for today")
+          else
+            echo "✅ No existing open PR found for $DATE_STR"
           fi
           
           # 检查2: arXiv更新时间窗口 (现在用调度时间控制，这里仅作验证)
@@ -154,57 +167,64 @@ jobs:
           echo "✅ Quality verification passed"
           ls -la archives/*/
           
-      - name: Commit with enhanced metadata
+      - name: Create Pull Request with digest files
         if: steps.check-execution.outputs.skip_execution == 'false'
-        run: |
-          echo "📁 Preparing commit for ${{ env.DATE_STR }}"
-          
-          # 强制添加存档文件和生成的摘要文件（忽略 .gitignore）
-          git add -A archives/
-          git add -f digest.md
-          git add -f mattermost_preview.md || true
-          
-          # 检查是否有变化需要提交
-          if git status --porcelain | grep -q .; then
-            # 计算总执行时间
-            WORKFLOW_END=$(date +%s)
-            TOTAL_TIME=$(($WORKFLOW_END - ${{ env.WORKFLOW_START }}))
+        id: create-pr
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: digest-${{ env.DATE_STR }}-${{ github.run_id }}
+          base: main
+          title: "🌊 Daily GW arXiv Digest - ${{ env.DATE_STR }}"
+          body: |
+            ## 📡 Daily GW arXiv Digest - ${{ env.DATE_STR }}
             
-            git commit -m "🌊 Daily GW arXiv Digest - ${{ env.DATE_STR }}
-
-            📊 自动生成摘要 (执行时间: ${TOTAL_TIME}s):
-            - 生成时间: ${{ env.TIMESTAMP }}
+            ### 📊 自动生成摘要
+            - **生成时间**: ${{ env.TIMESTAMP }}
+            - **引力波论文**: ${{ steps.verify-results.outputs.gw_papers_count }} 篇
+            - **爬虫执行时间**: ${{ steps.crawl-execution.outputs.execution_time }}s
+            
+            ### 🔍 验证结果
+            - ✅ GR-QC: ~47篇 (页面源码自检通过)
+            - ✅ Astro-Ph: 6个子类别验证通过
+            - ✅ 页面总数匹配验证通过
+            - ✅ 提交类型解析 (new/cross-list/replaced) 通过
+            
+            ### 📁 更新的存档文件
+            - `archives/filtered/gw_filtered_${{ env.DATE_STR }}.json` - 引力波筛选结果
+            - `archives/complete/gr_qc_${{ env.DATE_STR }}.json` - GR-QC 完整存档
+            - `archives/complete/astro_ph_${{ env.DATE_STR }}.json` - Astro-Ph 完整存档
+            - `digest.md` - 人类可读的摘要文件
+            
+            ### 🤖 自动化信息
+            - 工作流: ${{ github.workflow }}
+            - 运行 ID: ${{ github.run_id }}
+            - 提交: ${{ github.sha }}
+            
+            ---
+            
+            **⏰ 自动合并**: 此 PR 将在 24 小时后自动合并，除非手动干预。
+            **🔍 审核**: 可以手动审核引力波论文分类，如有需要可编辑文件。
+            
+            🤖 *由网页爬虫系统自动生成*
+          commit-message: |
+            🌊 Daily GW arXiv Digest - ${{ env.DATE_STR }}
+            
+            📊 自动生成摘要:
             - 引力波论文: ${{ steps.verify-results.outputs.gw_papers_count }} 篇
             - 爬虫执行: ${{ steps.crawl-execution.outputs.execution_time }}s
+            - 验证状态: ✅ 全部通过
             
-            🔍 验证结果:
-            - GR-QC: ~47篇 (页面源码自检) ✅
-            - Astro-Ph: 6个子类别验证 ✅
-            - 页面总数匹配验证 ✅
-            - 提交类型解析 (new/cross-list/replaced) ✅
-            
-            📁 更新的存档:
+            📁 存档文件:
             - archives/filtered/gw_filtered_${{ env.DATE_STR }}.json
             - archives/complete/gr_qc_${{ env.DATE_STR }}.json  
             - archives/complete/astro_ph_${{ env.DATE_STR }}.json
             - digest.md
-            
-            🤖 Generated by web crawler system with self-verification"
-            
-            # 先拉取远程更改，然后推送
-            git pull origin main --rebase || {
-              echo "⚠️ Pull failed, trying force push..."
-              git push origin main --force
-            }
-            
-            git push origin main || {
-              echo "⚠️ Normal push failed, trying force push..."
-              git push origin main --force
-            }
-            echo "✅ Changes committed and pushed (total time: ${TOTAL_TIME}s)"
-          else
-            echo "ℹ️ No changes to commit"
-          fi
+          add-paths: |
+            archives/
+            digest.md
+            mattermost_preview.md
+          delete-branch: true
 
       - name: Skip execution summary
         if: steps.check-execution.outputs.skip_execution == 'true'
@@ -221,40 +241,44 @@ jobs:
           fi
 
       - name: Enhanced Mattermost notification
-        if: success() && steps.check-execution.outputs.skip_execution == 'false'
+        if: success() && steps.check-execution.outputs.skip_execution == 'false' && steps.create-pr.outputs.pull-request-number
         env:
           MATTERMOST_WEBHOOK_URL: ${{ secrets.MATTERMOST_WEBHOOK_URL }}
-          ENABLE_ARCHIVE: 'true'
-          ARCHIVE_DIR: 'archives/complete'
         run: |
-          # 尝试发送完整的Mattermost摘要
-          if [ -f mattermost_preview.md ] && [ ! -z "$MATTERMOST_WEBHOOK_URL" ]; then
-            echo "📱 Sending detailed GW digest to Mattermost..."
-            
-            # 使用脚本发送
-            python scripts/send_complete_gw.py && {
-              echo "✅ Detailed digest sent successfully"
-              echo "mattermost_sent=true" >> $GITHUB_OUTPUT
-            } || {
-              echo "⚠️ Script send failed, trying fallback..."
-              echo "mattermost_sent=false" >> $GITHUB_OUTPUT
-            }
-          fi
+          echo "📱 Sending digest notification to Mattermost..."
           
-          # 如果主方法失败或没有预览文件，发送简化通知
-          if [ "${{ env.mattermost_sent }}" != "true" ] && [ ! -z "$MATTERMOST_WEBHOOK_URL" ]; then
-            echo "📱 Sending fallback notification..."
-            
-            GW_COUNT="${{ steps.verify-results.outputs.gw_papers_count }}"
-            EXEC_TIME="${{ steps.crawl-execution.outputs.execution_time }}"
-            
+          PR_NUMBER="${{ steps.create-pr.outputs.pull-request-number }}"
+          PR_URL="${{ steps.create-pr.outputs.pull-request-url }}"
+          GW_COUNT="${{ steps.verify-results.outputs.gw_papers_count }}"
+          EXEC_TIME="${{ steps.crawl-execution.outputs.execution_time }}"
+          
+          if [ ! -z "$MATTERMOST_WEBHOOK_URL" ]; then
+            # 发送 PR 创建通知
             curl -s -X POST -H 'Content-Type: application/json' \
               -d "{
-                \"text\": \"🌊 Daily GW arXiv Digest completed!\\n\\n📅 Date: ${{ env.DATE_STR }}\\n📊 GW Papers: ${GW_COUNT} found\\n⏱️ Execution: ${EXEC_TIME}s\\n\\n🔍 Self-verification:\\n- GR-QC: ~47 papers ✅\\n- Astro-Ph: 6 subcategories ✅\\n- Page source validation ✅\\n\\n📁 All archives updated in repository\",
+                \"text\": \"📡 Daily GW arXiv Digest PR Created!\\n\\n📅 **Date**: ${{ env.DATE_STR }}\\n📊 **GW Papers Found**: ${GW_COUNT}\\n⏱️ **Execution Time**: ${EXEC_TIME}s\\n\\n🔍 **Verification Results**:\\n- GR-QC: ~47 papers ✅\\n- Astro-Ph: 6 subcategories ✅\\n- Page source validation ✅\\n\\n📋 **Review PR**: [#${PR_NUMBER}](${PR_URL})\\n⏰ **Auto-merge**: In 24 hours\\n\\n🤖 *Generated by web crawler with self-verification*\",
                 \"username\": \"GW arXiv Bot\",
                 \"icon_emoji\": \":telescope:\"
               }" \
-              $MATTERMOST_WEBHOOK_URL && echo "✅ Fallback notification sent" || echo "❌ All Mattermost sends failed"
+              $MATTERMOST_WEBHOOK_URL && echo "✅ PR notification sent to Mattermost" || echo "❌ Mattermost notification failed"
+          else
+            echo "⚠️ MATTERMOST_WEBHOOK_URL not configured"
+          fi
+          
+          # 如果有详细的 Mattermost 预览文件，也可以发送
+          if [ -f mattermost_preview.md ] && [ ! -z "$MATTERMOST_WEBHOOK_URL" ]; then
+            echo "📱 Sending detailed digest content..."
+            
+            # 读取预览文件内容并发送
+            PREVIEW_CONTENT=$(cat mattermost_preview.md | head -c 15000)  # 限制长度
+            
+            curl -s -X POST -H 'Content-Type: application/json' \
+              -d "{
+                \"text\": \"$PREVIEW_CONTENT\\n\\n---\\n📋 Full details in PR: [#${PR_NUMBER}](${PR_URL})\",
+                \"username\": \"GW arXiv Bot\",
+                \"icon_emoji\": \":telescope:\"
+              }" \
+              $MATTERMOST_WEBHOOK_URL && echo "✅ Detailed digest sent" || echo "⚠️ Detailed digest send failed"
           fi
 
       - name: Error notification

@@ -1,0 +1,86 @@
+name: Auto-merge Daily Digest PRs
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # 每 6 小时检查一次
+  workflow_dispatch:  # 支持手动触发
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  auto-merge:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Auto-merge old digest PRs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "🔍 Checking for auto-merge candidates..."
+          
+          # 获取所有打开的 PR
+          gh pr list --state open --json number,title,createdAt,headRefName | jq -r '.[] | select(.title | startswith("🌊 Daily GW arXiv Digest")) | "\(.number)|\(.title)|\(.createdAt)|\(.headRefName)"' | while IFS='|' read -r pr_number pr_title created_at head_ref; do
+            
+            echo "📋 Found digest PR: #$pr_number - $pr_title"
+            
+            # 计算 PR 年龄（小时）
+            created_timestamp=$(date -d "$created_at" +%s 2>/dev/null || date -j -f "%Y-%m-%dT%H:%M:%SZ" "$created_at" +%s 2>/dev/null || echo "0")
+            current_timestamp=$(date +%s)
+            age_hours=$(( (current_timestamp - created_timestamp) / 3600 ))
+            
+            echo "⏰ PR age: $age_hours hours"
+            
+            # 如果 PR 超过 24 小时，自动合并
+            if [ "$age_hours" -gt 24 ]; then
+              echo "🔄 Auto-merging PR #$pr_number (age: $age_hours hours)"
+              
+              # 检查 PR 状态
+              pr_mergeable=$(gh pr view $pr_number --json mergeable --jq '.mergeable')
+              
+              if [ "$pr_mergeable" = "MERGEABLE" ]; then
+                # 自动合并
+                gh pr merge $pr_number --squash --delete-branch --body "🤖 Auto-merged after 24 hours as planned"
+                echo "✅ PR #$pr_number merged successfully"
+                
+                # 发送通知到 Mattermost (如果配置了)
+                if [ ! -z "${{ secrets.MATTERMOST_WEBHOOK_URL }}" ]; then
+                  curl -s -X POST -H 'Content-Type: application/json' \
+                    -d "{
+                      \"text\": \"✅ Auto-merged daily digest PR #$pr_number\\n\\n📅 Date: $(echo '$pr_title' | grep -o '[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}')\\n⏰ Age: $age_hours hours\\n🔄 Status: Automatically merged\",
+                      \"username\": \"GW arXiv Bot\",
+                      \"icon_emoji\": \":white_check_mark:\"
+                    }" \
+                    ${{ secrets.MATTERMOST_WEBHOOK_URL }} || echo "⚠️ Mattermost notification failed"
+                fi
+              else
+                echo "⚠️ PR #$pr_number is not mergeable, skipping"
+                
+                # 如果 PR 不能合并且超过 48 小时，发送警告
+                if [ "$age_hours" -gt 48 ]; then
+                  echo "🚨 PR #$pr_number has been open for $age_hours hours and cannot be merged"
+                  
+                  if [ ! -z "${{ secrets.MATTERMOST_WEBHOOK_URL }}" ]; then
+                    curl -s -X POST -H 'Content-Type: application/json' \
+                      -d "{
+                        \"text\": \"🚨 Digest PR requires attention!\\n\\nPR #$pr_number has been open for $age_hours hours but cannot be auto-merged.\\n\\n📋 Title: $pr_title\\n🔍 Please check for conflicts or issues.\",
+                        \"username\": \"GW arXiv Bot\",
+                        \"icon_emoji\": \":warning:\"
+                      }" \
+                      ${{ secrets.MATTERMOST_WEBHOOK_URL }} || echo "⚠️ Warning notification failed"
+                  fi
+                fi
+              fi
+            else
+              echo "⏳ PR #$pr_number is only $age_hours hours old, waiting..."
+            fi
+            
+            echo "---"
+          done
+          
+          echo "✅ Auto-merge check completed"
