@@ -172,10 +172,52 @@ jobs:
           echo "✅ Quality verification passed"
           ls -la archives/*/
           
+      - name: Debug file existence before PR creation
+        if: steps.check-execution.outputs.skip_execution == 'false'
+        run: |
+          echo "🔍 Debugging file existence before PR creation..."
+          echo "Current directory: $(pwd)"
+          echo "Files in current directory:"
+          ls -la
+          echo ""
+          echo "Files in archives directory:"
+          ls -la archives/ || echo "archives directory not found"
+          echo ""
+          echo "Files in archives/filtered directory:"
+          ls -la archives/filtered/ || echo "archives/filtered directory not found"
+          echo ""
+          echo "Files in archives/complete directory:"
+          ls -la archives/complete/ || echo "archives/complete directory not found"
+          echo ""
+          echo "Checking specific files:"
+          echo "digest.md exists: $(test -f digest.md && echo 'YES' || echo 'NO')"
+          echo "mattermost_preview.md exists: $(test -f mattermost_preview.md && echo 'YES' || echo 'NO')"
+          echo "gw_filtered file exists: $(test -f archives/filtered/gw_filtered_${{ env.DATE_STR }}.json && echo 'YES' || echo 'NO')"
+
+      - name: Force add ignored files for PR
+        if: steps.check-execution.outputs.skip_execution == 'false'
+        run: |
+          echo "🔧 Force adding ignored files to git..."
+          
+          # 强制添加被 .gitignore 忽略的文件
+          git add -f digest.md || echo "Failed to add digest.md"
+          git add -f mattermost_preview.md || echo "Failed to add mattermost_preview.md"
+          git add -f archives/filtered/gw_filtered_${{ env.DATE_STR }}.json || echo "Failed to add gw_filtered file"
+          git add -f archives/complete/gr_qc_${{ env.DATE_STR }}.json || echo "Failed to add gr_qc file"
+          git add -f archives/complete/astro_ph_${{ env.DATE_STR }}.json || echo "Failed to add astro_ph file"
+          
+          # 检查暂存区状态
+          echo "📊 Git status after force add:"
+          git status --porcelain
+          
+          # 检查特定文件是否在暂存区
+          echo "🔍 Checking staged files:"
+          git diff --cached --name-only | grep -E "(digest\.md|mattermost_preview\.md|archives/)" || echo "No archive files in staging area"
+
       - name: Create Pull Request with digest files
         if: steps.check-execution.outputs.skip_execution == 'false'
         id: create-pr
-        uses: peter-evans/create-pull-request@v5
+        uses: peter-evans/create-pull-request@v7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: digest-${{ env.DATE_STR }}-${{ github.run_id }}
@@ -225,10 +267,6 @@ jobs:
             - archives/complete/gr_qc_${{ env.DATE_STR }}.json  
             - archives/complete/astro_ph_${{ env.DATE_STR }}.json
             - digest.md
-          add-paths: |
-            archives/
-            digest.md
-            mattermost_preview.md
           delete-branch: true
 
       - name: Enhanced Mattermost notification
