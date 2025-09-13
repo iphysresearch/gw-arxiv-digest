@@ -50,32 +50,24 @@ jobs:
           SHOULD_SKIP="false"
           SKIP_REASONS=()
           
-          # 检查1: 在远程仓库中检查是否已有今天的存档
-          echo "🔍 Checking remote repository for existing digest..."
-          
-          # 使用 git 检查远程仓库中的文件，而不是本地文件
-          REMOTE_FILE_EXISTS=$(git ls-tree origin/main -- "archives/filtered/gw_filtered_$DATE_STR.json" | wc -l)
-          
-          if [ "$REMOTE_FILE_EXISTS" -gt 0 ]; then
-            echo "📁 Found existing digest in remote repository"
+          # 检查1: 是否已有今天的存档 (在 main 分支中)
+          if [ -f "archives/filtered/gw_filtered_$DATE_STR.json" ]; then
+            SHOULD_SKIP="true"
+            SKIP_REASONS+=("📁 Today's digest already exists in main branch")
             
-            # 获取远程文件大小
-            REMOTE_FILE_SIZE=$(git cat-file -s "origin/main:archives/filtered/gw_filtered_$DATE_STR.json" 2>/dev/null || echo "0")
+            # 检查文件大小，确保是有效的存档
+            FILE_SIZE=$(stat -c%s "archives/filtered/gw_filtered_$DATE_STR.json" 2>/dev/null || echo "0")
+            echo "📊 Existing file size: $FILE_SIZE bytes"
             
-            echo "📊 Remote file info:"
-            echo "   📁 File: archives/filtered/gw_filtered_$DATE_STR.json"
-            echo "   📊 Remote size: $REMOTE_FILE_SIZE bytes"
-            echo "   🕐 Date: $DATE_STR"
-            
-            if [ "$REMOTE_FILE_SIZE" -gt 1000 ]; then
-              SHOULD_SKIP="true"
-              SKIP_REASONS+=("📁 Valid digest already exists in remote repository")
-              echo "✅ Valid digest file found in remote repository"
+            if [ "$FILE_SIZE" -lt 1000 ]; then
+              echo "⚠️ Existing file too small, may be corrupted - proceeding anyway"
+              SHOULD_SKIP="false"
+              SKIP_REASONS=()
             else
-              echo "⚠️ Remote file too small, may be corrupted - proceeding"
+              echo "✅ Valid digest file found in main branch"
             fi
           else
-            echo "✅ No existing digest found in remote repository for $DATE_STR"
+            echo "✅ No existing digest found for $DATE_STR in main branch"
           fi
           
           # 检查2: 是否有未合并的今天的 PR

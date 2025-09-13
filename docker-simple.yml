@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  # 简化的 GitHub Actions 测试环境
+  gw-actions-simple-test:
+    image: python:3.11-slim
+    container_name: gw-actions-simple-test
+    working_dir: /workspace
+    volumes:
+      - .:/workspace
+    environment:
+      - PYTHONUNBUFFERED=1
+      - GITHUB_WORKSPACE=/workspace
+      - GITHUB_REPOSITORY=iphysresearch/gw-arxiv-digest
+      - ENABLE_ARCHIVE=true
+      - ARCHIVE_DIR=archives/complete
+    command: |
+      bash -c "
+        echo '🐳 Simple GitHub Actions test environment ready!' &&
+        apt-get update -qq &&
+        apt-get install -y -qq git curl &&
+        pip install --no-cache-dir -r requirements.txt &&
+        echo '✅ Environment ready for testing' &&
+        tail -f /dev/null
+      "

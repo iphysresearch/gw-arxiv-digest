@@ -443,3 +443,19 @@ quick-docker-test:
 	@sleep 3
 	make docker-test
 	make docker-down
+
+# 简化的 Docker 测试（避免网络问题）
+simple-docker-test:
+	@echo "🐳 Running simple Docker test..."
+	@if ! docker info > /dev/null 2>&1; then \
+		echo "❌ Docker not running. Please start Docker Desktop"; \
+		exit 1; \
+	fi
+	@echo "📦 Starting simple test container..."
+	docker-compose -f docker-simple.yml up -d
+	@sleep 10
+	@echo "🧪 Running Actions simulation in simple container..."
+	docker exec gw-actions-simple-test python3 scripts/local_actions_test.py
+	@echo "🧹 Cleaning up..."
+	docker-compose -f docker-simple.yml down
+	@echo "✅ Simple Docker test completed"
