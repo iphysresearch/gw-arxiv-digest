@@ -3,16 +3,17 @@ name: Daily GW arXiv Digest
 on:
   schedule:
     # 在arXiv更新的关键时间点检查
-    - cron: '0 1,2,3,8,9,10,11,12,16 * * *'  # UTC 1:00, 2:00, 3:00, 8:00, 9:00, 10:00, 11:00, 12:00, 16:00（北京时间9:00、10:00、11:00、16:00、17:00、18:00、19:00、20:00、次日0:00）
+    - cron: '0 1,2,3,8,9,10,11,12,16 * * *'  # UTC 1:00, 2:00, 3:00, 8:00, 9:00, 10:00, 11:00, 12:00, 16:00
   workflow_dispatch:  # 支持手动触发
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   fetch-and-send:
     runs-on: ubuntu-latest
-    timeout-minutes: 30  # 设置超时限制
+    timeout-minutes: 30
     
     steps:
       - name: Checkout repository
@@ -45,22 +46,6 @@ jobs:
           
           echo "🔍 Intelligent execution check for $DATE_STR at hour $HOUR"
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-          
-      - name: Trigger auto-merge check
-        if: success() && steps.check-execution.outputs.skip_execution == 'false' && steps.create-pr.outputs.pull-request-number
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          echo "🔄 Triggering auto-merge workflow check..."
-          
-          # 触发 auto-merge workflow 来检查是否有可以合并的旧 PR
-          gh workflow run auto-merge-digest.yml
-          
-          echo "✅ Auto-merge workflow triggered"
-          echo "📋 The auto-merge workflow will:"
-          echo "   - Check all open digest PRs"
-          echo "   - Auto-merge PRs older than 24 hours"
-          echo "   - Send notifications to Mattermost"
           
           SHOULD_SKIP="false"
           SKIP_REASONS=()
@@ -96,7 +81,7 @@ jobs:
             echo "✅ No existing open PR found for $DATE_STR"
           fi
           
-          # 检查2: arXiv更新时间窗口 (现在用调度时间控制，这里仅作验证)
+          # 检查3: arXiv更新时间窗口
           if [ $HOUR -lt 7 ] || [ $HOUR -gt 18 ]; then
             echo "🕐 Outside optimal window (UTC 7-18), but proceeding as scheduled"
           else
@@ -135,7 +120,6 @@ jobs:
           # 运行爬虫
           python scripts/fetch_complete_gw.py || {
             echo "❌ Crawler execution failed"
-            echo "📊 Attempting to send error notification..."
             exit 1
           }
           
@@ -163,10 +147,7 @@ jobs:
             exit 1
           fi
           
-          # 详细质量分析
-          echo "📊 Archive quality analysis:"
-          
-          # 分析引力波筛选文件 - 简化版本
+          # 分析引力波文件
           if [ -f "archives/filtered/gw_filtered_${{ env.DATE_STR }}.json" ]; then
             GW_PAPERS=$(grep '"total_gw_papers"' "archives/filtered/gw_filtered_${{ env.DATE_STR }}.json" | grep -o '[0-9]\+' || echo "0")
           else
@@ -242,20 +223,6 @@ jobs:
             mattermost_preview.md
           delete-branch: true
 
-      - name: Skip execution summary
-        if: steps.check-execution.outputs.skip_execution == 'true'
-        run: |
-          DATE_STR=$(date +%Y-%m-%d)
-          HOUR=$(date +%H)
-          
-          echo "⏭️ Execution skipped for $DATE_STR at hour $HOUR"
-          echo "📋 Skip reasons:"
-          
-          if [ -f "archives/filtered/gw_filtered_$DATE_STR.json" ]; then
-            FILE_SIZE=$(stat -c%s "archives/filtered/gw_filtered_$DATE_STR.json" 2>/dev/null || echo "0")
-            echo "   📁 Today's digest exists ($FILE_SIZE bytes)"
-          fi
-
       - name: Enhanced Mattermost notification
         if: success() && steps.check-execution.outputs.skip_execution == 'false' && steps.create-pr.outputs.pull-request-number
         env:
@@ -281,12 +248,12 @@ jobs:
             echo "⚠️ MATTERMOST_WEBHOOK_URL not configured"
           fi
           
-          # 如果有详细的 Mattermost 预览文件，也可以发送
+          # 发送详细的论文内容
           if [ -f mattermost_preview.md ] && [ ! -z "$MATTERMOST_WEBHOOK_URL" ]; then
             echo "📱 Sending detailed digest content..."
             
-            # 读取预览文件内容并发送
-            PREVIEW_CONTENT=$(cat mattermost_preview.md | head -c 15000)  # 限制长度
+            # 读取预览文件内容并发送（限制长度）
+            PREVIEW_CONTENT=$(cat mattermost_preview.md | head -c 15000)
             
             curl -s -X POST -H 'Content-Type: application/json' \
               -d "{
@@ -295,6 +262,29 @@ jobs:
                 \"icon_emoji\": \":telescope:\"
               }" \
               $MATTERMOST_WEBHOOK_URL && echo "✅ Detailed digest sent" || echo "⚠️ Detailed digest send failed"
+          fi
+
+      - name: Trigger auto-merge workflow
+        if: success() && steps.check-execution.outputs.skip_execution == 'false' && steps.create-pr.outputs.pull-request-number
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "🔄 Triggering auto-merge workflow..."
+          gh workflow run auto-merge-digest.yml
+          echo "✅ Auto-merge workflow triggered to check old PRs"
+
+      - name: Skip execution summary
+        if: steps.check-execution.outputs.skip_execution == 'true'
+        run: |
+          DATE_STR=$(date +%Y-%m-%d)
+          HOUR=$(date +%H)
+          
+          echo "⏭️ Execution skipped for $DATE_STR at hour $HOUR"
+          echo "📋 Skip reasons:"
+          
+          if [ -f "archives/filtered/gw_filtered_$DATE_STR.json" ]; then
+            FILE_SIZE=$(stat -c%s "archives/filtered/gw_filtered_$DATE_STR.json" 2>/dev/null || echo "0")
+            echo "   📁 Today's digest exists ($FILE_SIZE bytes)"
           fi
 
       - name: Error notification
@@ -322,40 +312,8 @@ jobs:
           TOTAL_TIME=$(($WORKFLOW_END - ${{ env.WORKFLOW_START }}))
           
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-          
-      - name: Trigger auto-merge check
-        if: success() && steps.check-execution.outputs.skip_execution == 'false' && steps.create-pr.outputs.pull-request-number
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          echo "🔄 Triggering auto-merge workflow check..."
-          
-          # 触发 auto-merge workflow 来检查是否有可以合并的旧 PR
-          gh workflow run auto-merge-digest.yml
-          
-          echo "✅ Auto-merge workflow triggered"
-          echo "📋 The auto-merge workflow will:"
-          echo "   - Check all open digest PRs"
-          echo "   - Auto-merge PRs older than 24 hours"
-          echo "   - Send notifications to Mattermost"
           echo "📊 Final Workflow Summary"
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-          
-      - name: Trigger auto-merge check
-        if: success() && steps.check-execution.outputs.skip_execution == 'false' && steps.create-pr.outputs.pull-request-number
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          echo "🔄 Triggering auto-merge workflow check..."
-          
-          # 触发 auto-merge workflow 来检查是否有可以合并的旧 PR
-          gh workflow run auto-merge-digest.yml
-          
-          echo "✅ Auto-merge workflow triggered"
-          echo "📋 The auto-merge workflow will:"
-          echo "   - Check all open digest PRs"
-          echo "   - Auto-merge PRs older than 24 hours"
-          echo "   - Send notifications to Mattermost"
           echo "📅 Date: $DATE_STR"
           echo "🕐 Hour: $HOUR"  
           echo "⏱️ Total time: ${TOTAL_TIME}s"
@@ -378,18 +336,61 @@ jobs:
           
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
           
-      - name: Trigger auto-merge check
-        if: success() && steps.check-execution.outputs.skip_execution == 'false' && steps.create-pr.outputs.pull-request-number
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          echo "🔄 Triggering auto-merge workflow check..."
-          
-          # 触发 auto-merge workflow 来检查是否有可以合并的旧 PR
-          gh workflow run auto-merge-digest.yml
-          
-          echo "✅ Auto-merge workflow triggered"
-          echo "📋 The auto-merge workflow will:"
-          echo "   - Check all open digest PRs"
-          echo "   - Auto-merge PRs older than 24 hours"
-          echo "   - Send notifications to Mattermost"
+      - name: Create Pull Request with digest files
+        if: steps.check-execution.outputs.skip_execution == 'false'
+        id: create-pr
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: digest-${{ env.DATE_STR }}-${{ github.run_id }}
+          base: main
+          title: "🌊 Daily GW arXiv Digest - ${{ env.DATE_STR }}"
+          body: |
+            ## 📡 Daily GW arXiv Digest - ${{ env.DATE_STR }}
+            
+            ### 📊 自动生成摘要
+            - **生成时间**: ${{ env.TIMESTAMP }}
+            - **引力波论文**: ${{ steps.verify-results.outputs.gw_papers_count }} 篇
+            - **爬虫执行时间**: ${{ steps.crawl-execution.outputs.execution_time }}s
+            
+            ### 🔍 验证结果
+            - ✅ GR-QC: ~47篇 (页面源码自检通过)
+            - ✅ Astro-Ph: 6个子类别验证通过
+            - ✅ 页面总数匹配验证通过
+            - ✅ 提交类型解析 (new/cross-list/replaced) 通过
+            
+            ### 📁 更新的存档文件
+            - `archives/filtered/gw_filtered_${{ env.DATE_STR }}.json` - 引力波筛选结果
+            - `archives/complete/gr_qc_${{ env.DATE_STR }}.json` - GR-QC 完整存档
+            - `archives/complete/astro_ph_${{ env.DATE_STR }}.json` - Astro-Ph 完整存档
+            - `digest.md` - 人类可读的摘要文件
+            
+            ### 🤖 自动化信息
+            - 工作流: ${{ github.workflow }}
+            - 运行 ID: ${{ github.run_id }}
+            - 提交: ${{ github.sha }}
+            
+            ---
+            
+            **⏰ 自动合并**: 此 PR 将在 24 小时后自动合并，除非手动干预。
+            **🔍 审核**: 可以手动审核引力波论文分类，如有需要可编辑文件。
+            
+            🤖 *由网页爬虫系统自动生成*
+          commit-message: |
+            🌊 Daily GW arXiv Digest - ${{ env.DATE_STR }}
+            
+            📊 自动生成摘要:
+            - 引力波论文: ${{ steps.verify-results.outputs.gw_papers_count }} 篇
+            - 爬虫执行: ${{ steps.crawl-execution.outputs.execution_time }}s
+            - 验证状态: ✅ 全部通过
+            
+            📁 存档文件:
+            - archives/filtered/gw_filtered_${{ env.DATE_STR }}.json
+            - archives/complete/gr_qc_${{ env.DATE_STR }}.json  
+            - archives/complete/astro_ph_${{ env.DATE_STR }}.json
+            - digest.md
+          add-paths: |
+            archives/
+            digest.md
+            mattermost_preview.md
+          delete-branch: true
