@@ -1,6 +1,6 @@
 name: System Health Check
 
-on:
+"on":
   schedule:
     - cron: '0 6 * * *'  # 每天 UTC 6:00 运行健康检查
   workflow_dispatch:  # 支持手动触发
