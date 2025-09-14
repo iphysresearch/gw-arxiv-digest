@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2025-09-13
+# Complete Daily GW arXiv Digest - 2025-09-14
 
 **总爬取文章**: 141 篇  
 **今天的文章**: 141 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2509.08875](https://arxiv.org/abs/2509.08875)  
 **Authors**: Hassan Khalvati, Philip Lynch, Ollie Burke, Lorenzo Speri, Maarten van de Meent, Zachary Nasipak  
-**Date**: 13 Sep 2025  
+**Date**: 14 Sep 2025  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2509.09165](https://arxiv.org/abs/2509.09165)  
 **Authors**: Naritaka Oshita, Sizheng Ma, Yanbei Chen, Huan Yang  
-**Date**: 13 Sep 2025  
+**Date**: 14 Sep 2025  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2509.09643](https://arxiv.org/abs/2509.09643)  
 **Authors**: Yuhao Guo, Zhen Zhong, Yifan Chen, Vitor Cardoso, Taishi Ikeda, Lihang Zhou  
-**Date**: 13 Sep 2025  
+**Date**: 14 Sep 2025  
 **Categories**: gr-qc, astro-ph.CO, astro-ph.HE, hep-ph  
 **Type**: new submission  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2509.09161](https://arxiv.org/abs/2509.09161)  
 **Authors**: Chayan Chatterjee, Kaylah McGowan, Suyash Deshmukh, Karan Jani  
-**Date**: 13 Sep 2025  
+**Date**: 14 Sep 2025  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: cross-list from astro-ph.HE  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2509.09348](https://arxiv.org/abs/2509.09348)  
 **Authors**: Alice Perego, Astrid Lamberts, Mathias Schultheis, Nelson Christensen  
-**Date**: 13 Sep 2025  
+**Date**: 14 Sep 2025  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: cross-list from astro-ph.HE  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2509.09632](https://arxiv.org/abs/2509.09632)  
 **Authors**: Jun'ya Kume, Koh Ueno, Tatsuki Washimi, Jun'ichi Yokoyama, Takaaki Yokozawa, Yousuke Itoh  
-**Date**: 13 Sep 2025  
+**Date**: 14 Sep 2025  
 **Categories**: astro-ph.IM, gr-qc  
 **Type**: cross-list from astro-ph.IM  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2504.09562](https://arxiv.org/abs/2504.09562)  
 **Authors**: Sougata Bhunia, Anubhab Dutta, Debashis Gangopadhyay, Goutam Manna  
-**Date**: 13 Sep 2025  
+**Date**: 14 Sep 2025  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2412.19631](https://arxiv.org/abs/2412.19631)  
 **Authors**: Xiaoding Wang, Xiao-Han Ma, Yi-Fu Cai  
-**Date**: 13 Sep 2025  
+**Date**: 14 Sep 2025  
 **Categories**: astro-ph.CO, gr-qc  
 **Type**: replaced  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2505.16820](https://arxiv.org/abs/2505.16820)  
 **Authors**: Jun-Peng Li, Sai Wang, Zhi-Chao Zhao, Kazunori Kohri  
-**Date**: 13 Sep 2025  
+**Date**: 14 Sep 2025  
 **Categories**: astro-ph.CO, gr-qc, hep-ph  
 **Type**: replaced  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2508.10981](https://arxiv.org/abs/2508.10981)  
 **Authors**: Kenta Kiuchi  
-**Date**: 13 Sep 2025  
+**Date**: 14 Sep 2025  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: replaced  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2212.13508](https://arxiv.org/abs/2212.13508)  
 **Authors**: Abhijith Ajith, Sukanta Panda  
-**Date**: 13 Sep 2025  
+**Date**: 14 Sep 2025  
 **Categories**: gr-qc, astro-ph.CO  
 **Type**: cross-list from gr-qc  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2509.09123](https://arxiv.org/abs/2509.09123)  
 **Authors**: Samsuzzaman Afroz, Suvodip Mukherjee  
-**Date**: 13 Sep 2025  
+**Date**: 14 Sep 2025  
 **Categories**: astro-ph.HE, astro-ph.CO  
 **Type**: cross-list from astro-ph.HE  
 
@@ -155,7 +155,7 @@
 
 **arXiv**: [2505.15904](https://arxiv.org/abs/2505.15904)  
 **Authors**: Hengameh Bagherian, Majid Ekhterachian, Stefan Stelzl  
-**Date**: 13 Sep 2025  
+**Date**: 14 Sep 2025  
 **Categories**: hep-ph, astro-ph.CO  
 **Type**: replaced  
 
@@ -167,7 +167,7 @@
 
 **arXiv**: [2507.04784](https://arxiv.org/abs/2507.04784)  
 **Authors**: Laura Barrio, Kotaro Fujisawa, Ryuichiro Akaho, Hiroki Nagakura, Shoichi Yamada  
-**Date**: 13 Sep 2025  
+**Date**: 14 Sep 2025  
 **Categories**: astro-ph.HE  
 **Type**: replaced  
 
@@ -179,7 +179,7 @@
 
 **arXiv**: [2509.09317](https://arxiv.org/abs/2509.09317)  
 **Authors**: Alison K. Young  
-**Date**: 13 Sep 2025  
+**Date**: 14 Sep 2025  
 **Categories**: astro-ph.SR, astro-ph.EP  
 **Type**: new submission  
 
