@@ -287,30 +287,31 @@ jobs:
             echo "⚠️ MATTERMOST_WEBHOOK_URL not configured"
           fi
           
-          # 发送详细的论文内容
+          # 发送简化的详细内容
           if [ -f mattermost_preview.md ] && [ ! -z "$MATTERMOST_WEBHOOK_URL" ]; then
-            echo "📱 Sending detailed digest content..."
+            echo "📱 Sending simplified digest content..."
             
-            # 读取预览文件内容并发送（限制长度）
-            PREVIEW_CONTENT=$(cat mattermost_preview.md | head -c 15000)
+            # 只发送文件大小信息，不发送具体内容
+            FILE_SIZE=$(stat -c%s "mattermost_preview.md" 2>/dev/null || echo "0")
             
             curl -s -X POST -H 'Content-Type: application/json' \
               -d "{
-                \"text\": \"$PREVIEW_CONTENT\\n\\n---\\n📋 Full details in PR: [#${PR_NUMBER}](${PR_URL})\",
+                \"text\": \"📋 Detailed digest available (${FILE_SIZE} bytes)\\n📋 Full details in commit: [Latest Commit](${COMMIT_URL})\",
                 \"username\": \"GW arXiv Bot\",
                 \"icon_emoji\": \":telescope:\"
               }" \
               $MATTERMOST_WEBHOOK_URL && echo "✅ Detailed digest sent" || echo "⚠️ Detailed digest send failed"
           fi
 
-      - name: Trigger auto-merge workflow
-        if: success() && steps.check-execution.outputs.skip_execution == 'false' && steps.create-pr.outputs.pull-request-number
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Workflow completion notification
+        if: success() && steps.check-execution.outputs.skip_execution == 'false'
         run: |
-          echo "🔄 Triggering auto-merge workflow..."
-          gh workflow run auto-merge-digest.yml
-          echo "✅ Auto-merge workflow triggered to check old PRs"
+          echo "✅ Daily GW arXiv Digest workflow completed successfully"
+          echo "📊 Summary:"
+          echo "  - GW Papers found: ${{ steps.verify-results.outputs.gw_papers_count }}"
+          echo "  - Execution time: ${{ steps.crawl-execution.outputs.execution_time }}s"
+          echo "  - Files committed: Archives and digest files"
+          echo "  - Status: All operations completed successfully"
 
       - name: Skip execution summary
         if: steps.check-execution.outputs.skip_execution == 'true'
