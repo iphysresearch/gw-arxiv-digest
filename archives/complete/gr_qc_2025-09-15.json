@@ -1,0 +1,244 @@
+{
+  "date": "2025-09-15",
+  "category": "gr-qc",
+  "url": "https://arxiv.org/list/gr-qc/new",
+  "total_papers": 15,
+  "gw_related_papers": 4,
+  "papers": [
+    {
+      "id": "https://arxiv.org/abs/2509.09733",
+      "title": "Observational Constraints on a Spinor Field Generalized Chaplygin Gas Model in a Spherically Symmetric FLRW Spacetime",
+      "authors": [
+        "Mahendra Goray",
+        "Bijan Saha"
+      ],
+      "abstract": "Observational Constraints on a Spinor Field Generalized Chaplygin Gas Model in a Spherically Symmetric FLRW Spacetime Mahendra Goray, Bijan Saha General Relativity and Quantum Cosmology (gr-qc) Despite the remarkable success of the standard LambdaCDM model in describing the evolution of the universe, several unresolved issues remain, such as the true nature of dark energy, fine-tuning problems, and the persistent Hubble tension. Motivated by these shortcomings, we construct a spinor field-based Generalized Chaplygin Gas (GCG) model that unifies dark matter and dark energy within a spherically symmetric Friedmann-Lemaitre-Robertson-Walker (FLRW) spacetime. This framework incorporates a nonlinear spinor field and considers an open universe geometry. We constrain the model parameters using the latest observational datasets, including Type Ia supernovae from the binned Pantheon compilation, Hubble parameter measurements from cosmic chronometers (CC) and SDSS, including baryon acoustic oscillation (BAO) data. Employing Markov Chain Monte Carlo (MCMC) sampling techniques, we obtain best-fit values that indicate the spinor GCG model provides a competitive and viable alternative to the LambdaCDM, particularly in the late-time universe. Furthermore, the model predicts a lower present-day Hubble constant, offering a potential resolution to the Hubble tension. The results highlight the rich phenomenology of spinor fields and their possible role in the dynamics of dark energy through spacetime interaction.",
+      "pdf_url": "https://arxiv.org/pdf/2509.09733.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2509.09759",
+      "title": "Bianchi-I cosmology with scale dependent $G$ and $Λ$ in asymptotically safe gravity",
+      "authors": [
+        "Chiang-Mei Chen",
+        "Akihiro Ishibashi",
+        "Rituparna Mandal",
+        "Nobuyoshi Ohta"
+      ],
+      "abstract": "Bianchi-I cosmology with scale dependent $G$ and $Λ$ in asymptotically safe gravity Chiang-Mei Chen, Akihiro Ishibashi, Rituparna Mandal, Nobuyoshi Ohta General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) We study anisotropic Bianchi-I (BI) cosmology, incorporating quantum gravitational corrections into the Einstein equation through the scale-dependent Newton coupling and cosmological term, as determined by the flow equation of the effective action for gravity. For the cosmological term $\\Lambda_0=0$, we derive the quantum-corrected power-series solution for a general equation-of-state parameter $w$ in the range $-1<w\\leq 1$ in the form of expansions in both inverse cosmic time and the anisotropy parameter. We give a general criterion, valid for any $\\Lambda_0$, if the solution becomes isotropic in the late time, which indicates that the universe becomes isotropic for most cases of $-1<w<1$ except $w=1$. By numerical analysis, we show that quantum corrections lead to earlier isotropization compared to the classical case starting from an initially highly anisotropic state. In contrast, for $\\Lambda_0 >0$, we obtain the inverse power-series solution in the exponential of the cosmic time. We find that the universe always becomes isotropic in the late time, in accordance with the cosmic no hair theorem, and the quantum corrections make the isotropization faster. We also briefly summarize the Kasner solution and its generalization with quantum corrections.",
+      "pdf_url": "https://arxiv.org/pdf/2509.09759.pdf",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2509.09797",
+      "title": "Gravitational lensing by Lema\\^ıtre-Tolman-Bondi wormholes in a Friedmann universe",
+      "authors": [
+        "Kirill A. Bronnikov",
+        "Valeria A. Ishkaeva",
+        "Sergey V. Sushkov"
+      ],
+      "abstract": "Gravitational lensing by Lema\\^ıtre-Tolman-Bondi wormholes in a Friedmann universe Kirill A. Bronnikov, Valeria A. Ishkaeva, Sergey V. Sushkov General Relativity and Quantum Cosmology (gr-qc) The Lema\\^ıtre-Tolman-Bondi (LTB) solution to the Einstein equations describes the dynamics of a self-gravitating spherically symmetric dust cloud with an arbitrary density profile and any distribution of initial velocities, encoded in three arbitrary functions $f(R)$, $F(R)$, and $\\tau_0(R)$, where $R$ is a radial coordinate in the comoving reference frame. A particular choice of these functions corresponds to a wormhole geometry with a throat defined as a sphere of minimum radius at a fixed time instant. In this paper we explore LTB wormholes and discuss their possible observable appearance studying in detail the effects of gravitational lensing by such objects. For this aim, we study photon motion in wormhole space-time inscribed in a closed Friedmann dustfilled universe and find the wormhole shadow as it could be seen by a distant observer. Since the LTB wormhole is a dynamic object, we analyze the dependence of its shadow size on the observation time and on the initial size of the wormhole region. We reveal that the angular size of the shadow exhibits a non-monotonic dependence on the observation time. At early times, the shadow size decreases as photons with smaller angular momentum gradually reach the observer. At later times, the expansion of the Friedmann Universe becomes a dominant factor that leads to an increase in the shadow size.",
+      "pdf_url": "https://arxiv.org/pdf/2509.09797.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2509.09986",
+      "title": "Plunge spectra as discriminators of black hole mimickers",
+      "authors": [
+        "Sreejith Nair"
+      ],
+      "abstract": "Plunge spectra as discriminators of black hole mimickers Sreejith Nair General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Phenomenology (hep-ph); High Energy Physics - Theory (hep-th) This work explores the prospect of using the plunge to identify potential black hole mimickers. We show that the plunge excites two generic spectral features. (i) At low frequencies, there is a comb of sharp resonances at the real parts of the mimicker quasi-normal modes. (ii) Above a threshold $M\\omega_{\\rm th}\\!\\approx\\!0.39$ (for the dominant mode), the spectrum undergoes a qualitative break: with the black hole mimicker displaying significant deviations from the black hole. Though individual plunge SNRs in extreme mass ratio events are low and detecting them in a sea of noise is difficult, the coherent spectral features identified here may allow for enhancing the SNR by using multiple events.",
+      "pdf_url": "https://arxiv.org/pdf/2509.09986.pdf",
+      "categories": [
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2509.09994",
+      "title": "Transit dark energy cosmological models in generalized matter-geometry coupling theory using a non-linear form of $f(R,T,L_{m})$ function",
+      "authors": [
+        "Dinesh Chandra Maurya",
+        "Rashid Zia"
+      ],
+      "abstract": "Transit dark energy cosmological models in generalized matter-geometry coupling theory using a non-linear form of $f(R,T,L_{m})$ function Dinesh Chandra Maurya, Rashid Zia General Relativity and Quantum Cosmology (gr-qc) We have investigated the cosmological consequences of the model in the recently developed gravity theory [Haghani and Harko, \\textit{Eur. Phys. J. C} \\textbf{81} (2021) 615.] using a non-linear form of the $f(R,T,L_{m})$ function and the latest observational datasets. For flat Friedman-Lema\\^ıtre-Robertson-Walker (FLRW) spacetime and $f(R,T,L_{m})= \\alpha\\,R+\\beta\\,RT+\\gamma\\,RL_{m}-\\eta$ with $\\alpha$, $\\beta$, $\\gamma$, and $\\eta$ as coupling constants, we have solved the modified field equations to get the Hubble function $H(z)$ in terms of $H_{0}$, $\\Omega_{m0}$, $\\Omega_{r0}$, $\\Omega_{\\eta}$, $\\beta$, and $\\gamma$. To ensure that the model is consistent with the physically observed universe, we constrained the model parameters using Monte Carlo Markov Chain (MCMC) analysis on joint datasets of cosmic chronometer and Pantheon samples. Using these approximated model parameter values, we investigated the universe's cosmic evolution history, including the deceleration parameter, effective equation of state, dark energy equation of state, total dark energy density parameters, universe age, and so on. In addition, to assess the physical acceptability and stability of the generated model, we conducted the Om diagnostic test, causality test, and energy conditions test.",
+      "pdf_url": "https://arxiv.org/pdf/2509.09994.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2509.10038",
+      "title": "The Doppler boosted LISA response to gravitational waves",
+      "authors": [
+        "Tom van der Steen",
+        "Henri Inchauspé",
+        "Thomas Hertog",
+        "Aurélien Hees"
+      ],
+      "abstract": "The Doppler boosted LISA response to gravitational waves Tom van der Steen, Henri Inchauspé, Thomas Hertog, Aurélien Hees General Relativity and Quantum Cosmology (gr-qc); Instrumentation and Methods for Astrophysics (astro-ph.IM) The future space-based gravitational wave observatory LISA is expected to detect massive black hole binaries (MBHBs) with high signal-to-noise ratios (SNRs), ranging up to thousands. Such high-precision observations require accurate modeling of the detector response. However, current derivations of the response function neglect the motion of the spacecraft during light travel time, omitting velocity-dependent terms of order $\\beta = v/c \\sim 10^{-4}$. In this work, we derive the velocity-dependent corrections to the gravitational wave response. We analyze the contribution of the velocity-terms for MBHBs in the mass range $[10^6,10^8]\\:\\mathrm{M}_{\\odot}$ using a modified version of the state-of-the-art response simulator lisagwresponse. We find that corrections introduce residual SNRs up to $\\sim 2$ for the loudest events and fractional differences up to $0.04\\%$, compared to lisagwresponse. While small, these effects are comparable to current waveform modeling uncertainties and imprint distinctive sky-localization signatures, making them potentially relevant for parameter estimation of high-mass MBHBs and simulation of mock datasets.",
+      "pdf_url": "https://arxiv.org/pdf/2509.10038.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2509.10137",
+      "title": "Local Expansion Mechanisms for Quantum-Scale Wormholes",
+      "authors": [
+        "Philipp Dorau",
+        "Albert Much"
+      ],
+      "abstract": "Local Expansion Mechanisms for Quantum-Scale Wormholes Philipp Dorau, Albert Much General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) Models of quantum spacetime that are consistent with quantum energy inequalities potentially enable the formation of Planck scale wormholes. Building on the proposal of Morris, Thorne, and Yurtsever that such microscopic spacetime structures might be enlarged to macroscopic size, we revisit Roman's analysis of a wormhole in an inflationary de Sitter background. In this context, we introduce a refined quasi-local toy mechanism, which we call the local inflation bubble. This construction inflates a compact region of spacetime and thereby magnifies the underlying microstructure. Using the Einstein equations we determine the required stress-energy to sustain the bubble and obtain intrinsic lower bounds for the corresponding energy density, while acknowledging the continued reliance on exotic matter.",
+      "pdf_url": "https://arxiv.org/pdf/2509.10137.pdf",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2509.10360",
+      "title": "Quantum fields on self-similar spacetimes",
+      "authors": [
+        "Jochen Zahn"
+      ],
+      "abstract": "Quantum fields on self-similar spacetimes Jochen Zahn General Relativity and Quantum Cosmology (gr-qc) We study (scalar, not necessarily conformal) quantum fields on self-similar spacetimes. It is shown that in states respecting the self-similarity the expectation value of the stress tensor gives rise to a quantum Lyapunov exponent $\\omega_q = 2$, with a leading coefficient which is geometric. Two examples for states respecting self-similarity are discussed. Our findings are in contradiction with results obtained via dimensional reduction.",
+      "pdf_url": "https://arxiv.org/pdf/2509.10360.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2509.10395",
+      "title": "Ten years of gravitational-wave astronomy",
+      "authors": [
+        "Emanuele Berti"
+      ],
+      "abstract": "Ten years of gravitational-wave astronomy Emanuele Berti Invited contribution to an upcoming special edition of the Portuguese Physical Society's \"Gazeta de Física\" dedicated to gravitational waves General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE) Ten years ago humankind achieved the first direct observation of gravitational waves. I give some personal recollections of that first detection. I also present an incomplete summary of what we have learned since then, and some speculations on what we may learn in the future.",
+      "pdf_url": "https://arxiv.org/pdf/2509.10395.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2407.00989",
+      "title": "$f(Q,L_m)$ gravity, and its cosmological implications",
+      "authors": [
+        "Ayush Hazarika",
+        "Simran Arora",
+        "P.K. Sahoo",
+        "Tiberiu Harko"
+      ],
+      "abstract": "$f(Q,L_m)$ gravity, and its cosmological implications Ayush Hazarika, Simran Arora, P.K. Sahoo, Tiberiu Harko Physics of the Dark Universe, 50, 102092 (2025) General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) Symmetric teleparallel gravity and its $f(Q)$ extensions have emerged as promising alternatives to General Relativity (GR), yet the role of explicit geometry-matter couplings remains largely unexplored. In this work, we address this gap by proposing a generalized $f(Q,\\mathcal{L}_m)$ theory, where the gravitational Lagrangian density depends on both the non-metricity scalar $Q$ and the matter Lagrangian $\\mathcal{L}_m$. This formulation naturally includes Coincident GR and the Symmetric Teleparallel Equivalent of GR as special cases. Working in the metric formalism, we derive the corresponding field equations, which generalize those of the standard $f(Q)$ gravity, and obtain the modified Klein-Gordon equation for scenarios involving scalar fields. The cosmological implications of the theory are explored in the context of the Friedmann-Lemaitre-Robertson-Walker (FLRW) universe. As a first step, we obtain the modified Friedmann equations for $f(Q,\\mathcal{L}_m)$ gravity in full generality. We then investigate specific cosmological models arising from both linear and non-linear choices of $f(Q,\\mathcal{L}_m)$, performing detailed comparisons with the standard $\\Lambda$CDM scenario and examining their observational consequences.",
+      "pdf_url": "https://arxiv.org/pdf/2407.00989.pdf",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2504.20287",
+      "title": "Emergence of Dark Phases in Scalar Particles within the Schwarzschild-Kiselev-Letelier Spacetime",
+      "authors": [
+        "B.V. Simão",
+        "M.L. Deglmann",
+        "C.C. Barros Jr"
+      ],
+      "abstract": "Emergence of Dark Phases in Scalar Particles within the Schwarzschild-Kiselev-Letelier Spacetime B.V. Simão, M.L. Deglmann, C.C. Barros Jr Second version. It includes new figures and improved analysis General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph) This work focuses on the emergence of dark phases (dark energy-induced phases) in the radial wave function of scalar particles. We achieve this by presenting novel solutions to the Klein-Gordon equation in a spherically symmetric spacetime, which encompasses a black hole, a quintessential fluid, and a cloud of strings. We determine the exact solution for the spacetime metric, analyze the admissible ranges for its physical parameters, and discuss the formation of the event horizon. Subsequently, we detail the solution of the Klein-Gordon equation and explore three distinct cases of dark phases, corresponding to the quintessence state parameter $\\alpha_{Q}$ taking the values $0$, $1/2$, and $1$. Notably, the case where $\\alpha_{Q} = 1$ holds particular significance due to current observational constraints on dark energy.",
+      "pdf_url": "https://arxiv.org/pdf/2504.20287.pdf",
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "math-ph"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2507.10023",
+      "title": "Multishell Dirac fermions in the Einstein-Dirac system",
+      "authors": [
+        "Shunsuke Iwasawa",
+        "Nobuyuki Sawado"
+      ],
+      "abstract": "Multishell Dirac fermions in the Einstein-Dirac system Shunsuke Iwasawa, Nobuyuki Sawado 17 pages, 13 figures. To match published version in Phys. Rev. D General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) We present multifermions in the spherically symmetric Einstein-Dirac system. Dirac fermions are self-localized within a spherically symmetric Einstein gravity, i.e., the Schwarzschild-like space-time metric. Most of previous studies of the Einstein-Dirac system are restricted to two neutral fermions or to many fermions with the same high-angular momentum filling a single shell. Our model considers full-filling of fermions in multiple shells, similarly to the conventional nuclear shell model. We solve the model for fermion numbers $N_\\textrm{f}=2,6,12$ and $20$, which can realize a spherically symmetric system. Even single-shell multifermions exhibit a multipeak structure and fragmentation in the high redshift region. The behavior observed in our multishell model can be explained by interactions between the shells and resulting delocalization. We also investigate the pressure of the solutions which defines the existence (or absence) of intershell interactions. The radial pressure is attractive, supporting compactness of the solutions. Finally, we show the correlations between the nontrivial changes in the Shannon entropy (a logarithmic measure of information content) and the structural deformations of the solutions.",
+      "pdf_url": "https://arxiv.org/pdf/2507.10023.pdf",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2509.07052",
+      "title": "Exact solution of the DeWitt-Brehme-Hobbs equation in copropagating electromagetic and gravitational waves",
+      "authors": [
+        "Giulio Audagnotto",
+        "Antonino Di Piazza"
+      ],
+      "abstract": "Exact solution of the DeWitt-Brehme-Hobbs equation in copropagating electromagetic and gravitational waves Giulio Audagnotto, Antonino Di Piazza General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Phenomenology (hep-ph) An accelerated charge interacts with itself through the electromagnetic field that it sources, a phenomenon known as electromagnetic radiation reaction. The DeWitt-Brehme-Hobbs (DWBH) equation describes the motion of a charged mass in the presence of combined electromagnetic and gravitational fields, taking into account electromagnetic radiation-reaction effects. Here, we find the first exact analytical solution of the DWBH equation in the case of a charged mass in the presence of copropagating and otherwise arbitrary electromagnetic and gravitational plane waves. Apart from its intrinsic importance, this solution approximates that of an ultrarelativistic particle in arbitrary gravitational and electromagnetic fields. Finally, the paradigmatic example of an electromagnetic wave in the presence of a constant-amplitude gravitational wave is worked out explicitly and it shows how the presence of the gravitational wave can qualitatively change electromagnetic radiation-reaction effects.",
+      "pdf_url": "https://arxiv.org/pdf/2509.07052.pdf",
+      "categories": [
+        "gr-qc",
+        "hep-ph"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2509.09643",
+      "title": "Ultralight Boson Ionization from Comparable-Mass Binary Black Holes",
+      "authors": [
+        "Yuhao Guo",
+        "Zhen Zhong",
+        "Yifan Chen",
+        "Vitor Cardoso",
+        "Taishi Ikeda",
+        "Lihang Zhou"
+      ],
+      "abstract": "Ultralight Boson Ionization from Comparable-Mass Binary Black Holes Yuhao Guo, Zhen Zhong, Yifan Chen, Vitor Cardoso, Taishi Ikeda, Lihang Zhou 18 pages, 5 figures, movie: this https URL General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Astrophysical Phenomena (astro-ph.HE); High Energy Physics - Phenomenology (hep-ph) Ultralight bosons around comparable-mass binaries can form gravitationally bound states analogous to molecules once the binary separation decreases below the boson's Bohr radius, with the inner region co-moving with the binary. We simulate the formation of these gravitational molecules, determine their co-moving regions, and compute ionization fluxes induced by orbital motion for various binary eccentricities. We develop semi-analytic formalisms to describe the ionization dynamics of both the co-moving and non-co-moving regions, demonstrating consistency with numerical simulation results. From ionization fluxes, we estimate their backreaction on binary orbital evolution. At early stages, molecule ionization can dominate over gravitational wave emission, producing a spectral turnover in the gravitational wave background. Additionally, ionization of the co-moving component occurs solely due to binary eccentricity, causing orbital circularization.",
+      "pdf_url": "https://arxiv.org/pdf/2509.09643.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2506.18593",
+      "title": "Detecting Collective Excitations in Self-Gravitating Bose-Einstein Condensates via Faraday Waves",
+      "authors": [
+        "Ning Liu",
+        "Guodong Cheng"
+      ],
+      "abstract": "Detecting Collective Excitations in Self-Gravitating Bose-Einstein Condensates via Faraday Waves Ning Liu, Guodong Cheng Quantum Gases (cond-mat.quant-gas); General Relativity and Quantum Cosmology (gr-qc); Pattern Formation and Solitons (nlin.PS); Quantum Physics (quant-ph) We propose Faraday waves as a probe for collective excitations in self-gravitating Bose-Einstein condensates (SGBECs), driven by periodic modulation of the $s$-wave scattering length. Linear stability analysis of the driven Gross-Pitaevskii-Newton equations reveals that parametric instability follows a Mathieu-like equation, with Faraday waves emerging resonantly when half the driving frequency matches the collective excitation frequency of the SGBEC. This framework yields a stability phase diagram that maps the competitive interplay between the unstable tongues of parametric resonance and the intrinsic Jeans instability. The diagram reveals that increasing the driving frequency compresses the Jeans-unstable region and allows well-separated parametric resonance tongues to dominate, thereby creating a clear regime for observing Faraday waves. Conversely, lowering the driving frequency expands the domain of Jeans instability, which fragments and overwhelms the parametric resonance structures. We numerically simulate Faraday wave formation and dynamics within the SGBEC, including the effects of dissipation; simulations reveal a characteristic transition from parametric-resonance-driven Faraday waves to gravity-dominated Jeans collapse as the Jeans frequency increases.",
+      "pdf_url": "https://arxiv.org/pdf/2506.18593.pdf",
+      "categories": [
+        "gr-qc",
+        "nlin.PS",
+        "quant-ph"
+      ],
+      "is_gw_related": false
+    }
+  ]
+}
