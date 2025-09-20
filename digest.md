@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2025-09-19
+# Complete Daily GW arXiv Digest - 2025-09-20
 
 **总爬取文章**: 161 篇  
 **今天的文章**: 161 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2509.14525](https://arxiv.org/abs/2509.14525)  
 **Authors**: Peng Zhao, Xiaoning Wu  
-**Date**: 19 Sep 2025  
+**Date**: 20 Sep 2025  
 **Categories**: gr-qc, math-ph  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2509.14849](https://arxiv.org/abs/2509.14849)  
 **Authors**: Hai-Tian Wang  
-**Date**: 19 Sep 2025  
+**Date**: 20 Sep 2025  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: new submission  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2509.14924](https://arxiv.org/abs/2509.14924)  
 **Authors**: Dicong Liang, Ning Dai, Yingjie Yang  
-**Date**: 19 Sep 2025  
+**Date**: 20 Sep 2025  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2509.15014](https://arxiv.org/abs/2509.15014)  
 **Authors**: Haowen Zhong, Vuk Mandic  
-**Date**: 19 Sep 2025  
+**Date**: 20 Sep 2025  
 **Categories**: gr-qc, astro-ph.CO, astro-ph.HE, astro-ph.IM  
 **Type**: new submission  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2311.06416](https://arxiv.org/abs/2311.06416)  
 **Authors**: Alvin K. Y. Li, Juno C.L. Chan, Heather Fong, Aidan H.Y. Chong, Alan J. Weinstein, Jose M. Ezquiaga  
-**Date**: 19 Sep 2025  
+**Date**: 20 Sep 2025  
 **Categories**: gr-qc, astro-ph.IM  
 **Type**: replaced  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2509.00469](https://arxiv.org/abs/2509.00469)  
 **Authors**: Houyi Sun, Ya-Ping Li, Zhen Pan, Huan Yang  
-**Date**: 19 Sep 2025  
+**Date**: 20 Sep 2025  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: replaced  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2509.10395](https://arxiv.org/abs/2509.10395)  
 **Authors**: Emanuele Berti  
-**Date**: 19 Sep 2025  
+**Date**: 20 Sep 2025  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: replaced  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2509.13321](https://arxiv.org/abs/2509.13321)  
 **Authors**: Stefano Bondani, Sergio Luigi Cacciatori  
-**Date**: 19 Sep 2025  
+**Date**: 20 Sep 2025  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2412.09461](https://arxiv.org/abs/2412.09461)  
 **Authors**: Qin Tan, Zu Cheng Chen, You Wu, Lang Liu  
-**Date**: 19 Sep 2025  
+**Date**: 20 Sep 2025  
 **Categories**: astro-ph.CO, gr-qc  
 **Type**: replaced  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2506.17105](https://arxiv.org/abs/2506.17105)  
 **Authors**: Isobel Romero-Shaw, Jakob Stegmann, Hiromichi Tagawa, Davide Gerosa, Johan Samsing, Nihar Gupte, Stephen R. Green  
-**Date**: 19 Sep 2025  
+**Date**: 20 Sep 2025  
 **Categories**: astro-ph.HE, astro-ph.GA, gr-qc, hep-th  
 **Type**: replaced  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2508.18083](https://arxiv.org/abs/2508.18083)  
 **Authors**: The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration: A. G. Abac, I. Abouelfettouh, F. Acernese, K. Ackley, C. Adamcewicz, S. Adhicary, D. Adhikari, N. Adhikari, R. X. Adhikari, V. K. Adkins, S. Afroz, D. Agarwal, M. Agathos, M. Aghaei Abchouyeh, O. D. Aguiar, S. Ahmadzadeh, L. Aiello, A. Ain, P. Ajith, T. Akutsu, S. Albanesi, R. A. Alfaidi, A. Al-Jodah, C. Alléné, A. Allocca, S. Al-Shammari, P. A. Altin, S. Alvarez-Lopez, O. Amarasinghe, A. Amato, C. Amra, A. Ananyeva, S. B. Anderson, W. G. Anderson, M. Andia, M. Ando, T. Andrade, M. Andrés-Carcasona, T. Andrić, J. Anglin, S. Ansoldi, J. M. Antelis, S. Antier, M. Aoumi, E. Z. Appavuravther, S. Appert, S. K. Apple, K. Arai, A. Araya, M. C. Araya, M. Arca Sedda, J. S. Areeda, L. Argianas, N. Aritomi, F. Armato, S. Armstrong, N. Arnaud, M. Arogeti, S. M. Aronson, K. G. Arun, G. Ashton, Y. Aso, M. Assiduo, S. Assis de Souza Melo, S. M. Aston, P. Astone, F. Attadio, F. Aubin, K. AultONeal, G. Avallone, S. Babak, F. Badaracco, C. Badger, S. Bae, S. Bagnasco, E. Bagui, L. Baiotti, R. Bajpai, T. Baka, T. Baker, M. Ball, G. Ballardin, S. W. Ballmer, S. Banagiri, B. Banerjee, D. Bankar, T. M. Baptiste, P. Baral, J. C. Barayoga, B. C. Barish, D. Barker, N. Barman, P. Barneo, F. Barone, B. Barr, L. Barsotti, M. Barsuglia  
-**Date**: 19 Sep 2025  
+**Date**: 20 Sep 2025  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: replaced  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2509.14323](https://arxiv.org/abs/2509.14323)  
 **Authors**: Disha Bandyopadhyay, Debasish Borah, Nayan Das, Rome Samanta  
-**Date**: 19 Sep 2025  
+**Date**: 20 Sep 2025  
 **Categories**: hep-ph, astro-ph.CO  
 **Type**: cross-list from hep-ph  
 
@@ -155,7 +155,7 @@
 
 **arXiv**: [2502.10591](https://arxiv.org/abs/2502.10591)  
 **Authors**: Jake Postiglione, K. E. Saavik Ford, Henry Best, Barry McKernan, Matthew O'Dowd  
-**Date**: 19 Sep 2025  
+**Date**: 20 Sep 2025  
 **Categories**: astro-ph.HE  
 **Type**: replaced  
 
@@ -167,7 +167,7 @@
 
 **arXiv**: [2503.00116](https://arxiv.org/abs/2503.00116)  
 **Authors**: Alberto Colombo, Om Sharan Salafia, Giancarlo Ghirlanda, Francesco Iacovelli, Michele Mancarella, Floor S. Broekgaarden, Lara Nava, Bruno Giacomazzo, Monica Colpi  
-**Date**: 19 Sep 2025  
+**Date**: 20 Sep 2025  
 **Categories**: astro-ph.HE, astro-ph.IM  
 **Type**: replaced  
 
@@ -179,7 +179,7 @@
 
 **arXiv**: [2509.14799](https://arxiv.org/abs/2509.14799)  
 **Authors**: Simon C. O. Glover, Ralf S. Klessen  
-**Date**: 19 Sep 2025  
+**Date**: 20 Sep 2025  
 **Categories**: astro-ph.SR, astro-ph.GA  
 **Type**: cross-list from astro-ph.SR  
 
@@ -191,7 +191,7 @@
 
 **arXiv**: [2506.08378](https://arxiv.org/abs/2506.08378)  
 **Authors**: Euclid Collaboration: W. Gillard, T. Maciaszek, E. Prieto, F. Grupp, A. Costille, K. Jahnke, J. Clemens, S. Dusini, M. Carle, C. Sirignano, E. Medinaceli, S. Ligori, E. Franceschi, M. Trifoglio, W. Bon, R. Barbier, S. Ferriol, A. Secroun, N. Auricchio, P. Battaglia, C. Bonoli, L. Corcione, F. Hormuth, D. Le Mignant, G. Morgante, C. Padilla, R. Toledo-Moreo, L. Valenziano, R. Bender, F. J. Castander, P. B. Lilje, A. Balestra, J.-J. C. Barriere, M. Berthe, C. Boderndorf, A. Bonnefoi, V. Capobianco, R. Casas, H. Cho, F. Ducret, J.-L. Gimenez, W. Holmes, A. Hornstrup, M. Jhabvala, E. Jullo, R. Kohley, B. Kubik, R. Laureijs, I. Lloro, C. Macabiau, Y. Mellier, G. Polenta, G. D. Racca, A. Renzi, M. Schirmer, G. Seidel, M. Seiffert, G. Sirri, G. Smadja, L. Stanco, S. Wachter, H. Aussel, T. Auphan, B. R. Granett, R. Chary, Y. Copin, P. Hudelot, V. Le Brun, F. Torradeflot, P. N. Appleton, P. Casenove, P.-Y. Chabaud, M. Frailis, M. Fumana, L. Guzzo, G. Mainetti, D. Maino, M. Moresco, W. J. Percival, R. Scaramella, M. Scodeggio, N. R. Stickley, D. Vibert, Y. Wang, J. Zoubian, N. Aghanim, B. Altieri, A. Amara, S. Andreon, C. Baccigalupi, M. Baldi, S. Bardelli, A. Biviano, A. Bonchi, E. Branchini, M. Brescia, J. Brinchmann, S. Camera, G. Cañas-Herrera  
-**Date**: 19 Sep 2025  
+**Date**: 20 Sep 2025  
 **Categories**: astro-ph.IM  
 **Type**: replaced  
 
