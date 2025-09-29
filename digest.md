@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2025-09-28
+# Complete Daily GW arXiv Digest - 2025-09-29
 
 **总爬取文章**: 146 篇  
 **今天的文章**: 146 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2509.20658](https://arxiv.org/abs/2509.20658)  
 **Authors**: Lucas Moisset, Marco Meyer-Conde, Christopher Allene, Yusuke Sakai, Dan Chen, Nobuyuki Kanda, Hirotaka Takahashi  
-**Date**: 28 Sep 2025  
+**Date**: 29 Sep 2025  
 **Categories**: gr-qc, astro-ph.IM  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2509.20812](https://arxiv.org/abs/2509.20812)  
 **Authors**: Yohei Nishino  
-**Date**: 28 Sep 2025  
+**Date**: 29 Sep 2025  
 **Categories**: gr-qc, quant-ph  
 **Type**: new submission  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2509.21200](https://arxiv.org/abs/2509.21200)  
 **Authors**: Orlando Luongo, Tommaso Mengoni, Paulo M. Sá  
-**Date**: 28 Sep 2025  
+**Date**: 29 Sep 2025  
 **Categories**: gr-qc, astro-ph.CO  
 **Type**: new submission  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2509.20432](https://arxiv.org/abs/2509.20432)  
 **Authors**: Andrea Placidi, Elisa Grilli, Marta Orselli, Matteo Pegorin, Nicola Bartolo, Pierpaolo Mastrolia  
-**Date**: 28 Sep 2025  
+**Date**: 29 Sep 2025  
 **Categories**: hep-th, gr-qc  
 **Type**: cross-list from hep-th  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2509.20533](https://arxiv.org/abs/2509.20533)  
 **Authors**: Oem Trivedi, Abraham Loeb  
-**Date**: 28 Sep 2025  
+**Date**: 29 Sep 2025  
 **Categories**: astro-ph.CO, gr-qc, hep-th  
 **Type**: cross-list from astro-ph.CO  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2509.20582](https://arxiv.org/abs/2509.20582)  
 **Authors**: Saps Buchman, Suwen Wang, Shallendar Saraf  
-**Date**: 28 Sep 2025  
+**Date**: 29 Sep 2025  
 **Categories**: astro-ph.IM, gr-qc  
 **Type**: cross-list from physics.ins-det  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2306.16281](https://arxiv.org/abs/2306.16281)  
 **Authors**: Kazuya Furusawa, Hiroyuki Tashiro, Shuichiro Yokoyama, Kiyotomo Ichiki  
-**Date**: 28 Sep 2025  
+**Date**: 29 Sep 2025  
 **Categories**: astro-ph.CO, gr-qc  
 **Type**: replaced  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2505.12591](https://arxiv.org/abs/2505.12591)  
 **Authors**: Shihong Liao, Dimitrios Irodotou, Maxwell G. A. Maltz, Christopher C. Lovell, Zhen Jiang, Sophie L. Newman, Aswin P. Vijayan, Paurush Punyasheel, William J. Roper, Louise T. C. Seeyave, Sonja Soininen, Peter A. Thomas, Stephen M. Wilkins  
-**Date**: 28 Sep 2025  
+**Date**: 29 Sep 2025  
 **Categories**: astro-ph.GA, astro-ph.CO  
 **Type**: replaced  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2506.16387](https://arxiv.org/abs/2506.16387)  
 **Authors**: Martin Arteaga Tupia, Anish Ghoshal, Alessandro Strumia  
-**Date**: 28 Sep 2025  
+**Date**: 29 Sep 2025  
 **Categories**: hep-ph, astro-ph.CO  
 **Type**: replaced  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2509.21203](https://arxiv.org/abs/2509.21203)  
 **Authors**: Sofia V. Sosa Fiscella, Michael T. Lam, Gabriella Agazie, Akash Anumarlapudi, Anne M. Archibald, Zaven Arzoumanian, Paul T. Baker, Paul R. Brook, H. Thankful Cromartie, Kathryn Crowter, Maria Silvina De Biasi, Megan E. DeCesar, Paul B. Demorest, Timothy Dolch, Elizabeth C. Ferrara, William Fiore, Emmanuel Fonseca, Gabriel E. Freedman, Nate Garver-Daniels, Peter A. Gentile, Joseph Glaser, Deborah C. Good, Jeffrey S. Hazboun, Ross J. Jennings, Megan L. Jones, David L. Kaplan, Matthew Kerr, Duncan R. Lorimer, Jing Luo, Ryan S. Lynch, Alexander McEwen, Maura A. McLaughlin, Natasha McMann, Bradley W. Meyers, Cherry Ng, David J. Nice, Timothy T. Pennucci, Benetge B. P. Perera, Nihan S. Pol, Henri A. Radovan, Scott M. Ransom, Paul S. Ray, Ann Schmiedekamp, Carl Schmiedekamp, Brent J. Shapiro-Albert, Ingrid H. Stairs, Kevin Stovall, Abhimanyu Susobhanan, Joseph K. Swiggum, Haley M. Wahl  
-**Date**: 28 Sep 2025  
+**Date**: 29 Sep 2025  
 **Categories**: astro-ph.HE, astro-ph.IM  
 **Type**: new submission  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2508.14397](https://arxiv.org/abs/2508.14397)  
 **Authors**: Zhiwei Chen, Jihui Zhang, Youjun Lu, Jifeng Liu, Changwen Zeng  
-**Date**: 28 Sep 2025  
+**Date**: 29 Sep 2025  
 **Categories**: astro-ph.HE  
 **Type**: replaced  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2509.20966](https://arxiv.org/abs/2509.20966)  
 **Authors**: R Ramachandran, S Pavithraa, J K Meka, K K Rahul, J -I Lo, S -L Chou, B -M Cheng, B N Rajasekhar, Anil Bhardwaj, N J Mason, B Sivaraman  
-**Date**: 28 Sep 2025  
+**Date**: 29 Sep 2025  
 **Categories**: astro-ph.GA  
 **Type**: new submission  
 
