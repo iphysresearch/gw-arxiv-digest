@@ -1,145 +1,102 @@
-# 📡 Daily GW arXiv Digest - 2025-10-01
-**Found 34 gravitational wave papers**
+# 📡 Daily GW arXiv Digest - 2025-10-02
+**Found 14 gravitational wave papers**
 
-[arXiv:2509.23028](https://arxiv.org/abs/2509.23028)[Submitted on 01 Oct 2025]
-**Error quantification and comparison of binary neutron star gravitational waveforms from numerical relativity codes**
-Sarah Habib, Elias R. Most, Nils Deppe, Francois Foucart, Mark A. Scheel, Saul Teukolsky, Michael Boyle, Matthew Duez, Larry Kidder, Jordan Moxon, Kyle C. Nelli, Harald Pfeiffer, William Throwe, Nils Vu
+[arXiv:2509.25819](https://arxiv.org/abs/2509.25819)[Submitted on 02 Oct 2025]
+**Effect of dark matter halo environment on GW memory signal**
+Soumya Bhattacharya, Chiranjeeb Singha
 Subjects: **gr-qc**
 
 ---
 
-[arXiv:2509.23318](https://arxiv.org/abs/2509.23318)[Submitted on 01 Oct 2025]
-**Gravitational waveforms from periodic orbits around a novel regular black hole**
-Huajie Gong, Sheng Long, Xi-Jing Wang, Zhongwu Xia, Jian-Pin Wu, Qiyuan Pan
+[arXiv:2509.25952](https://arxiv.org/abs/2509.25952)[Submitted on 02 Oct 2025]
+**Gravitational wave experiments: achievements and plans**
+Elista Bigongiari, Matteo Di Giovanni, Giovanni Losurdo
+Subjects: **gr-qc**; astro-ph.IM
+
+---
+
+[arXiv:2509.26159](https://arxiv.org/abs/2509.26159)[Submitted on 02 Oct 2025]
+**The transverse-traceless gauge and the gauge problem of second order gravitational waves**
+Yadong Xue, Zhoujian Cao
 Subjects: **gr-qc**
 
 ---
 
-[arXiv:2509.23329](https://arxiv.org/abs/2509.23329)[Submitted on 01 Oct 2025]
-**ACT Constraints on Marginally Deformed Starobinsky Inflation**
-Jureeporn Yuennan, Farruh Atamurotov, Phongpichit Channuie
+[arXiv:2509.26152](https://arxiv.org/abs/2509.26152) (cross-list from astro-ph.HE) [Submitted on 02 Oct 2025]
+**Testing the nature of GW200105 by probing the frequency evolution of eccentricity**
+Avinash Tiwari, Sajad A. Bhat, MD Arif Shaikh, Shashvath J. Kapaida
+Subjects: **astro-ph.HE**; gr-qc
+
+---
+
+[arXiv:2412.11847](https://arxiv.org/abs/2412.11847) (replaced) [Submitted on 02 Oct 2025]
+**Gravitational waves from regular black holes in extreme mass-ratio inspirals**
+Shailesh Kumar, Tieguang Zi
 Subjects: **gr-qc**
 
 ---
 
-[arXiv:2509.24041](https://arxiv.org/abs/2509.24041)[Submitted on 01 Oct 2025]
-**Interaction of exact gravitational waves with matter**
-Morteza Mohseni, Saurya Das
-Subjects: **gr-qc**; hep-th
+[arXiv:2501.18111](https://arxiv.org/abs/2501.18111) (replaced) [Submitted on 02 Oct 2025]
+**Gravitational waves decohere quantum superpositions**
+Flynn Linton, Shubhanshu Tiwari
+Subjects: **gr-qc**; quant-ph
 
 ---
 
-[arXiv:2509.24339](https://arxiv.org/abs/2509.24339)[Submitted on 01 Oct 2025]
-**de Sitter Corrections to Gravitational Wave Memory**
-Anthi Voulgari Revof, Shubhanshu Tiwari
-Subjects: **gr-qc**
-
----
-
-[arXiv:2509.24461](https://arxiv.org/abs/2509.24461)[Submitted on 01 Oct 2025]
-**Accounting for Tidal Deformability in Binary Neutron Star Template Banks**
-Lorenzo Piccari, Francesco Pannarale
-Subjects: **gr-qc**; astro-ph.HE
-
----
-
-[arXiv:2509.24633](https://arxiv.org/abs/2509.24633)[Submitted on 01 Oct 2025]
-**Gravitational quasinormal modes of Dymnikova black holes**
-Bekir Can Lütfüoğlu, Erdinç Ulaş Saka, Abubakir Shermatov, Inomjon Ibragimov, Javlon Rayimbaev, Sokhibjan Muminov
-Subjects: **gr-qc**
-
----
-
-[arXiv:2509.24774](https://arxiv.org/abs/2509.24774)[Submitted on 01 Oct 2025]
-**Understanding the Nature of Scalar-Induced Gravitational Waves**
-A.J. Iovino, G. Perna, D. Perrone, D. Racco, A. Riotto
+[arXiv:2506.07679](https://arxiv.org/abs/2506.07679) (replaced) [Submitted on 02 Oct 2025]
+**Spatial Correlation between Pulsars from Interfering Gravitational-Wave Sources in Massive Gravity**
+Yu-Mei Wu, Yan-Chen Bi, Qing-Guo Huang
 Subjects: **gr-qc**; astro-ph.CO
 
 ---
 
-[arXiv:2509.24835](https://arxiv.org/abs/2509.24835)[Submitted on 01 Oct 2025]
-**Constraints on quantum Oppenheimer-Snyder black holes with eccentric extreme mass-ratio inspirals**
-Sen Yang, Yu-Peng Zhang, Li Zhao, Yu-Xiao Liu
-Subjects: **gr-qc**
+[arXiv:2506.21869](https://arxiv.org/abs/2506.21869) (replaced) [Submitted on 02 Oct 2025]
+**Glitches far from transient gravitational-wave events do not bias inference**
+Sophie Hourihane, Katerina Chatziioannou
+Subjects: **gr-qc**; astro-ph.IM
 
 ---
 
-[arXiv:2509.25141](https://arxiv.org/abs/2509.25141)[Submitted on 01 Oct 2025]
-**Quasinormal spectra of higher dimensional regular black holes in theories with infinite curvature corrections**
-Juan Pablo Arbelaez
-Subjects: **gr-qc**
+[arXiv:2504.18935](https://arxiv.org/abs/2504.18935) (replaced) [Submitted on 02 Oct 2025]
+**Superradiant dark matter production from primordial black holes: Impact of multiple modes and gravitational wave emission**
+Nayun Jia, Shou-Shan Bao, Chen Zhang, Hong Zhang, Xin Zhang
+Subjects: **astro-ph.CO**; astro-ph.HE, gr-qc, hep-ph, hep-th
 
 ---
 
-[arXiv:2509.23172](https://arxiv.org/abs/2509.23172) (cross-list from astro-ph.IM) [Submitted on 01 Oct 2025]
-**CHRONOS: Cryogenic sub-Hz cROss torsion bar detector with quantum NOn-demolition Speed meter**
-Yuki Inoue, Hsiang-Chieh Hsu, Hsiang-Yu Huang, M.Afif Ismail, Vivek Kumar, Miftahul Ma'arif, Avani Patel, Daiki Tanabe, Henry Tsz-King Wong, Da-Chun Yu
-Subjects: **astro-ph.IM**; gr-qc
+[arXiv:2507.15701](https://arxiv.org/abs/2507.15701) (replaced) [Submitted on 02 Oct 2025]
+**GW231123 Mass Gap Event and the Primordial Black Hole Scenario**
+Chen Yuan, Zu-Cheng Chen, Lang Liu
+Subjects: **astro-ph.CO**; astro-ph.HE, gr-qc
 
 ---
 
-[arXiv:2509.23897](https://arxiv.org/abs/2509.23897) (cross-list from astro-ph.HE) [Submitted on 01 Oct 2025]
-**Aligned Hierarchical Black Hole Mergers in AGN disks revealed by GWTC-4**
-Yin-Jie Li, Yuan-Zhu Wang, Shao-Peng Tang, Yi-Zhong Fan
-Subjects: **astro-ph.HE**; astro-ph.CO, gr-qc
+[arXiv:2509.25367](https://arxiv.org/abs/2509.25367) (cross-list from hep-ph) [Submitted on 02 Oct 2025]
+**Cosmic domain walls on a lattice: illusive effects of initial conditions**
+I. Dankovsky, S. Ramazanov, E. Babichev, D. Gorbunov, A. Vikman
+Subjects: **hep-ph**; astro-ph.CO, hep-th
 
 ---
 
-[arXiv:2509.24949](https://arxiv.org/abs/2509.24949) (cross-list from astro-ph.IM) [Submitted on 01 Oct 2025]
-**Parallel Nested Slice Sampling for Gravitational Wave Parameter Estimation**
-David Yallup, Metha Prathaban, James Alvey, Will Handley
-Subjects: **astro-ph.IM**; gr-qc
+[arXiv:2509.25893](https://arxiv.org/abs/2509.25893) (cross-list from astro-ph.HE) [Submitted on 02 Oct 2025]
+**Bayesian Gaussian Methods for Robust Background Modeling in CALorimetric Electron Telescope (CALET) Gravitational-Wave Searches**
+Bisweswar Sen
+Subjects: **astro-ph.HE**; astro-ph.CO, astro-ph.IM
 
 ---
 
-[arXiv:2509.24993](https://arxiv.org/abs/2509.24993) (cross-list from quant-ph) [Submitted on 01 Oct 2025]
-**Unified laboratory-frame analysis of atomic gravitational-wave sensors**
-Simon Schaffrath, Daniel Störk, Fabio Di Pumpo, Enno Giese
-Subjects: **quant-ph**; gr-qc
+[arXiv:2509.25356](https://arxiv.org/abs/2509.25356)[Submitted on 02 Oct 2025]
+**The Non Parametric Reconstruction of Binary Black Hole Mass Evolution from GWTC-4.0 Gravitational Wave Catalog**
+Samsuzzaman Afroz, Suvodip Mukherjee
+Subjects: **astro-ph.HE**
 
 ---
 
-[arXiv:2509.25013](https://arxiv.org/abs/2509.25013) (cross-list from astro-ph.CO) [Submitted on 01 Oct 2025]
-**Gravitational waves from axion inflation in the gradient expansion formalism II: Fermionic axion inflation**
-Richard von Eckardstein, Kai Schmitz, Oleksandr Sobol
-Subjects: **astro-ph.CO**; gr-qc, hep-ph
+[arXiv:2509.26148](https://arxiv.org/abs/2509.26148) (cross-list from nucl-th) [Submitted on 02 Oct 2025]
+**Multi-strangeness matter from ab initio calculations**
+Hui Tong, Serdar Elhatisari, Ulf-G. Meißner, Zhengxue Ren
+Subjects: **nucl-th**; astro-ph.HE, astro-ph.SR, hep-lat, hep-ph
 
 ---
 
-[arXiv:2509.25083](https://arxiv.org/abs/2509.25083) (cross-list from astro-ph.CO) [Submitted on 01 Oct 2025]
-**Extended mass distribution of PBHs during QCD phase transition: SGWB and mini-EMRIs**
-Nilanjandev Bhaumik, Huai-Ke Guo, Si-Jiang Liu
-Subjects: **astro-ph.CO**; gr-qc, hep-ph
-
----
-
-[arXiv:2502.01733](https://arxiv.org/abs/2502.01733) (replaced) [Submitted on 01 Oct 2025]
-**Resonant Locking Between Binary Systems Induced by Gravitational Waves**
-Charlie Sharpe, Yonadav Barry Ginat, Zeyuan Xuan, Bence Kocsis
-Subjects: **gr-qc**; astro-ph.CO, astro-ph.GA
-
----
-
-[arXiv:2503.14606](https://arxiv.org/abs/2503.14606) (replaced) [Submitted on 01 Oct 2025]
-**Tidal dissipation in binary neutron star inspirals from hyperon bulk viscosity: Phase modeling and parameter estimation bias**
-Suprovo Ghosh, Samanwaya Mukherjee, Sukanta Bose, Debarati Chatterjee
-Subjects: **gr-qc**
-
----
-
-[arXiv:2504.00465](https://arxiv.org/abs/2504.00465) (replaced) [Submitted on 01 Oct 2025]
-**Leveraging cross-detector parameter consistency measures to enhance sensitivities of gravitational wave searches**
-Sayantan Ghosh, Leigh Smith, Jiyoon Sun, Archana Pai, Ik Siong Heng, V. Gayathri
-Subjects: **gr-qc**
-
----
-
-[arXiv:2504.17587](https://arxiv.org/abs/2504.17587) (replaced) [Submitted on 01 Oct 2025]
-**Enhancing gravitational-wave detection: a machine learning pipeline combination approach with robust uncertainty quantification**
-Gregory Ashton, Ann-Kristin Malz, Nicolo Colombo
-Subjects: **gr-qc**; astro-ph.HE
-
----
-
-📊 **Summary**: 14 New • 7 Cross-lists • 13 Replacements
-📋 Showing top 20 of 34 papers
+📊 **Summary**: 4 New • 4 Cross-lists • 6 Replacements
