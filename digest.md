@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2025-10-04
+# Complete Daily GW arXiv Digest - 2025-10-05
 
 **总爬取文章**: 161 篇  
 **今天的文章**: 161 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2510.02163](https://arxiv.org/abs/2510.02163)  
 **Authors**: Michael Ebersold, Tania Regimbau  
-**Date**: 04 Oct 2025  
+**Date**: 05 Oct 2025  
 **Categories**: gr-qc, astro-ph.CO, astro-ph.HE  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2510.01316](https://arxiv.org/abs/2510.01316)  
 **Authors**: Polina Petrov, Levi Schult, Stephen R. Taylor, Nihan Pol, Nima Laal, Maria Charisi, Chung-Pei Ma  
-**Date**: 04 Oct 2025  
+**Date**: 05 Oct 2025  
 **Categories**: astro-ph.IM, gr-qc  
 **Type**: cross-list from astro-ph.IM  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2510.01614](https://arxiv.org/abs/2510.01614)  
 **Authors**: Yi Shuen C. Lee, Marek J Szczepańczyk, Tanmaya Mishra, Margaret Millhouse, Andrew Melatos  
-**Date**: 04 Oct 2025  
+**Date**: 05 Oct 2025  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: cross-list from astro-ph.HE  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2504.04574](https://arxiv.org/abs/2504.04574)  
 **Authors**: Antonio Enea Romano  
-**Date**: 04 Oct 2025  
+**Date**: 05 Oct 2025  
 **Categories**: gr-qc, astro-ph.CO, hep-th  
 **Type**: replaced  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2509.13958](https://arxiv.org/abs/2509.13958)  
 **Authors**: Xiao-Bin Lai, Yu-Qi Dong, Yu-Zhi Fan, Yu-Xiao Liu  
-**Date**: 04 Oct 2025  
+**Date**: 05 Oct 2025  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2510.00106](https://arxiv.org/abs/2510.00106)  
 **Authors**: Peter James Nee, Adhrit Ravichandran, Scott E. Field, Tousif Islam, Harald P. Pfeiffer, Vijay Varma, Michael Boyle, Andrea Ceja, Noora Ghadiri, Lawrence E. Kidder, Prayush Kumar, Akash Maurya, Marlo Morales, Antoni Ramos-Buades, Abhishek Ravishankar, Katie Rink, Hannes R. Rüter, Mark A. Scheel, Md Arif Shaikh, Daniel Tellez  
-**Date**: 04 Oct 2025  
+**Date**: 05 Oct 2025  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2510.00116](https://arxiv.org/abs/2510.00116)  
 **Authors**: Akash Maurya, Prayush Kumar, Scott E. Field, Chandra Kant Mishra, Peter James Nee, Kaushik Paul, Harald P. Pfeiffer, Adhrit Ravichandran, Vijay Varma  
-**Date**: 04 Oct 2025  
+**Date**: 05 Oct 2025  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: replaced  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2405.06603](https://arxiv.org/abs/2405.06603)  
 **Authors**: Zafri A. Borboruah, Anish Ghoshal, Lekhika Malhotra, Urjit Yajnik  
-**Date**: 04 Oct 2025  
+**Date**: 05 Oct 2025  
 **Categories**: hep-ph, astro-ph.CO, gr-qc, hep-th  
 **Type**: replaced  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2504.12105](https://arxiv.org/abs/2504.12105)  
 **Authors**: Jiahang Zhong, Chao Chen, Yi-Fu Cai  
-**Date**: 04 Oct 2025  
+**Date**: 05 Oct 2025  
 **Categories**: astro-ph.CO, gr-qc, hep-ph  
 **Type**: replaced  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2510.02061](https://arxiv.org/abs/2510.02061)  
 **Authors**: Juan Gutiérrez, Macarena Lagos  
-**Date**: 04 Oct 2025  
+**Date**: 05 Oct 2025  
 **Categories**: astro-ph.CO  
 **Type**: new submission  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2510.02106](https://arxiv.org/abs/2510.02106)  
 **Authors**: Xiang-Xi Zeng  
-**Date**: 04 Oct 2025  
+**Date**: 05 Oct 2025  
 **Categories**: astro-ph.CO  
 **Type**: new submission  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2510.02083](https://arxiv.org/abs/2510.02083)  
 **Authors**: C. Pallis  
-**Date**: 04 Oct 2025  
+**Date**: 05 Oct 2025  
 **Categories**: hep-ph, astro-ph.CO, hep-th  
 **Type**: cross-list from hep-ph  
 
@@ -155,7 +155,7 @@
 
 **arXiv**: [2510.01872](https://arxiv.org/abs/2510.01872)  
 **Authors**: R. Moradi, Y. Wang, F. Rastegarnia, E. S. Yorgancioglu, Shu-Xu Yi, B. Eslam Panah, S. N. Zhang  
-**Date**: 04 Oct 2025  
+**Date**: 05 Oct 2025  
 **Categories**: astro-ph.HE  
 **Type**: new submission  
 
@@ -167,7 +167,7 @@
 
 **arXiv**: [2510.02301](https://arxiv.org/abs/2510.02301)  
 **Authors**: Andrew G. Sullivan, Roger D. Blandford, Anna Synani, Philipe V. de la Parra, Noémie Globus, Mitchell C. Begelman, Anthony C.S. Readhead  
-**Date**: 04 Oct 2025  
+**Date**: 05 Oct 2025  
 **Categories**: astro-ph.HE, astro-ph.GA  
 **Type**: new submission  
 
@@ -179,7 +179,7 @@
 
 **arXiv**: [2510.01317](https://arxiv.org/abs/2510.01317)  
 **Authors**: Levi Schult, Polina Petrov, Stephen R. Taylor, Nihan Pol, Nima Laal, Maria Charisi, Chung-Pei Ma  
-**Date**: 04 Oct 2025  
+**Date**: 05 Oct 2025  
 **Categories**: astro-ph.IM, astro-ph.HE  
 **Type**: cross-list from astro-ph.IM  
 
@@ -191,7 +191,7 @@
 
 **arXiv**: [2504.19570](https://arxiv.org/abs/2504.19570)  
 **Authors**: LingQin Xue, Hiromichi Tagawa, Zoltan Haiman, Imre Bartos  
-**Date**: 04 Oct 2025  
+**Date**: 05 Oct 2025  
 **Categories**: astro-ph.HE, astro-ph.GA  
 **Type**: replaced  
 
@@ -203,7 +203,7 @@
 
 **arXiv**: [2510.01323](https://arxiv.org/abs/2510.01323)  
 **Authors**: Francesco Ubertosi, Fabrizio Brighenti, Ewan O'Sullivan, Gerrit Schellenberger, Myriam Gitti, Simona Giacintucci, Pasquale Temi, Laurence P. David, Jan Vrtilek, Tiziana Venturi, Elisabetta Liuzzo, Marcella Massardi, Kamlesh Rajpurohit  
-**Date**: 04 Oct 2025  
+**Date**: 05 Oct 2025  
 **Categories**: astro-ph.GA  
 **Type**: new submission  
 
