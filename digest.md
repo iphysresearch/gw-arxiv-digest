@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2025-10-06
+# Complete Daily GW arXiv Digest - 2025-10-07
 
 **总爬取文章**: 162 篇  
 **今天的文章**: 160 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2510.02433](https://arxiv.org/abs/2510.02433)  
 **Authors**: Francisco Duque, Laura Sberna, Andrew Spiers, Rodrigo Vicente  
-**Date**: 06 Oct 2025  
+**Date**: 07 Oct 2025  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2510.02447](https://arxiv.org/abs/2510.02447)  
 **Authors**: F. J. Marañón-González, A. del Río, J. Navarro-Salas  
-**Date**: 06 Oct 2025  
+**Date**: 07 Oct 2025  
 **Categories**: gr-qc, hep-th  
 **Type**: new submission  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2510.02515](https://arxiv.org/abs/2510.02515)  
 **Authors**: Yiqi Xie, Gautham Narayan, Nicolás Yunes  
-**Date**: 06 Oct 2025  
+**Date**: 07 Oct 2025  
 **Categories**: gr-qc, astro-ph.HE, hep-ph  
 **Type**: new submission  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2510.02858](https://arxiv.org/abs/2510.02858)  
 **Authors**: Leigh Smith, Matteo Scialpi, Francesco di Clemente, Michał Bejger  
-**Date**: 06 Oct 2025  
+**Date**: 07 Oct 2025  
 **Categories**: gr-qc, astro-ph.IM  
 **Type**: new submission  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2510.02881](https://arxiv.org/abs/2510.02881)  
 **Authors**: S. Gomez Lopez, B. Giacomazzo, F. Pannarale  
-**Date**: 06 Oct 2025  
+**Date**: 07 Oct 2025  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2510.02106](https://arxiv.org/abs/2510.02106)  
 **Authors**: Xiang-Xi Zeng  
-**Date**: 06 Oct 2025  
+**Date**: 07 Oct 2025  
 **Categories**: astro-ph.CO, gr-qc  
 **Type**: cross-list from astro-ph.CO  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2510.03118](https://arxiv.org/abs/2510.03118)  
 **Authors**: Christophe Ringeval  
-**Date**: 06 Oct 2025  
+**Date**: 07 Oct 2025  
 **Categories**: astro-ph.CO, gr-qc, hep-ph, hep-th  
 **Type**: cross-list from astro-ph.CO  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2503.06503](https://arxiv.org/abs/2503.06503)  
 **Authors**: Lai Zhao, Meirong Tang, Zhaoyi Xu  
-**Date**: 06 Oct 2025  
+**Date**: 07 Oct 2025  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2504.18669](https://arxiv.org/abs/2504.18669)  
 **Authors**: Daniel Rozental, Ofek Birnholtz  
-**Date**: 06 Oct 2025  
+**Date**: 07 Oct 2025  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2507.17143](https://arxiv.org/abs/2507.17143)  
 **Authors**: Laura Bernard, Suvendu Giri, Luis Lehner, Riccardo Sturani  
-**Date**: 06 Oct 2025  
+**Date**: 07 Oct 2025  
 **Categories**: gr-qc, astro-ph.GA, astro-ph.HE, hep-ph, hep-th  
 **Type**: replaced  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2509.15841](https://arxiv.org/abs/2509.15841)  
 **Authors**: G. Barontini, X. Calmet, V. Guarrera, A. Smith, A. Vecchio  
-**Date**: 06 Oct 2025  
+**Date**: 07 Oct 2025  
 **Categories**: astro-ph.IM, gr-qc, hep-ph, hep-th  
 **Type**: replaced  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2510.02481](https://arxiv.org/abs/2510.02481)  
 **Authors**: Kazuma Minami, Kyohei Mukaida, Kazunori Nakayama  
-**Date**: 06 Oct 2025  
+**Date**: 07 Oct 2025  
 **Categories**: astro-ph.CO, hep-ph  
 **Type**: new submission  
 
@@ -155,7 +155,7 @@
 
 **arXiv**: [2312.00679](https://arxiv.org/abs/2312.00679)  
 **Authors**: Euclid Collaboration: A. Pezzotta, C. Moretti, M. Zennaro, A. Moradinezhad Dizgah, M. Crocce, E. Sefusatti, I. Ferrero, K. Pardede, A. Eggemeier, A. Barreira, R. E. Angulo, M. Marinucci, B. Camacho Quevedo, S. de la Torre, D. Alkhanishvili, M. Biagetti, M.-A. Breton, E. Castorina, G. D'Amico, V. Desjacques, M. Guidi, M. Kärcher, A. Oddo, M. Pellejero Ibanez, C. Porciani, A. Pugno, J. Salvalaggio, E. Sarpa, A. Veropalumbo, Z. Vlah, A. Amara, S. Andreon, N. Auricchio, M. Baldi, S. Bardelli, R. Bender, C. Bodendorf, D. Bonino, E. Branchini, M. Brescia, J. Brinchmann, S. Camera, V. Capobianco, C. Carbone, V. F. Cardone, J. Carretero, S. Casas, F. J. Castander, M. Castellano, S. Cavuoti, A. Cimatti, G. Congedo, C. J. Conselice, L. Conversi, Y. Copin, L. Corcione, F. Courbin, H. M. Courtois, A. Da Silva, H. Degaudenzi, A. M. Di Giorgio, J. Dinis, X. Dupac, S. Dusini, A. Ealet, M. Farina, S. Farrens, P. Fosalba, M. Frailis, E. Franceschi, S. Galeotta, B. Gillis, C. Giocoli, B. R. Granett, A. Grazian, F. Grupp, L. Guzzo, S. V. H. Haugan, F. Hormuth, A. Hornstrup, K. Jahnke, B. Joachimi, E. Keihänen, S. Kermiche, A. Kiessling, M. Kilbinger, T. Kitching, B. Kubik, M. Kunz, H. Kurki-Suonio, S. Ligori, P. B. Lilje, V. Lindholm, I. Lloro, E. Maiorano, O. Mansutti, O. Marggraf, K. Markovic, N. Martinet  
-**Date**: 06 Oct 2025  
+**Date**: 07 Oct 2025  
 **Categories**: astro-ph.CO  
 **Type**: replaced  
 
@@ -167,7 +167,7 @@
 
 **arXiv**: [2506.24030](https://arxiv.org/abs/2506.24030)  
 **Authors**: Alberto Salvarese, Hsin-Yu Chen, Alberto Mangiagli, Nicola Tamanini  
-**Date**: 06 Oct 2025  
+**Date**: 07 Oct 2025  
 **Categories**: astro-ph.CO  
 **Type**: replaced  
 
@@ -179,7 +179,7 @@
 
 **arXiv**: [2503.15315](https://arxiv.org/abs/2503.15315)  
 **Authors**: Euclid Collaboration: P. Corcho-Caballero, Y. Ascasibar, G. Verdoes Kleijn, C. C. Lovell, G. De Lucia, C. Cleland, F. Fontanot, C. Tortora, L. V. E. Koopmans, T. Moutard, C. Laigle, A. Nersesian, F. Shankar, N. Aghanim, B. Altieri, A. Amara, S. Andreon, H. Aussel, C. Baccigalupi, M. Baldi, A. Balestra, S. Bardelli, P. Battaglia, A. Biviano, A. Bonchi, D. Bonino, E. Branchini, M. Brescia, J. Brinchmann, G. Cañas-Herrera, V. Capobianco, C. Carbone, J. Carretero, S. Casas, F. J. Castander, M. Castellano, G. Castignani, S. Cavuoti, K. C. Chambers, A. Cimatti, C. Colodro-Conde, G. Congedo, C. J. Conselice, L. Conversi, Y. Copin, A. Costille, F. Courbin, H. M. Courtois, M. Cropper, A. Da Silva, H. Degaudenzi, A. M. Di Giorgio, C. Dolding, H. Dole, F. Dubath, X. Dupac, A. Ealet, S. Escoffier, M. Farina, R. Farinelli, F. Faustini, S. Ferriol, F. Finelli, S. Fotopoulou, M. Frailis, E. Franceschi, M. Fumana, S. Galeotta, K. George, B. Gillis, C. Giocoli, J. Gracia-Carpio, B. R. Granett, A. Grazian, F. Grupp, L. Guzzo, S. Gwyn, S. V. H. Haugan, W. Holmes, I. M. Hook, F. Hormuth, A. Hornstrup, P. Hudelot, K. Jahnke, M. Jhabvala, E. Keihänen, S. Kermiche, A. Kiessling, B. Kubik, K. Kuijken, M. Kümmel, M. Kunz, H. Kurki-Suonio, Q. Le Boulc'h, A. M. C. Le Brun, D. Le Mignant, S. Ligori, P. B. Lilje, V. Lindholm  
-**Date**: 06 Oct 2025  
+**Date**: 07 Oct 2025  
 **Categories**: astro-ph.GA, astro-ph.CO  
 **Type**: replaced  
 
@@ -191,7 +191,7 @@
 
 **arXiv**: [2510.02687](https://arxiv.org/abs/2510.02687)  
 **Authors**: Bernardo Cornejo, Halim Ashkar, Matteo Cerruti, Ilja Jaroschewski, Pierre Pichard, Santiago Pita, Fabian Schussler  
-**Date**: 06 Oct 2025  
+**Date**: 07 Oct 2025  
 **Categories**: astro-ph.HE  
 **Type**: new submission  
 
@@ -203,7 +203,7 @@
 
 **arXiv**: [2510.03139](https://arxiv.org/abs/2510.03139)  
 **Authors**: Pratyasha Gitika, Ryan M. Shannon, Matthew Bailes, Daniel J. Reardon, Matthew T. Miles, David J. Champion, Kathrin Grunthal  
-**Date**: 06 Oct 2025  
+**Date**: 07 Oct 2025  
 **Categories**: astro-ph.HE  
 **Type**: new submission  
 
@@ -215,7 +215,7 @@
 
 **arXiv**: [2509.21203](https://arxiv.org/abs/2509.21203)  
 **Authors**: Sofia V. Sosa Fiscella, Michael T. Lam, Gabriella Agazie, Akash Anumarlapudi, Anne M. Archibald, Zaven Arzoumanian, Paul T. Baker, Paul R. Brook, H. Thankful Cromartie, Kathryn Crowter, Maria Silvina De Biasi, Megan E. DeCesar, Paul B. Demorest, Timothy Dolch, Elizabeth C. Ferrara, William Fiore, Emmanuel Fonseca, Gabriel E. Freedman, Nate Garver-Daniels, Peter A. Gentile, Joseph Glaser, Deborah C. Good, Jeffrey S. Hazboun, Ross J. Jennings, Megan L. Jones, David L. Kaplan, Matthew Kerr, Duncan R. Lorimer, Jing Luo, Ryan S. Lynch, Alexander McEwen, Maura A. McLaughlin, Natasha McMann, Bradley W. Meyers, Cherry Ng, David J. Nice, Timothy T. Pennucci, Benetge B. P. Perera, Nihan S. Pol, Henri A. Radovan, Scott M. Ransom, Paul S. Ray, Ann Schmiedekamp, Carl Schmiedekamp, Brent J. Shapiro-Albert, Ingrid H. Stairs, Kevin Stovall, Abhimanyu Susobhanan, Joseph K. Swiggum, Haley M. Wahl  
-**Date**: 06 Oct 2025  
+**Date**: 07 Oct 2025  
 **Categories**: astro-ph.HE, astro-ph.IM  
 **Type**: replaced  
 
@@ -227,7 +227,7 @@
 
 **arXiv**: [2510.00707](https://arxiv.org/abs/2510.00707)  
 **Authors**: Nicolas De Angelis  
-**Date**: 06 Oct 2025  
+**Date**: 07 Oct 2025  
 **Categories**: astro-ph.HE, astro-ph.IM  
 **Type**: replaced  
 
@@ -239,7 +239,7 @@
 
 **arXiv**: [2510.01142](https://arxiv.org/abs/2510.01142)  
 **Authors**: J. H. Gillanders, M. E. Huber, M. Nicholl, S. J. Smartt, K. W. Smith, K. C. Chambers, D. R. Young, J. W. Tweddle, S. Srivastav, M. D. Fulton, F. Stoppa, G. S. H. Paek, A. Aamer, M. R. Alarcon, A. Andersson, A. Aryan, K. Auchettl, T.-W. Chen, T. de Boer, A. K. H. Kong, J. Licandro, T. Lowe, D. Magill, E. A. Magnier, P. Minguez, T. Moore, G. Pignata, A. Rest, M. Serra-Ricart, B. J. Shappee, I. A. Smith, M. A. Tucker, R. Wainscoat  
-**Date**: 06 Oct 2025  
+**Date**: 07 Oct 2025  
 **Categories**: astro-ph.HE  
 **Type**: replaced  
 
@@ -251,7 +251,7 @@
 
 **arXiv**: [2510.02974](https://arxiv.org/abs/2510.02974)  
 **Authors**: P. Berczik, M. Ishchenko, O. Veles, M. Sobolenko, K. Voggel, C.M. Boily, E. Polyachenko, R. State  
-**Date**: 06 Oct 2025  
+**Date**: 07 Oct 2025  
 **Categories**: astro-ph.GA  
 **Type**: new submission  
 
