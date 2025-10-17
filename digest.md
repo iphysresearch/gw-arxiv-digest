@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2025-10-16
+# Complete Daily GW arXiv Digest - 2025-10-17
 
 **总爬取文章**: 159 篇  
 **今天的文章**: 159 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2510.13677](https://arxiv.org/abs/2510.13677)  
 **Authors**: Matteo Scialpi, Francesco Di Clemente, Leigh Smith, Michał Bejger  
-**Date**: 16 Oct 2025  
+**Date**: 17 Oct 2025  
 **Categories**: gr-qc, astro-ph.IM, cs.NE  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2510.12984](https://arxiv.org/abs/2510.12984)  
 **Authors**: Xinpeng Wang, Yifan Lu, Zachary S. C. Picker, Alexander Kusenko, Misao Sasaki  
-**Date**: 16 Oct 2025  
+**Date**: 17 Oct 2025  
 **Categories**: astro-ph.CO, gr-qc, hep-ph  
 **Type**: cross-list from astro-ph.CO  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2510.13066](https://arxiv.org/abs/2510.13066)  
 **Authors**: Evgeni Grishin, Isobel M. Romero-Shaw, Alessandro A. Trani  
-**Date**: 16 Oct 2025  
+**Date**: 17 Oct 2025  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: cross-list from astro-ph.HE  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2411.11746](https://arxiv.org/abs/2411.11746)  
 **Authors**: Stavros Venikoudis, Federico De Lillo, Kamiel Janssens, Jishnu Suresh, Giacomo Bruno  
-**Date**: 16 Oct 2025  
+**Date**: 17 Oct 2025  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2411.13714](https://arxiv.org/abs/2411.13714)  
 **Authors**: Brian C. Seymour, Yanbei Chen  
-**Date**: 16 Oct 2025  
+**Date**: 17 Oct 2025  
 **Categories**: gr-qc, astro-ph.HE, hep-th  
 **Type**: replaced  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2412.13379](https://arxiv.org/abs/2412.13379)  
 **Authors**: Aiden Gundersen, Neil J. Cornish  
-**Date**: 16 Oct 2025  
+**Date**: 17 Oct 2025  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2502.06451](https://arxiv.org/abs/2502.06451)  
 **Authors**: Jam Sadiq, Thomas Dent, Ana Lorenzo-Medina  
-**Date**: 16 Oct 2025  
+**Date**: 17 Oct 2025  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2510.05029](https://arxiv.org/abs/2510.05029)  
 **Authors**: Rhiannon Udall, Sophie Bini, Katerina Chatziioannou, Derek Davis, Sophie Hourihane, Yannick Lecoeuche, Jess McIver, Simona Miller  
-**Date**: 16 Oct 2025  
+**Date**: 17 Oct 2025  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2510.11790](https://arxiv.org/abs/2510.11790)  
 **Authors**: Aniruddha Chakraborty, Suvodip Mukherjee  
-**Date**: 16 Oct 2025  
+**Date**: 17 Oct 2025  
 **Categories**: gr-qc, astro-ph.CO, astro-ph.GA, astro-ph.HE  
 **Type**: replaced  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2510.13477](https://arxiv.org/abs/2510.13477)  
 **Authors**: Mingqi Sun, Liao Kai, Xi-Long Fan  
-**Date**: 16 Oct 2025  
+**Date**: 17 Oct 2025  
 **Categories**: astro-ph.CO  
 **Type**: new submission  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2510.12932](https://arxiv.org/abs/2510.12932)  
 **Authors**: Simon Stevenson, Anais Möller, Jade Powell  
-**Date**: 16 Oct 2025  
+**Date**: 17 Oct 2025  
 **Categories**: astro-ph.HE, astro-ph.CO  
 **Type**: cross-list from astro-ph.HE  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2505.04751](https://arxiv.org/abs/2505.04751)  
 **Authors**: Arnab Dasgupta, Matthew Knauss, Marc Sher  
-**Date**: 16 Oct 2025  
+**Date**: 17 Oct 2025  
 **Categories**: hep-ph, astro-ph.CO  
 **Type**: replaced  
 
@@ -155,7 +155,7 @@
 
 **arXiv**: [2510.13074](https://arxiv.org/abs/2510.13074)  
 **Authors**: Evgeni Grishin, Isobel M. Romero-Shaw, Alessandro A. Trani  
-**Date**: 16 Oct 2025  
+**Date**: 17 Oct 2025  
 **Categories**: astro-ph.HE  
 **Type**: new submission  
 
@@ -167,7 +167,7 @@
 
 **arXiv**: [2510.11861](https://arxiv.org/abs/2510.11861)  
 **Authors**: Ssohrab Borhanian, Arianna Renzini, Philippa S. Cole, Costantino Pacilio, Michele Mancarella, Davide Gerosa  
-**Date**: 16 Oct 2025  
+**Date**: 17 Oct 2025  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: cross-list from gr-qc  
 
