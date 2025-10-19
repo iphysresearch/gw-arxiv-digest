@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2025-10-18
+# Complete Daily GW arXiv Digest - 2025-10-19
 
 **总爬取文章**: 185 篇  
 **今天的文章**: 185 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2510.13954](https://arxiv.org/abs/2510.13954)  
 **Authors**: Richard Dyer, Christopher J. Moore  
-**Date**: 18 Oct 2025  
+**Date**: 19 Oct 2025  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2510.13957](https://arxiv.org/abs/2510.13957)  
 **Authors**: Jan Heisig  
-**Date**: 18 Oct 2025  
+**Date**: 19 Oct 2025  
 **Categories**: gr-qc, astro-ph.CO, astro-ph.IM, hep-ph  
 **Type**: new submission  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2510.13958](https://arxiv.org/abs/2510.13958)  
 **Authors**: Loïc Honet, Lorenzo Küchler, Adam Pound, Geoffrey Compère  
-**Date**: 18 Oct 2025  
+**Date**: 19 Oct 2025  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2510.13963](https://arxiv.org/abs/2510.13963)  
 **Authors**: Estuti Shukla, Alireza Rashti, Rossella Gamba, David Radice, Koustav Chandra  
-**Date**: 18 Oct 2025  
+**Date**: 19 Oct 2025  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2510.14291](https://arxiv.org/abs/2510.14291)  
 **Authors**: Shoichi Oshino, Yusuke Sakai, Marco Meyer-Conde, Takashi Uchiyama, Yousuke Itoh, Yutaka Shikano, Yoshikazu Terada, Hirotaka Takahashi  
-**Date**: 18 Oct 2025  
+**Date**: 19 Oct 2025  
 **Categories**: gr-qc, astro-ph.IM  
 **Type**: new submission  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2510.08699](https://arxiv.org/abs/2510.08699)  
 **Authors**: Giona Sala, Alessandro Cuoco, Julien Lesgourgues, Kostantinos-Rafail Revis, Lorenzo Valbusa Dall'Armi, Santiago Casas  
-**Date**: 18 Oct 2025  
+**Date**: 19 Oct 2025  
 **Categories**: astro-ph.CO, gr-qc  
 **Type**: cross-list from astro-ph.CO  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2510.14850](https://arxiv.org/abs/2510.14850)  
 **Authors**: Anna Neuweiler, Henrique Gieg, Henrik Rose, Hauke Koehn, Ivan Markin, Federico Schianchi, Liam Brodie, Alexander Haber, Vsevolod Nedora, Mattia Bulla, Tim Dietrich  
-**Date**: 18 Oct 2025  
+**Date**: 19 Oct 2025  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: cross-list from astro-ph.HE  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2510.14953](https://arxiv.org/abs/2510.14953)  
 **Authors**: Luka Vujeva, Jose María Ezquiaga, Daniel Gilman, Srashti Goyal, Miguel Zumalacárregui  
-**Date**: 18 Oct 2025  
+**Date**: 19 Oct 2025  
 **Categories**: astro-ph.CO, astro-ph.GA, gr-qc  
 **Type**: cross-list from astro-ph.CO  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2509.12929](https://arxiv.org/abs/2509.12929)  
 **Authors**: Maria-Catalina Isfan, Laurentiu-Ioan Caramete, Ana Caramete, Daniel Tonoiu, Alexandru Nicolin-Żaczek  
-**Date**: 18 Oct 2025  
+**Date**: 19 Oct 2025  
 **Categories**: gr-qc, astro-ph.CO, astro-ph.IM  
 **Type**: replaced  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2407.15117](https://arxiv.org/abs/2407.15117)  
 **Authors**: Avinash Tiwari, Aditya Vijaykumar, Shasvath J. Kapadia, Sourav Chatterjee, Giacomo Fragione  
-**Date**: 18 Oct 2025  
+**Date**: 19 Oct 2025  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: replaced  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2501.02096](https://arxiv.org/abs/2501.02096)  
 **Authors**: Luka Vujeva, Jose María Ezquiaga, Rico K. L. Lo, Juno C. L. Chan  
-**Date**: 18 Oct 2025  
+**Date**: 19 Oct 2025  
 **Categories**: astro-ph.CO, gr-qc  
 **Type**: replaced  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2510.13997](https://arxiv.org/abs/2510.13997)  
 **Authors**: Huifang Lyu, James Alvey, Noemi Anau Montel, Mauro Pieroni, Christoph Weniger  
-**Date**: 18 Oct 2025  
+**Date**: 19 Oct 2025  
 **Categories**: astro-ph.IM, astro-ph.CO, cs.LG, stat.ML  
 **Type**: cross-list from astro-ph.IM  
 
@@ -155,7 +155,7 @@
 
 **arXiv**: [2510.13955](https://arxiv.org/abs/2510.13955)  
 **Authors**: Vishal Tiwari , Chi-Ho Chan , Tamara Bogdanović , Yan-Fei Jiang , Shane W. Davis Georgia Institute of Technology, Center for Computational Astrophysics, Flatiron Institute University of Virginia)  
-**Date**: 18 Oct 2025  
+**Date**: 19 Oct 2025  
 **Categories**: astro-ph.HE  
 **Type**: new submission  
 
@@ -167,7 +167,7 @@
 
 **arXiv**: [2510.14363](https://arxiv.org/abs/2510.14363)  
 **Authors**: Lachlan Passenger, Sharan Banagiri, Eric Thrane, Paul D. Lasky, Angela Borchers, Maya Fishbach, Claire S. Ye  
-**Date**: 18 Oct 2025  
+**Date**: 19 Oct 2025  
 **Categories**: astro-ph.HE  
 **Type**: new submission  
 
@@ -179,7 +179,7 @@
 
 **arXiv**: [2510.14613](https://arxiv.org/abs/2510.14613)  
 **Authors**: Hippolyte Quelquejay Leclere, Kunyang Li, Marta Volonteri, Stanislav Babak, Ricarda S. Beckmann, Yohan Dubois, Clotilde Laigle, Natalie A. Webb  
-**Date**: 18 Oct 2025  
+**Date**: 19 Oct 2025  
 **Categories**: astro-ph.GA, astro-ph.IM  
 **Type**: new submission  
 
@@ -191,7 +191,7 @@
 
 **arXiv**: [2510.14239](https://arxiv.org/abs/2510.14239)  
 **Authors**: Siqi Guan, Shangbin Yang, Xiao Guo  
-**Date**: 18 Oct 2025  
+**Date**: 19 Oct 2025  
 **Categories**: astro-ph.SR  
 **Type**: new submission  
 
