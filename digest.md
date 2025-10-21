@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2025-10-20
+# Complete Daily GW arXiv Digest - 2025-10-21
 
 **总爬取文章**: 116 篇  
 **今天的文章**: 116 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2510.15048](https://arxiv.org/abs/2510.15048)  
 **Authors**: Ryan Ursell, Charlie Hoy, Ian Harry, Laura K. Nuttall  
-**Date**: 20 Oct 2025  
+**Date**: 21 Oct 2025  
 **Categories**: gr-qc, astro-ph.HE, astro-ph.IM  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2510.15028](https://arxiv.org/abs/2510.15028)  
 **Authors**: Yi Qiu, David Radice, Sherwood Richers, Federico Maria Guercilena, Albino Perego, Maitraya Bhattacharyya  
-**Date**: 20 Oct 2025  
+**Date**: 21 Oct 2025  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: cross-list from astro-ph.HE  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2510.15031](https://arxiv.org/abs/2510.15031)  
 **Authors**: Yi-fu Cai, Luca Visinelli, Sheng-Feng Yan  
-**Date**: 20 Oct 2025  
+**Date**: 21 Oct 2025  
 **Categories**: hep-ph, astro-ph.CO, gr-qc, hep-ex  
 **Type**: cross-list from hep-ph  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2510.15033](https://arxiv.org/abs/2510.15033)  
 **Authors**: Pau Amaro Seoane, Alessandra Mastrobuono Battisti, Chingis Omarov, Denis Yurin, Maxim Makukov, Dana Kuvatova, Gulnara Omarova, Anton Gluchshenko  
-**Date**: 20 Oct 2025  
+**Date**: 21 Oct 2025  
 **Categories**: astro-ph.GA, gr-qc  
 **Type**: cross-list from astro-ph.GA  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2510.15463](https://arxiv.org/abs/2510.15463)  
 **Authors**: Otto A. Hannuksela, K. Haris, Justin Janquart, Harsh Narola, Hemantakumar Phurailatpam, Jolien D. E. Creighton, Chris Van Den Broeck  
-**Date**: 20 Oct 2025  
+**Date**: 21 Oct 2025  
 **Categories**: astro-ph.HE, astro-ph.CO, gr-qc  
 **Type**: cross-list from astro-ph.HE  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2510.15836](https://arxiv.org/abs/2510.15836)  
 **Authors**: Kendall Ackley  
-**Date**: 20 Oct 2025  
+**Date**: 21 Oct 2025  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: cross-list from astro-ph.HE  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2505.06966](https://arxiv.org/abs/2505.06966)  
 **Authors**: B. C. Lütfüoğlu  
-**Date**: 20 Oct 2025  
+**Date**: 21 Oct 2025  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2409.12790](https://arxiv.org/abs/2409.12790)  
 **Authors**: Max Joseph Fahn, Kristina Giesel  
-**Date**: 20 Oct 2025  
+**Date**: 21 Oct 2025  
 **Categories**: hep-th, gr-qc  
 **Type**: replaced  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2505.04537](https://arxiv.org/abs/2505.04537)  
 **Authors**: Kai Schmitz, Tobias Schröder  
-**Date**: 20 Oct 2025  
+**Date**: 21 Oct 2025  
 **Categories**: astro-ph.CO, gr-qc, hep-ph  
 **Type**: replaced  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2505.24459](https://arxiv.org/abs/2505.24459)  
 **Authors**: Fangzhou Guo, Jibo He  
-**Date**: 20 Oct 2025  
+**Date**: 21 Oct 2025  
 **Categories**: astro-ph.IM, gr-qc, quant-ph  
 **Type**: replaced  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2510.15460](https://arxiv.org/abs/2510.15460)  
 **Authors**: Marco Merchand  
-**Date**: 20 Oct 2025  
+**Date**: 21 Oct 2025  
 **Categories**: astro-ph.CO, hep-ph  
 **Type**: new submission  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2510.15102](https://arxiv.org/abs/2510.15102)  
 **Authors**: Y. Sultan Abylkairov, Matthew C. Edwards, Artyom Ostrikov, Yersultan Tleukhanov, Alejandro Torres-Forné, Pablo Cerdá-Durán, José Antonio Font, Marek J. Szczepańczyk, Ernazar Abdikamalov  
-**Date**: 20 Oct 2025  
+**Date**: 21 Oct 2025  
 **Categories**: astro-ph.HE  
 **Type**: new submission  
 
@@ -155,7 +155,7 @@
 
 **arXiv**: [2510.15534](https://arxiv.org/abs/2510.15534)  
 **Authors**: Ichiro Takahashi, Tomoki Morokuma, Masaomi Tanaka, Mahito Sasada, Hiroshi Akitaya, Ichi Tanaka, Nozomu Tominaga, Michitoshi Yoshida, Yousuke Utsumi, Ryosuke Itoh, Kyohei Kawaguchi, the J-GEM collaboration  
-**Date**: 20 Oct 2025  
+**Date**: 21 Oct 2025  
 **Categories**: astro-ph.HE, astro-ph.IM  
 **Type**: new submission  
 
@@ -167,7 +167,7 @@
 
 **arXiv**: [2506.00623](https://arxiv.org/abs/2506.00623)  
 **Authors**: Andrzej A. Zdziarski, Gregoire Marcel, Alexandra Veledina, Aleksandra Olejak, Debora Lancova  
-**Date**: 20 Oct 2025  
+**Date**: 21 Oct 2025  
 **Categories**: astro-ph.HE  
 **Type**: replaced  
 
