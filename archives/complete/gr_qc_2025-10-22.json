@@ -1,0 +1,1222 @@
+{
+  "date": "2025-10-22",
+  "category": "gr-qc",
+  "url": "https://arxiv.org/list/gr-qc/new",
+  "total_papers": 69,
+  "gw_related_papers": 23,
+  "papers": [
+    {
+      "id": "https://arxiv.org/abs/2510.16061",
+      "title": "Mass-radius relation, moment of inertia, and tidal love numbers of anisotropic neutron stars in f (R,T) gravity",
+      "authors": [
+        "Yusmantoro Yusmantoro",
+        "Freddy Permana Zen",
+        "Muhammad Lawrence Pattersons"
+      ],
+      "abstract": "Mass-radius relation, moment of inertia, and tidal love numbers of anisotropic neutron stars in f (R,T) gravity Yusmantoro Yusmantoro, Freddy Permana Zen, Muhammad Lawrence Pattersons General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) The mass-radius relation, moment of inertia, and tidal love numbers of anisotropic neutron stars (NSs) have been investigated in $f(R,T)$ gravity by imposing two equations of state (EoS). We use the simplest form $f(R,T)=R+2\\beta T$ model and adopt the anisotropy approach called Horvat model. To examine the viability of our calculations, we utilize the constraints from GW170817 and GW190814 observations. Moreover, we consider three values of $\\beta$, i.e. $\\beta=0$, $\\beta=-0.01$, $\\beta=-0.02$ and four anisotropy parameters $\\alpha$, i.e. $\\alpha=-0.12$, $\\alpha=-0.06$, $\\alpha=0.06$, $\\alpha=0.12$. Our findings suggest that all physical quantities depend on both parameters $\\alpha$ and $\\beta$. Nevertheless, the impact of $\\alpha$ is much more significant than $\\beta$. The calculation of masses satisfy each used constraints for specific values of $\\alpha$ and $\\beta$. In the case of the moment of inertia, the results are compatible with the constraint obtained from radio observation of heavy pulsar. On the other hand, the tidal deformability of the NSs composed of one EoS satisfy the GW170817 constraint while the NSs composed of the other one EoS are too small. These small numbers can be interpreted as the property of secondary object observed in GW190814. As a result, our theoretical investigation of NSs constructed with two EoS can be NSs candidates for GW170817 and GW190814, respectively.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16061.pdf",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16090",
+      "title": "Godel Universe in $f(Q,T)$ gravity: Exploring causality violation and closed time-like curves",
+      "authors": [
+        "Tuhina Ghorui",
+        "Prabir Rudra",
+        "Farook Rahaman"
+      ],
+      "abstract": "Godel Universe in $f(Q,T)$ gravity: Exploring causality violation and closed time-like curves Tuhina Ghorui, Prabir Rudra, Farook Rahaman General Relativity and Quantum Cosmology (gr-qc) In this work, the classical Godel solution from general relativity is extended into the framework of modified gravity theories based on non-metricity $Q$ and the trace of the energy-momentum tensor $T$ in the context of $f(Q,T)$ gravity. The main feature of the Godel solution is the existence of closed time-like curves, which allow for causality violation and time travel. Since general relativity and its extensions do not demand spacetime to be globally causal, there is good motivation to explore such solutions. We have found classes of solutions with different matter content, like perfect fluid, cosmological constant, massless scalar field, etc. It is observed that, for suitable initial conditions, there is always a possibility of obtaining feasible solutions that violate causality in our setup. The presence of non-metricity in such solutions produces crucial deviations that are noteworthy.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16090.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16102",
+      "title": "Evolving extreme mass-ratio inspirals in a perturbed Schwarzschild spacetime",
+      "authors": [
+        "Michael LaHaye",
+        "Colin Weller",
+        "Dongjun Li",
+        "Patrick Bourg",
+        "Yanbei Chen",
+        "Huan Yang"
+      ],
+      "abstract": "Evolving extreme mass-ratio inspirals in a perturbed Schwarzschild spacetime Michael LaHaye, Colin Weller, Dongjun Li, Patrick Bourg, Yanbei Chen, Huan Yang General Relativity and Quantum Cosmology (gr-qc) In this work, we develop the modified Teukolsky formalism that describes the GW radiation from a point mass orbiting around a perturbed Schwarzschild BH. This perturbation of the background spacetime induces a secular change in the orbital phase of the point mass. In turn, this causes a modification in the GW flux, which can be used to probe the background spacetime. We explicitly apply this formalism to a bumpy Schwarzschild spacetime as a proof of principle. The results pave the way for the description of EMRIs in generic perturbed Kerr spacetime in future developments.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16102.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16112",
+      "title": "Spin-aligned inspiral waveforms from self-force and post-Newtonian theory",
+      "authors": [
+        "Loïc Honet",
+        "Josh Mathews",
+        "Geoffrey Compère",
+        "Adam Pound",
+        "Barry Wardell",
+        "Gabriel Andres Piovano",
+        "Maarten van de Meent",
+        "Niels Warburton"
+      ],
+      "abstract": "Spin-aligned inspiral waveforms from self-force and post-Newtonian theory Loïc Honet, Josh Mathews, Geoffrey Compère, Adam Pound, Barry Wardell, Gabriel Andres Piovano, Maarten van de Meent, Niels Warburton 5 pages + references + 3 pages supplementary material ; 4 figures, 1 table General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE) We present the state-of-the-art waveform model WaSABI-C for quasicircular inspirals of spinning black hole binaries with aligned or anti-aligned spins. Our model synthesizes the most up-to-date first- and second-order gravitational self-force results with high-order post-Newtonian expansions through a systematic hybridization procedure. This approach captures both strong-field and weak-field dynamics with high fidelity, enabling accurate modeling of spin-(anti)aligned inspirals across a wide parameter space. The resulting waveforms mark a significant advance in the precision of self-force-based templates, providing critical input for the detection and interpretation of gravitational waves from compact binaries with future observatories such as LISA and ET. We accompany this work with the release of WaSABI (Waveform Simulations of Asymmetric Binary Inspirals), a public package implementing our model for community use and further development.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16112.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16113",
+      "title": "Post-adiabatic self-force waveforms: slowly spinning primary and precessing secondary",
+      "authors": [
+        "Josh Mathews",
+        "Barry Wardell",
+        "Adam Pound",
+        "Niels Warburton"
+      ],
+      "abstract": "Post-adiabatic self-force waveforms: slowly spinning primary and precessing secondary Josh Mathews, Barry Wardell, Adam Pound, Niels Warburton General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE) Recent progress in gravitational self-force theory has led to the development of a first post-adiabatic (1PA) waveform model for nonspinning, quasicircular compact binaries [Phys. Rev. Lett. 130, 241402 (2023)]. In this paper, we extend that model to allow for a slowly spinning primary black hole and a generic, precessing spin on the secondary object, restricting to the case of small misalignment between the primary spin and the orbital angular momentum. We demonstrate excellent agreement between our waveforms and fully nonlinear numerical relativity simulations for mass ratios $q\\gtrsim 5$ and primary spins $|\\chi_1|\\lesssim 0.1$ and arbitrary secondary spin $\\chi_2 \\lesssim 1$. In particular we present the re-summed 1PAT1R waveform model, which significantly improves the accuracy of the original 1PAT1 waveforms for comparable masses and increasing primary spin. Our models are publicly available in the WaSABI package.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16113.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16114",
+      "title": "Hybrid waveform model for asymmetric spinning binaries: Self-force meets post-Newtonian theory",
+      "authors": [
+        "Loïc Honet",
+        "Adam Pound",
+        "Geoffrey Compère"
+      ],
+      "abstract": "Hybrid waveform model for asymmetric spinning binaries: Self-force meets post-Newtonian theory Loïc Honet, Adam Pound, Geoffrey Compère This paper is the second out of three from our series of spin papers. 43 pages; 14 figures; 1 table General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE) We develop and implement a new hybrid waveform model for quasicircular inspirals with a spinning primary and nonspinning secondary, excluding the merger and ringdown. This model, which is a core component of the more extensive WaSABI-C model, consistently assembles all available first-order self-force and post-Newtonian results through a hybridization procedure without any tuning to numerical relativity, making it particularly suited for intermediate to extreme mass ratios. For almost all masses and primary spins, the resulting hybrid model significantly improves the faithfulness of both post-Newtonian and adiabatic self-force waveforms considered separately. We provide detailed comparisons with 50 simulations from the SXS catalog with mass ratios ranging from 1 to 15 and primary spins ranging from -0.8 to 0.8. The hybrid model improves the median mismatch against numerical relativity waveforms by a factor of 2000 with respect to adiabatic waveforms and 40 with respect to post-Newtonian waveforms. The mismatches are comparable to those obtained from the SEOBNRv5EHM model in the quasicircular limit over most of the parameter space covered by NR simulations.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16114.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16228",
+      "title": "Observational constraints on the modified cosmology inspired by string T-duality",
+      "authors": [
+        "G.G.Luciano",
+        "A. Paliathanasis",
+        "A. Sheykhi"
+      ],
+      "abstract": "Observational constraints on the modified cosmology inspired by string T-duality G.G.Luciano, A. Paliathanasis, A. Sheykhi 10 pages, 2 figures, 2 tables. Comments are welcome General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th) We explore the cosmological consequences of a modified cosmology inspired by string T-duality. We incorporate the zero-point length correction, $l_0$, into the gravitational potential and derive the modified Friedmann equations via thermodynamic approach at the apparent horizon of a Friedmann-Robertson-Walker (FRW) universe. The resulting framework introduces a dimensionless coupling parameter $\\beta\\sim l_0^2H_0^2$ quantifying deviations from the standard $\\Lambda$CDM model. Using Bayesian inference with \\textsc{Cobaya} and MCMC sampling, we constrain the model parameter against late-time observations, including PantheonPlus and Union3 Type~Ia supernovae, cosmic chronometers, DESI~DR2 BAO measurements, and Amati-calibrated GRBs. The joint analysis yields an upper bound $\\beta \\lesssim \\mathcal{O}(10^{-3})$ (68\\% C.L.), implying that departures from $\\Lambda$CDM are extremely small within current precision. Model comparison through the Akaike Information Criterion shows that the $\\Lambda$CDM and T-duality models provide statistically equivalent fits to the data, exhibiting only a marginal preference for $\\Lambda$CDM. These results provide the first quantitative observational constraints on string T-duality inspired modified cosmology and underscore the potential of future high-precision surveys to test quantum-gravity induced corrections in a late-time universe.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16228.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16260",
+      "title": "Schwarzschild Black Hole Coupled with a Cloud of Strings Immersed in King Dark Matter Halo",
+      "authors": [
+        "Faizuddin Ahmed",
+        "Edilberto O. Silva"
+      ],
+      "abstract": "Schwarzschild Black Hole Coupled with a Cloud of Strings Immersed in King Dark Matter Halo Faizuddin Ahmed, Edilberto O. Silva General Relativity and Quantum Cosmology (gr-qc) In this paper, we examine the geodesic and thermodynamic properties of a Schwarzschild black hole with a cloud of strings (known as the Letelier black hole) immersed in a King dark matter (KDM) halo under an isotropic configuration. The dynamics of both photons and massive particles are analyzed in detail using the effective potential formalism, including particle trajectories, the photon sphere, black hole shadow, and the innermost stable circular orbits (ISCOs). Particular emphasis is placed on how the presence of the KDM halo modifies these geometric and dynamical features. Furthermore, we explore the topological characteristics of photon rings by constructing a normalized vector field, following Duan\\textquotesingle{}s topological current $\\phi$-mapping theory, and demonstrate how this field is influenced by both the string cloud and the KDM halo. In the thermodynamic context, we analyze the impact of the KDM halo and the string cloud on the Hawking temperature, Gibbs free energy, thermal stability, and phase transitions of the black hole. Finally, we examine the thermodynamic topology of the system using a theoretical framework that incorporates a generalized Helmholtz free energy and topological current theory. In both the photon sphere and thermodynamic analyses, we show that the string cloud parameter shifts the location of the zero point of the vector field in the equatorial plane. Specifically, in the photon sphere case, the radius of the photon sphere increases with increasing values of the string cloud parameter, while in the thermodynamic topology, the horizon radius decreases as the string cloud parameter increases.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16260.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16300",
+      "title": "Vacuum polarization and stress-energy of a quantum field inside of two-dimensional black holes",
+      "authors": [
+        "Paul R. Anderson",
+        "Amanda Peake",
+        "Shohreh Gholizadeh Siahmazgi"
+      ],
+      "abstract": "Vacuum polarization and stress-energy of a quantum field inside of two-dimensional black holes Paul R. Anderson, Amanda Peake, Shohreh Gholizadeh Siahmazgi General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) Quantum effects are studied in both Schwarzschild spacetime and a spacetime in which a null shell collapses to form a black hole via the vacuum polarization $\\langle \\phi^2 \\rangle$ and stress-energy tensor $\\langle T_{ab} \\rangle$ for a massless minimally-coupled scalar field in two dimensions. For Schwarzschild spacetime, the Boulware, Unruh, and Hartle-Hawking states are considered. For the collapsing null shell spacetime, the \\textit{in} vacuum state is used. Instabilities of the Unruh, Hartle-Hawking, and \\textit{in} states resulting from the behavior of $\\langle \\phi^2 \\rangle$ in the regions inside and outside of the horizon are found. The question of how well the Unruh state for the eternal black hole approximates quantum effects in the interior of a black hole that forms from collapse is addressed.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16300.pdf",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16315",
+      "title": "Charged particle bound orbits around magnetized Schwarzschild black holes: S2 star and hotspot applications",
+      "authors": [
+        "Uktamjon Uktamov",
+        "Mohsen Fathi",
+        "Javlon Rayimbaev"
+      ],
+      "abstract": "Charged particle bound orbits around magnetized Schwarzschild black holes: S2 star and hotspot applications Uktamjon Uktamov, Mohsen Fathi, Javlon Rayimbaev General Relativity and Quantum Cosmology (gr-qc) The dynamics of charged particles around magnetized black holes provide valuable insights into astrophysical processes near compact objects. In this work, we investigate the bound and unbound trajectories of charged particles in the vicinity of a Schwarzschild black hole immersed in an external, uniform magnetic field. By analyzing the effective potential and solving the corresponding equations of motion, we classify the possible orbital configurations and identify the critical parameters governing the transition between stable and escape trajectories. The influence of the magnetic field strength and particle charge on the orbital structure, energy, and angular momentum is systematically explored. Applications of the obtained results are discussed in the context of the S2 star orbiting Sagittarius A* and the motion of bright hotspots detected near the event horizon, offering a potential interpretation of recent observations in terms of magnetized dynamics. The study contributes to a deeper understanding of charged-particle motion around black holes and its relevance to high-energy astrophysical phenomena in the galactic center.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16315.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16460",
+      "title": "Constraining Black Hole Shadows in Dunkl Spacetime using CUDA Numerical Computations",
+      "authors": [
+        "Saad Eddine Baddis",
+        "Adil Belhaj",
+        "Hajar Belmahi",
+        "Maryem Jemri"
+      ],
+      "abstract": "Constraining Black Hole Shadows in Dunkl Spacetime using CUDA Numerical Computations Saad Eddine Baddis, Adil Belhaj, Hajar Belmahi, Maryem Jemri 22 pages, 8 figures, 2 tables, Latex, Authors are listed in alphabetical order General Relativity and Quantum Cosmology (gr-qc); Instrumentation and Methods for Astrophysics (astro-ph.IM); High Energy Physics - Theory (hep-th) With the help of CUDA high-performance numerical codes exploited in machine learning, we investigate the shadow aspect of new rotating and charged black holes using the Dunkl derivative formalism. Precisely, we first establish the corresponding metric function encoding the involved physical properties including the optical character. Exploiting such accelerated simulations, we approach the horizon radius behaviors in order to determine the regions of the module space providing physical solutions. Applying the Hamilton-Jacobi mechanism, we assess the shadow aspect for non-rotating and rotating solutions. Using such an aspect, we evaluate the energy rate of emission. Developing a high-performance CUDA numerical code, we derive strict constraints on the Dunkl deformation parameters in order to establish a link with the shadow observations provided by the Event Horizon Telescope collaboration.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16460.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM",
+        "hep-th"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16479",
+      "title": "Frame Dependence of Bound on Lyapunov Exponent in Dilatonic Reissner-Nordström-AdS and Kerr-Sen-AdS Black Holes",
+      "authors": [
+        "Hocheol Lee",
+        "Bogeun Gwak"
+      ],
+      "abstract": "Frame Dependence of Bound on Lyapunov Exponent in Dilatonic Reissner-Nordström-AdS and Kerr-Sen-AdS Black Holes Hocheol Lee, Bogeun Gwak General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) We investigate the frame dependence of the Lyapunov exponent bound for charged particles in dilatonic Reissner-Nordström-AdS and Kerr-Sen-AdS black hole backgrounds, derived from Einstein-Maxwell-dilaton theory and the low-energy effective action of heterotic string theory, respectively. The analysis is performed in both the Einstein and string (Jordan) frames to examine the influence of conformal transformations on chaotic behavior. For massless particles, the Lyapunov exponent remains invariant under frame transformations, whereas for massive particles, it exhibits frame dependence owing to coupling to the dilaton field. Our results indicate sensitivity of the bound on chaos to the choice of frame. Depending on various parameters, the bound can be satisfied in the Einstein frame and violated in the string frame, while the opposite situation may occur for different parameter values. Numerical computations corroborate the findings of our analysis and demonstrate modifications in the chaotic behavior of string-inspired black holes induced by the dilaton field and the choice of frame.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16479.pdf",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16520",
+      "title": "The deep-MOND limit -- a study in Primary vs secondary predictions",
+      "authors": [
+        "Mordehai Milgrom"
+      ],
+      "abstract": "The deep-MOND limit -- a study in Primary vs secondary predictions Mordehai Milgrom 13 pages, 3 figures, Bases on a talk presented at the MOND workshop, Leiden, September 2025 General Relativity and Quantum Cosmology (gr-qc); Astrophysics of Galaxies (astro-ph.GA); High Energy Physics - Phenomenology (hep-ph) In default of a fundamental MOND theory -- a FUNDAMOND -- I advocate that, alongside searching for one, we should try to identify predictions that follow from wide classes of MOND theories, if not necessarily from all. In particular, predictions that follow from only the basic tenets of MOND -- ``primary predictions'' -- are shared by all MOND theories, and are especially valuable. Such predictions permit us to test the MOND paradigm itself, or at least large parts of it, without yet having a FUNDAMOND. Concentrating on the deep-MOND limit, I discuss examples of either type of predictions. For some examples of primary predictions, I demonstrate how they follow from the basic tenets (which I first formulate). I emphasize that even predictions that pertain to the deep-MOND limit - namely, those that concern gravitating systems that have low accelerations everywhere -- require the full set of MOND tenets, including the existence of a Newtonian limit close to the deep-MOND regime. This is because Newtonian dynamics is a unique theory that all MOND theories must tend to in the limit of high accelerations, and it strongly constrains aspects of the deep-MOND regime, if the transition between the limits is fast enough, which is one of the MOND tenets.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16520.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.GA",
+        "hep-ph"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16577",
+      "title": "Energy-Momentum Surfaces: A Differential Geometric Framework for Dispersion Relations",
+      "authors": [
+        "Gines R. Perez Teruel"
+      ],
+      "abstract": "Energy-Momentum Surfaces: A Differential Geometric Framework for Dispersion Relations Gines R. Perez Teruel Accepted for publication in IJGMMP General Relativity and Quantum Cosmology (gr-qc) We propose a geometric framework where dispersion relations are viewed as parametric surfaces in energy-momentum space. Within this picture, the presence and type of critical points of the surface emerge as clear geometric signatures of kinematical restrictions. The Newtonian relation corresponds to a developable surface with no critical points, reflecting the absence of invariant limits. Special Relativity generates a saddle point and globally negative curvature, encoding the universal light cone. Modified dispersion relations may introduce additional critical points, signaling new invariant energy scales or thresholds. This unifying approach not only recasts known results in a transparent geometric language but also provides a simple diagnostic tool for exploring departures from Lorentz invariance and their physical implications.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16577.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16589",
+      "title": "Structure formation in a non-canonical scalar field model of clustering dark energy",
+      "authors": [
+        "Zanyar Ebrahimi",
+        "Kayoomars Karami"
+      ],
+      "abstract": "Structure formation in a non-canonical scalar field model of clustering dark energy Zanyar Ebrahimi, Kayoomars Karami General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th) This paper examines the growth of dark matter and dark energy perturbations within a non-canonical scalar field model characterized by an exponential potential. Through dynamical system analysis, we identify critical points and track the background evolution of a spatially flat FLRW universe dominated by dark energy and pressureless dark matter. We systematically derive key cosmological quantities, including the Hubble parameter, deceleration parameter, density parameters, and the scalar field's equation of state, and explore their dependence on model parameters. Within the linear perturbation framework, employing the pseudo-Newtonian formalism, we compute the growth factor of matter density perturbations. To investigate the non-linear regime of structure formation, we employ the spherical collapse model and derive its key parameters. Building on these findings, we compute the function $f(z)\\sigma_8(z)$ and the relative number density of halo objects exceeding a given mass threshold. Our results indicate that non-canonical scalar field models can effectively account for both background cosmic evolution and the growth of structure, offering potential insights into observational constraints and large-scale dynamics.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16589.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16603",
+      "title": "Flux-Conservative BDNK Hydrodynamics and Shock Regularization",
+      "authors": [
+        "Nicolas Clarisse",
+        "Eduardo O. Pinho",
+        "Teerthal Patel",
+        "Fabio S. Bemfica",
+        "Mauricio Hippert",
+        "Jorge Noronha"
+      ],
+      "abstract": "Flux-Conservative BDNK Hydrodynamics and Shock Regularization Nicolas Clarisse, Eduardo O. Pinho, Teerthal Patel, Fabio S. Bemfica, Mauricio Hippert, Jorge Noronha 31 pages, 14 figures + appendices General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Nuclear Theory (nucl-th) We present a new, first-order, flux-conservative formulation of relativistic viscous hydrodynamics in the BDNK framework, applicable to conformal and nonconformal fluids at zero chemical potential. Focusing on the conformal case in 1+1 dimensions, we numerically solve the equations of motion for two classes of consistent initial data and assess the robustness of the resulting solutions with respect to changing the hydrodynamic frame. Our flux-conservative formulation does not exhibit spurious oscillatory structures within the regime of validity of BDNK theory (the hydrodynamic-frame-robust regime), corresponding to sufficiently small Knudsen numbers. Using this flux-conservative approach, we numerically investigate the potential formation of shocks and their fate in BDNK in 1+1D using smooth initial data known to produce shocks in the relativistic Euler equations. For the type of initial data we consider, we show that the sharp features formed in Euler are prevented by the hyperbolic viscous BDNK equations. The prevention of shock formation we observe occurs in the frame-robust regime of BDNK. This, however, does not preclude the formation of shocks in BDNK for different smooth initial data. The reliability of our results is supported by systematic numerical convergence testing, which is used to assess shock indicators, simulation performance, and the robustness of solutions for different hydrodynamic frames.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16603.pdf",
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "nucl-th"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16631",
+      "title": "The effects of strong gravity on the dispersion relation of massive particles in the Kaluza-Klein theory",
+      "authors": [
+        "Anna Horváth",
+        "Aneta Wojnar",
+        "Gergely Gábor Barnaföldi"
+      ],
+      "abstract": "The effects of strong gravity on the dispersion relation of massive particles in the Kaluza-Klein theory Anna Horváth, Aneta Wojnar, Gergely Gábor Barnaföldi General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) We derive a modified dispersion relation for massive particles within the frameworks of five-dimensional Kaluza-Klein theory and general relativity, taking into account strong gravitational effects. The resulting effective mass depends on the curvature of the underlying phase space. Notably, in regions with strong gravitational fields, the effective mass may become imaginary, implying the possibility of particle decay induced by spacetime curvature.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16631.pdf",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16639",
+      "title": "Quasinormal Modes of Massive Scalar Perturbations in Slow-Rotation Bumblebee Black Holes with Traceless Conformal Electrodynamics",
+      "authors": [
+        "Yassine Sekhmani",
+        "Wentao Liu",
+        "Weike Deng",
+        "Kuantay Boshkayev"
+      ],
+      "abstract": "Quasinormal Modes of Massive Scalar Perturbations in Slow-Rotation Bumblebee Black Holes with Traceless Conformal Electrodynamics Yassine Sekhmani, Wentao Liu, Weike Deng, Kuantay Boshkayev General Relativity and Quantum Cosmology (gr-qc) We study electrically charged, slowly rotating black hole solutions in Einstein-Bumblebee gravity coupled to the traceless (conformal) ModMax nonlinear electrodynamics. By adopting a quadratic bumblebee potential that fixes the vacuum expectation value of the Lorentz-violating vector, we derive both the static configuration and its first-order rotating extension and demonstrate how the bumblebee parameter $\\ell$ and the ModMax deformation $\\gamma$ modify the horizon structure and the effective electric charge. We further investigate the dynamical properties of this spacetime by considering a massive scalar field perturbation. Using two independent numerical techniques, we compute the quasinormal mode (QNM) spectra and perform a comprehensive analysis of the influence of all relevant parameters, including the black hole spin, the Lorentz-violating coupling, the ModMax deformation, and the scalar field mass. Our results reveal coherent trends in the QNM frequencies, highlighting the interplay between Lorentz-symmetry breaking and nonlinear electrodynamics effects in black hole dynamics.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16639.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16731",
+      "title": "Exact Black Hole Solutions in Bumblebee Gravity with Lightlike or Spacelike VEVS",
+      "authors": [
+        "Jia-Zhou Liu",
+        "Shan-Ping Wu",
+        "Shao-Wen Wei",
+        "Yu-Xiao Liu"
+      ],
+      "abstract": "Exact Black Hole Solutions in Bumblebee Gravity with Lightlike or Spacelike VEVS Jia-Zhou Liu, Shan-Ping Wu, Shao-Wen Wei, Yu-Xiao Liu General Relativity and Quantum Cosmology (gr-qc) Motivated by recent developments in Lorentz-violating theories of gravity, we obtain new black hole solutions within the framework of bumblebee gravity where the bumblebee vector field has two independent nonzero components and acquires either a lightlike or spacelike vacuum expectation value. Within this framework, we first derive new Schwarzschild-like and Schwarzschild-(A)dS black hole solutions. We first obtain Schwarzschild-like and Schwarzschild-(A)dS-like solutions in this framework. By further introducing a nonminimally coupled electromagnetic field, we obtain new charged black hole solutions. These solutions extend previous results through the inclusion of additional Lorentz-violating parameters. Remarkably, we find that even for lightlike vacuum expectation values, the black hole solutions retain corrections arising from the Lorentz-violating parameter. Furthermore, we present a preliminary analysis of the thermodynamic properties associated with these new solutions. Similar to previous studies that reported a mismatch between the black hole entropy and the Wald entropy in bumblebee gravity with spacelike vacuum expectation values, our solutions with spacelike vacuum expectation values exhibit the same behavior. However, we find that the two entropies coincide in the lightlike case considered here.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16731.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16762",
+      "title": "Globally defined Carroll symmetry of gravitational waves",
+      "authors": [
+        "Mahmut Elbistan",
+        "Peng-Ming Zhang",
+        "Peter Horvathy"
+      ],
+      "abstract": "Globally defined Carroll symmetry of gravitational waves Mahmut Elbistan, Peng-Ming Zhang, Peter Horvathy General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph) The locally defined Carroll symmetry of a gravitational wave is extended to a globally defined one. Translations and Carroll boosts, associated with two independent globally defined solutions of a Sturm-Liouville equation allow us to describe the motions. The Displacement Memory Effect arises for particular choices of the parameters which yield trajectories with zero momentum. We illustrate our general statements by the Pöschl-Teller profile.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16762.pdf",
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "math-ph"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16770",
+      "title": "Contamination of transient gravitational waves in LISA data by gaps and glitches",
+      "authors": [
+        "Jonathan R. Gair",
+        "Senwen Deng",
+        "Stanislav Babak"
+      ],
+      "abstract": "Contamination of transient gravitational waves in LISA data by gaps and glitches Jonathan R. Gair, Senwen Deng, Stanislav Babak General Relativity and Quantum Cosmology (gr-qc) We present a probabilistic framework to quantify the impact of artefacts (glitches and gaps) in LISA data on transient gravitational wave signals. By modeling both artefacts and transient signals as independent Poisson processes, and characterising the contaminating effect of an artefact by an associated dead time, we estimate the probability distribution of the total contamination time during the observation period using a Normal approximation under various contamination scenarios. Using the same approach, we also estimate the probability that a population of transient signals contaminates each other. We demonstrate the validity of the Normal approximation by comparing it to the numerical distribution obtained via simulations. Our approach provides a rapid means to assess the potential impact of glitches and gaps on LISA science, and can be used as a figure of merit to evaluate different instrumental scenarios.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16770.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16903",
+      "title": "Contribution from Nonlinear Quasi-normal Modes in GW250114",
+      "authors": [
+        "Yuxin Yang",
+        "Changfu Shi",
+        "Yi-Ming Hu"
+      ],
+      "abstract": "Contribution from Nonlinear Quasi-normal Modes in GW250114 Yuxin Yang, Changfu Shi, Yi-Ming Hu General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE) We report evidence for nonlinear gravitational effects in the ringdown signal of gravitational wave event GW250114. Using Bayesian inference, we find that the inclusion of a nonlinear quasi-normal mode (220Q), a second-order harmonic predicted by general relativity, is statistically favored over the standard linear model (440 mode) when analyzing the post-merger oscillations. Specifically, models incorporating the 220Q mode yield higher Bayes factors than those including only the linear 440 mode, and produce remnant black hole parameters (mass and spin) more consistent with full numerical relativity simulations. This suggests that nonlinear mode coupling contributes significantly to the ringdown phase, opening a new avenue to probe strong-field gravity beyond linear approximations.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16903.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16971",
+      "title": "Cosmological solutions in $f(Q)$ gravity via Noether symmetry approach",
+      "authors": [
+        "M. Mahmoudzadeh Baghbani",
+        "K. Atazadeh",
+        "M. Mousavi"
+      ],
+      "abstract": "Cosmological solutions in $f(Q)$ gravity via Noether symmetry approach M. Mahmoudzadeh Baghbani, K. Atazadeh, M. Mousavi 14 pages, 3 figures, Accepted for publication by IJGMMP General Relativity and Quantum Cosmology (gr-qc) Symmetry plays a crucial role in theoretical physics, especially Noether symmetry, which is a powerful approach for identifying the models at the fundamental level. The exact solution is provided within the point-like Lagrangian framework. In this work, we study one of the alternative theories of gravity based on the non-metricity scalar $Q$, namely $f(Q)$ gravity, via Noether symmetry. We utilize Noether symmetry within the framework of $f(Q)$ gravity to derive the functional expression for $f(Q)$, which is given by $f(Q)=c(Q-nQ)^{\\frac{3}{2-2n}}$. To confirm the exact solution of the model through Noether symmetry, we continue to consider the Friedmann-Robertson-Walker (FRW) cosmology with the dynamical solution of the system using dimensionless variables and show that the accelerated expansion of the universe follows a power law scale factor. In the following, we show that the quantities corresponding to the exact solution for $n<1$ lead to an accelerated expansion universe. Finally, in the framework of $f(Q)$ scalar-tensor cosmology, we apply the Noether symmetry approach to find the cosmological models consistent with the Noether symmetry.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16971.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.17066",
+      "title": "Compact Stars in Symmetric Teleparallel Scalar-Tensor Gravity",
+      "authors": [
+        "Grigorios Panotopoulos",
+        "Andrés Lueiza",
+        "Nikolaos Dimakis",
+        "Andronikos Paliathanasis"
+      ],
+      "abstract": "Compact Stars in Symmetric Teleparallel Scalar-Tensor Gravity Grigorios Panotopoulos, Andrés Lueiza, Nikolaos Dimakis, Andronikos Paliathanasis 12 pages, 4 figures, Latex source file General Relativity and Quantum Cosmology (gr-qc) We investigate the existence of static, spherically symmetric compact objects within the framework of symmetric teleparallel scalar-tensor gravity. This theory extends the Brans-Dicke and scalar-tensor models within the symmetric teleparallel formalism. We consider a nontrivial connection that allows for genuinely nontrivial solutions in the limit of General Relativity. The field equations admit a minisuperspace description and by applying the method of variational symmetries we construct the corresponding conservation laws in vacuum. The application of these conservation laws enables the reconstruction of analytic black-hole solutions. Finally, we study the interior structure of compact objects matched to an extremal Reissner-Nordström exterior and show that the symmetric teleparallel scalar-tensor theory supports the existence of viable astrophysical objects.",
+      "pdf_url": "https://arxiv.org/pdf/2510.17066.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.17094",
+      "title": "Gertsenshtein effect on the spacetime curved by background magnetic field with geometric optics",
+      "authors": [
+        "Ryutaro Tomomatsu",
+        "Teruaki Suyama",
+        "Paolo Gondolo"
+      ],
+      "abstract": "Gertsenshtein effect on the spacetime curved by background magnetic field with geometric optics Ryutaro Tomomatsu, Teruaki Suyama, Paolo Gondolo General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO) When electromagnetic (or gravitational) waves propagate in the presence of a background magnetic field, a portion of the waves converts into gravitational (or electromagnetic) waves. This phenomenon, known as the (inverse) Gertsenshtein effect, is typically analyzed in Minkowski spacetime, neglecting the spacetime curvature induced by the magnetic field itself. This paper investigates, for the first time, the influence of spacetime curvature on the (inverse) Gertsenshtein effect. To this end, we first determine the metric perturbation from Minkowski spacetime up to second order in the magnetic field strength, assuming cylindrical symmetry. We also discuss the ambiguities in the form of the metric perturbation arising from gauge freedom and boundary conditions. Using the geometric optics approximation, we then derive a set of coupled equations governing the propagation of electromagnetic and gravitational waves in the resulting curved spacetime. These equations are solved for two specific scenarios: a plane wave and a spherical wave. From the solutions, we compute the evolution of the wave amplitudes and the associated energy fluxes. Our analysis reveals that two competing effects govern the amplitude evolution: magnification due to the focusing of waves by spacetime curvature, and attenuation due to wave conversion via the Gertsenshtein effect. In the plane wave case, these effects precisely cancel, resulting in no net change in amplitude. In contrast, for the spherical wave, the Gertsenshtein effect dominates over focusing, leading to an overall reduction in amplitude.",
+      "pdf_url": "https://arxiv.org/pdf/2510.17094.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.17097",
+      "title": "Solar system tests and neutron stars in $f(R)$ gravity revisited",
+      "authors": [
+        "Hodek M. García",
+        "Marcelo Salgado"
+      ],
+      "abstract": "Solar system tests and neutron stars in $f(R)$ gravity revisited Hodek M. García, Marcelo Salgado It is already accepted in Journal of General Relativity and Gravitation Springer General Relativity and Quantum Cosmology (gr-qc) By implementing a full non-linear treatment of $f(R)$ gravity in static and spherically symmetric spacetimes, we analyze two scenarios. The first one within the context of the solar-system tests where we try to recover the chameleon effects without any approximations in the equations (e.g. linearization) from $f(R)$ models that are compatible with cosmology. The second scenario deals with a quadratic $f(R)$ model that is tested in neutron stars. This scenario, which is associated with strong gravity, is completely independent from the first one, but exploits the fact that the equations and formalism are basically the same in both applications. The difference between the two goals lies mainly in the values of the constants involved in the specific $f(R)$ models and the equation of state (EOS) of the central object (Sun or neutron star), but the numerical techniques and the general form of the field equations remain valid in both situations. For the neutron star problem we employ for the first time and in the context of $f(R)$ gravity a multiple algebraic polytropic EOS that mimics accurately realistic EOS in several density ranges. By doing so we avoid the numerical interpolation needed when a realistic EOS is given in tabulated form. Furthermore, we compare our results with the latest data, which includes the most massive neutron star known to date of about $2.35 M_\\odot$ from PSRJ0952-0607.",
+      "pdf_url": "https://arxiv.org/pdf/2510.17097.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.17125",
+      "title": "From Stars to Waves: Non-deterministic Inference of Microlensed Gravitational Waves",
+      "authors": [
+        "Zhaoqi Su",
+        "Xikai Shan",
+        "Zhenwei Lyu",
+        "Junyao Zhang",
+        "Yebin Liu",
+        "Shude Mao",
+        "Huan Yang"
+      ],
+      "abstract": "From Stars to Waves: Non-deterministic Inference of Microlensed Gravitational Waves Zhaoqi Su, Xikai Shan, Zhenwei Lyu, Junyao Zhang, Yebin Liu, Shude Mao, Huan Yang 19 pages, 11 figures, comments are welcome! General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Astrophysical Phenomena (astro-ph.HE) Strongly lensed gravitational waves may pass through the stellar field of a lensing galaxy with additional modulations (on both phase and amplitude) due to gravitational microlensing effect of stars/remnants near the line of sight. These microlensed waveforms depend on the mass and location of thousands or more most relevant stars, so that their deterministic reconstruction from the data is computationally prohibitive. We classify the detection and parameter estimation of such events as non-deterministic inference problem and propose a solution with the implementation of normalizing flows. As a first step, we show that $8\\%$ of microlensed events can be detected with significance $\\ge 3 \\sigma$ in the third generation era, with the chosen microlensing parameters correlated with the density of the underlying stellar field. This approach opens the door to probing microlensing effects and the properties of the underlying stellar fields. A similar construction may also be applied to other non-deterministic inference problems, such as detecting post-merger gravitational waves from binary neutron star coalescence and signals from core-collapse supernovae.",
+      "pdf_url": "https://arxiv.org/pdf/2510.17125.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.HE"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.17159",
+      "title": "The spacetime geodesy of perfect fluid spheres",
+      "authors": [
+        "Christopher Simmonds",
+        "Matt Visser"
+      ],
+      "abstract": "The spacetime geodesy of perfect fluid spheres Christopher Simmonds (Victoria University of Wellington), Matt Visser (Victoria University of Wellington) V1: 30 pages total; 125 references General Relativity and Quantum Cosmology (gr-qc) Herein we argue for the utility of \"spacetime geodesy\", a point of view where one delays as long as possible worrying about dynamical equations, in favour of the maximal utilization of both symmetries and geometrical features. This closely parallels Weinberg's distinction between \"cosmography'' and \"cosmology'', wherein maximal utilization of both the symmetries and geometrical features of FLRW spacetimes is emphasized. This \"spacetime geodesy'' point of view is particularly useful in those situations where, for one reason or another, the dynamical equations of motion are either uncertain or completely unknown. Several examples are discussed -- we shall illustrate what can be done by considering the physics implications of demanding spatially isotropic Ricci tensors as a way of automatically implementing the (isotropic) perfect fluid condition, without committing to a specific equation of state. We also consider the structure of the Weyl tensor in spherical symmetry, with and without the (isotropic) perfect fluid condition, and relate this to the notion of \"complexity''.",
+      "pdf_url": "https://arxiv.org/pdf/2510.17159.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.17362",
+      "title": "Dark Energy Stars in Rastall-Rainbow Gravity: Structure, Stability and Observational Constraints",
+      "authors": [
+        "Ayan Banerjee",
+        "Bobur Turimov",
+        "Sulton Usanov",
+        "Murodbek Vapaev",
+        "Yunus Turaev",
+        "Zebo Avezmuratova"
+      ],
+      "abstract": "Dark Energy Stars in Rastall-Rainbow Gravity: Structure, Stability and Observational Constraints Ayan Banerjee, Bobur Turimov, Sulton Usanov, Murodbek Vapaev, Yunus Turaev, Zebo Avezmuratova 11 Pages, 6 Figures and 3 Tables General Relativity and Quantum Cosmology (gr-qc) In this work, we investigate static configurations of dark energy stars within the framework of Rastall-Rainbow (R-R) gravity, which combines an energy-dependent deformation of spacetime with a nonminimal coupling between matter and geometry. We begin by deriving the modified field equations corresponding to R-R gravity and subsequently reformulate the stellar structure equations to describe hydrostatic equilibrium. The generalized Tolman-Oppenheimer-Volkoff (TOV) equations are then solved numerically by adopting the modified Chaplygin equation of state to model the interior matter distribution. The R-R parameters, along with fluid constants, are shown to influence the maximum mass, radii, and stiffness of the star sequences compared to the baseline set by general relativity. We apply observational benchmarks from high-mass pulsars and binary-merger events (e.g., GW170817 and GW190814) to appraise viability within the explored parameter space. The results collectively suggest that stable, causal configurations arise from physically meaningful parameter selections, with deviations from general relativity leading to systematic changes in structural characteristics while adhering to theoretical limits. These findings illustrate that Rastall-Rainbow gravity can support stable, observationally consistent dark energy stars, providing verifiable signatures in strong gravitational fields.",
+      "pdf_url": "https://arxiv.org/pdf/2510.17362.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.17398",
+      "title": "Hierarchical modeling of gravitational-wave populations for disentangling environmental and modified-gravity effects",
+      "authors": [
+        "Shubham Kejriwal",
+        "Enrico Barausse",
+        "Alvin J. K. Chua"
+      ],
+      "abstract": "Hierarchical modeling of gravitational-wave populations for disentangling environmental and modified-gravity effects Shubham Kejriwal, Enrico Barausse, Alvin J. K. Chua General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO) The upcoming Laser Interferometer Space Antenna (LISA) will detect up to thousands of extreme-mass-ratio inspirals (EMRIs). These sources will spend $\\sim 10^5$ cycles in band, and are therefore sensitive to tiny changes in the general-relativistic dynamics, potentially induced by astrophysical environments or modifications of general relativity (GR). Previous studies have shown that these effects can be highly degenerate for a single source. However, it may be possible to distinguish between them at the population level, because environmental effects should impact only a fraction of the sources, while modifications of GR would affect all. We therefore introduce a population-based hierarchical framework to disentangle the two hypotheses. Using simulated EMRI populations, we perform tests of the null vacuum-GR hypothesis and two alternative beyond-vacuum-GR hypotheses, namely migration torques (environmental effects) and time-varying $G$ (modified gravity). We find that with as few as $\\approx 20$ detected sources, our framework can statistically distinguish between these three hypotheses, and even indicate if both environmental and modified gravity effects are simultaneously present in the population. Our framework can be applied to other models of beyond-vacuum-GR effects available in the literature.",
+      "pdf_url": "https://arxiv.org/pdf/2510.17398.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.17449",
+      "title": "Observable spins in gravitational waves from compact binary mergers",
+      "authors": [
+        "Souradeep Pal"
+      ],
+      "abstract": "Observable spins in gravitational waves from compact binary mergers Souradeep Pal General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE) We investigate the measurability of effective inspiral spin in the detectable compact binary mergers using gravitational-wave observations. Measurements from the latest gravitational-wave transient catalog do not rule out the existence of binary systems with non-zero effective spins. However, we observe an apparent correlation between the inferred effective inspiral spin and the loudness of the gravitational-wave events-- loud events typically have close-to-zero effective spins whereas fainter events tend to be inferred with relatively arbitrary effective spins. Through simulations, we demonstrate that non-negligible effective spins can be systematically inferred from non-spinning systems at small signal strengths. These two observations support the possibility that the effective spin magnitudes in the observable compact binaries are generally small. Future detections can have potential impact on the understanding of their population and other astrophysical inferences.",
+      "pdf_url": "https://arxiv.org/pdf/2510.17449.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.17468",
+      "title": "Robustness Analysis and Controller Design of Arm-locking System in Space-based Gravitational Wave Detectors",
+      "authors": [
+        "Yongbin Shao",
+        "Xinyi Zhao",
+        "Long Ma",
+        "Ming Xin"
+      ],
+      "abstract": "Robustness Analysis and Controller Design of Arm-locking System in Space-based Gravitational Wave Detectors Yongbin Shao, Xinyi Zhao, Long Ma, Ming Xin General Relativity and Quantum Cosmology (gr-qc); Instrumentation and Methods for Astrophysics (astro-ph.IM) Arm-locking frequency stabilization is a key technique for suppressing laser frequency noise in space-based gravitational-wave detectors. The robustness of the arm-locking control loop is crucial for maintaining laser frequency stability, which directly impacts the accuracy of gravitational-wave measurements. In this work, a parametric stability analysis framework is developed by combining the D-subdivision theory with the Semi-Discretization method to map the stability regions of arm-locking systems in the parameter space and identify their critical stability boundaries. Based on the frequency-domain characteristics, a robust arm-locking controller is designed to enhance loop stability under parameter perturbations. Theoretical analysis and time-domain simulations confirm that the proposed controller maintains closed-loop stability and realize suppression of laser frequency noise against parameter perturbation.",
+      "pdf_url": "https://arxiv.org/pdf/2510.17468.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.17487",
+      "title": "Directional Search for Persistent Gravitational Waves: Results from the First Part of LIGO-Virgo-KAGRA's Fourth Observing Run",
+      "authors": [
+        "The LIGO Scientific Collaboration",
+        "the Virgo Collaboration",
+        "the KAGRA Collaboration: A. G. Abac",
+        "I. Abouelfettouh",
+        "F. Acernese",
+        "K. Ackley",
+        "C. Adamcewicz",
+        "S. Adhicary",
+        "D. Adhikari",
+        "N. Adhikari",
+        "R. X. Adhikari",
+        "V. K. Adkins",
+        "S. Afroz",
+        "A. Agapito",
+        "D. Agarwal",
+        "M. Agathos",
+        "N. Aggarwal",
+        "S. Aggarwal",
+        "O. D. Aguiar",
+        "I.-L. Ahrend",
+        "L. Aiello",
+        "A. Ain",
+        "P. Ajith",
+        "T. Akutsu",
+        "S. Albanesi",
+        "W. Ali",
+        "S. Al-Kershi",
+        "C. Alléné",
+        "A. Allocca",
+        "S. Al-Shammari",
+        "P. A. Altin",
+        "S. Alvarez-Lopez",
+        "W. Amar",
+        "O. Amarasinghe",
+        "A. Amato",
+        "F. Amicucci",
+        "C. Amra",
+        "A. Ananyeva",
+        "S. B. Anderson",
+        "W. G. Anderson",
+        "M. Andia",
+        "M. Ando",
+        "M. Andrés-Carcasona",
+        "T. Andrić",
+        "J. Anglin",
+        "S. Ansoldi",
+        "J. M. Antelis",
+        "S. Antier",
+        "M. Aoumi",
+        "E. Z. Appavuravther",
+        "S. Appert",
+        "S. K. Apple",
+        "K. Arai",
+        "A. Araya",
+        "M. C. Araya",
+        "M. Arca Sedda",
+        "J. S. Areeda",
+        "N. Aritomi",
+        "F. Armato",
+        "S. Armstrong",
+        "N. Arnaud",
+        "M. Arogeti",
+        "S. M. Aronson",
+        "G. Ashton",
+        "Y. Aso",
+        "L. Asprea",
+        "M. Assiduo",
+        "S. Assis de Souza Melo",
+        "S. M. Aston",
+        "P. Astone",
+        "F. Attadio",
+        "F. Aubin",
+        "K. AultONeal",
+        "G. Avallone",
+        "E. A. Avila",
+        "S. Babak",
+        "C. Badger",
+        "S. Bae",
+        "S. Bagnasco",
+        "L. Baiotti",
+        "R. Bajpai",
+        "T. Baka",
+        "A. M. Baker",
+        "K. A. Baker",
+        "T. Baker",
+        "G. Baldi",
+        "N. Baldicchi",
+        "M. Ball",
+        "G. Ballardin",
+        "S. W. Ballmer",
+        "S. Banagiri",
+        "B. Banerjee",
+        "D. Bankar",
+        "T. M. Baptiste",
+        "P. Baral",
+        "M. Baratti",
+        "J. C. Barayoga",
+        "B. C. Barish",
+        "D. Barker"
+      ],
+      "abstract": "Directional Search for Persistent Gravitational Waves: Results from the First Part of LIGO-Virgo-KAGRA's Fourth Observing Run The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration: A. G. Abac, I. Abouelfettouh, F. Acernese, K. Ackley, C. Adamcewicz, S. Adhicary, D. Adhikari, N. Adhikari, R. X. Adhikari, V. K. Adkins, S. Afroz, A. Agapito, D. Agarwal, M. Agathos, N. Aggarwal, S. Aggarwal, O. D. Aguiar, I.-L. Ahrend, L. Aiello, A. Ain, P. Ajith, T. Akutsu, S. Albanesi, W. Ali, S. Al-Kershi, C. Alléné, A. Allocca, S. Al-Shammari, P. A. Altin, S. Alvarez-Lopez, W. Amar, O. Amarasinghe, A. Amato, F. Amicucci, C. Amra, A. Ananyeva, S. B. Anderson, W. G. Anderson, M. Andia, M. Ando, M. Andrés-Carcasona, T. Andrić, J. Anglin, S. Ansoldi, J. M. Antelis, S. Antier, M. Aoumi, E. Z. Appavuravther, S. Appert, S. K. Apple, K. Arai, A. Araya, M. C. Araya, M. Arca Sedda, J. S. Areeda, N. Aritomi, F. Armato, S. Armstrong, N. Arnaud, M. Arogeti, S. M. Aronson, G. Ashton, Y. Aso, L. Asprea, M. Assiduo, S. Assis de Souza Melo, S. M. Aston, P. Astone, F. Attadio, F. Aubin, K. AultONeal, G. Avallone, E. A. Avila, S. Babak, C. Badger, S. Bae, S. Bagnasco, L. Baiotti, R. Bajpai, T. Baka, A. M. Baker, K. A. Baker, T. Baker, G. Baldi, N. Baldicchi, M. Ball, G. Ballardin, S. W. Ballmer, S. Banagiri, B. Banerjee, D. Bankar, T. M. Baptiste, P. Baral, M. Baratti, J. C. Barayoga, B. C. Barish, D. Barker Main paper: 11 pages and 4 figures; Total with appendices: 39 pages and 12 figures General Relativity and Quantum Cosmology (gr-qc); Instrumentation and Methods for Astrophysics (astro-ph.IM); High Energy Physics - Experiment (hep-ex) The angular distribution of gravitational-wave power from persistent sources may exhibit anisotropies arising from the large-scale structure of the Universe. This motivates directional searches for astrophysical and cosmological gravitational-wave backgrounds, as well as continuous-wave emitters. We present results of such a search using data from the first observing run through the first portion of the fourth observing run of the LIGO-Virgo-KAGRA Collaborations. We apply gravitational-wave radiometer techniques to generate skymaps and search for both narrowband and broadband persistent gravitational-wave sources. Additionally, we use spherical harmonic decomposition to probe spatially extended sources. No evidence of persistent gravitational-wave signals is found, and we set the most stringent constraints to date on such emissions. For narrowband point sources, our sensitivity estimate to effective strain amplitude lies in the range $(0.03 - 8.4) \\times 10^{-24}$ across all sky and frequency range $(20 - 160)$ Hz. For targeted sources -- Scorpius X-1, SN 1987A, the Galactic Center, Terzan 5, and NGC 6397 -- we constrain the strain amplitude with best limits ranging from $\\sim 1.1 \\times 10^{-25}$ to $6.5 \\times 10^{-24}$. For persistent broadband sources, we constrain the gravitational-wave flux $F_{\\alpha, \\hat{n}}^{95\\%, \\mathrm{UL}}(25\\, \\mathrm{Hz}) < (0.008 - 5.5) \\times 10^{-8}\\, \\mathrm{erg\\, cm^{-2}\\, s^{-1}\\, Hz^{-1}}$, depending on the sky direction $\\hat{n}$ and spectral index $\\alpha=0,\\,2/3,\\,3$. Finally, for extended sources, we place upper limits on the strain angular power spectrum $C_\\ell^{1/2} < (0.63 - 17) \\times 10^{-10} \\,\\mathrm{sr}^{-1}$.",
+      "pdf_url": "https://arxiv.org/pdf/2510.17487.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM",
+        "hep-ex"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.17488",
+      "title": "A Higher-Derivative Hubble Parameter Dark Energy Model: Cosmological Analysis and Scalar Field Correspondence",
+      "authors": [
+        "Antonio Pasqua"
+      ],
+      "abstract": "A Higher-Derivative Hubble Parameter Dark Energy Model: Cosmological Analysis and Scalar Field Correspondence Antonio Pasqua General Relativity and Quantum Cosmology (gr-qc) In this work, we study a Dark Energy (DE) energy density model which depends on the Hubble parameter squared $H^2$ and on its first, second and third time derivatives $\\dot{H}$, $\\ddot{H}$ and $\\dddot{H}$. Considering a scale factor $a$ with a power-law dependence on the time (with $n$ indicating the power-law index), we obtain some important cosmological quantities as function of the , like the energy densities of Matter $\\rho_m$ and of DE $\\rho_D$, the fractional energy densities of DM $\\Omega_m$ and of DE $\\Omega_D$, the Hubble parameter squared $H^2$, the deceleration parameter $q$, the evolutionary form of the fractional energy density of DE $\\Omega'_D$, the pressure of DE $p_D$ and the Equation of State (EoS) parameter of DE $\\omega_D$, for both non interacting and interacting cases. For the interacting case, we consider 9 different interacting term $Q$, all functions of the Hubble parameter $H$ and/or of $\\rho_m$ and $\\rho_D$. Finally, we establish a correspondence between the DE model we study and some scalar field theories, including tachyon, k-essence, quintessence, Dirac-Born-Infeld (DBI), Yang-Mills (YM) and Nonlinear Electrodynamics (NLED) fields.",
+      "pdf_url": "https://arxiv.org/pdf/2510.17488.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.17499",
+      "title": "Tilt-to-length noise subtraction with pointing jitters from closed-loop dynamics for TianQin",
+      "authors": [
+        "Yuzhou Fang",
+        "Dexuan Zhang",
+        "Dezhi Wang",
+        "Xuefeng Zhang",
+        "Huizong Duan",
+        "Hongyin Li",
+        "Junxiang Lian",
+        "Guoying Zhao"
+      ],
+      "abstract": "Tilt-to-length noise subtraction with pointing jitters from closed-loop dynamics for TianQin Yuzhou Fang, Dexuan Zhang, Dezhi Wang, Xuefeng Zhang, Huizong Duan, Hongyin Li, Junxiang Lian, Guoying Zhao General Relativity and Quantum Cosmology (gr-qc); Instrumentation and Methods for Astrophysics (astro-ph.IM); Instrumentation and Detectors (physics.ins-det) TianQin is a proposed space-based mission for gravitational wave detection, employing a constellation of three drag-free satellites in high Earth orbits to form a laser interferometric observatory. A critical technical challenge is mitigating tilt-to-length (TTL) coupling noise, which is expected to be the third dominant noise source after laser frequency and clock noises. This noise is unavoidable in the presence of the residual angular movement of satellites, movable optical subassemblies (MOSAs), and test masses (TMs), and needs to be subtracted after reducing the first two types of noises using time-delay interferometry (TDI). Previous works have shown that TTL coupling coefficients can be estimated from the null TDI channel $\\zeta$ and used for noise subtraction in other combinations. However, it was found that correlated MOSA yaw jitters have a negative impact on the TTL calibration, and the effects of realistic residual angular jitters from drag-free and pointing control (DFPC) are yet to be investigated. In this paper, we use closed-loop DFPC simulations to generate more realistic jitters in the science mode and test TTL calibration capability. Our simulations reveal that rotating only one MOSA is more favorable, compared to symmetrically rotating two MOSAs, for enhancing the accuracy of TTL coefficient estimation, while employing only high-frequency data (0.1 - 1 Hz). Moreover, we propose two other methods to further improve estimation accuracy. Firstly, using different null channel combinations, such as $C_3^{14}$, enhances the least squares estimation accuracy even in the case of high correlations in MOSAs' yaw jitters. Secondly, injecting different sinusoidal artificial maneuvers to the six MOSAs also shows improvements. These methods can help TianQin to meet the 0.3 pm/Hz$^{1/2}$ requirement after the TTL noise subtraction.",
+      "pdf_url": "https://arxiv.org/pdf/2510.17499.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.17560",
+      "title": "An Extended Second Law of Thermodynamics",
+      "authors": [
+        "Alejandro Corichi",
+        "Omar Gallegos"
+      ],
+      "abstract": "An Extended Second Law of Thermodynamics Alejandro Corichi, Omar Gallegos General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph) The second law of thermodynamics constitutes a fundamental principle of physics, precluding the existence of perpetual motion machines and providing a natural definition of the arrow of time. Its scope extends across virtually all areas of physical theory. Nonetheless, certain systems are known to admit negative absolute temperatures under well-defined conditions, a phenomenon that has been experimentally observed. In this work, we formulate an \\textit{extended} version of the first and second laws, which recovers the conventional statement for positive temperatures and extends its applicability to the negative-temperature domain. Illustrative examples are discussed in the contexts of quantum cosmology and Onsager's vortices.",
+      "pdf_url": "https://arxiv.org/pdf/2510.17560.pdf",
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "math-ph"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.17600",
+      "title": "Black hole ringdown tests of gravity",
+      "authors": [
+        "Sergi Sirera"
+      ],
+      "abstract": "Black hole ringdown tests of gravity Sergi Sirera 181 pages + appendices and references, 35 figures General Relativity and Quantum Cosmology (gr-qc) Understanding gravity is at the heart of some of the biggest questions in modern physics. While General Relativity (GR) is a theoretically unique and experimentally well-tested framework, it remains important to question whether it accurately describes gravity at all scales, motivating the exploration of broader theories. Black holes (BHs) provide ideal natural laboratories for testing gravity in the strong-field regime, and the recent advent of gravitational wave (GW) astronomy has opened a new observational window into these extreme environments. In particular, the final stage of a compact binary merger$\\unicode{x2013}$the ringdown phase$\\unicode{x2013}$is of great interest. Here, the study of quasinormal modes (QNMs) offers a powerful tool to probe the fundamental nature of gravity and to extract intrinsic properties of BHs. This thesis investigates BH solutions and their QNM spectra within scalar-tensor theories of gravity$\\unicode{x2013}$well-motivated extensions of GR that include an additional scalar degree of freedom. In particular, it focuses on stealth BHs, where scalar hair exists without altering the background metric but can modify the QNM spectrum. By analysing perturbations around such spacetimes, we derive forecasted constraints on beyond-GR parameters for current and future GW detectors. Three main investigations are presented: (i) a novel method to constrain the speed of gravity using ringdown signals alone; (ii) a stability and QNM analysis of BHs with linearly time-dependent scalar hair; and (iii) a general classification of stealth solutions in higher-order scalar-tensor (HOST) theories, including a stability analysis and identification of ringdown observational signatures. Together, these studies contribute new theoretical tools and observational forecasts that advance our understanding on fundamental gravitational physics in the era of GW astronomy",
+      "pdf_url": "https://arxiv.org/pdf/2510.17600.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.17623",
+      "title": "Exploring quantum fields in rotating black holes",
+      "authors": [
+        "Christiane K.M. Klein"
+      ],
+      "abstract": "Exploring quantum fields in rotating black holes Christiane K.M. Klein 18 pages, 2 figures, invited contribution to the Special Topic on \"XXI International Congress on Mathematical Physics 2024\" in Journal of Mathematical Physics General Relativity and Quantum Cosmology (gr-qc); Mathematical Physics (math-ph) In this paper, we discuss the Unruh state for a free scalar quantum field on Kerr-de Sitter under the assumption of mode stability. We summarise the proof of its Hadamard property that was previously given in [Klein:2023] for sufficiently small black-hole rotation and cosmological constant and show how it can be generalised to any subextreme black-hole angular momentum in the same range of the cosmological constant. This is done by extending a geometric analysis of the trapped set of the Kerr spacetime [Häfner, Klein:2024] to Kerr-de Sitter. Moreover, we discuss the application of this state in the numerical study of quantum effects at the inner horizon [Klein, Soltani, Casals, Hollands:2024], and describe a universality result for these effects [Hintz, Klein: 2024].",
+      "pdf_url": "https://arxiv.org/pdf/2510.17623.pdf",
+      "categories": [
+        "gr-qc",
+        "math-ph"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.17631",
+      "title": "Photon decaying in de Sitter universe",
+      "authors": [
+        "Y. Ahmadi",
+        "M. V. Takook"
+      ],
+      "abstract": "Photon decaying in de Sitter universe Y. Ahmadi, M. V. Takook 12 pages, 4 figures. Preprint version of the article published in Journal of Theoretical and Applied Physics (2019) Journal of Theoretical and Applied Physics, Vol. 13, pp. 383-389 (2019) General Relativity and Quantum Cosmology (gr-qc) The interaction between three photons is studied in de Sitter ambient space formalism. As a special case the half harmonic generator is considered, {\\it i.e.} one photon decays to two same-energy photons. The scattering matrix elements are presented which define the indirect gravitational effect on quantum field theory. The null curvature limit of scattering matrix is obtained for comparing it with its Minkowskian counterpart. The Hamiltonian of this interaction, in Minkowski space-time, was presented by using the quantum vacuum fluctuation in the one-loop approximation.",
+      "pdf_url": "https://arxiv.org/pdf/2510.17631.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.17663",
+      "title": "Deparametrization and Quantization of Scalar-Tensor Gravity and Its Cosmological Model",
+      "authors": [
+        "Faqiang Yuan",
+        "Haida Li",
+        "Shengzhi Li",
+        "Yongge Ma"
+      ],
+      "abstract": "Deparametrization and Quantization of Scalar-Tensor Gravity and Its Cosmological Model Faqiang Yuan, Haida Li, Shengzhi Li, Yongge Ma General Relativity and Quantum Cosmology (gr-qc) The degree of freedom of the scalar field in scalar-tensor gravity is employed as 'time' to deparametrize the Hamiltonian constraint of the theory. The deparametrized system is then non-perturbatively quantized by the approach of loop quantum gravity. This results in a discrete time evolution of the physical states with respect to the gravitational degree of freedom in the quantum theory. In the corresponding Brans-Dicke cosmological model, the physical solutions to the quantum Hamiltonian constraint is obtained in the light of the deparametrization. The quantum dynamics indicates that the classical big bang singularity is replaced by a quantum bounce.",
+      "pdf_url": "https://arxiv.org/pdf/2510.17663.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.17704",
+      "title": "Einstein gravity extended by a scale covariant scalar field with Bekenstein term and dynamical mass generation",
+      "authors": [
+        "Erhard Scholz"
+      ],
+      "abstract": "Einstein gravity extended by a scale covariant scalar field with Bekenstein term and dynamical mass generation Erhard Scholz General Relativity and Quantum Cosmology (gr-qc); Astrophysics of Galaxies (astro-ph.GA) Under carefully chosen assumptions a single general relativistic scalar field is able to induce MOND-like dynamics in the weak field approximation of the Einstein frame (gauge) and to modify the light cone structure accordingly. This is shown by a Lagrangian model formulated in the framework of integrable Weyl geometry. It contains a Bekenstein-type (``aquadratic'') term and a second order term generating additional mass energy for the scalar field. Both are switched on only if the gradient of the scalar field is spacelike and below a MOND-typical threshold, like in the superfluid model of Berezhiani/Khoury. The mass term induces non-negligible energy and pressures of the scalar field and leads to gravitational light deflection compatible with MOND-ian free fall trajectories. In the weak field (Newton-Milgrom) approximation the Bekenstein term implies a deep MOND equation for the scalar field. In this model the external field effect of the MOND approach has to be reconsidered. This has important consequences for hierarchical systems like clusters, which may suffice for explaining their dynamics without additional dark matter.",
+      "pdf_url": "https://arxiv.org/pdf/2510.17704.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.GA"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.17765",
+      "title": "Phantom scalar field with arbitrary potential: accelerating scaling attractors",
+      "authors": [
+        "Sudip Halder",
+        "Supriya Pan",
+        "Paulo M. Sá",
+        "Tapan Saha"
+      ],
+      "abstract": "Phantom scalar field with arbitrary potential: accelerating scaling attractors Sudip Halder, Supriya Pan, Paulo M. Sá, Tapan Saha 15 pages including references, 3 tables and one figure; comments are welcome General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO) In this article, we investigate the dynamics of a phantom scalar field with an arbitrary potential, focusing on accelerating scaling solutions of cosmological relevance. We consider both uncoupled and coupled cosmological scenarios. In the latter case, the coupling between phantom dark energy and dark matter is motivated by the warm inflationary paradigm, with the dissipation coefficient assumed to be either constant or variable. The evolution equations of our coupled and uncoupled cosmological models are written in the form of autonomous systems, whose stability is studied using methods of qualitative analysis of dynamical systems. For this analysis, the only requirement imposed on the phantom scalar-field potential is that a specific dynamical variable, defined in terms of the potential and its derivative, must be invertible. We show that the uncoupled phantom cosmological model cannot accommodate any accelerated scaling solution, while such solutions do exist in the coupled scenario, for both constant and variable dissipation coefficients. Although there is a limitation to these scaling solutions $-$ specifically, the current stage of accelerated expansion is not preceded by a long enough matter-dominated era $-$ our results show that the existence of a direct coupling between phantom dark energy and dark matter yields great potential for addressing the cosmic coincidence problem.",
+      "pdf_url": "https://arxiv.org/pdf/2510.17765.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.17787",
+      "title": "Comprehensive analysis of time-domain overlapping gravitational wave transients: A Lensing Study",
+      "authors": [
+        "Nishkal Rao",
+        "Anuj Mishra",
+        "Apratim Ganguly",
+        "Anupreeta More"
+      ],
+      "abstract": "Comprehensive analysis of time-domain overlapping gravitational wave transients: A Lensing Study Nishkal Rao, Anuj Mishra, Apratim Ganguly, Anupreeta More General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE) Next-generation GW detectors will produce a high rate of temporally overlapping signals from unrelated compact binary coalescences. Such overlaps can bias parameter estimation (PE) and mimic signatures of other physical effects, such as gravitational lensing. In this work, we investigate how overlapping signals can be degenerate with gravitational lensing by focusing on two scenarios: Type-II strong lensing and microlensing by an isolated point-mass lens. We simulate quasicircular binary black-hole pairs with chirp-mass ratios $\\mathscr{M}_{\\rm B}/\\mathscr{M}_{\\rm A}\\in\\{0.5,\\,1,\\,2\\}$, SNR ratios $\\mathrm{SNR}_{\\rm B}/\\mathrm{SNR}_{\\rm A}\\in\\{0.5,\\,1\\}$, and coalescence-time offsets $\\Delta t_{\\rm c}\\in[-0.1,\\,0.1]~\\mathrm{s}$. Bayesian PE and fitting-factor studies show that the Type-II lensing hypothesis is favored over the unlensed quasicircular hypothesis ($\\log_{10}\\mathscr{B}^{\\rm L}_{\\rm U}>1$) only in a small region of the overlapping parameter space with $\\mathscr{M}_{\\rm B}/\\mathscr{M}_{\\rm A}\\gtrsim1$ and $|\\Delta t_{\\rm c}|\\leq0.03~\\rm{s}$.. Meanwhile, false evidence for microlensing signatures can arise because, to a reasonable approximation, the model produces two superimposed images whose time delay can closely match $|\\Delta t_{\\rm c}|$. Overall, the inferred Bayes factor depends on relative chirp-mass ratios, relative loudness, difference in coalescence times, and also the absolute SNRs of the overlapping signals. Cumulatively, our results indicate that overlapping black-hole binaries with nearly equal chirp masses and comparable loudness are likely to be falsely identified as lensed. Such misidentifications are expected to become more common as detector sensitivities improve. While our study focuses on ground-based detectors using appropriate detectability thresholds, the findings naturally extend to next-generation GW observatories.",
+      "pdf_url": "https://arxiv.org/pdf/2510.17787.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.17789",
+      "title": "Exorcising ghosts with gravitational waves: cases of ghostful and ghost-free fourth-order gravity",
+      "authors": [
+        "Gaetano Lambiase",
+        "Shinji Mukohyama",
+        "Tanmay Kumar Poddar",
+        "Anna Chiara Rescigno"
+      ],
+      "abstract": "Exorcising ghosts with gravitational waves: cases of ghostful and ghost-free fourth-order gravity Gaetano Lambiase, Shinji Mukohyama, Tanmay Kumar Poddar, Anna Chiara Rescigno 49 pages, 19 figures, comments are welcome General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Phenomenology (hep-ph) General Relativity (GR) is an effective field theory valid in the infrared regime. Quadratic curvature extensions intended to probe ultraviolet physics generically propagate a massive spin-$2$ ghost and are therefore non-unitary. One route to remove ghost is by enlarging the geometric sector (torsion, non-metricity). We investigate the infrared phenomenology of both the standard (ghostful) and ghost-free fourth-order gravity theories by computing Gravitational Wave (GW) emission and confronting the results with observations such as the orbital-period decay of quasi-stable binaries such as PSR B1913+16 and PSR J1738+0333 and the chirp-mass evolution of GW170817. In the ghostful theory, besides the theoretical inconsistency due to non-unitarity, there are also phenomenological problems: the massless spin-$2$ GW flux cancels the combined GW fluxes of the massive spin-$2$ ghost and massive spin-$0$ scalar in the vanishing-mass limit, so the GR quadrupole formula is not recovered at the leading order. As a result, we obtain the GW constraint on the ghostful theory as $m\\gtrsim 10^{-11}~\\mathrm{eV}$, where $m$ is the mass of the massive modes. By contrast, the ghost-free theory smoothly reproduces the Newtonian potential and GR quadrupole formulae when the two coupling constants $\\alpha_1$ and $\\alpha_2$ vanish, independently of the mass $m$. Therefore, GW observations put mass-dependent upper bounds on the size of the coupling constants. For example, if we assume $\\alpha_1\\simeq\\alpha_2$ for simplicity, then we obtain $\\alpha_{1,2}\\lesssim 4.2\\times 10^{83}$ for $m\\sim 3\\times 10^{-16}\\,\\mathrm{eV}$ and $\\alpha_{1,2}\\lesssim 1.3\\times 10^{75}$ for $m\\sim 10^{-11}\\,\\mathrm{eV}$. To our knowledge, these are the first astrophysical-scale bounds reported for ghostful and ghost-free fourth-order gravity.",
+      "pdf_url": "https://arxiv.org/pdf/2510.17789.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/1308.1076",
+      "title": "The equivalence between local inertial frames and electromagnetic gauge in Einstein-Maxwell theories",
+      "authors": [
+        "Alcides Garat"
+      ],
+      "abstract": "The equivalence between local inertial frames and electromagnetic gauge in Einstein-Maxwell theories Alcides Garat This is the published version of the manuscript. 10 pages. arXiv admin note: substantial text overlap with arXiv:1306.2174, arXiv:1306.0602, arXiv:1306.5784, arXiv:1306.4005 International Journal of Geometric Methods in Modern Physics Vol. 21, No. 03, 2450056 (2024) General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph) It has been proven that locally the inertial frames and gauge states of the electromagnetic field are equivalent. This proof is valid for Einstein-Maxwell theories in four-dimensional Lorentzian spacetimes. Use will be made of theorems proved in a previous manuscript. These theorems state that locally the group of electromagnetic gauge transformations is isomorphic to the local group of Lorentz transformations of a special set of tetrad vectors. The tetrad that locally and covariantly diagonalizes any non-null electromagnetic stress-energy tensor. Two isomorphisms, one for each orthogonal plane of stress-energy eigenvectors. We will discuss the opposite problem in this paper. What happens with local electromagnetic gauge when the test object under study is boosted by any mechanical means. We will prove that boosting matter is indistinguishable from introducing an appropriate local electromagnetic gauge transformation.",
+      "pdf_url": "https://arxiv.org/pdf/1308.1076.pdf",
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "math-ph"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2403.03106",
+      "title": "Understanding gravitationally induced decoherence parameters in neutrino oscillations using a microscopic quantum mechanical model",
+      "authors": [
+        "Alba Domi",
+        "Thomas Eberl",
+        "Max Joseph Fahn",
+        "Kristina Giesel",
+        "Lukas Hennig",
+        "Ulrich Katz",
+        "Roman Kemper",
+        "Michael Kobler"
+      ],
+      "abstract": "Understanding gravitationally induced decoherence parameters in neutrino oscillations using a microscopic quantum mechanical model Alba Domi, Thomas Eberl, Max Joseph Fahn, Kristina Giesel, Lukas Hennig, Ulrich Katz, Roman Kemper, Michael Kobler 28 pages, 9 figures. v4: The text has been updated with minor changes to bring it into line with the published version, added Sec. 3.2 and Fig. 5, updated some references. v3: updated the color of the axis in Fig. 1, extended the discussion in the conclusion and updated some references General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Phenomenology (hep-ph) In this work, a microscopic quantum mechanical model for gravitationally induced decoherence introduced by Blencowe and Xu is investigated in the context of neutrino oscillations. The focus is on the comparison with existing phenomenological models and the physical interpretation of the decoherence parameters in such models. The results show that for neutrino oscillations in vacuum gravitationally induced decoherence can be matched with phenomenological models with decoherence parameters of the form $\\Gamma_{ij}\\sim \\Delta m^4_{ij}E^{-2}$. When matter effects are included, the decoherence parameters exhibit a dependence on the varying matter density across the Earth layers. This behavior can be explained by the nature of the coupling between neutrinos and the gravitational wave environment, as suggested by linearised gravity. On a theoretical level, these different models can be characterised by a different choice of Lindblad operators, with the model with decoherence parameters that do not include matter effects being less suitable from the point of view of linearised gravity. Consequently, in the case of neutrino oscillations in matter, the microscopic model does not agree with many existing phenomenological models that assume constant decoherence parameters in matter. Nonetheless, we identify the KamLAND experimental setup as particularly well-suited to establish the first experimental constraints on the model parameters, namely the neutrino coupling to the gravitational wave environment and its temperature, based on a prior analysis using the phenomenological model.",
+      "pdf_url": "https://arxiv.org/pdf/2403.03106.pdf",
+      "categories": [
+        "gr-qc",
+        "hep-ph"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2409.15450",
+      "title": "Hubble-Induced Phase Transitions: Gravitational-Wave Imprint of Ricci Reheating from Lattice Simulations",
+      "authors": [
+        "Dario Bettoni",
+        "Giorgio Laverda",
+        "Asier Lopez-Eiguren",
+        "Javier Rubio"
+      ],
+      "abstract": "Hubble-Induced Phase Transitions: Gravitational-Wave Imprint of Ricci Reheating from Lattice Simulations Dario Bettoni, Giorgio Laverda, Asier Lopez-Eiguren, Javier Rubio 17 pages, minor updates to discussion and figures, matches published version General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Phenomenology (hep-ph) Gravitational waves offer an unprecedented opportunity to look into the violent high-energy processes happening during the reheating phase of our Universe. We consider a Hubble-induced phase transition scenario as a source of a post-inflationary stochastic background of gravitational waves and analyse the main characteristics of its spectrum for the first time via numerical methods. The output of a large number of fully-fledged classical lattice simulations is condensed in a set of parametric formulas that describe key features of the gravitational wave spectrum, such as its peak amplitude and characteristic frequency, and avoid the need for further time-consuming simulations. The signal from such stochastic background is compared to the prospective sensitivity of future gravitational-wave detectors.",
+      "pdf_url": "https://arxiv.org/pdf/2409.15450.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2410.23068",
+      "title": "Unexplored regions in teleparallel $f(T)$ gravity: Sign-changing dark energy density",
+      "authors": [
+        "Ozgur Akarsu",
+        "Bilal Bulduk",
+        "Antonio De Felice",
+        "Nihan Katırcı",
+        "N. Merve Uzun"
+      ],
+      "abstract": "Unexplored regions in teleparallel $f(T)$ gravity: Sign-changing dark energy density Ozgur Akarsu, Bilal Bulduk, Antonio De Felice, Nihan Katırcı, N. Merve Uzun 28 pages, 9 figures, and no tables; matches the version published in Physical Review D Phys. Rev. D 112, 083532 (2025) General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO) While $f(T)$ gravity has shown considerable potential in addressing cosmological tensions, we explore previously overlooked solution spaces that hold further promise. We examine the case where the customary assumption of a strictly positive effective DE density may not apply, offering new possibilities. Focusing on $f(T) = T e^{T_*/T}$, we investigate cosmological solutions parametrized by the parameter $\\beta = T_*/T_0$. This parameter uniquely determines $\\Omega_{\\rm m0}$, and its sign plays a crucial role in characterizing deviations from the $\\Lambda$CDM. We elaborate on the structural asymmetry between the positive- and negative-$\\beta$ branches: while the $\\beta_{+}$ leads to dynamics with modest departures from $\\Lambda$CDM, the $\\beta_{-}$ yields more pronounced and nontrivial deviations. Despite these deviations, the negative-$\\beta$ branch can remain consistent with local gravity constraints through an effective chameleon-like mechanism. We also examine the model in the context of dynamical DE. Ensuring consistency with CMB data, the widely studied $\\beta_{+}$ exhibits phantom behavior, while the previously overlooked $\\beta_{-}$ features a sign-changing DE density that transitions smoothly from negative to positive values at $z_{\\dagger} \\sim 1.5$. Though the sign-changing DE leads to a larger-than-expected enhancement, we extend the analysis by incorporating $\\Lambda$. This extension broadens the solution space consistent with the SH0ES measurement while maintaining consistency with CMB. Additionally, it introduces richer phenomenological possibilities, including the potential moderation or cessation of cosmic acceleration at very low redshifts, aligning with recent observational analyses, such as those from DESI BAO data. Our findings suggest that existing $f(T)$ models, as well as $f(Q)$ models, should be revisited in light of the novel theoretical insights presented here.",
+      "pdf_url": "https://arxiv.org/pdf/2410.23068.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2501.18111",
+      "title": "Gravitational waves decohere quantum superpositions",
+      "authors": [
+        "Flynn Linton",
+        "Shubhanshu Tiwari"
+      ],
+      "abstract": "Gravitational waves decohere quantum superpositions Flynn Linton, Shubhanshu Tiwari Class. Quantum Grav. 42 205005 (2025) General Relativity and Quantum Cosmology (gr-qc); Quantum Physics (quant-ph) Understanding the interplay between quantum mechanical systems and gravity is a crucial step towards unifying these two fundamental ideas. Recent theoretical developments have explored how global properties of spacetime would cause a quantum spatial superposition to lose coherence. In particular, this loss of coherence is closely related to the memory effect, which is a prominent feature of gravitational radiation. In this work, we explore how a burst of gravitational radiation from a far-away source would decohere a quantum superposition. We identify the individual contributions to the decoherence from the memory and oscillatory components of the gravitational wave source, corresponding to soft and hard graviton emissions, respectively. In general, the memory contributions dominate, while the oscillatory component of the decoherence is strongly dependent on the phase of the burst when it is switched off. This work demonstrates how quantum systems can lose coherence from interactions with a classical gravitational field. We also comment on the electromagnetic analogue of this effect and discuss its correspondence to the gravitational case.",
+      "pdf_url": "https://arxiv.org/pdf/2501.18111.pdf",
+      "categories": [
+        "gr-qc",
+        "quant-ph"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2502.07919",
+      "title": "Thermodynamic analysis of shift-symmetric black-hole spacetimes in Horndeski gravity",
+      "authors": [
+        "Athanasios Bakopoulos",
+        "Thanasis Karakasis"
+      ],
+      "abstract": "Thermodynamic analysis of shift-symmetric black-hole spacetimes in Horndeski gravity Athanasios Bakopoulos, Thanasis Karakasis 21 pages, 1 figure, version accepted for publication in PRD General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) In this study, we investigate the thermodynamic properties of shift symmetric Horndeski and beyond Horndeski theories (theories in which only derivatives of the scalar field appear in the action). Utilizing Euclidean methods, we first analyze two specific cases that serve as foundational examples for the broader framework. We derive the general expression for entropy variation within this setting, for homogeneous spacetimes (with $g_{tt}=1/g_{rr}$), demonstrating that both parity-preserving and parity violating terms contribute to the entropy formula. Given the functional form of the coupling terms, the black hole entropy can be determined by integrating this relation with respect to the event horizon. Our general result is consistent with previously reported special cases in the literature. Notably, for particular constraints on the coupling functions, the entropy identically vanishes. Furthermore, we establish that homogeneous spacetimes within shift and parity symmetric beyond Horndeski theories universally obey the Bekenstein Area Law for entropy, irrespective of the specific form of the coupling functions.",
+      "pdf_url": "https://arxiv.org/pdf/2502.07919.pdf",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2502.16262",
+      "title": "Frame-Dependence of the Hamilton-Jacobi Formalism for Inflation and Reheating in Non-Minimal Gravity",
+      "authors": [
+        "Feng-Yi Zhang",
+        "Li-Yang Chen",
+        "Rongrong Zhai"
+      ],
+      "abstract": "Frame-Dependence of the Hamilton-Jacobi Formalism for Inflation and Reheating in Non-Minimal Gravity Feng-Yi Zhang, Li-Yang Chen, Rongrong Zhai General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO) In this work, we investigate the Hamilton-Jacobi formalism for non-minimally coupled inflation, focusing on the methodological frame-dependence arising from its application in the Jordan and Einstein frames. We systematically compare the physical predictions from two distinct computational schemes: applying the Hamilton-Jacobi approximation before versus after the conformal transformation. This comparison is conducted for both the metric and Palatini formalisms. Our results, consistent with Planck data, reveal significant quantitative differences between the two schemes, highlighting a subtle frame-dependence in the approximation method. These discrepancies, observed in the spectral index, the tensor-to-scalar ratio, and reheating parameters, are more pronounced in the Palatini formalism. Our study emphasizes the sensitivity of cosmological predictions to the computational path chosen, and provides a quantitative analysis of this methodological uncertainty, offering valuable insights into the robustness of predictions in modified gravity.",
+      "pdf_url": "https://arxiv.org/pdf/2502.16262.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2505.00617",
+      "title": "The equations of Einstein and Cartan",
+      "authors": [
+        "D C Robinson"
+      ],
+      "abstract": "The equations of Einstein and Cartan D C Robinson Minor corrections and new results added to Section 5 General Relativity and Quantum Cosmology (gr-qc) A formulation of Einstein's gravitational field equations in four space-time dimensions is presented using generalized differential forms and Cartan's equations for metric geometries. Cartan's structure equations are extended by using generalized metric connections. They are then employed to represent Einstein's field equations and their solutions. When the energy-momentum tensor is zero the generalized connections can be chosen to be flat and different solutions of Einstein's equations can be related by generalizations of the Poincaré group. An action for the vacuum field equations is constructed by generalizing the Nieh-Yan three-form.",
+      "pdf_url": "https://arxiv.org/pdf/2505.00617.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2505.04407",
+      "title": "Master functions of Reissner-Nordstrom black hole perturbations and their Darboux transformation",
+      "authors": [
+        "Hui-Fa Liu",
+        "Ding-fang Zeng"
+      ],
+      "abstract": "Master functions of Reissner-Nordstrom black hole perturbations and their Darboux transformation Hui-Fa Liu, Ding-fang Zeng 12 pages, No figures, minor revision to V1 General Relativity and Quantum Cosmology (gr-qc) Lenzi and Sopuerta developed a new method to construct master functions for the perturbation of vacuum black holes. We extend this method to black holes coupled with electromagnetic field and cosmological constant by allowing the master functions to be linear combinations of the metric and electromagnetic-potential perturbations, as well as their first-order derivatives. Requiring these master functions satisfy wave equations with yet-to-be-determined effective potentials, we reduce the linearized Einstein--Maxwell system to a set of algebraic-differential constraints. Solving these constraints reveals four master function branches in each parity sector: two standard branches, which coincide with the Zerilli-Moncrief formalism, and two Darboux branches, characterized by their effective potentials. Within each parity sector, a Darboux transformation exists which connects the standard and Darboux branches, preserving the quasinormal mode spectrum and confirming their physical equivalence.",
+      "pdf_url": "https://arxiv.org/pdf/2505.04407.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2505.08457",
+      "title": "Graviton-photon conversion in blazar jets as a probe of high-frequency gravitational waves",
+      "authors": [
+        "Himeka Matsuo",
+        "Asuka Ito"
+      ],
+      "abstract": "Graviton-photon conversion in blazar jets as a probe of high-frequency gravitational waves Himeka Matsuo, Asuka Ito Journal of Cosmology and Astroparticle Physics, Volume 2025, October 2025 General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Phenomenology (hep-ph) We study graviton-photon conversion in the magnetic fields of a blazar jet and explore the possibility of detecting high-frequency gravitational waves through blazar observations. We calculate the conversion rate using the magnetic field configurations of leptonic, lepto-hadronic, and hadronic one-zone synchrotron self-Compton models for the blazar jet of Mrk 501. By requiring that the photon flux produced within the blazar jet does not exceed the observed flux of Mrk 501, we derive conservative constraints on the abundance of stochastic gravitational waves. We find that, for all three models considered, the resulting limits can be more stringent than previous constraints in the frequency range from $10^8$ Hz to $10^{15}$ Hz.",
+      "pdf_url": "https://arxiv.org/pdf/2505.08457.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2506.04703",
+      "title": "Standardized Constraints on the Shadow Radius and the Instability of Scalar, Electromagnetic, $p$-Form, and Gravitational Perturbations of High-Dimensional Spherically Symmetric Black Holes in Einstein-power-Yang-Mills-Gauss-Bonnet Gravity",
+      "authors": [
+        "Zening Yan"
+      ],
+      "abstract": "Standardized Constraints on the Shadow Radius and the Instability of Scalar, Electromagnetic, $p$-Form, and Gravitational Perturbations of High-Dimensional Spherically Symmetric Black Holes in Einstein-power-Yang-Mills-Gauss-Bonnet Gravity Zening Yan General Relativity and Quantum Cosmology (gr-qc) The space-time geometry under investigation is chosen to be a high-dimensional, static, spherically symmetric solution in an asymptotically flat background within the Einstein-power-Yang-Mills-Gauss-Bonnet (EPYMGB) gravity. To address the limitations of previous shadow constraints, we construct a standardized framework based on the Schwarzschild-Tangherlini metric to constrain the characteristic parameters of high-dimensional black holes by leveraging observational shadow data. Additionally, we provide a rigorous derivation of the shadow radius formula for a general high-dimensional spherically symmetric black hole. Subsequently, we systematically and comprehensively present the equations of motion and master variables governing spin-0, spin-1, $p$-form, and spin-2 perturbations in high-dimensional static spherically symmetric flat space-time. Our analysis reveals that the Yang-Mills magnetic charge $\\mathcal{Q}$ and the power $q$ have a negligible impact on both the shadow radius and perturbations of the black hole when compared to the Gauss-Bonnet coupling constant ${\\alpha}_2$ in various dimensions. Hence, the physical signatures of the parameters $\\mathcal{Q}$ and $q$ in the black hole environment remain undetectable through either perturbation analysis or shadow observations. Cross-validation of the allowable range of ${\\alpha}_2$ derived from the high-dimensional constraint on shadow radius and the dynamical stability analysis of gravitational perturbations demonstrates excellent agreement between these independent approaches. The conclusion of this cross-analysis further substantiate the accuracy of the high-dimensional shadow constraint formula proposed in this work, and we argue that this formula may serve as a universal tool for constraining the characteristic parameters of other high-dimensional spherically symmetric black hole solutions.",
+      "pdf_url": "https://arxiv.org/pdf/2506.04703.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2506.08341",
+      "title": "A discussion on the symmetry of relativistic Vlasov gas and its accretion in Kerr-Newman black hole",
+      "authors": [
+        "Yong-qiang Liu"
+      ],
+      "abstract": "A discussion on the symmetry of relativistic Vlasov gas and its accretion in Kerr-Newman black hole Yong-qiang Liu Major revision addressing referee feedback. We have enhanced the theoretical framework and, importantly, added substantial physical interpretation. This has led to several new and interesting physical conclusions regarding black hole evolution and accretion dynamics General Relativity and Quantum Cosmology (gr-qc) We investigate the kinetic properties of collisionless Vlasov gas in Kerr-Newman spacetime, analyzing how spacetime symmetries constrain the distribution functions. The distribution function is shown to depend solely on the constants of motion ($m$, $E$, $L_z$, $L$), reflecting the complete integrability of the system. Within the Locally Non-Rotating Frame, we compute particle number density, energy density, principal pressures, and accretion rates, deriving explicit asymptotic expressions for Jüttner-distributed plasma. Numerical results for the relative (normalized) mass and energy accretion rates reveal an identical parametric dependence: both are suppressed as the black hole's rotation $a$ and charge $Q$ increase. Conversely, the magnitude of the normalized angular momentum accretion rate (which is negative) increases with $a$ but decreases with $Q$. Accretion of weakly charged plasma drives charged black holes toward electrical neutrality while reducing angular momentum, ultimately favoring evolution toward Schwarzschild configurations. These findings provide new insights into kinetic accretion processes in extreme spacetime geometries.",
+      "pdf_url": "https://arxiv.org/pdf/2506.08341.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2506.19990",
+      "title": "Waging a Campaign: Results from an Injection-Recovery Study involving 35 numerical Relativity Simulations and three Waveform Models",
+      "authors": [
+        "Sarp Akçay",
+        "Charlie Hoy",
+        "Jake Mac Uilliam"
+      ],
+      "abstract": "Waging a Campaign: Results from an Injection-Recovery Study involving 35 numerical Relativity Simulations and three Waveform Models Sarp Akçay, Charlie Hoy, Jake Mac Uilliam 30 pages, 12 figures, matches the published version modulo minor differences Physical Review D 112, 084032, 2025 General Relativity and Quantum Cosmology (gr-qc); Instrumentation and Methods for Astrophysics (astro-ph.IM) We present Bayesian inference results from an extensive injection-recovery campaign to test the validity of three state of the art quasicircular gravitational waveform models: \\textsc{SEOBNRv5PHM}, \\textsc{IMRPhenomTPHM}, \\textsc{IMRPhenomXPHM}, the latter with the \\textsc{SpinTaylorT4} implementation for its precession dynamics. We analyze 35 strongly precessing binary black hole numerical relativity simulations with all available harmonic content. Ten simulations have a mass ratio of $4:1$ and five, mass ratio of $8:1$. Overall, we find that \\textsc{SEOBNRv5PHM} is the most consistent model to numerical relativity, with the majority of true source properties lying within the inferred 90\\% credible interval. However, we find that none of the models can reliably infer the true source properties for binaries with mass ratio $8:1$ systems. We additionally conduct inspiral-merger-ringdown (IMR) consistency tests to determine if our chosen state of the art waveform models infer consistent properties when analysing only the inspiral (low frequency) and ringdown (high frequency) portions of the signal. For the simulations considered in this work, we find that the IMR consistency test depends on the frequency that separates the inspiral and ringdown regimes. For two sensible choices of the cutoff frequency, we report that \\textsc{IMRPhenomXPHM} can produce false GR deviations. Meanwhile, we find that \\textsc{IMRPhenomTPHM} is the most reliable model under the IMR consistency test. Finally, we re-analyze the same 35 simulations, but this time we incorporate model accuracy into our Bayesian inference. Consistent with the work in Hoy et al. 2024 [arXiv: 2409.19404], we find this approach generally yields more accurate inferred properties for binary black holes with less biases compared to methods that combine model-dependent posterior distributions based on their evidence, or with equal weight.",
+      "pdf_url": "https://arxiv.org/pdf/2506.19990.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2507.04616",
+      "title": "Geodesic completeness, curvature singularities and infinite tidal forces",
+      "authors": [
+        "Xiaotian Zhang",
+        "Sijie Gao"
+      ],
+      "abstract": "Geodesic completeness, curvature singularities and infinite tidal forces Xiaotian Zhang, Sijie Gao 14pages, 1 figure. Minor modifications added General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) We report some new findings regarding the subtle relations among geodesic completeness, curvature singularities and tidal forces. It is well known that any particle may be torn up near a singularity at the center of a black hole due to the divergent tidal force. However, we find that singularity is not the only cause of tidal force divergence. Even on the surface of the Earth, the tidal force experienced by a particle could be arbitrarily large if the particle moves arbitrarily close to the speed of light in a nonradial direction. Moreover, we find that the maximum tidal force always occurs along the radial direction, regardless of the particle's motion. Usually, a curvature singularity implies geodesic incompleteness since in many cases the metric cannot be defined at the location of the singularity. Counterexamples have been found in recent years, suggesting that geodesics could pass through curvature singularities. By taking into account the fact that any real particle is an extended body, we calculate the tidal force acting on the particle in a static and spherically symmetric spacetime. We explicitly show that an infinite tidal force always occurs near such a singularity. Therefore, no particle can actually reach the curvature singularity even if the metric is well defined at that point. We also demonstrate that the tidal acceleration along a null geodesic at the coordinate origin is divergent. Finally, we examine a wormhole solution which possesses a curvature singularity at its throat and was previously asserted to be geodesically complete in the literature. However, we prove that no metric can be defined at the throat and thus the spacetime is geodesically incomplete. we also show that the tidal forces experienced by any particle near the singularity are divergent.",
+      "pdf_url": "https://arxiv.org/pdf/2507.04616.pdf",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2507.06300",
+      "title": "A flexible, GPU-accelerated approach for the joint characterization of LISA instrumental noise and Stochastic Gravitational Wave Backgrounds",
+      "authors": [
+        "Alessandro Santini",
+        "Martina Muratore",
+        "Jonathan Gair",
+        "Olaf Hartwig"
+      ],
+      "abstract": "A flexible, GPU-accelerated approach for the joint characterization of LISA instrumental noise and Stochastic Gravitational Wave Backgrounds Alessandro Santini, Martina Muratore, Jonathan Gair, Olaf Hartwig 14 pages, 6 figures. Accepted into PRD. Comments welcome General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE); Instrumentation and Methods for Astrophysics (astro-ph.IM) LISA data analysis represents one of the most challenging tasks ahead for the future of gravitational-wave (GW) astronomy. Characterizing the instrument's noise properties while fitting for all the other detectable sources is a key requirement of any robust inference pipeline. Noise estimation will also play a crucial role in searches and parameter estimation of cosmological and astrophysical stochastic signals. Previous studies have tackled this topic by assuming perfect knowledge of the spectral shape of the instrumental noise and of different possible types of GW Stochastic Backgrounds (SGWBs), usually resorting to parametrized templates. Recently, various works that employ template-agnostic methods have been presented. In this work, we take an additional step further, introducing flexible spectral shapes in both the instrumental noise and the stochastic signals. We account for the lack of knowledge of the exact shape of the individual contributions to the overall power spectral density by using splines to represent arbitrary perturbations of the noise and signal spectral densities. We implement a data-driven Reversible Jump MCMC algorithm to fit different components simultaneously and to infer the level of flexibility required under different scenarios. We test this approach on simulated LISA data produced under different assumptions. We investigate the impact of this increased flexibility on the reconstruction of both the injected signal and the noise level, and we discuss the prospects for claiming a successful SGWB detection.",
+      "pdf_url": "https://arxiv.org/pdf/2507.06300.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "astro-ph.IM"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2508.02824",
+      "title": "Traversable Kaluza-Klein wormholes?",
+      "authors": [
+        "Christopher Simmonds",
+        "Matt Visser"
+      ],
+      "abstract": "Traversable Kaluza-Klein wormholes? Christopher Simmonds (Victoria University of Wellington), Matt Visser (Victoria University of Wellington) V1: 15 pages; 1 figure; V2: now 18 pages; additional historical discussion; additional contextual discussion; also added 25 new references. No significant changes in the physics. This version closely resembles the published article General Relativity and Quantum Cosmology (gr-qc) Various authors have suggested that Kaluza--Klein variants of traversable wormholes might to some extent ameliorate the defocussing properties (the curvature condition violations, and implied energy condition violations) inherent in positing the existence of a traversable wormhole throat. Unfortunately such a hope is ill-founded. We shall show that in a traditional Kaluza--Klein context the price paid for completely eliminating the defocussing properties of the wormhole throat is extremely high -- to completely eliminate curvature condition violations the 5th dimension has to become truly enormous (formally infinite) in the vicinity of the wormhole throat, in a manner that is fundamentally incompatible with the traditional Kaluza--Klein ansatz. At best, the extra dimensions allow one to move the curvature condition violations around, they cannot be eliminated except at prohibitive cost. While traversable Kaluza--Klein wormholes might be interesting for other reasons, it must be emphasized that adding a 5th dimension is not particularly useful in terms of ameliorating violations of the curvature conditions.",
+      "pdf_url": "https://arxiv.org/pdf/2508.02824.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2508.06245",
+      "title": "Generalized Perturbed Kepler Problem: Gravitational Wave Imprints from Eccentric Compact Binaries",
+      "authors": [
+        "Rajes Ghosh",
+        "R. Prasad",
+        "Kabir Chakravarti",
+        "Prayush Kumar"
+      ],
+      "abstract": "Generalized Perturbed Kepler Problem: Gravitational Wave Imprints from Eccentric Compact Binaries Rajes Ghosh, R. Prasad, Kabir Chakravarti, Prayush Kumar 17 pages, 7 figures. Updated GW phase and cumulative dephasing expressions. Added Fisher analysis General Relativity and Quantum Cosmology (gr-qc) Observations of astrophysical binaries may reveal departures from pure Keplerian orbits due to environmental influences, modifications to the underlying gravitational dynamics, or signatures of new physics. In this work, we develop a unified framework to systematically study such perturbations in the ambit of the perturbed Kepler problem and explore their impact on eccentric orbital dynamics and gravitational wave emission. Unlike traditional parametrized frameworks such as post-Newtonian and post-Einsteinian expansions, our approach offers a more source-specific modeling strategy, making it more natural to trace the physical origins of eccentric binary model parameters. Starting from a general perturbed potential, we derive the modified orbit and compute the associated gravitational fluxes and phase evolution, assessing their observational relevance for both current and future detectors. This framework thus offers a general and physically transparent toolkit for probing such subtle deviations from standard dynamics in gravitational wave data.",
+      "pdf_url": "https://arxiv.org/pdf/2508.06245.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2508.13944",
+      "title": "Searching for continuous gravitational waves in the Parkes Pulsar Timing Array Data Release 3",
+      "authors": [
+        "Shi-Yi Zhao",
+        "Zu-Cheng Chen",
+        "Jacob Cardinal Tremblay",
+        "Boris Goncharov",
+        "Xing-Jiang Zhu",
+        "N. D. Ramesh Bhat",
+        "Małgorzata Curyło",
+        "Shi Dai",
+        "Valentina Di Marco",
+        "Hao Ding",
+        "George Hobbs",
+        "Agastya Kapur",
+        "Wenhua Ling",
+        "Tao Liu",
+        "Rami Mandow",
+        "Saurav Mishra",
+        "Daniel J. Reardon",
+        "Christopher J Russell",
+        "Ryan M. Shannon",
+        "Shuangqiang Wang",
+        "Lei Zhang",
+        "Andrew Zic"
+      ],
+      "abstract": "Searching for continuous gravitational waves in the Parkes Pulsar Timing Array Data Release 3 Shi-Yi Zhao, Zu-Cheng Chen, Jacob Cardinal Tremblay, Boris Goncharov, Xing-Jiang Zhu, N. D. Ramesh Bhat, Małgorzata Curyło, Shi Dai, Valentina Di Marco, Hao Ding, George Hobbs, Agastya Kapur, Wenhua Ling, Tao Liu, Rami Mandow, Saurav Mishra, Daniel J. Reardon, Christopher J Russell, Ryan M. Shannon, Shuangqiang Wang, Lei Zhang, Andrew Zic 14 pages, 11 figures, 2 tables; published in The Astrophysical Journal General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Astrophysical Phenomena (astro-ph.HE) We present results from an all-sky search for continuous gravitational waves from individual supermassive binary black holes using the third data release (DR3) of the Parkes Pulsar Timing Array (PPTA). Even though we recover a common-spectrum stochastic process, potentially induced by a nanohertz gravitational wave background, we find no evidence of continuous waves. Therefore, we place upper limits on the gravitational-wave strain amplitude: in the most sensitive frequency range around 10 nHz, we obtain a sky-averaged 95\\% credibility upper limit of $\\approx 7 \\times 10^{-15}$. Our search is sensitive to supermassive binary black holes with a chirp mass of $\\geq 10^9M_{\\odot}$ up to a luminosity distance of 50 Mpc for our least sensitive sky direction and 200 Mpc for the most sensitive direction. This work provides at least 4 times better sensitivity in the 1-200 nHz frequency band than our last search based on the PPTA's first data release. We expect that PPTA will continue to play a key role in detecting continuous gravitational waves in the exciting era of nanohertz gravitational wave astronomy.",
+      "pdf_url": "https://arxiv.org/pdf/2508.13944.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.HE"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2508.17363",
+      "title": "Strong Gravity Effects on $\\mathcal{R}^2$-corrected Single Scalar Field Inflation and Compatibility with the ACT Data",
+      "authors": [
+        "V.K. Oikonomou"
+      ],
+      "abstract": "Strong Gravity Effects on $\\mathcal{R}^2$-corrected Single Scalar Field Inflation and Compatibility with the ACT Data V.K. Oikonomou General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th) In this work we introduce the rescaled $\\mathcal{R}^2$-corrected minimally coupled scalar field theory, a theory that contains minimal quantum corrections of the single scalar field Lagrangian. We develop the theoretical framework in the string frame where the baryons geodesics are free fall geodesics and we do not treat the theory as a two scalar field theory in the Einstein frame. The theoretical framework can be reduced to a single scalar field theory framework by using a perturbative expansion at the level of the field equations, making the resulting theory easy to tackle analytically. The first two quantum corrections contain two terms, a linear $\\sim \\mathcal{R}$ and a quadratic term $\\sim \\mathcal{R}^2$. The effect of the linear term alters the Einstein-Hilbert term, making the resulting theory a rescaled version of Einstein-Hilbert gravity. Due to the presence of the rescaled Einstein-Hilbert term $\\sim \\lambda \\frac{\\mathcal{R}}{16\\pi G}$, the gravitational constant will no longer be that of Newton's, but a rescaled one $\\frac{G}{\\lambda}$ and hence gravity can be stronger primordially, or even weaker. The perspective of having stronger gravity primordially, is compatible with intuition, since one expects a stronger gravity primordially, but having a weaker gravity for some reason is not prohibited theoretically. The attribute of our theoretical framework is that it allows a stronger gravity primordially, which returns to ordinary gravity as the curvature of the Universe decreases. We examine the effects of the quantum terms on several mainstream scalar field inflationary potentials, such as hybrid inflation, monomial inflation and power-law inflation.",
+      "pdf_url": "https://arxiv.org/pdf/2508.17363.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2509.05246",
+      "title": "Marginal IR running of Gravity as a Natural Explanation for Dark Matter",
+      "authors": [
+        "Naman Kumar"
+      ],
+      "abstract": "Marginal IR running of Gravity as a Natural Explanation for Dark Matter Naman Kumar 10 pages, 3 figures, 2 table; added sections on observational analysis General Relativity and Quantum Cosmology (gr-qc); Astrophysics of Galaxies (astro-ph.GA); High Energy Physics - Theory (hep-th) We propose that the infrared (IR) running of Newton's coupling provides a simple and universal explanation for large--distance modifications of gravity relevant to dark matter phenomenology. Within the effective field theory (EFT) framework, we model $G(k)$ as a scale--dependent coupling governed by an anomalous dimension $\\eta$. We show that the marginal case $\\eta = 1$ is singled out by renormalization group (RG) and dimensional arguments, leading to a logarithmic potential and a $1/r$ force law at large distances, while smoothly recovering Newtonian gravity at short scales. The logarithmic correction is universal and regulator independent, indicating that the $1/r$ force arises as the robust IR imprint of quantum--field--theoretic scaling. This provides a principled alternative to particle dark matter, suggesting that galactic rotation curves and related anomalies may be understood as manifestations of the IR running of Newton's constant.",
+      "pdf_url": "https://arxiv.org/pdf/2509.05246.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.GA",
+        "hep-th"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2509.11049",
+      "title": "Time delay in matched exterior and interior Kottler solutions",
+      "authors": [
+        "Mourad Guenouche"
+      ],
+      "abstract": "Time delay in matched exterior and interior Kottler solutions Mourad Guenouche General Relativity and Quantum Cosmology (gr-qc) We extend the study of gravitational lensing to photons traversing the lens mass, modeled as a uniform-density fluid described by the interior Kottler (Schwarzschild--de Sitter) solution smoothly matched to the exterior Kottler region. An analytic expression for the time delay is derived, allowing the interior contribution to be explicitly isolated relative to the vacuum Kottler case. This correction is found to systematically enhance the total time delay, an effect corroborated by numerical evaluations for astrophysically relevant lenses at both galaxy and cluster scales. These results underscore the importance of accounting for the interior lens structure in accurate modeling of strong lensing time delays.",
+      "pdf_url": "https://arxiv.org/pdf/2509.11049.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2509.19386",
+      "title": "Generalized Holographic and Ricci Dark Energy: Cosmological Diagnostics and Scalar Field Realizations",
+      "authors": [
+        "Antonio Pasqua"
+      ],
+      "abstract": "Generalized Holographic and Ricci Dark Energy: Cosmological Diagnostics and Scalar Field Realizations Antonio Pasqua General Relativity and Quantum Cosmology (gr-qc) In this work, we present two generalized formulations of the Holographic and Ricci dark energy (DE) models, given by $ \\rho_{GH} = 3c^2M^{2}_{pl} \\left[ 1-\\epsilon\\left(1-\\frac{R}{H^2}\\right) \\right]H^2$ and $\\rho_{GR} = 3c^2M^{2}_{pl}\\left[ 1-\\eta\\left(1-\\frac{H^2}{R}\\right) \\right]R$ where $H$ and $R$ denote the Hubble parameter and the Ricci scalar, while $\\epsilon$ and $\\eta$ are model parameters related by $\\epsilon = 1 - \\eta$. We derived explicit analytical expressions for key cosmological quantities, including the Hubble parameter, the DE density $\\rho_D$, the DE pressure $p_D$, the equation of state parameter of DE $\\omega_D$ and the deceleration parameter $q$. The analysis was carried out for four distinct cases: (i) the standard model in its original formulation; (ii) the inclusion of spatial curvature; (iii) the addition of interactions between the dark sectors; and (iv) the presence of both interaction and curvature. Moreover, we also considered the limiting case of a DE Dominated Universe. To further characterize the dynamical features of the models, we investigated several diagnostic tools, namely the Statefinder parameters, the cosmographic approach, the $Om(z)$ diagnostic and the squared speed of the sound $v_s^2$ to assess stability against perturbations. Moreover, we established a correspondence between the DE models we studied and some scalar field theories, including tachyon, k-essence, dilaton, quintessence, Dirac-Born-Infeld, Yang-Mills and Nonlinear Electrodynamics (NLED) fields.",
+      "pdf_url": "https://arxiv.org/pdf/2509.19386.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2509.23732",
+      "title": "Quasinormal modes of an electrically charged Kalb-Ramond black hole",
+      "authors": [
+        "Yun-Tao Gu",
+        "Wen-Di Guo",
+        "Yu-Xiao Liu"
+      ],
+      "abstract": "Quasinormal modes of an electrically charged Kalb-Ramond black hole Yun-Tao Gu, Wen-Di Guo, Yu-Xiao Liu General Relativity and Quantum Cosmology (gr-qc) Lorentz violation serves as a significant feature in many modified theories of gravity. In particular, spontaneous Lorentz violation induced by the Kalb-Ramond field has attracted considerable attention. Recently, an electrically charged black hole solution within the Kalb-Ramond framework was proposed. In this study, we investigate the quasinormal modes of the resulting ``undecouplable'' system using both the matrix-valued continued fraction method and the matrix-valued direct integration method. Additionally, we develop a new approach to distinguish between different modes in such ``undecouplable'' systems. An error analysis is performed, and the influence of Lorentz violation on the fundamental quasinormal modes is systematically analyzed within a suitable parameter range.",
+      "pdf_url": "https://arxiv.org/pdf/2509.23732.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.03082",
+      "title": "Using Gauge Covariant Lie Derivatives in Einstein-Cartan and Metric Teleparallel Theories of Gravity",
+      "authors": [
+        "R. J. van den Hoogen",
+        "H. Forance",
+        "L. Taylor",
+        "M. Lawton"
+      ],
+      "abstract": "Using Gauge Covariant Lie Derivatives in Einstein-Cartan and Metric Teleparallel Theories of Gravity R. J. van den Hoogen, H. Forance, L. Taylor, M. Lawton A few new references and a small rewrite of a paragraph. 33 pages General Relativity and Quantum Cosmology (gr-qc) A procedure to determine the initial ansatz for the co-frame and spin connection characterizing a Riemann-Cartan geometry respecting a given group of continuous symmetries is illustrated. Given a particular group of symmetries and assuming an orthonormal gauge we can determine the co-frame and corresponding spin connection having this symmetry group by employing an gauge covariant Lie derivative. This gauge covariant Lie derivative when applied to the metric and co-frame determines the values of an antisymmetric compensating matrix. The derivative of this matrix then yields the corresponding spin connection. The procedure is straightforward and can be employed for any Riemann-Cartan geometry having symmetries including those with a non-trivial isotropy subgroup. Here we illustrate the procedure with numerous examples, including, spherically symmetric, plane symmetric, locally rotationally symmetric Bianchi type III, Gödel, de Sitter and anti-de Sitter geometries. Further, we have also solved the zero curvature constraint to obtain the resulting spin connection for the corresponding metric teleparallel geometry having this same symmetry group. We complete this investigation by including the Lorentz transformation that yields the proper frame for some of these metric teleparallel geometries.",
+      "pdf_url": "https://arxiv.org/pdf/2510.03082.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2507.23684",
+      "title": "Simulating Binary Neutron Star Mergers with Finite-temperature Equations of State: The influences of the slope of the symmetry energy and artificial heating",
+      "authors": [
+        "Henrique Gieg",
+        "Maximiliano Ujevic",
+        "Armen Sedrakian",
+        "Tim Dietrich"
+      ],
+      "abstract": "Simulating Binary Neutron Star Mergers with Finite-temperature Equations of State: The influences of the slope of the symmetry energy and artificial heating Henrique Gieg, Maximiliano Ujevic, Armen Sedrakian, Tim Dietrich 15 pages, 10 figures. To be submitted to PRD. Comments are welcome! General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE); Solar and Stellar Astrophysics (astro-ph.SR); Nuclear Theory (nucl-th) We present a new set of numerical-relativity simulations of merging binary neutron stars, aiming to identify possible observable signatures of the slope of the symmetry energy $L_{\\rm sym}$. To achieve this goal, we employ a set of equations of state based on a parameterization of the covariant density functional theory of nuclear matter that allows controlled variations of $L_{\\rm sym}$ and the skewness $Q_{\\rm sat}$, holding the latter fixed. For a set of our simulations, we identify a steep energy gradient in the equation of state at subsaturation densities, which acts as a source of heating with subsequent stiffening produced by thermal support. Accounting for related structural modifications in the tidal deformability reconciles our results with theoretical expectations. On the other hand, we show that gravitational waves are unlikely to distinguish the role of $L_{\\rm sym}$. In contrast to this, we find that the ejecta composition is significantly altered in our simulations, which employ an M1 moment scheme, when $L_{\\rm sym}$ is varied. Based on our extracted dynamical ejecta properties, we compute r-process yields and find that they are distinct for the different $L_{\\rm sym}$, especially at lower mass numbers $A \\lesssim 120$. This suggests that electromagnetic counterparts are more likely to exhibit signatures; however, a direct connection to $L_{\\rm sym}$ remains a challenge, given the complex interplay between details of the ejecta properties and the kilonova signal.",
+      "pdf_url": "https://arxiv.org/pdf/2507.23684.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "astro-ph.SR",
+        "nucl-th"
+      ],
+      "is_gw_related": true
+    }
+  ]
+}
