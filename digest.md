@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2025-10-25
+# Complete Daily GW arXiv Digest - 2025-10-26
 
 **总爬取文章**: 169 篇  
 **今天的文章**: 169 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2510.19913](https://arxiv.org/abs/2510.19913)  
 **Authors**: Giona Sala, Chiara Brandenstein, Sebastian Baum, Peter W. Graham  
-**Date**: 25 Oct 2025  
+**Date**: 26 Oct 2025  
 **Categories**: gr-qc, astro-ph.CO, astro-ph.HE, hep-ph  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2510.20037](https://arxiv.org/abs/2510.20037)  
 **Authors**: Cheng-Hsin Cheng, Giuseppe Ficarra, Helvi Witek  
-**Date**: 25 Oct 2025  
+**Date**: 26 Oct 2025  
 **Categories**: gr-qc, astro-ph.HE, hep-ph  
 **Type**: new submission  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2510.20442](https://arxiv.org/abs/2510.20442)  
 **Authors**: Oleg Bulashenko, Nino Villanueva, Roberto Bada Nerin, José A. Font  
-**Date**: 25 Oct 2025  
+**Date**: 26 Oct 2025  
 **Categories**: gr-qc, astro-ph.CO, astro-ph.GA, astro-ph.HE  
 **Type**: new submission  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2510.20484](https://arxiv.org/abs/2510.20484)  
 **Authors**: Simone D'Onofrio, Sergei Odintsov, Tanmoy Paul  
-**Date**: 25 Oct 2025  
+**Date**: 26 Oct 2025  
 **Categories**: gr-qc, astro-ph.CO, hep-th  
 **Type**: new submission  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2510.19862](https://arxiv.org/abs/2510.19862)  
 **Authors**: Faizuddin Ahmed, Ahmad Al-Badawi, İzzet Sakallı  
-**Date**: 25 Oct 2025  
+**Date**: 26 Oct 2025  
 **Categories**: hep-th, gr-qc  
 **Type**: cross-list from hep-th  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2510.20338](https://arxiv.org/abs/2510.20338)  
 **Authors**: Vincenzo Pierro, Vincenzo Fiumara, Guerino Avallone, Giovanni Carapella, Francesco Chiadini, Roberta De Simone, Rosalba Fittipaldi, Gerardo Iannone, Alessandro Magalotti, Enrico Silva, Veronica Granata  
-**Date**: 25 Oct 2025  
+**Date**: 26 Oct 2025  
 **Categories**: astro-ph.IM, gr-qc  
 **Type**: cross-list from physics.app-ph  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2510.20545](https://arxiv.org/abs/2510.20545)  
 **Authors**: Nikita Kramarev, Andrey Yudin  
-**Date**: 25 Oct 2025  
+**Date**: 26 Oct 2025  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: cross-list from astro-ph.HE  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2507.15571](https://arxiv.org/abs/2507.15571)  
 **Authors**: Matheus F. S. Alves, L.G. Medeiros, Davi C. Rodrigues  
-**Date**: 25 Oct 2025  
+**Date**: 26 Oct 2025  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2508.12573](https://arxiv.org/abs/2508.12573)  
 **Authors**: Peixiang Ji, Lijing Shao  
-**Date**: 25 Oct 2025  
+**Date**: 26 Oct 2025  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: replaced  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2408.12118](https://arxiv.org/abs/2408.12118)  
 **Authors**: Alexander Cassem, Mark P. Hertzberg  
-**Date**: 25 Oct 2025  
+**Date**: 26 Oct 2025  
 **Categories**: hep-th, astro-ph.CO, gr-qc, hep-ph  
 **Type**: replaced  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2506.19327](https://arxiv.org/abs/2506.19327)  
 **Authors**: Zhijin Li, Xiao Guo, Zhoujian Cao, Yun-Long Zhang  
-**Date**: 25 Oct 2025  
+**Date**: 26 Oct 2025  
 **Categories**: astro-ph.HE, astro-ph.CO, astro-ph.GA, gr-qc  
 **Type**: replaced  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2510.19931](https://arxiv.org/abs/2510.19931)  
 **Authors**: Jiaming Pan, Dragan Huterer, Camille Avestruz, Damon H. T. Cheung, Emery Trott, Neal Dalal, Donghui Jeong  
-**Date**: 25 Oct 2025  
+**Date**: 26 Oct 2025  
 **Categories**: astro-ph.CO  
 **Type**: new submission  
 
@@ -155,7 +155,7 @@
 
 **arXiv**: [2510.20203](https://arxiv.org/abs/2510.20203)  
 **Authors**: Pengfei Su, Yan Gong, Qi Xiong, Dingao Hu, Hengjie Lin, Furen Deng, Xuelei Chen  
-**Date**: 25 Oct 2025  
+**Date**: 26 Oct 2025  
 **Categories**: astro-ph.CO  
 **Type**: new submission  
 
@@ -167,7 +167,7 @@
 
 **arXiv**: [2510.20793](https://arxiv.org/abs/2510.20793)  
 **Authors**: E. de la Hoz, A. Mennella, K. Arnold, C. Baccigalupi, A. J. Banday, R. B. Barreiro, D. Barron, M. Bersanelli, F. J. Casas, S. Casey, C. Franceschet, M. E. Jones, R. T. Genóva-Santos, R. Hoyland, A. T. Lee, E. Martinez-Gonzalez, F. Montonati, J.-A. Rubiño-Martín, A. C. Taylor, P. Vielva  
-**Date**: 25 Oct 2025  
+**Date**: 26 Oct 2025  
 **Categories**: astro-ph.CO  
 **Type**: new submission  
 
@@ -179,7 +179,7 @@
 
 **arXiv**: [2504.20919](https://arxiv.org/abs/2504.20919)  
 **Authors**: Louis Legrand, Julien Carron  
-**Date**: 25 Oct 2025  
+**Date**: 26 Oct 2025  
 **Categories**: astro-ph.CO  
 **Type**: replaced  
 
@@ -191,7 +191,7 @@
 
 **arXiv**: [2509.04218](https://arxiv.org/abs/2509.04218)  
 **Authors**: Yejing Zhan, David Izquierdo-Villalba, Xiao Guo, Qing Yang, Daniele Spinoso, Fa-Yin Wang  
-**Date**: 25 Oct 2025  
+**Date**: 26 Oct 2025  
 **Categories**: astro-ph.CO, astro-ph.HE  
 **Type**: replaced  
 
@@ -203,7 +203,7 @@
 
 **arXiv**: [2510.19925](https://arxiv.org/abs/2510.19925)  
 **Authors**: Philip Kirkeberg, Rixin Li, Martin E. Pessah  
-**Date**: 25 Oct 2025  
+**Date**: 26 Oct 2025  
 **Categories**: astro-ph.HE, astro-ph.GA  
 **Type**: new submission  
 
@@ -215,7 +215,7 @@
 
 **arXiv**: [2510.20767](https://arxiv.org/abs/2510.20767)  
 **Authors**: Tomás Cabrera, Antonella Palmese, Maya Fishbach  
-**Date**: 25 Oct 2025  
+**Date**: 26 Oct 2025  
 **Categories**: astro-ph.HE, astro-ph.GA  
 **Type**: new submission  
 
@@ -227,7 +227,7 @@
 
 **arXiv**: [2510.20010](https://arxiv.org/abs/2510.20010)  
 **Authors**: Asad Hussain, Maximiliano Isi, Aaron Zimmerman  
-**Date**: 25 Oct 2025  
+**Date**: 26 Oct 2025  
 **Categories**: astro-ph.IM, astro-ph.HE  
 **Type**: cross-list from astro-ph.IM  
 
@@ -239,7 +239,7 @@
 
 **arXiv**: [2510.20459](https://arxiv.org/abs/2510.20459)  
 **Authors**: Rajasmita Sahoo, Arunkarthiheyan Thiyagarajan, Asutosh Panda, Somnath Mukhopadhyay  
-**Date**: 25 Oct 2025  
+**Date**: 26 Oct 2025  
 **Categories**: astro-ph.SR  
 **Type**: new submission  
 
