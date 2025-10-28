@@ -1,0 +1,541 @@
+{
+  "date": "2025-10-28",
+  "crawl_timestamp": "2025-10-28T01:31:25.171562",
+  "query": "cat:gr-qc OR cat:astro-ph.* (filtered for gravitational waves)",
+  "summary": {
+    "total_crawled": 145,
+    "total_gw_papers": 14,
+    "by_category": {
+      "gr-qc": {
+        "total": 25,
+        "gw_related": 5
+      },
+      "astro-ph": {
+        "total": 91,
+        "gw_related": 6
+      }
+    }
+  },
+  "crawl_verification": {
+    "total_expected": 206,
+    "total_actual": 206,
+    "verification_passed": true,
+    "category_details": [
+      {
+        "category": "gr-qc",
+        "url": "https://arxiv.org/list/gr-qc/new",
+        "expected_total": 53,
+        "actual_crawled": 53,
+        "page_source_info": "Total of 53 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.CO",
+        "url": "https://arxiv.org/list/astro-ph.CO/new",
+        "expected_total": 30,
+        "actual_crawled": 30,
+        "page_source_info": "Total of 30 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.HE",
+        "url": "https://arxiv.org/list/astro-ph.HE/new",
+        "expected_total": 35,
+        "actual_crawled": 35,
+        "page_source_info": "Total of 35 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.GA",
+        "url": "https://arxiv.org/list/astro-ph.GA/new",
+        "expected_total": 31,
+        "actual_crawled": 31,
+        "page_source_info": "Total of 31 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.SR",
+        "url": "https://arxiv.org/list/astro-ph.SR/new",
+        "expected_total": 27,
+        "actual_crawled": 27,
+        "page_source_info": "Total of 27 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.IM",
+        "url": "https://arxiv.org/list/astro-ph.IM/new",
+        "expected_total": 20,
+        "actual_crawled": 20,
+        "page_source_info": "Total of 20 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.EP",
+        "url": "https://arxiv.org/list/astro-ph.EP/new",
+        "expected_total": 10,
+        "actual_crawled": 10,
+        "page_source_info": "Total of 10 entries",
+        "success": true,
+        "verification_passed": true
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "https://arxiv.org/abs/2510.20891",
+      "title": "Ab uno disce omnes: Single-harmonic search for extreme mass-ratio inspirals",
+      "authors": [
+        "Lorenzo Speri",
+        "Rodrigo Tenorio",
+        "Christian Chapman-Bird",
+        "Davide Gerosa"
+      ],
+      "abstract": "Ab uno disce omnes: Single-harmonic search for extreme mass-ratio inspirals Lorenzo Speri, Rodrigo Tenorio, Christian Chapman-Bird, Davide Gerosa General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE); Instrumentation and Methods for Astrophysics (astro-ph.IM) Extreme mass-ratio inspirals (EMRIs) are one of the key sources of gravitational waves for space-based detectors such as LISA. However, their detection remains a major data analysis challenge due to the signals' complexity and length. We present a semi-coherent, time-frequency search strategy for detecting EMRI harmonics without relying on full waveform templates. We perform an injection and search campaign of single mildly-eccentric equatorial EMRIs in stationary Gaussian noise. The detection statistic is constructed solely from the EMRI frequency evolution, which is modeled phenomenologically using a Singular Value Decomposition basis. The pipeline and the detection statistic are implemented in time-frequency, enabling efficient searches over one year of data in approximately one hour on a single GPU. The search pipeline achieves 94% detection probability at $\\mathrm{SNR} = 30$ for a false-alarm probability of $10^{-2}$, recovering the frequency evolution of the dominant harmonic to 1% relative error. By mapping the EMRI parameters consistent with the recovered frequency evolution, we show that the semi-coherent detection statistic enables a sub-percent precision estimation of the EMRI intrinsic parameters. These results establish a computationally efficient framework for constructing EMRI proposals for the LISA global fit.",
+      "pdf_url": "https://arxiv.org/pdf/2510.20891.pdf",
+      "published": "2025-10-28T01:31:24.300103",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "astro-ph.IM"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.21411",
+      "title": "Optimizing searches for gravitational wave bursts using coherent WaveBurst 2G",
+      "authors": [
+        "Alessandro Martini",
+        "Andrea Miani",
+        "Marco Drago",
+        "Claudia Lazzaro",
+        "Francesco Salemi",
+        "Sophie Bini",
+        "Osvaldo Freitas",
+        "Edoardo Milotti",
+        "Giacomo Principe",
+        "Shubhanshu Tiwari",
+        "Agata Trovato",
+        "Gabriele Vedovato",
+        "Yumeng Xu",
+        "Giovanni Andrea Prodi"
+      ],
+      "abstract": "Optimizing searches for gravitational wave bursts using coherent WaveBurst 2G Alessandro Martini, Andrea Miani, Marco Drago, Claudia Lazzaro, Francesco Salemi, Sophie Bini, Osvaldo Freitas, Edoardo Milotti, Giacomo Principe, Shubhanshu Tiwari, Agata Trovato, Gabriele Vedovato, Yumeng Xu, Giovanni Andrea Prodi General Relativity and Quantum Cosmology (gr-qc); Instrumentation and Methods for Astrophysics (astro-ph.IM); Data Analysis, Statistics and Probability (physics.data-an) The most general searches for gravitational wave transients (GWTs) rely on data analysis methods that do not assume prior knowledge of the signal waveform, direction, or arrival time on Earth. These searches provide data-driven signal reconstructions that are crucial both for testing available emission models and for discovering yet-to-be-uncovered sources. Here, we discuss progress in the detection performance of the coherent WaveBurst second-generation pipeline (cWB-2G), which is highly adaptable to both minimally modeled and model-informed searches for GWTs. Several search configurations for GWTs are examined using approximately 14.8 days of observation time from the third observing run by LIGO-Virgo-KAGRA (LVK). Recent enhancements include a ranking statistic fully based on multivariate classification with eXtreme Gradient Boosting, a thorough validation of the statistical significance accuracy of GWT candidates, and a measurement of the correlations of false alarms and simulated detections between different concurrent searches. For the first time, we provide a comprehensive comparison of cWB-2G performance on data from networks made of two and three detectors, and we demonstrate the advantage of combining concurrent searches for GWTs of generic morphology in a global observatory. This work offers essential insights for assessing our data analysis strategies in ongoing and future LVK searches for generic GWTs.",
+      "pdf_url": "https://arxiv.org/pdf/2510.21411.pdf",
+      "published": "2025-10-28T01:31:24.301501",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.20898",
+      "title": "Illuminating gravitational wave sources with Sgr A* flares",
+      "authors": [
+        "Pau Amaro Seoane"
+      ],
+      "abstract": "Illuminating gravitational wave sources with Sgr A* flares Pau Amaro Seoane High Energy Astrophysical Phenomena (astro-ph.HE); Astrophysics of Galaxies (astro-ph.GA); General Relativity and Quantum Cosmology (gr-qc) Sagittarius A* (Sgr A*), the supermassive black hole at the center of the Milky Way, exhibits daily energetic flares characterized by non-thermal emission in the infrared and X-ray bands. While the underlying accretion flow is a Radiatively Inefficient Accretion Flow (RIAF) peaking at radio frequencies, the mechanism powering these non-thermal transients remains debated. Stellar dynamics predict a population of faint brown dwarfs orbiting Sgr A*. These objects are progenitors of Extremely Large Mass Ratio Inspirals (XMRIs), crucial sources of low-frequency gravitational waves for the future Laser Interferometer Space Antenna (LISA) mission. We investigate whether the tidal stripping of brown dwarfs provides a viable fueling mechanism for the observed flares. Here we present high-resolution hydrodynamic simulations of grazing tidal interactions coupled with a parameterized non-thermal radiation model. We demonstrate that the dynamics of the tidal fallback and subsequent viscous evolution naturally reproduce the fundamental temporal characteristics of observed flares: the peak luminosity and the characteristic 1-hour duration. We show that this fueling mechanism is dynamically viable and energetically consistent, placing strong constraints on the required efficiency of the non-thermal emission process, suggesting extreme radiative inefficiency. These findings provide compelling evidence for a hidden population of brown dwarfs in the Galactic Center. Crucially, the observed high flare frequency implies tight orbits characteristic of advanced inspirals. This establishes a direct link between electromagnetic transients and active gravitational wave sources, alerting the LISA consortium years in advance to the presence of specific XMRI systems promising exceptionally high signal-to-noise ratios for precision tests of general relativity.",
+      "pdf_url": "https://arxiv.org/pdf/2510.20898.pdf",
+      "published": "2025-10-28T01:31:24.303193",
+      "updated": null,
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.GA",
+        "gr-qc"
+      ],
+      "primary_category": "astro-ph.HE",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from astro-ph.HE",
+        "cross_list_from": "astro-ph.HE"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.21439",
+      "title": "Gravitational waves from the sound shell model: direct and inverse phase transitions in the early Universe",
+      "authors": [
+        "Giulio Barni",
+        "Simone Blasi",
+        "Eric Madge",
+        "Miguel Vanvlasselaer"
+      ],
+      "abstract": "Gravitational waves from the sound shell model: direct and inverse phase transitions in the early Universe Giulio Barni, Simone Blasi, Eric Madge, Miguel Vanvlasselaer 22 pages + 6 pages appendix, 15 figures High Energy Physics - Phenomenology (hep-ph); Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Quantum Cosmology (gr-qc) Cosmological phase transitions are a frequent phenomenon in particle physics models beyond the Standard Model, and the corresponding gravitational wave signal offers a key probe of new physics in the early Universe. Depending on the underlying microphysics, the transition can exhibit either direct or inverse hydrodynamics, leading to a different phenomenology. Most studies to date have focused on direct transitions, where the cosmic fluid is pushed or dragged by the expanding vacuum bubbles. In contrast, inverse phase transitions are characterized by fluid profiles where the plasma is sucked in by the expanding bubbles. Using the sound shell model, we derive and compare the gravitational wave spectra from sound waves for direct and inverse phase transitions, providing new insights into the potential observable features and the possibility of discriminating among the various fluid solutions in gravitational wave experiments.",
+      "pdf_url": "https://arxiv.org/pdf/2510.21439.pdf",
+      "published": "2025-10-28T01:31:24.304520",
+      "updated": null,
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "primary_category": "hep-ph",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from hep-ph",
+        "cross_list_from": "hep-ph"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.21502",
+      "title": "Multi-Messenger Search for Neutrino and Gravitational-Wave Emissions from Binary Black Holes Near Active Galactic Nuclei",
+      "authors": [
+        "Leonardo Ricca",
+        "Matthias Vereecken",
+        "Christoph Raab",
+        "Mathieu Lamoureux",
+        "Giacomo Bruno",
+        "Gwenhaël De Wasseige"
+      ],
+      "abstract": "Multi-Messenger Search for Neutrino and Gravitational-Wave Emissions from Binary Black Holes Near Active Galactic Nuclei Leonardo Ricca, Matthias Vereecken, Christoph Raab, Mathieu Lamoureux, Giacomo Bruno, Gwenhaël De Wasseige 8 pages, 1 figure. Presented at the 39th International Cosmic Ray Conference (ICRC2025). Published in Proceedings of Science L.Ricca et al. Proceedings of Science ICRC2025 (2025),958 High Energy Astrophysical Phenomena (astro-ph.HE); General Relativity and Quantum Cosmology (gr-qc) Binary black holes (BBHs) in the vicinity of Active Galactic Nuclei (AGNs) are particularly interesting systems from both a cosmological and astrophysical point of view. Matter and radiation fields within the dense AGN environment could produce electromagnetic and neutrino emission in addition to gravitational waves (GWs). Moreover, interactions between BBHs and AGN accretion disks are expected to influence BBH formation channels and merger rates. Understanding these sources could help explain the unexpectedly high BBH masses observed through GWs by the LIGO-Virgo-KAGRA collaborations. We present a search for coincident gravitational-wave and neutrino emission from AGNs. Our innovative approach combines information from gravitational-wave data, neutrino observations, and AGN optical catalogs to increase the chances of identifying potential sources and studying their properties. We assess the sensitivity of the search using subthreshold gravitational-wave candidates from LIGO-Virgo-KAGRA data, neutrino event candidates from public IceCube Neutrino Observatory data and AGN candidates from the Quaia catalog. A confident detection of such an event would mark a breakthrough in multi-messenger astronomy.",
+      "pdf_url": "https://arxiv.org/pdf/2510.21502.pdf",
+      "published": "2025-10-28T01:31:24.304754",
+      "updated": null,
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "primary_category": "astro-ph.HE",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from astro-ph.HE",
+        "cross_list_from": "astro-ph.HE"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.21521",
+      "title": "Synergy between CSST and third-generation gravitational-wave detectors: Inferring cosmological parameters using cross-correlation of dark sirens and galaxies",
+      "authors": [
+        "Ya-Nan Du",
+        "Ji-Yu Song",
+        "Yichao Li",
+        "Shang-Jie Jin",
+        "Ling-Feng Wang",
+        "Jing-Fei Zhang",
+        "Xin Zhang"
+      ],
+      "abstract": "Synergy between CSST and third-generation gravitational-wave detectors: Inferring cosmological parameters using cross-correlation of dark sirens and galaxies Ya-Nan Du, Ji-Yu Song, Yichao Li, Shang-Jie Jin, Ling-Feng Wang, Jing-Fei Zhang, Xin Zhang Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Phenomenology (hep-ph) Gravitational-wave (GW) events are generally believed to originate in galaxies and can thus serve, like galaxies, as tracers of the universe's large-scale structure. In GW observations, waveform analysis provides direct measurements of luminosity distances; however, the redshifts of GW sources cannot be determined due to the mass-redshift degeneracy. By cross-correlating GW events with galaxies, one can establish a correspondence between luminosity distance and redshift shells, enabling cosmological inference. In this work, we explore the scientific potential of cross-correlating GW sources detected by third-generation (3G) ground-based GW detectors with the photometric redshift survey of the China Space Station Survey Telescope (CSST). We find that the constraint precisions of the Hubble constant and the matter density parameter can reach $1.04\\%$ and $2.04\\%$, respectively. The GW clustering bias parameters $A_{\\rm GW}$ and $\\gamma$ can be constrained to $1.52\\%$ and $4.67\\%$, respectively. These results highlight the significant potential of the synergy between CSST and 3G ground-based GW detectors in constraining cosmological models and probing GW source formation channels using cross-correlation of dark sirens and galaxies.",
+      "pdf_url": "https://arxiv.org/pdf/2510.21521.pdf",
+      "published": "2025-10-28T01:31:24.304995",
+      "updated": null,
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "primary_category": "astro-ph.CO",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from astro-ph.CO",
+        "cross_list_from": "astro-ph.CO"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.21529",
+      "title": "Sco X-1 as a continuous gravitational waves source: modelling the secular evolution using MESA",
+      "authors": [
+        "Gianluca Pagliaro",
+        "Maria Alessandra Papa",
+        "Jing Ming",
+        "Devina Misra"
+      ],
+      "abstract": "Sco X-1 as a continuous gravitational waves source: modelling the secular evolution using MESA Gianluca Pagliaro, Maria Alessandra Papa, Jing Ming, Devina Misra High Energy Astrophysical Phenomena (astro-ph.HE); General Relativity and Quantum Cosmology (gr-qc) We study the prospects for detecting continuous gravitational waves (GWs) from Sco X-1 and evaluate the most likely waveform- and progenitor- parameters. We study the evolution of different Sco X-1 progenitors, identifying those that give rise to detectable signals. We model the spin evolution of the neutron star (NS) by the accretion torque and the GW torque. We consider two mechanisms for generating the non-axisymmetry responsible for the GW torque: i) magnetic mountains and ii) deformation after crustal breakage. Both torques are intertwined with the binary evolution, which we trace from the formation of the NS in a binary system with a main-sequence companion. We do this with MESA, starting from a set of initial binary configurations. At current sensitivity, a magnetic ellipticity of $\\varepsilon\\gtrsim 10^{-6}$ is necessary for detection. The highest frequency at which we have detectable signals increases with the accretion efficiency $\\eta$, and it can be as high as 360Hz. At 3G (Cosmic Explorer/Einstein telescope) sensitivity, less deformed Sco X-1 NSs, with ellipticities as small as $6\\cdot 10^{-9}$, are detectable, but the waveform highly depends on the binary system: the highest frequency of detectable signals spans the very broad range 600-1700Hz, strongly depending on $\\eta$ and mass of the progenitor donor star $M^d$. If $\\eta\\leq$30%, the crust does not break. When $\\eta\\in$[40%,60%] only progenitors with $M^d\\geq[1.1,1.5]M_{\\odot}$ present crustal breakage, while if $\\eta\\geq$70% all crusts break. In some systems the crust breaks during their Sco X-1 phase. If Sco X-1 were one of those systems, it would be emitting a very loud GW signal sweeping from O(1000)Hz down to torque-balance frequencies. We estimate current detection probability for this signal to be under 1%; this probability increases substantially -- to around 41% -- with third-generation detectors.",
+      "pdf_url": "https://arxiv.org/pdf/2510.21529.pdf",
+      "published": "2025-10-28T01:31:24.305222",
+      "updated": null,
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "primary_category": "astro-ph.HE",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from astro-ph.HE",
+        "cross_list_from": "astro-ph.HE"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2506.08315",
+      "title": "Prospects for High-Frequency Gravitational-Wave Detection with GEO600",
+      "authors": [
+        "Christopher M. Jungkind",
+        "Brian C. Seymour",
+        "Andrew Laeuger",
+        "Yanbei Chen"
+      ],
+      "abstract": "Prospects for High-Frequency Gravitational-Wave Detection with GEO600 Christopher M. Jungkind, Brian C. Seymour, Andrew Laeuger, Yanbei Chen 19 pages, 8 figures, submitted to PRD General Relativity and Quantum Cosmology (gr-qc); Instrumentation and Methods for Astrophysics (astro-ph.IM) Current ground-based interferometers are optimized for sensitivity from a few tens of Hz to about 1 kHz. While they are not currently utilized for GW detection, interferometric detectors also feature narrow bands of strong sensitivity at higher frequencies where the sideband fields created by a GW are resonantly amplified in the optical system. For certain interferometer configurations, small changes to system parameters allow the narrow band of high sensitivity to be scanned over a much larger range of frequencies, potentially enabling broadband detection at high frequencies. In this paper, we investigate whether simply modifying the detuning angle of the signal-recycling mirror of the GEO600 interferometer can make this experiment sensitive to GWs in the kilohertz frequency range. We compute the strain sensitivity for GEO600 across a frequency range from several kHz to tens of kHz for various detuning angles. We also show that LIGO cannot attain the same effect assuming that the optical components are not changed due to the narrow band response of the Fabry-Perot cavities. We then calculate the sensitivity of GEO600 to various proposed high-frequency GW sources and compare it to the sensitivity of other ground-based detectors.",
+      "pdf_url": "https://arxiv.org/pdf/2506.08315.pdf",
+      "published": "2025-10-28T01:31:24.307230",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.05913",
+      "title": "Pulsar timing array analysis in a Legendre polynomial basis",
+      "authors": [
+        "Bruce Allen",
+        "Arian L. von Blanckenburg",
+        "Ken D. Olum"
+      ],
+      "abstract": "Pulsar timing array analysis in a Legendre polynomial basis Bruce Allen, Arian L. von Blanckenburg, Ken D. Olum Revised to cite earlier uses of Legendre polynomials for PTAs and fix typos. To be submitted to PRD General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); Instrumentation and Methods for Astrophysics (astro-ph.IM) We use Legendre polynomials, previously employed in this context by Lee et al. [1], van Haasteren and Levin [2], and Pitrou and Cusin [3], to model signals in pulsar timing arrays (PTA). These replace the (Fourier mode) basis of trigonometric functions normally used for data analysis. The Legendre basis makes it simpler to incorporate pulsar modeling effects, which remove constant-, linear-, and quadratic-in-time terms from pulsar timing residuals. In the Legendre basis, this zeroes the amplitudes of the the first three Legendre polynomials. We use this basis to construct an optimal quadratic cross-correlation estimator $\\widehat{\\mu}$ of the Hellings and Downs (HD) correlation and compute its variance $\\sigma^2_{\\widehat{\\mu}}$ in the way described by Allen and Romano [4]. Remarkably, if the gravitational-wave background (GWB) and pulsar noise power spectra are (sums of) power laws in frequency, then in this basis one obtains analytic closed forms for many quantities of interest.",
+      "pdf_url": "https://arxiv.org/pdf/2510.05913.pdf",
+      "published": "2025-10-28T01:31:24.307950",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.IM"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.16762",
+      "title": "Globally defined Carroll symmetry of gravitational waves",
+      "authors": [
+        "Mahmut Elbistan",
+        "Peng-Ming Zhang",
+        "Peter Horvathy"
+      ],
+      "abstract": "Globally defined Carroll symmetry of gravitational waves Mahmut Elbistan, Peng-Ming Zhang, Peter Horvathy Extended version. 19 pages. A new section and some more figures added General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph) The locally defined Carroll symmetry of a gravitational wave is extended to a globally defined one by switching to Brinkmann coordinates. Translations and Carroll boosts associated with two independent globally defined solutions of a Sturm-Liouville equation allow us to describe the motions. The Displacement Memory Effect arises for particular choices of the parameters which yield trajectories with zero momentum. The relation to the Schwarzian derivative is highlighted. We illustrate our general statements by the Pöschl-Teller profile.",
+      "pdf_url": "https://arxiv.org/pdf/2510.16762.pdf",
+      "published": "2025-10-28T01:31:24.308112",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "math-ph"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.00989",
+      "title": "Generalized Unitarity Method for Worldline Field Theory",
+      "authors": [
+        "Vincent F. He",
+        "Julio Parra-Martinez"
+      ],
+      "abstract": "Generalized Unitarity Method for Worldline Field Theory Vincent F. He, Julio Parra-Martinez 30 pages + refs, 7 figures. v3: typos corrected High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc) We present a generalized unitarity method for theories of point-particle worldlines coupled to gravity, analogous to that of scattering amplitudes in quantum field theory. This method allows the computation of perturbative observables from basic principles such as locality and unitarity, thus avoiding gauge redundancies and the use of Feynman diagrams. We illustrate the method with a variety of examples, including the gravitational waveform for the scattering of two point masses at next-to-leading order (or ${\\cal O}(G^{5/2})$), reproducing known results. Our method further streamlines the calculation of the scattering dynamics of compact binary systems and opens the door to further applications and systematical exploration of structure in this class of observables.",
+      "pdf_url": "https://arxiv.org/pdf/2510.00989.pdf",
+      "published": "2025-10-28T01:31:24.309618",
+      "updated": null,
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "primary_category": "hep-th",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.19862",
+      "title": "Perturbations and Greybody Factors of AdS Black Holes with a Cloud of Strings Surrounded by Quintessence-like Field in NLED Scenario",
+      "authors": [
+        "Faizuddin Ahmed",
+        "Ahmad Al-Badawi",
+        "İzzet Sakallı",
+        "Sara Kanzi"
+      ],
+      "abstract": "Perturbations and Greybody Factors of AdS Black Holes with a Cloud of Strings Surrounded by Quintessence-like Field in NLED Scenario Faizuddin Ahmed, Ahmad Al-Badawi, İzzet Sakallı, Sara Kanzi 21 pages, 20 figures, and 2 tables. Comments are welcome High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc) The discovery of gravitational waves and advances in black hole imaging have opened new opportunities to probe exotic physics in strong-field regimes. Building upon a recent black hole solution in Einstein gravity coupled with nonlinear electrodynamics and exotic matter sources-specifically a cloud of strings and a quintessence field--we study the perturbative dynamics, thermodynamic behavior, and quantum transmission characteristics in anti-de Sitter spacetime. The black hole, defined by its mass, nonlinear magnetic charge, string cloud, and quintessence parameters, exhibits modified spacetime geometry, horizon structure, Hawking temperature, and effective potentials governing field propagation. We derive Schrödinger-like equations for massless scalar, electromagnetic, and fermionic perturbations, exploring how these sources jointly shape the potential barriers. The Hawking temperature shows strong dependence on the horizon radius and nonlinear charge, differing markedly from asymptotically flat cases due to the cosmological constant. Greybody factors, describing Hawking radiation transmission probabilities, are computed for all field spins via turning point analysis. A notable result arises in the fermionic sector: positive and negative helicity modes attain maximal transmission at distinct quintessence normalization values, revealing helicity-dependent coupling absent in bosonic channels. This asymmetry suggests a potential observational signature of spin-exotic matter interactions, offering new insights into detecting quintessence through black hole radiation spectra. Our results extend previous perturbative analyses by incorporating nonlinear electrodynamics, cosmic strings, and quintessence effects--linking quantum radiation studies to gravitational wave astronomy and early-universe cosmology.",
+      "pdf_url": "https://arxiv.org/pdf/2510.19862.pdf",
+      "published": "2025-10-28T01:31:24.310209",
+      "updated": null,
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "primary_category": "hep-th",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2503.15315",
+      "title": "Euclid Quick Data Release (Q1). A probabilistic classification of quenched galaxies",
+      "authors": [
+        "Euclid Collaboration: P. Corcho-Caballero",
+        "Y. Ascasibar",
+        "G. Verdoes Kleijn",
+        "C. C. Lovell",
+        "G. De Lucia",
+        "C. Cleland",
+        "F. Fontanot",
+        "C. Tortora",
+        "L. V. E. Koopmans",
+        "S. Eales",
+        "T. Moutard",
+        "C. Laigle",
+        "A. Nersesian",
+        "F. Shankar",
+        "M. Dunn",
+        "N. Aghanim",
+        "B. Altieri",
+        "A. Amara",
+        "S. Andreon",
+        "H. Aussel",
+        "C. Baccigalupi",
+        "M. Baldi",
+        "A. Balestra",
+        "S. Bardelli",
+        "P. Battaglia",
+        "A. Biviano",
+        "A. Bonchi",
+        "D. Bonino",
+        "E. Branchini",
+        "M. Brescia",
+        "J. Brinchmann",
+        "G. Cañas-Herrera",
+        "V. Capobianco",
+        "C. Carbone",
+        "J. Carretero",
+        "S. Casas",
+        "F. J. Castander",
+        "M. Castellano",
+        "G. Castignani",
+        "S. Cavuoti",
+        "K. C. Chambers",
+        "A. Cimatti",
+        "C. Colodro-Conde",
+        "G. Congedo",
+        "C. J. Conselice",
+        "L. Conversi",
+        "Y. Copin",
+        "A. Costille",
+        "F. Courbin",
+        "H. M. Courtois",
+        "M. Cropper",
+        "A. Da Silva",
+        "H. Degaudenzi",
+        "A. M. Di Giorgio",
+        "C. Dolding",
+        "H. Dole",
+        "F. Dubath",
+        "X. Dupac",
+        "A. Ealet",
+        "S. Escoffier",
+        "M. Farina",
+        "R. Farinelli",
+        "F. Faustini",
+        "S. Ferriol",
+        "F. Finelli",
+        "S. Fotopoulou",
+        "M. Frailis",
+        "E. Franceschi",
+        "M. Fumana",
+        "S. Galeotta",
+        "K. George",
+        "B. Gillis",
+        "C. Giocoli",
+        "J. Gracia-Carpio",
+        "B. R. Granett",
+        "A. Grazian",
+        "F. Grupp",
+        "L. Guzzo",
+        "S. Gwyn",
+        "S. V. H. Haugan",
+        "W. Holmes",
+        "I. M. Hook",
+        "F. Hormuth",
+        "A. Hornstrup",
+        "P. Hudelot",
+        "K. Jahnke",
+        "M. Jhabvala",
+        "E. Keihänen",
+        "S. Kermiche",
+        "A. Kiessling",
+        "B. Kubik",
+        "K. Kuijken",
+        "M. Kümmel",
+        "M. Kunz",
+        "H. Kurki-Suonio",
+        "Q. Le Boulc'h",
+        "A. M. C. Le Brun",
+        "D. Le Mignant",
+        "S. Ligori"
+      ],
+      "abstract": "Euclid Quick Data Release (Q1). A probabilistic classification of quenched galaxies Euclid Collaboration: P. Corcho-Caballero (1), Y. Ascasibar (2 and 3), G. Verdoes Kleijn (1), C. C. Lovell (4), G. De Lucia (5), C. Cleland (6), F. Fontanot (5 and 7), C. Tortora (8), L. V. E. Koopmans (1), S. Eales (9), T. Moutard (10), C. Laigle (11), A. Nersesian (12 and 13), F. Shankar (14), M. Dunn (15 and 16 and 17), N. Aghanim (18), B. Altieri (10), A. Amara (19), S. Andreon (20), H. Aussel (21), C. Baccigalupi (7 and 5 and 22 and 23), M. Baldi (24 and 25 and 26), A. Balestra (27), S. Bardelli (25), P. Battaglia (25), A. Biviano (5 and 7), A. Bonchi (28), D. Bonino (29), E. Branchini (30 and 31 and 20), M. Brescia (32 and 8), J. Brinchmann (33 and 34), G. Cañas-Herrera (35 and 36 and 37), V. Capobianco (29), C. Carbone (38), J. Carretero (39 and 40), S. Casas (41), F. J. Castander (42 and 43), M. Castellano (44), G. Castignani (25), S. Cavuoti (8 and 45), K. C. Chambers (46), A. Cimatti (47), C. Colodro-Conde (15), G. Congedo (48), C. J. Conselice (49), L. Conversi (50 and 10), Y. Copin (51), A. Costille (52), F. Courbin (53 and 54), H. M. Courtois (55), M. Cropper (56), A. Da Silva (57 and 58), H. Degaudenzi (59), A. M. Di Giorgio (60), C. Dolding (56), H. Dole (18), F. Dubath (59), X. Dupac (10), A. Ealet (51), S. Escoffier (61), M. Farina (60), R. Farinelli (25), F. Faustini (28 and 44), S. Ferriol (51), F. Finelli (25 and 62), S. Fotopoulou (63), M. Frailis (5), E. Franceschi (25), M. Fumana (38), S. Galeotta (5), K. George (64), B. Gillis (48), C. Giocoli (25 and 26), J. Gracia-Carpio (65), B. R. Granett (20), A. Grazian (27), F. Grupp (65 and 64), L. Guzzo (66 and 20 and 67), S. Gwyn (68), S. V. H. Haugan (69), W. Holmes (70), I. M. Hook (71), F. Hormuth (72), A. Hornstrup (73 and 74), P. Hudelot (11), K. Jahnke (75), M. Jhabvala (76), E. Keihänen (77), S. Kermiche (61), A. Kiessling (70), B. Kubik (51), K. Kuijken (37), M. Kümmel (64), M. Kunz (78), H. Kurki-Suonio (79 and 80), Q. Le Boulc'h (81), A. M. C. Le Brun (82), D. Le Mignant (52), S. Ligori Paper accepted for publication as part of the A&A Special Issue `Euclid Quick Data Release (Q1)', 28 pages, 11 figures (+ 3 appendices) Astrophysics of Galaxies (astro-ph.GA); Cosmology and Nongalactic Astrophysics (astro-ph.CO) Investigating what drives the quenching of star formation in galaxies is key to understanding their evolution. The Euclid mission will provide rich data from optical to infrared wavelengths for millions of galaxies, and enable precise measurements of their star formation histories. Using the first Euclid Quick Data Release (Q1), we developed a probabilistic classification framework that combines the average specific star-formation rate inferred over two timescales ($10^8,10^9$ yr) to categorise galaxies as `ageing' (secularly evolving), `quenched' (recently halted star formation), or `retired' (dominated by old stars). Two classification methods were employed: a probabilistic approach, which integrates posterior distributions, and a model-driven method, which optimises sample purity and completeness using IllustrisTNG. At $z<0.1$ and $M_\\ast \\gtrsim 3\\times10^{8}\\,M_\\odot$, we obtain Euclid class fractions of 68-72\\%, 8-17\\%, and 14-19\\% for ageing, quenched, and retired populations, respectively. Ageing and retired galaxies dominate at the low- and high-mass end, respectively, while quenched galaxies surpass the retired fraction for $M_\\ast \\lesssim 10^{10}\\,\\rm M_\\odot$. The evolution with redshift shows increasing and decreasing fractions of ageing and retired galaxies, respectively. More massive galaxies usually undergo quenching episodes at earlier times than to their low-mass counterparts. In terms of the mass-size-metallicity relation, ageing galaxies generally exhibit disc morphologies and low metallicities. Retired galaxies show compact structures and enhanced chemical enrichment, while quenched galaxies form an intermediate population that is more compact and chemically evolved than ageing systems. This work demonstrates Euclid's great potential for elucidating the physical nature of the quenching mechanisms that govern galaxy evolution.",
+      "pdf_url": "https://arxiv.org/pdf/2503.15315.pdf",
+      "published": "2025-10-28T01:31:24.450179",
+      "updated": null,
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "primary_category": "astro-ph.GA",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.21205",
+      "title": "Detection of Quasi-periodic Oscillations in the $γ$-Ray Light Curve of 4FGL J0309.9-6058",
+      "authors": [
+        "Jingyu Wu",
+        "Zhihao Ouyang",
+        "Hubing Xiao",
+        "Elisa Prandini",
+        "Shangchun Xie",
+        "Sheng Yang",
+        "Jianzhen Chen",
+        "Shaohua Zhang",
+        "Haoyang Zhang",
+        "Junhui Fan"
+      ],
+      "abstract": "Detection of Quasi-periodic Oscillations in the $γ$-Ray Light Curve of 4FGL J0309.9-6058 Jingyu Wu, Zhihao Ouyang, Hubing Xiao, Elisa Prandini, Shangchun Xie, Sheng Yang, Jianzhen Chen, Shaohua Zhang, Haoyang Zhang, Junhui Fan 12 pages, 8 figures, accept for MNRAS High Energy Astrophysical Phenomena (astro-ph.HE) In this work, we report, for the first time, a quasi-periodic oscillation (QPO) in the $\\gamma$-ray band of 4FGL J0309.9-6058, also known as PKS 0308-611. We employed three analytical methods (the Lomb-Scargle periodogram, REDFIT, and the weighted wavelet Z-transform) to analyze the QPO signal using \\textit{Fermi} $\\gamma$-ray light curve data. The analysis reveals a potential QPO during MJD 57983$-$60503, with a period of approximately 550 days and a maximum local significance of 3.72$\\sigma$ and global significance of 2.72$\\sigma$ derived from the WWZ analysis. To validate this result, we applied Gaussian Process (GP) to the same light curve, which independently confirms the presence of QPO signal consistent with our Fourier-based results. We further extended the analysis to the full duration of the \\textit{Fermi} observations, and the results consistently support and strengthen the presence of this QPO signal. Additionally, a time lag between the optical and $\\gamma$-ray bands indicates separate emission regions for these two bands. Given the year-like timescale of the QPO signal and the fact that a QPO signal with local significance over 3$\\sigma$ for full \\textit{Fermi}-LAT observed time, we suggest that the QPO is most likely caused by a precessing jet.",
+      "pdf_url": "https://arxiv.org/pdf/2510.21205.pdf",
+      "published": "2025-10-28T01:31:24.730451",
+      "updated": null,
+      "categories": [
+        "astro-ph.HE"
+      ],
+      "primary_category": "astro-ph.HE",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    }
+  ]
+}
