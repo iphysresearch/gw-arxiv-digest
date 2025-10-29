@@ -1,102 +1,145 @@
-# 📡 Daily GW arXiv Digest - 2025-10-28
-**Found 14 gravitational wave papers**
+# 📡 Daily GW arXiv Digest - 2025-10-29
+**Found 32 gravitational wave papers**
 
-[arXiv:2510.20891](https://arxiv.org/abs/2510.20891)[Submitted on 28 Oct 2025]
-**Ab uno disce omnes: Single-harmonic search for extreme mass-ratio inspirals**
-Lorenzo Speri, Rodrigo Tenorio, Christian Chapman-Bird, Davide Gerosa
+[arXiv:2510.22137](https://arxiv.org/abs/2510.22137)[Submitted on 29 Oct 2025]
+**Inferring neutron-star Love-Q relations from gravitational waves in the hierarchical Bayesian framework**
+Zhihao Zheng, Ziming Wang, Jinwen Deng, Yiming Dong, Lijing Shao
+Subjects: **gr-qc**; astro-ph.HE
+
+---
+
+[arXiv:2510.22275](https://arxiv.org/abs/2510.22275)[Submitted on 29 Oct 2025]
+**Eccentric extreme-mass-ratio inspirals: a new window into ultra-light vector fields**
+Tieguang Zi, Fu-Wen Shu
+Subjects: **gr-qc**; hep-th
+
+---
+
+[arXiv:2510.22761](https://arxiv.org/abs/2510.22761)[Submitted on 29 Oct 2025]
+**Gravitational wave radiation from periodic orbits and quasi-periodic oscillations in Einstein non-linear Maxwell-Yukawa black hole**
+Tehreem Zahra , Oreeda Shabbir , Bushra Majeed , Mubasher Jamil , Javlon Rayimbaev , Abubakir Shermatov School of Natural Sciences, National University of Sciences and Technology , Islamabad, Pakistan, College of Electrical and Mechanical Engineering , National University of Sciences and Technology, Islamabad, Pakistan, Research Center of Astrophysics and Cosmology, Khazar University, Baku, Azerbaijan, National University of Uzbekistan, Tashkent, Uzbekistan, Urgench State University, Urgench, Uzbekistan, Institute of Fundamental and Applied Research, National Research University TIIAME, Tashkent, Uzbekistan, University of Tashkent for Applied Sciences, Tashkent, Uzbekistan, Tashkent State Technical University, Tashkent, Uzbekistan)
+Subjects: **gr-qc**
+
+---
+
+[arXiv:2510.23238](https://arxiv.org/abs/2510.23238)[Submitted on 29 Oct 2025]
+**Lensing, not luck! Detection prospects of strongly lensed gravitational waves**
+A. Barsode, K. N. Maity, P. Ajith
+Subjects: **gr-qc**; astro-ph.CO
+
+---
+
+[arXiv:2510.23279](https://arxiv.org/abs/2510.23279)[Submitted on 29 Oct 2025]
+**Probing Warm Inflation via Correlated Gravitational Waves from First Order Phase Transitions**
+Xiao-Bin Sui, Jing Liu, Rong-Gen Cai
+Subjects: **gr-qc**
+
+---
+
+[arXiv:2510.23326](https://arxiv.org/abs/2510.23326)[Submitted on 29 Oct 2025]
+**Binary gravitational waves as probes of quantum graviton states**
+Sugumi Kanno, Jiro Soda, Akira Taniguchi
+Subjects: **gr-qc**; quant-ph
+
+---
+
+[arXiv:2510.21916](https://arxiv.org/abs/2510.21916) (cross-list from astro-ph.GA) [Submitted on 29 Oct 2025]
+**Shadows of the Colossus: Hierarchical Black Hole Mergers in a 10-million-body Globular Cluster Simulation**
+Aidan Mai, Kyle Kremer, Fulya Kiroglu
+Subjects: **astro-ph.GA**; astro-ph.HE, gr-qc
+
+---
+
+[arXiv:2510.21930](https://arxiv.org/abs/2510.21930) (cross-list from astro-ph.HE) [Submitted on 29 Oct 2025]
+**Characterizing Low-Latency Sky Localization in Multi-Detector Gravitational-Wave Networks**
+Amazigh Ouzriat, Viola Sordini, Francesco Di Renzo
+Subjects: **astro-ph.HE**; astro-ph.IM, gr-qc
+
+---
+
+[arXiv:2510.22187](https://arxiv.org/abs/2510.22187) (cross-list from astro-ph.CO) [Submitted on 29 Oct 2025]
+**Constraining the Hubble Constant using Cross-Correlation of Gravitational Wave Events with Flux-Limited Galaxy Catalog**
+Tathagata Ghosh, Surhud More
+Subjects: **astro-ph.CO**; gr-qc
+
+---
+
+[arXiv:2510.22218](https://arxiv.org/abs/2510.22218) (cross-list from astro-ph.CO) [Submitted on 29 Oct 2025]
+**Avoiding PBH overproduction in inflation model with modified dispersion relation**
+Chengrui Yang, Weixin Cai, Taotao Qiu
+Subjects: **astro-ph.CO**; gr-qc, hep-ph, hep-th
+
+---
+
+[arXiv:2510.22290](https://arxiv.org/abs/2510.22290) (cross-list from astro-ph.HE) [Submitted on 29 Oct 2025]
+**Analyzing GW231109_235456 and understanding its potential implications for population studies, nuclear physics, and multi-messenger astronomy**
+Thibeau Wouters, Anna Puecher, Peter T. H. Pang, Tim Dietrich
+Subjects: **astro-ph.HE**; gr-qc, hep-ph
+
+---
+
+[arXiv:2510.22698](https://arxiv.org/abs/2510.22698) (cross-list from astro-ph.HE) [Submitted on 29 Oct 2025]
+**A new group of low-spin $50-70M_\odot$ Black Holes and the high pair-instability mass cutoff**
+Yuan-Zhu Wang, Yin-Jie Li, Shi-Jie Gao, Shao-Peng Tang, Yi-Zhong Fan
+Subjects: **astro-ph.HE**; astro-ph.SR, gr-qc
+
+---
+
+[arXiv:2310.01548](https://arxiv.org/abs/2310.01548) (replaced) [Submitted on 29 Oct 2025]
+**Superradiant scattering of electromagnetic fields from ringing black holes**
+Rajesh Karmakar, Debaprasad Maity
+Subjects: **gr-qc**; astro-ph.CO, hep-th
+
+---
+
+[arXiv:2505.19725](https://arxiv.org/abs/2505.19725) (replaced) [Submitted on 29 Oct 2025]
+**Parametrized Tidal Dissipation Numbers of Non-rotating Black Holes**
+Hajime Kobayashi, Shinji Mukohyama, Naritaka Oshita, Kazufumi Takahashi, Vicharit Yingcharoenrat
+Subjects: **gr-qc**; hep-th
+
+---
+
+[arXiv:2507.00694](https://arxiv.org/abs/2507.00694) (replaced) [Submitted on 29 Oct 2025]
+**Muffled Murmurs: Environmental effects in the LISA stochastic signal from stellar-mass black hole binaries**
+Ran Chen, Rohit S. Chandramouli, Federico Pozzoli, Riccardo Buscicchio, Enrico Barausse
+Subjects: **gr-qc**; astro-ph.HE
+
+---
+
+[arXiv:2507.08071](https://arxiv.org/abs/2507.08071) (replaced) [Submitted on 29 Oct 2025]
+**Highly accurate simulations of asymmetric black-hole scattering and cross validation of effective-one-body models**
+Oliver Long, Harald P. Pfeiffer, Alessandra Buonanno, Gustav Uhre Jakobsen, Gustav Mogull, Antoni Ramos-Buades, Hannes R. Rüter, Lawrence E. Kidder, Mark A. Scheel
+Subjects: **gr-qc**; hep-th
+
+---
+
+[arXiv:2509.08664](https://arxiv.org/abs/2509.08664) (replaced) [Submitted on 29 Oct 2025]
+**Eikonal quasinormal modes of highly-spinning black holes in higher-curvature gravity: a window into extremality**
+Pablo A. Cano, Marina David, Guido van der Velde
+Subjects: **gr-qc**; hep-th
+
+---
+
+[arXiv:2509.13638](https://arxiv.org/abs/2509.13638) (replaced) [Submitted on 29 Oct 2025]
+**GWKokab: An Implementation to Identify the Properties of Multiple Population of Gravitational Wave Sources**
+Meesum Qazalbash, Muhammad Zeeshan, Richard O'Shaughnessy
 Subjects: **gr-qc**; astro-ph.HE, astro-ph.IM
 
 ---
 
-[arXiv:2510.21411](https://arxiv.org/abs/2510.21411)[Submitted on 28 Oct 2025]
-**Optimizing searches for gravitational wave bursts using coherent WaveBurst 2G**
-Alessandro Martini, Andrea Miani, Marco Drago, Claudia Lazzaro, Francesco Salemi, Sophie Bini, Osvaldo Freitas, Edoardo Milotti, Giacomo Principe, Shubhanshu Tiwari, Agata Trovato, Gabriele Vedovato, Yumeng Xu, Giovanni Andrea Prodi
-Subjects: **gr-qc**; astro-ph.IM
+[arXiv:2510.03711](https://arxiv.org/abs/2510.03711) (replaced) [Submitted on 29 Oct 2025]
+**Gravitomagnetic-Hydrodynamics and Turbulence in Early Universe**
+Jiaxiang Liang, Peng Xu, Minghui Du, Yifu Cheng, Zhan Wang, Ziren Luo, Manjia Liang
+Subjects: **gr-qc**; astro-ph.CO
 
 ---
 
-[arXiv:2510.20898](https://arxiv.org/abs/2510.20898) (cross-list from astro-ph.HE) [Submitted on 28 Oct 2025]
-**Illuminating gravitational wave sources with Sgr A* flares**
-Pau Amaro Seoane
-Subjects: **astro-ph.HE**; astro-ph.GA, gr-qc
+[arXiv:2504.05387](https://arxiv.org/abs/2504.05387) (replaced) [Submitted on 29 Oct 2025]
+**The Route to Unveil the Cosmic Genealogy of Supermassive Black Hole Binaries Using Nano-Hertz Gravitational Waves and Galaxy Surveys**
+Mohit Raj Sah, Suvodip Mukherjee
+Subjects: **astro-ph.CO**; astro-ph.GA, gr-qc
 
 ---
 
-[arXiv:2510.21439](https://arxiv.org/abs/2510.21439) (cross-list from hep-ph) [Submitted on 28 Oct 2025]
-**Gravitational waves from the sound shell model: direct and inverse phase transitions in the early Universe**
-Giulio Barni, Simone Blasi, Eric Madge, Miguel Vanvlasselaer
-Subjects: **hep-ph**; astro-ph.CO, gr-qc
-
----
-
-[arXiv:2510.21502](https://arxiv.org/abs/2510.21502) (cross-list from astro-ph.HE) [Submitted on 28 Oct 2025]
-**Multi-Messenger Search for Neutrino and Gravitational-Wave Emissions from Binary Black Holes Near Active Galactic Nuclei**
-Leonardo Ricca, Matthias Vereecken, Christoph Raab, Mathieu Lamoureux, Giacomo Bruno, Gwenhaël De Wasseige
-Subjects: **astro-ph.HE**; gr-qc
-
----
-
-[arXiv:2510.21521](https://arxiv.org/abs/2510.21521) (cross-list from astro-ph.CO) [Submitted on 28 Oct 2025]
-**Synergy between CSST and third-generation gravitational-wave detectors: Inferring cosmological parameters using cross-correlation of dark sirens and galaxies**
-Ya-Nan Du, Ji-Yu Song, Yichao Li, Shang-Jie Jin, Ling-Feng Wang, Jing-Fei Zhang, Xin Zhang
-Subjects: **astro-ph.CO**; gr-qc, hep-ph
-
----
-
-[arXiv:2510.21529](https://arxiv.org/abs/2510.21529) (cross-list from astro-ph.HE) [Submitted on 28 Oct 2025]
-**Sco X-1 as a continuous gravitational waves source: modelling the secular evolution using MESA**
-Gianluca Pagliaro, Maria Alessandra Papa, Jing Ming, Devina Misra
-Subjects: **astro-ph.HE**; gr-qc
-
----
-
-[arXiv:2506.08315](https://arxiv.org/abs/2506.08315) (replaced) [Submitted on 28 Oct 2025]
-**Prospects for High-Frequency Gravitational-Wave Detection with GEO600**
-Christopher M. Jungkind, Brian C. Seymour, Andrew Laeuger, Yanbei Chen
-Subjects: **gr-qc**; astro-ph.IM
-
----
-
-[arXiv:2510.05913](https://arxiv.org/abs/2510.05913) (replaced) [Submitted on 28 Oct 2025]
-**Pulsar timing array analysis in a Legendre polynomial basis**
-Bruce Allen, Arian L. von Blanckenburg, Ken D. Olum
-Subjects: **gr-qc**; astro-ph.CO, astro-ph.IM
-
----
-
-[arXiv:2510.16762](https://arxiv.org/abs/2510.16762) (replaced) [Submitted on 28 Oct 2025]
-**Globally defined Carroll symmetry of gravitational waves**
-Mahmut Elbistan, Peng-Ming Zhang, Peter Horvathy
-Subjects: **gr-qc**; hep-th, math-ph
-
----
-
-[arXiv:2510.00989](https://arxiv.org/abs/2510.00989) (replaced) [Submitted on 28 Oct 2025]
-**Generalized Unitarity Method for Worldline Field Theory**
-Vincent F. He, Julio Parra-Martinez
-Subjects: **hep-th**; gr-qc
-
----
-
-[arXiv:2510.19862](https://arxiv.org/abs/2510.19862) (replaced) [Submitted on 28 Oct 2025]
-**Perturbations and Greybody Factors of AdS Black Holes with a Cloud of Strings Surrounded by Quintessence-like Field in NLED Scenario**
-Faizuddin Ahmed, Ahmad Al-Badawi, İzzet Sakallı, Sara Kanzi
-Subjects: **hep-th**; gr-qc
-
----
-
-[arXiv:2503.15315](https://arxiv.org/abs/2503.15315) (replaced) [Submitted on 28 Oct 2025]
-**Euclid Quick Data Release (Q1). A probabilistic classification of quenched galaxies**
-Euclid Collaboration: P. Corcho-Caballero, Y. Ascasibar, G. Verdoes Kleijn, C. C. Lovell, G. De Lucia, C. Cleland, F. Fontanot, C. Tortora, L. V. E. Koopmans, S. Eales, T. Moutard, C. Laigle, A. Nersesian, F. Shankar, M. Dunn, N. Aghanim, B. Altieri, A. Amara, S. Andreon, H. Aussel, C. Baccigalupi, M. Baldi, A. Balestra, S. Bardelli, P. Battaglia, A. Biviano, A. Bonchi, D. Bonino, E. Branchini, M. Brescia, J. Brinchmann, G. Cañas-Herrera, V. Capobianco, C. Carbone, J. Carretero, S. Casas, F. J. Castander, M. Castellano, G. Castignani, S. Cavuoti, K. C. Chambers, A. Cimatti, C. Colodro-Conde, G. Congedo, C. J. Conselice, L. Conversi, Y. Copin, A. Costille, F. Courbin, H. M. Courtois, M. Cropper, A. Da Silva, H. Degaudenzi, A. M. Di Giorgio, C. Dolding, H. Dole, F. Dubath, X. Dupac, A. Ealet, S. Escoffier, M. Farina, R. Farinelli, F. Faustini, S. Ferriol, F. Finelli, S. Fotopoulou, M. Frailis, E. Franceschi, M. Fumana, S. Galeotta, K. George, B. Gillis, C. Giocoli, J. Gracia-Carpio, B. R. Granett, A. Grazian, F. Grupp, L. Guzzo, S. Gwyn, S. V. H. Haugan, W. Holmes, I. M. Hook, F. Hormuth, A. Hornstrup, P. Hudelot, K. Jahnke, M. Jhabvala, E. Keihänen, S. Kermiche, A. Kiessling, B. Kubik, K. Kuijken, M. Kümmel, M. Kunz, H. Kurki-Suonio, Q. Le Boulc'h, A. M. C. Le Brun, D. Le Mignant, S. Ligori
-Subjects: **astro-ph.GA**; astro-ph.CO
-
----
-
-[arXiv:2510.21205](https://arxiv.org/abs/2510.21205)[Submitted on 28 Oct 2025]
-**Detection of Quasi-periodic Oscillations in the $γ$-Ray Light Curve of 4FGL J0309.9-6058**
-Jingyu Wu, Zhihao Ouyang, Hubing Xiao, Elisa Prandini, Shangchun Xie, Sheng Yang, Jianzhen Chen, Shaohua Zhang, Haoyang Zhang, Junhui Fan
-Subjects: **astro-ph.HE**
-
----
-
-📊 **Summary**: 3 New • 5 Cross-lists • 6 Replacements
+📊 **Summary**: 10 New • 8 Cross-lists • 14 Replacements
+📋 Showing top 20 of 32 papers
