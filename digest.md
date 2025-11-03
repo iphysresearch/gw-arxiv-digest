@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2025-11-02
+# Complete Daily GW arXiv Digest - 2025-11-03
 
 **总爬取文章**: 164 篇  
 **今天的文章**: 164 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2510.25895](https://arxiv.org/abs/2510.25895)  
 **Authors**: Stephon Alexander, Tatsuya Daniel, Tucker Manton  
-**Date**: 02 Nov 2025  
+**Date**: 03 Nov 2025  
 **Categories**: gr-qc, astro-ph.CO, hep-th  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2510.26359](https://arxiv.org/abs/2510.26359)  
 **Authors**: Zhi-Yuan Li, Zheng-Cheng Liang, Cong-mao Zhang, Jian-dong Zhang, Yi-Ming Hu  
-**Date**: 02 Nov 2025  
+**Date**: 03 Nov 2025  
 **Categories**: gr-qc, astro-ph.IM  
 **Type**: new submission  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2510.26042](https://arxiv.org/abs/2510.26042)  
 **Authors**: Victor Guedes, Siddarth Ajith, Shu Yan Lau, Kent Yagi  
-**Date**: 02 Nov 2025  
+**Date**: 03 Nov 2025  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: cross-list from astro-ph.HE  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2501.11663](https://arxiv.org/abs/2501.11663)  
 **Authors**: Samson H. W. Leong, Alejandro Florido Tomé, Juan Calderón Bustillo, Adrián del Río, Nicolas Sanchis-Gual  
-**Date**: 02 Nov 2025  
+**Date**: 03 Nov 2025  
 **Categories**: gr-qc, hep-ph  
 **Type**: replaced  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2502.08994](https://arxiv.org/abs/2502.08994)  
 **Authors**: Chao-Hui Wang, Xiang-Cheng Meng, Yu-Peng Zhang, Tao Zhu, Shao-Wen Wei  
-**Date**: 02 Nov 2025  
+**Date**: 03 Nov 2025  
 **Categories**: gr-qc, hep-th  
 **Type**: replaced  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2506.21955](https://arxiv.org/abs/2506.21955)  
 **Authors**: Xiaobo Zou, Xingyu Zhong, Wen-Biao Han, Soumya D. Mohanty  
-**Date**: 02 Nov 2025  
+**Date**: 03 Nov 2025  
 **Categories**: gr-qc, astro-ph.IM  
 **Type**: replaced  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2510.17449](https://arxiv.org/abs/2510.17449)  
 **Authors**: Souradeep Pal  
-**Date**: 02 Nov 2025  
+**Date**: 03 Nov 2025  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: replaced  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2408.13144](https://arxiv.org/abs/2408.13144)  
 **Authors**: Samson H. W. Leong, Justin Janquart, Aditya Kumar Sharma, Paul Martens, Parameswaran Ajith, Otto A. Hannuksela  
-**Date**: 02 Nov 2025  
+**Date**: 03 Nov 2025  
 **Categories**: astro-ph.HE, astro-ph.GA, gr-qc  
 **Type**: replaced  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2502.12828](https://arxiv.org/abs/2502.12828)  
 **Authors**: Geng-Chen Wang, Hong-Bo Jin, Xin Zhang  
-**Date**: 02 Nov 2025  
+**Date**: 03 Nov 2025  
 **Categories**: astro-ph.CO, gr-qc, hep-ph, hep-th  
 **Type**: replaced  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2510.26767](https://arxiv.org/abs/2510.26767)  
 **Authors**: Alexander Steier, Shamik Ghosh, Jacques Delabrouille  
-**Date**: 02 Nov 2025  
+**Date**: 03 Nov 2025  
 **Categories**: astro-ph.CO  
 **Type**: new submission  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2506.14150](https://arxiv.org/abs/2506.14150)  
 **Authors**: Yejing Zhan, Di Wang, Shuang-Xi Yi, Fa-Yin Wang  
-**Date**: 02 Nov 2025  
+**Date**: 03 Nov 2025  
 **Categories**: astro-ph.HE, astro-ph.CO  
 **Type**: replaced  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2510.26235](https://arxiv.org/abs/2510.26235)  
 **Authors**: Yonghua Wang, Wei Chao  
-**Date**: 02 Nov 2025  
+**Date**: 03 Nov 2025  
 **Categories**: hep-ph, astro-ph.HE  
 **Type**: cross-list from hep-ph  
 
@@ -155,7 +155,7 @@
 
 **arXiv**: [2508.03637](https://arxiv.org/abs/2508.03637)  
 **Authors**: Maria Paola Vaccaro, Yannick Seif, Michela Mapelli  
-**Date**: 02 Nov 2025  
+**Date**: 03 Nov 2025  
 **Categories**: astro-ph.HE, astro-ph.GA  
 **Type**: replaced  
 
@@ -167,7 +167,7 @@
 
 **arXiv**: [2510.25579](https://arxiv.org/abs/2510.25579)  
 **Authors**: Vaibhav Tiwari  
-**Date**: 02 Nov 2025  
+**Date**: 03 Nov 2025  
 **Categories**: astro-ph.HE  
 **Type**: replaced  
 
@@ -179,7 +179,7 @@
 
 **arXiv**: [2510.26739](https://arxiv.org/abs/2510.26739)  
 **Authors**: Noam Mouelle, Jeremiah Mitchell, Valerie Gibson, Ulrich Schneider  
-**Date**: 02 Nov 2025  
+**Date**: 03 Nov 2025  
 **Categories**: astro-ph.IM, hep-ex, quant-ph  
 **Type**: cross-list from physics.atom-ph  
 
@@ -191,7 +191,7 @@
 
 **arXiv**: [2507.15398](https://arxiv.org/abs/2507.15398)  
 **Authors**: Pooya Saffarieh, Nathan A. Holland, Michele Valentini, Jesse van Dongen, Alexandra Mitchell, Sander Sijtsma, Armin Numic, Wouter Hakvoort, Conor Mow-Lowry  
-**Date**: 02 Nov 2025  
+**Date**: 03 Nov 2025  
 **Categories**: astro-ph.IM  
 **Type**: replaced  
 
