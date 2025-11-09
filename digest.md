@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2025-11-08
+# Complete Daily GW arXiv Digest - 2025-11-09
 
 **总爬取文章**: 160 篇  
 **今天的文章**: 160 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2511.03788](https://arxiv.org/abs/2511.03788)  
 **Authors**: Amitayus Banik, Jeong Han Kim, Xing-Yu Yang  
-**Date**: 08 Nov 2025  
+**Date**: 09 Nov 2025  
 **Categories**: gr-qc, astro-ph.CO, hep-ph  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2511.04010](https://arxiv.org/abs/2511.04010)  
 **Authors**: Tian-Yong Cao, Shu-Xu Yi  
-**Date**: 08 Nov 2025  
+**Date**: 09 Nov 2025  
 **Categories**: gr-qc, astro-ph.GA  
 **Type**: new submission  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2511.03842](https://arxiv.org/abs/2511.03842)  
 **Authors**: Niels Böttner, Roman Schnabel, Mikhail Korobko  
-**Date**: 08 Nov 2025  
+**Date**: 09 Nov 2025  
 **Categories**: astro-ph.IM, gr-qc, quant-ph  
 **Type**: cross-list from physics.ins-det  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2511.04210](https://arxiv.org/abs/2511.04210)  
 **Authors**: Mikage U. Kobayashi, Kazunori Kohri  
-**Date**: 08 Nov 2025  
+**Date**: 09 Nov 2025  
 **Categories**: astro-ph.CO, astro-ph.HE, gr-qc, hep-ph  
 **Type**: cross-list from astro-ph.CO  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2511.04218](https://arxiv.org/abs/2511.04218)  
 **Authors**: Michael J. Williams  
-**Date**: 08 Nov 2025  
+**Date**: 09 Nov 2025  
 **Categories**: hep-ex, astro-ph.IM, gr-qc  
 **Type**: cross-list from hep-ex  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2511.04540](https://arxiv.org/abs/2511.04540)  
 **Authors**: Lorenz Zwick, Kai Hendriks, Pankaj Saini, János Takátsy, Connar Rowan, Johan Samsing, Jakob Stegmann  
-**Date**: 08 Nov 2025  
+**Date**: 09 Nov 2025  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: cross-list from astro-ph.HE  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2505.10926](https://arxiv.org/abs/2505.10926)  
 **Authors**: Wataru Chiba, Ryusuke Jinno, Kimihiro Nomura  
-**Date**: 08 Nov 2025  
+**Date**: 09 Nov 2025  
 **Categories**: gr-qc, astro-ph.CO, hep-ph  
 **Type**: replaced  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2507.12171](https://arxiv.org/abs/2507.12171)  
 **Authors**: Konstantin Leyde, Tessa Baker, Wolfgang Enzi  
-**Date**: 08 Nov 2025  
+**Date**: 09 Nov 2025  
 **Categories**: astro-ph.CO, astro-ph.IM, gr-qc  
 **Type**: replaced  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2511.04546](https://arxiv.org/abs/2511.04546)  
 **Authors**: Goureesankar Sathyanathan, Josquin Errard, Soumen Basak  
-**Date**: 08 Nov 2025  
+**Date**: 09 Nov 2025  
 **Categories**: astro-ph.CO  
 **Type**: new submission  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2507.23320](https://arxiv.org/abs/2507.23320)  
 **Authors**: Yuma S. Furuta, Yuta Hamada, Kazunori Kohri  
-**Date**: 08 Nov 2025  
+**Date**: 09 Nov 2025  
 **Categories**: hep-th, astro-ph.CO, hep-ph  
 **Type**: replaced  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2510.20459](https://arxiv.org/abs/2510.20459)  
 **Authors**: Rajasmita Sahoo, Arunkarthiheyan Thiyagarajan, Asutosh Panda, Somnath Mukhopadhyay  
-**Date**: 08 Nov 2025  
+**Date**: 09 Nov 2025  
 **Categories**: astro-ph.SR  
 **Type**: replaced  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2511.04386](https://arxiv.org/abs/2511.04386)  
 **Authors**: Johannes Lehmann, Artem Basalaev, Jonathan J. Carter, Matteo Carlassara, Harald Lück, Gabriella Chiarini, Pritam Sarkar, Firoz Khan, Satoru Takano, Sara Al-Kershi, Sina M. Koehlenbeck, Pascal Birckigt, Sarah L. Kranzhoff, Juliane von Wrangel, David S. Wu  
-**Date**: 08 Nov 2025  
+**Date**: 09 Nov 2025  
 **Categories**: astro-ph.IM  
 **Type**: cross-list from physics.ins-det  
 
@@ -155,7 +155,7 @@
 
 **arXiv**: [2511.04067](https://arxiv.org/abs/2511.04067)  
 **Authors**: Lei Zhang, Jinhai Zhang, Han Yan, Xian Chen  
-**Date**: 08 Nov 2025  
+**Date**: 09 Nov 2025  
 **Categories**: astro-ph.EP  
 **Type**: new submission  
 
