@@ -1,0 +1,487 @@
+{
+  "date": "2025-11-11",
+  "crawl_timestamp": "2025-11-11T01:31:55.938280",
+  "query": "cat:gr-qc OR cat:astro-ph.* (filtered for gravitational waves)",
+  "summary": {
+    "total_crawled": 158,
+    "total_gw_papers": 12,
+    "by_category": {
+      "gr-qc": {
+        "total": 32,
+        "gw_related": 5
+      },
+      "astro-ph": {
+        "total": 108,
+        "gw_related": 6
+      }
+    }
+  },
+  "crawl_verification": {
+    "total_expected": 212,
+    "total_actual": 212,
+    "verification_passed": true,
+    "category_details": [
+      {
+        "category": "gr-qc",
+        "url": "https://arxiv.org/list/gr-qc/new",
+        "expected_total": 53,
+        "actual_crawled": 53,
+        "page_source_info": "Total of 53 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.CO",
+        "url": "https://arxiv.org/list/astro-ph.CO/new",
+        "expected_total": 37,
+        "actual_crawled": 37,
+        "page_source_info": "Total of 37 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.HE",
+        "url": "https://arxiv.org/list/astro-ph.HE/new",
+        "expected_total": 32,
+        "actual_crawled": 32,
+        "page_source_info": "Total of 32 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.GA",
+        "url": "https://arxiv.org/list/astro-ph.GA/new",
+        "expected_total": 27,
+        "actual_crawled": 27,
+        "page_source_info": "Total of 27 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.SR",
+        "url": "https://arxiv.org/list/astro-ph.SR/new",
+        "expected_total": 31,
+        "actual_crawled": 31,
+        "page_source_info": "Total of 31 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.IM",
+        "url": "https://arxiv.org/list/astro-ph.IM/new",
+        "expected_total": 20,
+        "actual_crawled": 20,
+        "page_source_info": "Total of 20 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.EP",
+        "url": "https://arxiv.org/list/astro-ph.EP/new",
+        "expected_total": 12,
+        "actual_crawled": 12,
+        "page_source_info": "Total of 12 entries",
+        "success": true,
+        "verification_passed": true
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "https://arxiv.org/abs/2511.04840",
+      "title": "A novel class of rotating black holes with non-aligned electromagnetic field",
+      "authors": [
+        "Hryhorii Ovcharenko",
+        "Jiri Podolsky"
+      ],
+      "abstract": "A novel class of rotating black holes with non-aligned electromagnetic field Hryhorii Ovcharenko, Jiri Podolsky 4 pages; contribution to the proceedings of GR24 / Amaldi16 (International Conference on General Relativity and Gravitation / Edoardo Amaldi Conference on Gravitational Waves) to be published in Journal of Physics: Conference Series General Relativity and Quantum Cosmology (gr-qc) We present a new class of expanding and twisting solutions to the Einstein-Maxwell equations of algebraic type D, where the null eigendirections of the Faraday tensor are not aligned with PNDs of the Weyl tensor. After deriving this novel solution, we explore its various metric forms and parameterizations. In suitable coordinates, the solution depends on six physical parameters, namely mass $m$, Kerr and NUT twist parameters $a$ and $l$, complex charge $c$, acceleration $\\alpha$, and parameter $\\beta$ that governs the interplay between electric and magnetic charges in the aligned part of the Faraday tensor. This parameterization, as the Griffiths-Podolský form of the Plebański-Demiański solution, facilitates explicit special subcases, such as Kerr-Newman black holes, and a deeper physical interpretation. Additionally, in the static limit, our solution reduces to previously known cases.",
+      "pdf_url": "https://arxiv.org/pdf/2511.04840.pdf",
+      "published": "2025-11-11T01:31:55.223722",
+      "updated": null,
+      "categories": [
+        "gr-qc"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2511.05244",
+      "title": "Poissonian Analysis of Glitches Observed in the LIGO Gravitational Wave Interferometers",
+      "authors": [
+        "Giovanna Souza Rodrigues Costa",
+        "Julio Cesar Martins",
+        "Odylio Denys Aguiar"
+      ],
+      "abstract": "Poissonian Analysis of Glitches Observed in the LIGO Gravitational Wave Interferometers Giovanna Souza Rodrigues Costa, Julio Cesar Martins, Odylio Denys Aguiar General Relativity and Quantum Cosmology (gr-qc); Data Analysis, Statistics and Probability (physics.data-an); Instrumentation and Detectors (physics.ins-det) This work investigates the temporal distribution of glitches detected by LIGO, focusing on the morphological classification provided by the Gravity Spy project. Starting from the hypothesis that these events follow a Poisson process, we developed a statistical methodology to evaluate the agreement between the empirical distribution of glitches and an ideal Poisson model, using the coefficient of determination ($R^2$) as the main metric. The analysis was applied to real data from the LIGO detectors in Livingston and Hanford throughout the O3 run, as well as to synthetic datasets generated from pure Poisson distributions. The results show that while several morphologies exhibit good agreement with the proposed model, classes such as 1400Ripples, Fast Scattering, and Power Line display significant deviations ($R^2 \\leq 0.6$), suggesting that their origins do not strictly follow Poissonian statistics. In some cases, a dependence on the detector or the observing run was also observed. This analysis provides a quantitative basis for distinguishing glitch classes based on their degree of \"Poissonness\", potentially supporting the development of more effective glitch mitigation strategies in gravitational wave detector data.",
+      "pdf_url": "https://arxiv.org/pdf/2511.05244.pdf",
+      "published": "2025-11-11T01:31:55.224917",
+      "updated": null,
+      "categories": [
+        "gr-qc"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2511.04730",
+      "title": "SGNL: Scalable Low-Latency Gravitational Wave Detection Pipeline for Compact Binary Mergers",
+      "authors": [
+        "Yun-Jing Huang",
+        "Chad Hanna",
+        "Leo Tsukada",
+        "Amanda Baylor",
+        "Patrick Godwin",
+        "Prathamesh Joshi",
+        "James Kennington",
+        "Cody Messick",
+        "Surabhi Sachdev",
+        "Ron Tapia",
+        "Zach Yarbrough"
+      ],
+      "abstract": "SGNL: Scalable Low-Latency Gravitational Wave Detection Pipeline for Compact Binary Mergers Yun-Jing Huang, Chad Hanna, Leo Tsukada, Amanda Baylor, Patrick Godwin, Prathamesh Joshi, James Kennington, Cody Messick, Surabhi Sachdev, Ron Tapia, Zach Yarbrough Instrumentation and Methods for Astrophysics (astro-ph.IM); General Relativity and Quantum Cosmology (gr-qc) We present SGNL, a scalable, low-latency gravitational-wave search pipeline. It reimplements the core matched-filtering principles of the GstLAL pipeline within a modernized framework. The Streaming Graph Navigator library, a lightweight Python streaming framework, replaces GstLAL's GStreamer infrastructure, simplifying pipeline construction and enabling flexible, modular graph design. The filtering core is reimplemented in PyTorch, allowing SGNL to leverage GPU acceleration for improved computational scalability. We describe the pipeline architecture and introduce a novel implementation of the Low-Latency Online Inspiral Detection algorithm in which components are pre-synchronized to reduce latency. Results from a 40-day Mock Data Challenge show that SGNL's event recovery and sensitivity are consistent with GstLAL's within statistical and systematic uncertainties. Notably, SGNL achieves a median latency of 5.4 seconds, a 42\\% reduction compared to GstLAL's 9.3 seconds.",
+      "pdf_url": "https://arxiv.org/pdf/2511.04730.pdf",
+      "published": "2025-11-11T01:31:55.226207",
+      "updated": null,
+      "categories": [
+        "astro-ph.IM",
+        "gr-qc"
+      ],
+      "primary_category": "astro-ph.IM",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from astro-ph.IM",
+        "cross_list_from": "astro-ph.IM"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2511.04786",
+      "title": "How Low Can You Go: Constraining the Effects of Catalog Incompleteness on Dark Siren Cosmology",
+      "authors": [
+        "Madison VanWyngarden",
+        "Maya Fishbach",
+        "Aditya Vijaykumar",
+        "Alexandra G. Guerrero",
+        "Daniel E. Holz"
+      ],
+      "abstract": "How Low Can You Go: Constraining the Effects of Catalog Incompleteness on Dark Siren Cosmology Madison VanWyngarden, Maya Fishbach, Aditya Vijaykumar, Alexandra G. Guerrero, Daniel E. Holz To be submitted to ApJ, 12 pages, 7 figures Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Quantum Cosmology (gr-qc) Gravitational waves (GWs) serve as standard sirens by directly encoding the luminosity distance to their source. When the host galaxy redshift is known, for example, through observation of an electromagnetic (EM) counterpart, GW detections can provide an independent measurement of the Hubble constant, $H_0$. However, even in the absence of an EM counterpart, inferring $H_0$ is possible through the dark siren method. In this approach, every galaxy in the GW localization volume is considered a potential host that contributes to a measurement of $H_0$, with redshift information supplied by galaxy catalogs. Using mock galaxy catalogs, we explore the effect of catalog incompleteness on dark siren measurements of $H_0$. We find that in the case of well-localized GW events, if GW hosts are found in all galaxies with host halo masses $M_h > 2 \\times10^{11} M_{\\odot}h^{-1}$, catalogs only need to be complete down to the 1% brightest magnitude $M_i < -22.43$ to draw an unbiased, informative posterior on H0. We demonstrate that this is a direct result of the clustering of fainter galaxies around brighter and more massive galaxies. For a mock galaxy catalog without clustering, or for GW localization volumes that are too large, using only the brightest galaxies results in a biased $H_0$ posterior. These results are important for informing future dark siren analyses with LIGO-Virgo-KAGRA as well as next-generation detectors.",
+      "pdf_url": "https://arxiv.org/pdf/2511.04786.pdf",
+      "published": "2025-11-11T01:31:55.226564",
+      "updated": null,
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "primary_category": "astro-ph.CO",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from astro-ph.CO",
+        "cross_list_from": "astro-ph.CO"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2511.05279",
+      "title": "Focus Point on Tensions in Cosmology from Early to Late Universe: Part II: New Directions in the Light of Observations from the Most Modern Astronomical Facilities",
+      "authors": [
+        "S. Capozziello",
+        "E. Di Valentino",
+        "V.G. Gurzadyan"
+      ],
+      "abstract": "Focus Point on Tensions in Cosmology from Early to Late Universe: Part II: New Directions in the Light of Observations from the Most Modern Astronomical Facilities S. Capozziello, E. Di Valentino, V.G. Gurzadyan Eur. Phys. J. Plus 140, 1011 (2025) Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Quantum Cosmology (gr-qc) The papers included in this Focus Point collection are devoted to the studies on the cosmological tensions and challenges stimulated by the latest observational data. The first results of the LARES-2 laser ranging satellite on the high precision testing of the frame-dragging effect predicted by General Relativity are presented. The data on the S-stars monitoring in the Galactic center obtained by GRAVITY collaboration were analysed within the Physics-informed neural network (PINN) approach. The results enabled to probe the role of the cosmological constant, of the dark matter, the star cluster in the core of the Galaxy obtaining an upper limit for the star density. The topics include the conversion of high-frequency relic gravitational waves into photons in cosmological magnetic field, cosmological gravitational waves stochastic background generation through the spontaneous breaking of a global baryon number symmetry, observational predictions of the Starobinsky inflation model and other studies.",
+      "pdf_url": "https://arxiv.org/pdf/2511.05279.pdf",
+      "published": "2025-11-11T01:31:55.226958",
+      "updated": null,
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "primary_category": "astro-ph.CO",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from astro-ph.CO",
+        "cross_list_from": "astro-ph.CO"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2511.05316",
+      "title": "A subpopulation of low-mass, spinning black holes: signatures of dynamical assembly",
+      "authors": [
+        "Hui Tong",
+        "Thomas A. Callister",
+        "Maya Fishbach",
+        "Eric Thrane",
+        "Fabio Antonini",
+        "Simon Stevenson",
+        "Isobel M. Romero-Shaw",
+        "Fani Dosopoulou"
+      ],
+      "abstract": "A subpopulation of low-mass, spinning black holes: signatures of dynamical assembly Hui Tong, Thomas A. Callister, Maya Fishbach, Eric Thrane, Fabio Antonini, Simon Stevenson, Isobel M. Romero-Shaw, Fani Dosopoulou High Energy Astrophysical Phenomena (astro-ph.HE); General Relativity and Quantum Cosmology (gr-qc) Gravitational-wave observations of massive, rapidly spinning binary black holes mergers provide increasing evidence for the dynamical origin of some mergers. Previous studies have interpreted the mergers with primary mass $\\gtrsim45\\,M_\\odot$ as being dominated by hierarchical, second-generation mergers, with rapidly spinning primaries being the products of previous black hole mergers assembled in dense stellar clusters. In this work, we reveal confident evidence of another subpopulation with rapid and isotropic spins at low mass containing the two exceptional events GW241011 and GW241110, consistent with a hierarchical merger hypothesis. Our result suggests the mass distribution of the second-generation black holes is peaked at low primary masses of $\\sim16\\,M_\\odot$ rather than $\\gtrsim45\\,M_\\odot$ in the pair-instability gap. Such low-mass second-generation black holes must be formed from the merger of even lighter first-generation black holes, implying that dense, metal-rich stellar environments contribute to the binary black hole population. By separating the contamination of higher-generation black holes, our result reveals the primary mass distribution of first-generation black holes formed from stellar collapse, which shows a significant dip between $\\sim12\\,M_\\odot$ to $\\sim20\\,M_\\odot$. This may indicate a dearth of black holes due to variation in the core compactness of the progenitor.",
+      "pdf_url": "https://arxiv.org/pdf/2511.05316.pdf",
+      "published": "2025-11-11T01:31:55.227355",
+      "updated": null,
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "primary_category": "astro-ph.HE",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from astro-ph.HE",
+        "cross_list_from": "astro-ph.HE"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2501.14292",
+      "title": "Detection of the stochastic gravitational wave background with the space-borne gravitational-wave detector network",
+      "authors": [
+        "Jun Cheng",
+        "En-Kun Li",
+        "Jianwei Mei"
+      ],
+      "abstract": "Detection of the stochastic gravitational wave background with the space-borne gravitational-wave detector network Jun Cheng, En-Kun Li, Jianwei Mei General Relativity and Quantum Cosmology (gr-qc); Instrumentation and Methods for Astrophysics (astro-ph.IM) The stochastic gravitational wave background (SGWB) is one of the main detection targets for future millihertz space-borne gravitational-wave observatories such as the \\ac{LISA}, TianQin, and Taiji. For a single LISA-like detector, a null-channel method was developed to identify the SGWB by integrating data from the A and E channels with a noise-only T channel. However, the noise monitoring channel will not be available if one of the laser interferometer arms fails. By combining these detectors, it will be possible to build detector networks to search for SGWB via cross-correlation this http URL this work, we developed a Bayesian data analysis method based on \\ac{TDI} Michelson-type channel. We then investigate the detectability of the TianQin-LISA detector network for various isotropic SGWB. Assuming a three-month observation, the TianQin-LISA detector network could be able to confidently detect SGWB with energy density as low as $\\Omega_{\\rm PL} = 6.0 \\times 10^{-13}$, $\\Omega_{\\rm Flat} = 2.0 \\times 10^{-12}$ and $\\Omega_{\\rm SP} = 1.2 \\times 10^{-12}$ for power-law, flat and single-peak models, respectively.",
+      "pdf_url": "https://arxiv.org/pdf/2501.14292.pdf",
+      "published": "2025-11-11T01:31:55.228913",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2505.17176",
+      "title": "Free Hyperboloidal Evolution of the Einstein-Maxwell-Klein-Gordon System",
+      "authors": [
+        "João D. Álvares",
+        "Alex Vaño-Viñuales"
+      ],
+      "abstract": "Free Hyperboloidal Evolution of the Einstein-Maxwell-Klein-Gordon System João D. Álvares, Alex Vaño-Viñuales General Relativity and Quantum Cosmology (gr-qc) We present simulations of the Einstein-Maxwell-Klein-Gordon system on compactified hyperboloidal slices. To the best of our knowledge, this is the first time that this setup is evolved with a common formulation like BSSN/Z4. Hyperboloidal slices smoothly reach future null infinity, the only location in spacetime where radiation (such as gravitational waves) is unambiguously defined. We are thus able to reach null infinity and extract signals there. We showcase the capabilities of our implementation in spherical symmetry with the evolution of a charged scalar field perturbing a regular spacetime and near an electrically charged black hole. We also present the collapse of a charged scalar field into a Reissner-Nördstrom black hole.",
+      "pdf_url": "https://arxiv.org/pdf/2505.17176.pdf",
+      "published": "2025-11-11T01:31:55.229413",
+      "updated": null,
+      "categories": [
+        "gr-qc"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.26848",
+      "title": "Cosmological and High Energy Physics implications from gravitational-wave background searches in LIGO-Virgo-KAGRA's O1-O4a runs",
+      "authors": [
+        "The LIGO Scientific Collaboration",
+        "the Virgo Collaboration",
+        "the KAGRA Collaboration: A. G. Abac",
+        "I. Abouelfettouh",
+        "F. Acernese",
+        "K. Ackley",
+        "C. Adamcewicz",
+        "S. Adhicary",
+        "D. Adhikari",
+        "N. Adhikari",
+        "R. X. Adhikari",
+        "V. K. Adkins",
+        "S. Afroz",
+        "A. Agapito",
+        "D. Agarwal",
+        "M. Agathos",
+        "N. Aggarwal",
+        "S. Aggarwal",
+        "O. D. Aguiar",
+        "I.-L. Ahrend",
+        "L. Aiello",
+        "A. Ain",
+        "P. Ajith",
+        "T. Akutsu",
+        "S. Albanesi",
+        "W. Ali",
+        "S. Al-Kershi",
+        "C. Alléné",
+        "A. Allocca",
+        "S. Al-Shammari",
+        "P. A. Altin",
+        "S. Alvarez-Lopez",
+        "W. Amar",
+        "O. Amarasinghe",
+        "A. Amato",
+        "F. Amicucci",
+        "C. Amra",
+        "A. Ananyeva",
+        "S. B. Anderson",
+        "W. G. Anderson",
+        "M. Andia",
+        "M. Ando",
+        "M. Andrés-Carcasona",
+        "T. Andrić",
+        "J. Anglin",
+        "S. Ansoldi",
+        "J. M. Antelis",
+        "S. Antier",
+        "M. Aoumi",
+        "E. Z. Appavuravther",
+        "S. Appert",
+        "S. K. Apple",
+        "K. Arai",
+        "A. Araya",
+        "M. C. Araya",
+        "M. Arca Sedda",
+        "J. S. Areeda",
+        "N. Aritomi",
+        "F. Armato",
+        "S. Armstrong",
+        "N. Arnaud",
+        "M. Arogeti",
+        "S. M. Aronson",
+        "G. Ashton",
+        "Y. Aso",
+        "L. Asprea",
+        "M. Assiduo",
+        "S. Assis de Souza Melo",
+        "S. M. Aston",
+        "P. Astone",
+        "F. Attadio",
+        "F. Aubin",
+        "K. AultONeal",
+        "G. Avallone",
+        "E. A. Avila",
+        "S. Babak",
+        "C. Badger",
+        "S. Bae",
+        "S. Bagnasco",
+        "L. Baiotti",
+        "R. Bajpai",
+        "T. Baka",
+        "A. M. Baker",
+        "K. A. Baker",
+        "T. Baker",
+        "G. Baldi",
+        "N. Baldicchi",
+        "M. Ball",
+        "G. Ballardin",
+        "S. W. Ballmer",
+        "S. Banagiri",
+        "B. Banerjee",
+        "D. Bankar",
+        "T. M. Baptiste",
+        "P. Baral",
+        "M. Baratti",
+        "J. C. Barayoga",
+        "B. C. Barish",
+        "D. Barker"
+      ],
+      "abstract": "Cosmological and High Energy Physics implications from gravitational-wave background searches in LIGO-Virgo-KAGRA's O1-O4a runs The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration: A. G. Abac, I. Abouelfettouh, F. Acernese, K. Ackley, C. Adamcewicz, S. Adhicary, D. Adhikari, N. Adhikari, R. X. Adhikari, V. K. Adkins, S. Afroz, A. Agapito, D. Agarwal, M. Agathos, N. Aggarwal, S. Aggarwal, O. D. Aguiar, I.-L. Ahrend, L. Aiello, A. Ain, P. Ajith, T. Akutsu, S. Albanesi, W. Ali, S. Al-Kershi, C. Alléné, A. Allocca, S. Al-Shammari, P. A. Altin, S. Alvarez-Lopez, W. Amar, O. Amarasinghe, A. Amato, F. Amicucci, C. Amra, A. Ananyeva, S. B. Anderson, W. G. Anderson, M. Andia, M. Ando, M. Andrés-Carcasona, T. Andrić, J. Anglin, S. Ansoldi, J. M. Antelis, S. Antier, M. Aoumi, E. Z. Appavuravther, S. Appert, S. K. Apple, K. Arai, A. Araya, M. C. Araya, M. Arca Sedda, J. S. Areeda, N. Aritomi, F. Armato, S. Armstrong, N. Arnaud, M. Arogeti, S. M. Aronson, G. Ashton, Y. Aso, L. Asprea, M. Assiduo, S. Assis de Souza Melo, S. M. Aston, P. Astone, F. Attadio, F. Aubin, K. AultONeal, G. Avallone, E. A. Avila, S. Babak, C. Badger, S. Bae, S. Bagnasco, L. Baiotti, R. Bajpai, T. Baka, A. M. Baker, K. A. Baker, T. Baker, G. Baldi, N. Baldicchi, M. Ball, G. Ballardin, S. W. Ballmer, S. Banagiri, B. Banerjee, D. Bankar, T. M. Baptiste, P. Baral, M. Baratti, J. C. Barayoga, B. C. Barish, D. Barker Main paper: 45 pages, 20 figures General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th) We search for gravitational-wave background signals produced by various early Universe processes in the Advanced LIGO O4a dataset, combined with the data from the earlier O1, O2, and O3 (LIGO-Virgo) runs. The absence of detectable signals enables powerful constraints on fundamental physics. We derive gravitational-wave background energy density upper limits from the O1-O4a data to constrain parameters associated with various possible processes in the early Universe: first-order phase transitions, cosmic strings, domain walls, stiff equation of state, axion inflation, second-order scalar perturbations, primordial black hole binaries, and parity violation. In our analyses, the presence of an astrophysical background produced by compact (black hole and neutron star) binary coalescences throughout the Universe is also considered. We address the implications for various cosmological and high energy physics models based on the obtained parameter constraints. We conclude that LIGO-Virgo data already yield significant constraints on numerous early Universe scenarios.",
+      "pdf_url": "https://arxiv.org/pdf/2510.26848.pdf",
+      "published": "2025-11-11T01:31:55.231755",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2506.10811",
+      "title": "On the calculation of p-values for quadratic statistics in Pulsar Timing Arrays",
+      "authors": [
+        "Rutger van Haasteren"
+      ],
+      "abstract": "On the calculation of p-values for quadratic statistics in Pulsar Timing Arrays Rutger van Haasteren Instrumentation and Methods for Astrophysics (astro-ph.IM); General Relativity and Quantum Cosmology (gr-qc) Pulsar Timing Array (PTA) projects have reported various lines of evidence suggesting the presence of a stochastic gravitational wave (GW) background in their data. One key line of evidence involves a detection statistic sensitive to inter-pulsar correlations, such as those induced by GWs. A $p$-value is then calculated to assess how unlikely it is for the observed signal to arise under the null hypothesis $H_0$, purely by chance. However, PTAs cannot empirically draw samples from $H_0$. As a workaround, various techniques are used in the literature to approximate $p$-values under $H_0$. One such technique, which has been heralded as a model-independent method, is the use of \"scrambling\" transformations that modify the data to cancel out pulsar correlations, thereby simulating realizations from $H_0$. In this work, scrambling methods and the detection statistic are investigated from first principles. The $p$-value methodology that is discussed is general, but the discussions regarding a specific detection statistic apply to the detection of a stochastic background of gravitational waves with PTAs. All methods in the literature to calculate $p$-values for such a detection statistic are rigorously analyzed, and many analytical expressions are derived. All this leads to the conclusion that scrambling methods are not model-independent and thus not completely empirical. Rigorous Bayesian and Frequentist $p$-value calculation methods are advocated, the evaluation of which depend on the generalized $\\chi^2$ distribution. This view is consistent with the posterior predictive $p$-value approach that is already in the literature. Efficient expressions are derived to evaluate the generalized $\\chi^2$ distribution of the detection statistic on real data. It is highlighted that no Frequentist $p$-values have been calculated correctly in the PTA literature to date.",
+      "pdf_url": "https://arxiv.org/pdf/2506.10811.pdf",
+      "published": "2025-11-11T01:31:55.233201",
+      "updated": null,
+      "categories": [
+        "astro-ph.IM",
+        "gr-qc"
+      ],
+      "primary_category": "astro-ph.IM",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.21439",
+      "title": "Gravitational waves from the sound shell model: direct and inverse phase transitions in the early Universe",
+      "authors": [
+        "Giulio Barni",
+        "Simone Blasi",
+        "Eric Madge",
+        "Miguel Vanvlasselaer"
+      ],
+      "abstract": "Gravitational waves from the sound shell model: direct and inverse phase transitions in the early Universe Giulio Barni, Simone Blasi, Eric Madge, Miguel Vanvlasselaer 22 pages + 6 pages appendix, 15 figures High Energy Physics - Phenomenology (hep-ph); Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Quantum Cosmology (gr-qc) Cosmological phase transitions are a frequent phenomenon in particle physics models beyond the Standard Model, and the corresponding gravitational wave signal offers a key probe of new physics in the early Universe. Depending on the underlying microphysics, the transition can exhibit either direct or inverse hydrodynamics, leading to a different phenomenology. Most studies to date have focused on direct transitions, where the cosmic fluid is pushed or dragged by the expanding vacuum bubbles. In contrast, inverse phase transitions are characterized by fluid profiles where the plasma is sucked in by the expanding bubbles. Using the sound shell model, we derive and compare the gravitational wave spectra from sound waves for direct and inverse phase transitions, providing new insights into the potential observable features and the possibility of discriminating among the various fluid solutions in gravitational wave experiments.",
+      "pdf_url": "https://arxiv.org/pdf/2510.21439.pdf",
+      "published": "2025-11-11T01:31:55.233713",
+      "updated": null,
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "primary_category": "hep-ph",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2511.05144",
+      "title": "Searching for Electromagnetic Counterpart Candidates to GW231123",
+      "authors": [
+        "Lei He",
+        "Liang-Gui Zhu",
+        "Zheng-Yan Liu",
+        "Rui Niu",
+        "Chao Wei",
+        "Bing-Zhou Gao",
+        "Ming-Shen Zhou",
+        "Run-Duo Liang",
+        "Ken Chen",
+        "Jian-Min Wang",
+        "Ning Jiang",
+        "Zhen-Yi Cai",
+        "Ji-an Jiang",
+        "Zi-Gao Dai",
+        "Ye-Fei Yuan",
+        "Jian Li",
+        "Wen Zhao"
+      ],
+      "abstract": "Searching for Electromagnetic Counterpart Candidates to GW231123 Lei He, Liang-Gui Zhu, Zheng-Yan Liu, Rui Niu, Chao Wei, Bing-Zhou Gao, Ming-Shen Zhou, Run-Duo Liang, Ken Chen, Jian-Min Wang, Ning Jiang, Zhen-Yi Cai, Ji-an Jiang, Zi-Gao Dai, Ye-Fei Yuan, Jian Li, Wen Zhao 10 pages, 3 figures, comments are welcome High Energy Astrophysical Phenomena (astro-ph.HE) The detection of GW231123, a gravitational-wave (GW) event with exceptionally massive and rapidly spinning black holes, suggests the possible formation within an active galactic nucleus (AGN) disk, which provides a favorable environment for potentially generating an observable electromagnetic (EM) counterpart. We conduct a search for such a counterpart by crossmatching the GW localization with a comprehensive catalog of AGN flares from the Zwicky Transient Facility. Our analysis yields six plausible optical flare candidates that are spatially and temporally coincident with GW231123 and exhibit significant deviations from their AGN baseline flux. Although these candidates represent a crucial first step, their true nature remains inconclusive. Confirming any one of these flares via future observations would provide a landmark validation of the AGN formation channel and unlock the multi-messenger potential of this extraordinary merger.",
+      "pdf_url": "https://arxiv.org/pdf/2511.05144.pdf",
+      "published": "2025-11-11T01:31:55.536833",
+      "updated": null,
+      "categories": [
+        "astro-ph.HE"
+      ],
+      "primary_category": "astro-ph.HE",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    }
+  ]
+}
