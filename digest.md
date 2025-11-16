@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2025-11-15
+# Complete Daily GW arXiv Digest - 2025-11-16
 
 **总爬取文章**: 171 篇  
 **今天的文章**: 171 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2511.09646](https://arxiv.org/abs/2511.09646)  
 **Authors**: Nur E. M. Rifat, David A. Nichols, Kent Yagi  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2511.09656](https://arxiv.org/abs/2511.09656)  
 **Authors**: Ethan Payne, Lee McCuller, Katerina Chatziioannou  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: gr-qc, astro-ph.IM  
 **Type**: new submission  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2511.09659](https://arxiv.org/abs/2511.09659)  
 **Authors**: William G. Lamb, Jeremy M. Wachter, Andrea Mitridate, Shashwat C. Sardesai, Bence Bécsy, Emily L. Hagen, Stephen R. Taylor, Luke Zoltan Kelley  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: new submission  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2511.10466](https://arxiv.org/abs/2511.10466)  
 **Authors**: Giovanni Cabass, Digvijay Wadekar, Matias Zaldarriaga, Zihan Zhou  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: gr-qc, astro-ph.IM  
 **Type**: new submission  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2511.10522](https://arxiv.org/abs/2511.10522)  
 **Authors**: Jooheon Yoo, Michael Boyle, Nils Deppe  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2511.10567](https://arxiv.org/abs/2511.10567)  
 **Authors**: Cynthia Maldonado, Francisco Nettel, Pedro A. Sánchez  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2511.10632](https://arxiv.org/abs/2511.10632)  
 **Authors**: Neil J. Cornish  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2511.08384](https://arxiv.org/abs/2511.08384)  
 **Authors**: Lucy Brissenden, Konstantinos Dimopoulos, Eemeli Tomberg  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: hep-ph, astro-ph.CO, gr-qc, hep-th  
 **Type**: cross-list from hep-ph  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2511.10204](https://arxiv.org/abs/2511.10204)  
 **Authors**: Xiangyu Lyu, En-Kun Li, Changfu Shi, Yi-Ming Hu  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: cross-list from astro-ph.HE  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2112.06861](https://arxiv.org/abs/2112.06861)  
 **Authors**: The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration: R. Abbott, H. Abe, F. Acernese, K. Ackley, N. Adhikari, R. X. Adhikari, V. K. Adkins, V. B. Adya, C. Affeldt, D. Agarwal, M. Agathos, K. Agatsuma, N. Aggarwal, O. D. Aguiar, L. Aiello, A. Ain, P. Ajith, T. Akutsu, P. F. de Alarcón, S. Albanesi, R. A. Alfaidi, A. Allocca, P. A. Altin, A. Amato, C. Anand, S. Anand, A. Ananyeva, S. B. Anderson, W. G. Anderson, M. Ando, T. Andrade, N. Andres, M. Andrés-Carcasona, T. Andrić, S. V. Angelova, S. Ansoldi, J. M. Antelis, S. Antier, T. Apostolatos, E. Z. Appavuravther, S. Appert, S. K. Apple, K. Arai, A. Araya, M. C. Araya, J. S. Areeda, M. Arène, N. Aritomi, N. Arnaud, M. Arogeti, S. M. Aronson, K. G. Arun, H. Asada, Y. Asali, G. Ashton, Y. Aso, M. Assiduo, S. Assis de Souza Melo, S. M. Aston, P. Astone, F. Aubin, K. AultONeal, C. Austin, S. Babak, F. Badaracco, M. K. M. Bader, C. Badger, S. Bae, Y. Bae, A. M. Baer, S. Bagnasco, Y. Bai, J. Baird, R. Bajpai, T. Baka, M. Ball, G. Ballardin, S. W. Ballmer, A. Balsamo, G. Baltus, S. Banagiri, B. Banerjee, D. Bankar, J. C. Barayoga, C. Barbieri, B. C. Barish, D. Barker, P. Barneo, F. Barone, B. Barr, L. Barsotti, M. Barsuglia, D. Barta, J. Bartlett, M. A. Barton, I. Bartos, S. Basak  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: gr-qc, astro-ph.HE, hep-th  
 **Type**: replaced  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2410.05769](https://arxiv.org/abs/2410.05769)  
 **Authors**: Gabriel Andres Piovano, Christiana Pantelidou, Jake Mac Uilliam, Vojtěch Witzany  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2411.10366](https://arxiv.org/abs/2411.10366)  
 **Authors**: Jeremy M. Wachter, Ken D. Olum, Jose J. Blanco-Pillado, Vishnu R. Gade, Kirthivarsha Sivakumar  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: gr-qc, astro-ph.CO  
 **Type**: replaced  
 
@@ -155,7 +155,7 @@
 
 **arXiv**: [2502.04068](https://arxiv.org/abs/2502.04068)  
 **Authors**: Swarnim Shirke, Bikram Keshari Pradhan, Debarati Chatterjee, Laura Sagunski, Jürgen Schaffner-Bielich  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: gr-qc, astro-ph.HE, hep-ph  
 **Type**: replaced  
 
@@ -167,7 +167,7 @@
 
 **arXiv**: [2504.16452](https://arxiv.org/abs/2504.16452)  
 **Authors**: Haorong Wu, Xilong Fan, Lixiang Chen  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: gr-qc, astro-ph.IM, quant-ph  
 **Type**: replaced  
 
@@ -179,7 +179,7 @@
 
 **arXiv**: [2507.05870](https://arxiv.org/abs/2507.05870)  
 **Authors**: Guglielmo Faggioli, Maarten van de Meent, Alessandra Buonanno, Gaurav Khanna  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -191,7 +191,7 @@
 
 **arXiv**: [2510.27424](https://arxiv.org/abs/2510.27424)  
 **Authors**: Qianhang Ding, Minxi He, Hui-Yu Zhu  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: gr-qc, astro-ph.CO, astro-ph.HE, hep-ph  
 **Type**: replaced  
 
@@ -203,7 +203,7 @@
 
 **arXiv**: [2504.21087](https://arxiv.org/abs/2504.21087)  
 **Authors**: Filippo Santoliquido, Jacopo Tissino, Ulyana Dupletsa, Marica Branchesi, Jan Harms, Manuel Arca Sedda, Maximilian Dax, Annalena Kofler, Stephen R. Green, Nihar Gupte, Isobel M. Romero-Shaw, Emanuele Berti  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: astro-ph.HE, astro-ph.IM, gr-qc  
 **Type**: replaced  
 
@@ -215,7 +215,7 @@
 
 **arXiv**: [2509.04574](https://arxiv.org/abs/2509.04574)  
 **Authors**: Thomas W. Baumgarte, Stuart L. Shapiro  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: replaced  
 
@@ -227,7 +227,7 @@
 
 **arXiv**: [2510.27022](https://arxiv.org/abs/2510.27022)  
 **Authors**: The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration: A. G. Abac, I. Abouelfettouh, F. Acernese, K. Ackley, C. Adamcewicz, S. Adhicary, D. Adhikari, N. Adhikari, R. X. Adhikari, V. K. Adkins, S. Afroz, A. Agapito, D. Agarwal, M. Agathos, N. Aggarwal, S. Aggarwal, O. D. Aguiar, I.-L. Ahrend, L. Aiello, A. Ain, P. Ajith, T. Akutsu, S. Albanesi, W. Ali, S. Al-Kershi, C. Alléné, A. Allocca, S. Al-Shammari, P. A. Altin, S. Alvarez-Lopez, W. Amar, O. Amarasinghe, A. Amato, F. Amicucci, C. Amra, A. Ananyeva, S. B. Anderson, W. G. Anderson, M. Andia, M. Ando, M. Andrés-Carcasona, T. Andrić, J. Anglin, S. Ansoldi, J. M. Antelis, S. Antier, M. Aoumi, E. Z. Appavuravther, S. Appert, S. K. Apple, K. Arai, A. Araya, M. C. Araya, M. Arca Sedda, J. S. Areeda, N. Aritomi, F. Armato, S. Armstrong, N. Arnaud, M. Arogeti, S. M. Aronson, G. Ashton, Y. Aso, L. Asprea, M. Assiduo, S. Assis de Souza Melo, S. M. Aston, P. Astone, F. Attadio, F. Aubin, K. AultONeal, G. Avallone, E. A. Avila, S. Babak, C. Badger, S. Bae, S. Bagnasco, L. Baiotti, R. Bajpai, T. Baka, A. M. Baker, K. A. Baker, T. Baker, G. Baldi, N. Baldicchi, M. Ball, G. Ballardin, S. W. Ballmer, S. Banagiri, B. Banerjee, D. Bankar, T. M. Baptiste, P. Baral, M. Baratti, J. C. Barayoga, B. C. Barish, D. Barker  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: astro-ph.CO, gr-qc  
 **Type**: replaced  
 
@@ -239,7 +239,7 @@
 
 **arXiv**: [2511.10086](https://arxiv.org/abs/2511.10086)  
 **Authors**: Nicklas Ramberg, Daniel Schmitt  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: hep-ph, astro-ph.CO  
 **Type**: cross-list from hep-ph  
 
@@ -251,7 +251,7 @@
 
 **arXiv**: [2511.10288](https://arxiv.org/abs/2511.10288)  
 **Authors**: Peter Athron, Satyabrata Datta, Zhao-Yang Zhang  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: hep-ph, astro-ph.CO, hep-th  
 **Type**: cross-list from hep-ph  
 
@@ -263,7 +263,7 @@
 
 **arXiv**: [2511.10415](https://arxiv.org/abs/2511.10415)  
 **Authors**: Andrew J. Long, Bibhushan Shakya, Julia Anabell Ziegler  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: hep-ph, astro-ph.CO  
 **Type**: cross-list from hep-ph  
 
@@ -275,7 +275,7 @@
 
 **arXiv**: [2503.13597](https://arxiv.org/abs/2503.13597)  
 **Authors**: Maciej Kierkla, Philipp Schicho, Bogumila Swiezewska, Tuomas V. I. Tenkanen, Jorinde van de Vis  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: hep-ph, astro-ph.CO, hep-th  
 **Type**: replaced  
 
@@ -287,7 +287,7 @@
 
 **arXiv**: [2504.16040](https://arxiv.org/abs/2504.16040)  
 **Authors**: Sarif Khan, Jongkuk Kim, Pyungwon Ko  
-**Date**: 15 Nov 2025  
+**Date**: 16 Nov 2025  
 **Categories**: hep-ph, astro-ph.HE  
 **Type**: replaced  
 
