@@ -1,145 +1,74 @@
-# 📡 Daily GW arXiv Digest - 2025-11-17
-**Found 24 gravitational wave papers**
+# 📡 Daily GW arXiv Digest - 2025-11-18
+**Found 10 gravitational wave papers**
 
-[arXiv:2511.09646](https://arxiv.org/abs/2511.09646)[Submitted on 17 Nov 2025]
-**Hybrid model for inspiral-merger-ringdown gravitational waveforms from comparable-mass, nonspinning binary black holes**
-Nur E. M. Rifat, David A. Nichols, Kent Yagi
-Subjects: **gr-qc**
-
----
-
-[arXiv:2511.09656](https://arxiv.org/abs/2511.09656)[Submitted on 17 Nov 2025]
-**Photon counting readout for detection and inference of gravitational waves from neutron star merger remnants**
-Ethan Payne, Lee McCuller, Katerina Chatziioannou
-Subjects: **gr-qc**; astro-ph.IM
+[arXiv:2511.10738](https://arxiv.org/abs/2511.10738)[Submitted on 18 Nov 2025]
+**Diffusion in the stochastic Klein-Gordon equation**
+Jonathan Oppenheim, Emanuele Panella
+Subjects: **gr-qc**; quant-ph
 
 ---
 
-[arXiv:2511.09659](https://arxiv.org/abs/2511.09659)[Submitted on 17 Nov 2025]
-**Finite Populations & Finite Time: The Non-Gaussianity of a Gravitational Wave Background**
-William G. Lamb, Jeremy M. Wachter, Andrea Mitridate, Shashwat C. Sardesai, Bence Bécsy, Emily L. Hagen, Stephen R. Taylor, Luke Zoltan Kelley
-Subjects: **gr-qc**; astro-ph.HE
-
----
-
-[arXiv:2511.10466](https://arxiv.org/abs/2511.10466)[Submitted on 17 Nov 2025]
-**Generating optimal Gravitational-Wave template banks with metric-preserving autoencoders**
-Giovanni Cabass, Digvijay Wadekar, Matias Zaldarriaga, Zihan Zhou
-Subjects: **gr-qc**; astro-ph.IM
-
----
-
-[arXiv:2511.10522](https://arxiv.org/abs/2511.10522)[Submitted on 17 Nov 2025]
-**Learning Post-Newtonian Corrections from Numerical Relativity**
-Jooheon Yoo, Michael Boyle, Nils Deppe
-Subjects: **gr-qc**
-
----
-
-[arXiv:2511.10567](https://arxiv.org/abs/2511.10567)[Submitted on 17 Nov 2025]
-**Gravitational wave polarization modes and the kinematical tensors in general relativity and beyond**
-Cynthia Maldonado, Francisco Nettel, Pedro A. Sánchez
-Subjects: **gr-qc**
-
----
-
-[arXiv:2511.10632](https://arxiv.org/abs/2511.10632)[Submitted on 17 Nov 2025]
-**Non-stationary noise in gravitational wave analyses: The wavelet domain noise covariance matrix**
-Neil J. Cornish
-Subjects: **gr-qc**
-
----
-
-[arXiv:2511.08384](https://arxiv.org/abs/2511.08384) (cross-list from hep-ph) [Submitted on 17 Nov 2025]
-**Evading the BBN bound with a soft stiff period**
-Lucy Brissenden, Konstantinos Dimopoulos, Eemeli Tomberg
-Subjects: **hep-ph**; astro-ph.CO, gr-qc, hep-th
-
----
-
-[arXiv:2511.10204](https://arxiv.org/abs/2511.10204) (cross-list from astro-ph.HE) [Submitted on 17 Nov 2025]
-**Probing AGN Disks Density Profiles through Gravitational Wave Observations**
-Xiangyu Lyu, En-Kun Li, Changfu Shi, Yi-Ming Hu
-Subjects: **astro-ph.HE**; gr-qc
-
----
-
-[arXiv:2112.06861](https://arxiv.org/abs/2112.06861) (replaced) [Submitted on 17 Nov 2025]
-**Tests of General Relativity with GWTC-3**
-The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration: R. Abbott, H. Abe, F. Acernese, K. Ackley, N. Adhikari, R. X. Adhikari, V. K. Adkins, V. B. Adya, C. Affeldt, D. Agarwal, M. Agathos, K. Agatsuma, N. Aggarwal, O. D. Aguiar, L. Aiello, A. Ain, P. Ajith, T. Akutsu, P. F. de Alarcón, S. Albanesi, R. A. Alfaidi, A. Allocca, P. A. Altin, A. Amato, C. Anand, S. Anand, A. Ananyeva, S. B. Anderson, W. G. Anderson, M. Ando, T. Andrade, N. Andres, M. Andrés-Carcasona, T. Andrić, S. V. Angelova, S. Ansoldi, J. M. Antelis, S. Antier, T. Apostolatos, E. Z. Appavuravther, S. Appert, S. K. Apple, K. Arai, A. Araya, M. C. Araya, J. S. Areeda, M. Arène, N. Aritomi, N. Arnaud, M. Arogeti, S. M. Aronson, K. G. Arun, H. Asada, Y. Asali, G. Ashton, Y. Aso, M. Assiduo, S. Assis de Souza Melo, S. M. Aston, P. Astone, F. Aubin, K. AultONeal, C. Austin, S. Babak, F. Badaracco, M. K. M. Bader, C. Badger, S. Bae, Y. Bae, A. M. Baer, S. Bagnasco, Y. Bai, J. Baird, R. Bajpai, T. Baka, M. Ball, G. Ballardin, S. W. Ballmer, A. Balsamo, G. Baltus, S. Banagiri, B. Banerjee, D. Bankar, J. C. Barayoga, C. Barbieri, B. C. Barish, D. Barker, P. Barneo, F. Barone, B. Barr, L. Barsotti, M. Barsuglia, D. Barta, J. Bartlett, M. A. Barton, I. Bartos, S. Basak
-Subjects: **gr-qc**; astro-ph.HE, hep-th
-
----
-
-[arXiv:2410.05769](https://arxiv.org/abs/2410.05769) (replaced) [Submitted on 17 Nov 2025]
-**Spinning particles near Kerr black holes: Orbits and gravitational-wave fluxes through the Hamilton-Jacobi formalism**
-Gabriel Andres Piovano, Christiana Pantelidou, Jake Mac Uilliam, Vojtěch Witzany
-Subjects: **gr-qc**
-
----
-
-[arXiv:2411.10366](https://arxiv.org/abs/2411.10366) (replaced) [Submitted on 17 Nov 2025]
-**Numerical gravitational backreaction on cosmic string loops from simulation**
-Jeremy M. Wachter, Ken D. Olum, Jose J. Blanco-Pillado, Vishnu R. Gade, Kirthivarsha Sivakumar
+[arXiv:2511.11509](https://arxiv.org/abs/2511.11509)[Submitted on 18 Nov 2025]
+**\textit{Euclid}: From Galaxies to Gravitational Waves -- Forecasting Stochastic Gravitational Wave Background Anisotropies and Their Cross-Correlation**
+K. Z. Yang, G. Cusin, V. Mandic, C. Scarlata, J. Suresh, B. Altieri, N. Auricchio, C. Baccigalupi, M. Baldi, S. Bardelli, A. Biviano, E. Branchini, M. Brescia, S. Camera, G. Cañas-Herrera, V. Capobianco, C. Carbone, J. Carretero, S. Casas, M. Castellano, G. Castignani, S. Cavuoti, K. C. Chambers, A. Cimatti, C. Colodro-Conde, G. Congedo, L. Conversi, Y. Copin, A. Costille, F. Courbin, H. M. Courtois, H. Degaudenzi, G. De Lucia, H. Dole, F. Dubath, X. Dupac, S. Dusini, S. Escoffier, M. Farina, R. Farinelli, F. Faustini, S. Ferriol, F. Finelli, P. Fosalba, N. Fourmanoit, M. Frailis, E. Franceschi, M. Fumana, S. Galeotta, K. George, B. Gillis, C. Giocoli, P. Gómez-Alvarez, J. Gracia-Carpio, A. Grazian, F. Grupp, S. V. H. Haugan, W. Holmes, F. Hormuth, A. Hornstrup, K. Jahnke, M. Jhabvala, B. Joachimi, E. Keihänen, S. Kermiche, A. Kiessling, B. Kubik, M. Kunz, H. Kurki-Suonio, A. M. C. Le Brun, S. Ligori, P. B. Lilje, V. Lindholm, I. Lloro, G. Mainetti, D. Maino, O. Mansutti, S. Marcin, O. Marggraf, M. Martinelli, N. Martinet, F. Marulli, E. Medinaceli, S. Mei, Y. Mellier, M. Meneghetti, E. Merlin, G. Meylan, A. Mora, M. Moresco, L. Moscardini, C. Neissner, S.-M. Niemi, C. Padilla, S. Paltani, F. Pasian, K. Pedersen, V. Pettorino, S. Pires, G. Polenta
 Subjects: **gr-qc**; astro-ph.CO
 
 ---
 
-[arXiv:2502.04068](https://arxiv.org/abs/2502.04068) (replaced) [Submitted on 17 Nov 2025]
-**Detectability of Massive Boson Stars using Gravitational Waves from Fundamental Oscillations**
-Swarnim Shirke, Bikram Keshari Pradhan, Debarati Chatterjee, Laura Sagunski, Jürgen Schaffner-Bielich
-Subjects: **gr-qc**; astro-ph.HE, hep-ph
-
----
-
-[arXiv:2504.16452](https://arxiv.org/abs/2504.16452) (replaced) [Submitted on 17 Nov 2025]
-**How gravitational waves change photon orbital angular momentum quantum states**
-Haorong Wu, Xilong Fan, Lixiang Chen
-Subjects: **gr-qc**; astro-ph.IM, quant-ph
-
----
-
-[arXiv:2507.05870](https://arxiv.org/abs/2507.05870) (replaced) [Submitted on 17 Nov 2025]
-**Peaking into the abyss: Characterizing the merger of equatorial-eccentric-geodesic plunges in rotating black holes**
-Guglielmo Faggioli, Maarten van de Meent, Alessandra Buonanno, Gaurav Khanna
-Subjects: **gr-qc**
-
----
-
-[arXiv:2510.27424](https://arxiv.org/abs/2510.27424) (replaced) [Submitted on 17 Nov 2025]
-**Extracting Properties of Dark Dense Environments around Black Holes from Gravitational Waves**
-Qianhang Ding, Minxi He, Hui-Yu Zhu
-Subjects: **gr-qc**; astro-ph.CO, astro-ph.HE, hep-ph
-
----
-
-[arXiv:2504.21087](https://arxiv.org/abs/2504.21087) (replaced) [Submitted on 17 Nov 2025]
-**Fast and accurate parameter estimation of high-redshift sources with the Einstein Telescope**
-Filippo Santoliquido, Jacopo Tissino, Ulyana Dupletsa, Marica Branchesi, Jan Harms, Manuel Arca Sedda, Maximilian Dax, Annalena Kofler, Stephen R. Green, Nihar Gupte, Isobel M. Romero-Shaw, Emanuele Berti
-Subjects: **astro-ph.HE**; astro-ph.IM, gr-qc
-
----
-
-[arXiv:2509.04574](https://arxiv.org/abs/2509.04574) (replaced) [Submitted on 17 Nov 2025]
-**Can "premature collapse" form black holes in the upper and lower mass gaps?**
-Thomas W. Baumgarte, Stuart L. Shapiro
-Subjects: **astro-ph.HE**; gr-qc
-
----
-
-[arXiv:2510.27022](https://arxiv.org/abs/2510.27022) (replaced) [Submitted on 17 Nov 2025]
-**Direct multi-model dark-matter search with gravitational-wave interferometers using data from the first part of the fourth LIGO-Virgo-KAGRA observing run**
-The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration: A. G. Abac, I. Abouelfettouh, F. Acernese, K. Ackley, C. Adamcewicz, S. Adhicary, D. Adhikari, N. Adhikari, R. X. Adhikari, V. K. Adkins, S. Afroz, A. Agapito, D. Agarwal, M. Agathos, N. Aggarwal, S. Aggarwal, O. D. Aguiar, I.-L. Ahrend, L. Aiello, A. Ain, P. Ajith, T. Akutsu, S. Albanesi, W. Ali, S. Al-Kershi, C. Alléné, A. Allocca, S. Al-Shammari, P. A. Altin, S. Alvarez-Lopez, W. Amar, O. Amarasinghe, A. Amato, F. Amicucci, C. Amra, A. Ananyeva, S. B. Anderson, W. G. Anderson, M. Andia, M. Ando, M. Andrés-Carcasona, T. Andrić, J. Anglin, S. Ansoldi, J. M. Antelis, S. Antier, M. Aoumi, E. Z. Appavuravther, S. Appert, S. K. Apple, K. Arai, A. Araya, M. C. Araya, M. Arca Sedda, J. S. Areeda, N. Aritomi, F. Armato, S. Armstrong, N. Arnaud, M. Arogeti, S. M. Aronson, G. Ashton, Y. Aso, L. Asprea, M. Assiduo, S. Assis de Souza Melo, S. M. Aston, P. Astone, F. Attadio, F. Aubin, K. AultONeal, G. Avallone, E. A. Avila, S. Babak, C. Badger, S. Bae, S. Bagnasco, L. Baiotti, R. Bajpai, T. Baka, A. M. Baker, K. A. Baker, T. Baker, G. Baldi, N. Baldicchi, M. Ball, G. Ballardin, S. W. Ballmer, S. Banagiri, B. Banerjee, D. Bankar, T. M. Baptiste, P. Baral, M. Baratti, J. C. Barayoga, B. C. Barish, D. Barker
+[arXiv:2511.11534](https://arxiv.org/abs/2511.11534) (cross-list from astro-ph.CO) [Submitted on 18 Nov 2025]
+**Mutated Hilltop Inflation in the Era of Present and Future CMB Experiments**
+Barun Kumar Pal
 Subjects: **astro-ph.CO**; gr-qc
 
 ---
 
-[arXiv:2511.10086](https://arxiv.org/abs/2511.10086) (cross-list from hep-ph) [Submitted on 17 Nov 2025]
-**Trapped and Unstable: Axion-like particle fragmentation at finite temperature**
-Nicklas Ramberg, Daniel Schmitt
-Subjects: **hep-ph**; astro-ph.CO
+[arXiv:2505.07544](https://arxiv.org/abs/2505.07544) (replaced) [Submitted on 18 Nov 2025]
+**Identifying Proca-star mergers via consistent ultralight-boson mass estimates across gravitational-wave events**
+Ana Lorenzo-Medina, Juan Calderón Bustillo, Samson H.W. Leong
+Subjects: **gr-qc**
 
 ---
 
-📊 **Summary**: 7 New • 5 Cross-lists • 12 Replacements
-📋 Showing top 20 of 24 papers
+[arXiv:2511.06548](https://arxiv.org/abs/2511.06548) (replaced) [Submitted on 18 Nov 2025]
+**Stochastic Limit of Growing Gravitational Wave Memory from Sources in the Early Universe and Astrophysical Sources**
+Lydia Bieri
+Subjects: **gr-qc**; astro-ph.CO, math.DG
+
+---
+
+[arXiv:2511.11336](https://arxiv.org/abs/2511.11336)[Submitted on 18 Nov 2025]
+**A glitch in the millisecond pulsar J0900$-$3144**
+Bhavnesh Bhat, Michael J. Keith, Ismaël Cognard, Lucas Guillemot, Marcus E. Lower, Matthew T. Miles, Daniel J. Reardon, Golam Shaifullah, Ryan M. Shannon, Benjamin W. Stappers, Gilles Theureau, Shuangqiang Wang, Andrew Zic, Benjamin Shaw
+Subjects: **astro-ph.HE**
+
+---
+
+[arXiv:2506.22936](https://arxiv.org/abs/2506.22936) (replaced) [Submitted on 18 Nov 2025]
+**Braking index of the frequently glitching PSR J0537$-$6910**
+Erbil Gügercinoğlu, Onur Akbal, M. Ali Alpar, Danai Antonopoulou, Cristóbal M. Espinoza
+Subjects: **astro-ph.HE**
+
+---
+
+[arXiv:2509.09827](https://arxiv.org/abs/2509.09827) (replaced) [Submitted on 18 Nov 2025]
+**Discovery and Analysis of Afterglows from Poorly Localised GRBs with the Gravitational-wave Optical Transient Observer (GOTO) All-sky Survey**
+Amit Kumar, B. P. Gompertz, B. Schneider, S. Belkin, M. E. Wortley, A. Saccardi, D. O'Neill, K. Ackley, B. Rayson, A. de Ugarte Postigo, A. Gulati, D. Steeghs, D. B. Malesani, J. R. Maund, M. J. Dyer, S. Giarratana, M. Serino, Y. Julakanti, B. Kumar, D. Xu, R. A. J. Eyles-Ferris, Z.-P. Zhu, B. Warwick, Y.-D. Hu, I. Allen, G. Ramsay, R. L. C. Starling, J. Lyman, K. Ulaczyk, B. Godson, D. K. Galloway, V. S. Dhillon, P. O'Brien, K. Noysena, R. Kotak, R. P. Breton, L. K. Nuttall, D. Pollacco, J. Casares, T. L. Killestein, M. R. Kennedy, N. Habeeb, S. Moran, K. Wiersema, I. Worssam, D. L. Coppejans, C. A. Phillips, A. Martin-Carrillo, N. S. Pankov, J. F. Agüí Fernández, M. A. Aloy, J. An, G. E. Anderson, A. Bochenek, A. J. Castro-Tirado, X. Chen, L. Cotter, R. Dastidar, M. De Pasquale, V. D'Elia, Y. Fang, S. Y. Fu, J. P. U. Fynbo, D. H. Hartmann, L. B. He, L. Izzo, S. Q. Jiang, Y. Kawakubo, E. V. Klunko, A. J. Levan, X.-W. Liu, X. Liu, G. Lombardi, E. Maiorano, J. T. Palmerio, D. A. Perley, D. L. A. Pieterse, A. S. Pozanenko, G. Pugliese, A. Rossi, B. Sbarufatti, S. Bijavara Seshashayana, N. R. Tanvir, C. C. Thöne, A. J. van der Horst, S. D. Vergani, A. A. Volnova, R. A. M. J. Wijers, J. L. Wise
+Subjects: **astro-ph.HE**
+
+---
+
+[arXiv:2510.23732](https://arxiv.org/abs/2510.23732) (replaced) [Submitted on 18 Nov 2025]
+**ZTF25abjmnps (AT2025ulz) and S250818k: A Candidate Superkilonova from a Sub-threshold Sub-Solar Gravitational Wave Trigger**
+Mansi M. Kasliwal, Tomas Ahumada, Robert Stein, Viraj Karambelkar, Xander J. Hall, Avinash Singh, Christoffer Fremling, Brian D. Metzger, Mattia Bulla, Vishwajeet Swain, Sarah Antier, Marion Pillas, Malte Busmann, James Freeburn, Sergey Karpov, Aleksandra Bochenek, Brendan O'Connor, Daniel A. Perley, Dalya Akl, Shreya Anand, Andrew Toivonen, Sam Rose, Theophile Jegou du Laz, Chang Liu, Kaustav Das, Sushant Sharma Chaudhary, Tyler Barna, Aditya Pawan Saikia, Igor Andreoni, Eric C. Bellm, Varun Bhalerao, S. Bradley Cenko, Michael W. Coughlin, Daniel Gruen, Daniel Kasen, Adam A. Miller, Samaya Nissanke, Antonella Palmese, Jesper Sollerman, Niharika Sravan, G.C. Anupama, Smaranika Banerjee, Sudhanshu Barway, Joshua S. Bloom, Tomas Cabrera, Tracy Chen, Chris Copperwheat, Alessandra Corsi, Richard Dekany, Nicholas Earley, Matthew Graham, Patrice Hello, George Helou, Lei Hu, Yves Kini, Ashish Mahabal, Frank Masci, Tanishk Mohan, Natalya Pletskova, Josiah Purdum, Yu-Jing Qin, Nabeel Rehemtulla, Anirudh Salgundi, Yuankun Wang
+Subjects: **astro-ph.HE**; astro-ph.IM, astro-ph.SR
+
+---
+
+[arXiv:2506.16810](https://arxiv.org/abs/2506.16810) (replaced) [Submitted on 18 Nov 2025]
+**Transformers for Stratified Spectropolarimetric Inversion: Proof of Concept**
+Ryan James Campbell, Mihalis Mathioudakis, Carlos Quintero Noda
+Subjects: **astro-ph.SR**; astro-ph.IM
+
+---
+
+📊 **Summary**: 3 New • 1 Cross-lists • 6 Replacements
