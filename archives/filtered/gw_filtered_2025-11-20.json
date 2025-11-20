@@ -1,0 +1,440 @@
+{
+  "date": "2025-11-20",
+  "crawl_timestamp": "2025-11-20T01:31:45.800364",
+  "query": "cat:gr-qc OR cat:astro-ph.* (filtered for gravitational waves)",
+  "summary": {
+    "total_crawled": 171,
+    "total_gw_papers": 14,
+    "by_category": {
+      "gr-qc": {
+        "total": 34,
+        "gw_related": 7
+      },
+      "astro-ph": {
+        "total": 121,
+        "gw_related": 5
+      }
+    }
+  },
+  "crawl_verification": {
+    "total_expected": 239,
+    "total_actual": 239,
+    "verification_passed": true,
+    "category_details": [
+      {
+        "category": "gr-qc",
+        "url": "https://arxiv.org/list/gr-qc/new",
+        "expected_total": 49,
+        "actual_crawled": 49,
+        "page_source_info": "Total of 49 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.CO",
+        "url": "https://arxiv.org/list/astro-ph.CO/new",
+        "expected_total": 40,
+        "actual_crawled": 40,
+        "page_source_info": "Total of 40 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.HE",
+        "url": "https://arxiv.org/list/astro-ph.HE/new",
+        "expected_total": 41,
+        "actual_crawled": 41,
+        "page_source_info": "Total of 41 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.GA",
+        "url": "https://arxiv.org/list/astro-ph.GA/new",
+        "expected_total": 41,
+        "actual_crawled": 41,
+        "page_source_info": "Total of 41 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.SR",
+        "url": "https://arxiv.org/list/astro-ph.SR/new",
+        "expected_total": 28,
+        "actual_crawled": 28,
+        "page_source_info": "Total of 28 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.IM",
+        "url": "https://arxiv.org/list/astro-ph.IM/new",
+        "expected_total": 19,
+        "actual_crawled": 19,
+        "page_source_info": "Total of 19 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.EP",
+        "url": "https://arxiv.org/list/astro-ph.EP/new",
+        "expected_total": 21,
+        "actual_crawled": 21,
+        "page_source_info": "Total of 21 entries",
+        "success": true,
+        "verification_passed": true
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "https://arxiv.org/abs/2511.13803",
+      "title": "Unification of Conformal and Fuzzy Gravities with Internal Interactions - study of their behaviour in low energies and possible signals in the detection of Gravitational Waves",
+      "authors": [
+        "Gregory Patellis",
+        "Danai Roumelioti",
+        "Stelios Stefas",
+        "George Zoupanos"
+      ],
+      "abstract": "Unification of Conformal and Fuzzy Gravities with Internal Interactions - study of their behaviour in low energies and possible signals in the detection of Gravitational Waves Gregory Patellis, Danai Roumelioti, Stelios Stefas, George Zoupanos Accepted for publication in Symmetry General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) The Unification of Conformal and Fuzzy gravities with Internal Interactions is based on the following two facts. The first is that the tangent group of a curved manifold and the manifold itself do not necessarily have the same dimensions. The second is that both gravitational theories considered here have been formulated in a gauge theoretic way. Here we would like to start by reviewing the gauge theoretic approach of gravities commenting in particular their diffeomorphism invariance. Then we will review the construction of the Conformal Gravity and the Noncommutative (Fuzzy) Gravity using the gauge theoretic framework. Finally based on an extension of the four-dimensional tangent group we will present the Unification of both Gravities with the Internal Interactions. Both unified schemes will be examined further concerning their behaviour in low energies after suitable spontaneous symmetry breakings as well as the possible signals of the related cosmic strings in the gravitational waves.",
+      "pdf_url": "https://arxiv.org/pdf/2511.13803.pdf",
+      "published": "2025-11-20T01:31:44.968459",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2511.13848",
+      "title": "Gravitational Atom Spectroscopy",
+      "authors": [
+        "Matteo Della Rocca",
+        "Thomas F.M. Spieksma",
+        "Francisco Duque",
+        "Leonardo Gualtieri",
+        "Vitor Cardoso"
+      ],
+      "abstract": "Gravitational Atom Spectroscopy Matteo Della Rocca, Thomas F.M. Spieksma, Francisco Duque, Leonardo Gualtieri, Vitor Cardoso General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Phenomenology (hep-ph); High Energy Physics - Theory (hep-th) Black holes in our Universe are rarely truly isolated, being instead embedded in astrophysical environments such as plasma or dark matter. A particularly intriguing possibility is that light scalar fields form bound states around black holes, producing extended ''clouds'' known as gravitational atoms. When these clouds become sufficiently compact, the spacetime can no longer be described by a vacuum solution of General Relativity. In this regime, one can construct quasi-stationary, spherically symmetric, self-gravitating scalar gravitational-atom configurations. Here, we explore an observationally relevant aspect of these systems by computing their fundamental quasi-normal mode. We present a fully relativistic calculation of the axial modes in both the time and frequency domains, finding frequency shifts relative to the vacuum case that depends mostly on the compactness of the gravitational atom. For sufficiently compact configurations, these shifts may be detectable by current or future gravitational wave detectors.",
+      "pdf_url": "https://arxiv.org/pdf/2511.13848.pdf",
+      "published": "2025-11-20T01:31:44.969450",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2511.14047",
+      "title": "Exact, non-singular black holes from a phantom DBI Field as primordial dark matter",
+      "authors": [
+        "Tausif Parvez",
+        "S. Shankaranarayanan"
+      ],
+      "abstract": "Exact, non-singular black holes from a phantom DBI Field as primordial dark matter Tausif Parvez, S. Shankaranarayanan (IIT Bombay) 29 pages, 3 figures, comments welcome General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Phenomenology (hep-ph); High Energy Physics - Theory (hep-th) We present the first exact, non-singular black hole solution in General Relativity sourced by a Dirac-Born-Infeld (DBI) scalar field. Crucially, the solution is exclusively supported by the phantom branch of the DBI action, dynamically replacing the central singularity with a regular core. The solution is asymptotically flat, possesses non-trivial scalar hair, and replaces the central singularity with a regular 2-sphere. The mechanism for singularity resolution is a dynamical kinetic stiffness -- analogous to shear thickening in non-Newtonian fluids -- which also explains the evasion of classical no-hair theorems. We show these black holes evaporate to a stable, non-singular, extremal Planck-scale relic. This provides a robust mechanism to evade standard evaporation constraints, opening a vast, previously forbidden mass window for light Primordial Black Holes to constitute dark matter. The model is testable via distinctive gravitational-wave signatures from its scalar hair.",
+      "pdf_url": "https://arxiv.org/pdf/2511.14047.pdf",
+      "published": "2025-11-20T01:31:44.970021",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2511.14055",
+      "title": "A non-local origin for massive gravity and late-time acceleration",
+      "authors": [
+        "Susobhan Mandal",
+        "S. Shankaranarayanan"
+      ],
+      "abstract": "A non-local origin for massive gravity and late-time acceleration Susobhan Mandal, S. Shankaranarayanan 51 pages, 2 figures, accepted in Classical and Quantum Gravity General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th) The accelerated expansion of the universe poses a significant challenge to General Relativity. Non-local modifications to gravity have emerged as a compelling class of theories to address this dark energy puzzle. Building upon earlier proposals, we investigate a specific non-local modified gravity action incorporating terms like $R\\Box^{-2}R$, $R^{\\mu\\nu}\\Box^{-2}R_{\\mu\\nu}$, $R^{\\mu\\nu\\sigma\\delta}\\Box^{-2}R_{\\mu\\nu\\sigma\\delta}$ and demonstrate that it provides a dynamical origin for a massive graviton by reducing to the standard and extended Fierz-Pauli action at the linearized level. A fixed-point analysis of the background cosmology reveals a stable de Sitter attractor, ensuring the model naturally drives accelerated expansion. Crucially, we investigate the cosmological perturbations and show that the theory's six propagating degrees of freedom are free from ghost instabilities. We further demonstrate that all large-scale tensor modes are dynamically stable and decay on the accelerating background. This ghost-free massive gravity extension provides distinct predictions for gravitational wave polarizations and is theoretically consistent with $\\mathbf{\\Lambda CDM}$ at late times, positioning it as a unique alternative to scalar-tensor models like $f(R)$ and Galileons. This robust stability at both the background and perturbative levels establishes our model as a consistent and compelling alternative to the standard $\\Lambda$CDM paradigm.",
+      "pdf_url": "https://arxiv.org/pdf/2511.14055.pdf",
+      "published": "2025-11-20T01:31:44.970228",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2511.14080",
+      "title": "Periodic orbits and their gravitational wave radiations in $γ$-metric",
+      "authors": [
+        "Chao Zhang",
+        "Tao Zhu"
+      ],
+      "abstract": "Periodic orbits and their gravitational wave radiations in $γ$-metric Chao Zhang, Tao Zhu General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) The gamma-metric, also known as Zipoy-Voorhees spacetime, is a static, axially symmetric vacuum solution to Einstein's field equations characterized by two parameters: mass and the deformation parameter gamma. It reduces to the Schwarzschild metric when gamma = 1. In this paper we explore potential signatures of the gamma-metric on periodic orbits and their gravitational-wave radiation. Periodic orbits are classified by a rotational number specified by three topological numbers (z, w, v), each triple corresponding to characteristic zoom-whirl behavior. We show that deviations from gamma=1 alter the radii and angular momentum of bound orbits and thereby shift the (z, w, v) taxonomy. We also compute representative gravitational waveforms for certain periodic orbits and demonstrate that gamma != 1 can induce phase shifts and amplitude modulations correlated with changes in the zoom-whirl structure. In particular, larger zoom numbers lead to increasingly complex substructures in the waveforms, and finite deviations from gamma=1 can significantly modify these features. Our results indicate that precise measurements of waveform morphology from extreme-mass-ratio inspirals may constrain deviations from spherical symmetry encoded in gamma.",
+      "pdf_url": "https://arxiv.org/pdf/2511.14080.pdf",
+      "published": "2025-11-20T01:31:44.970418",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2511.13812",
+      "title": "Effects of Lighter-than-QCD Axions on Neutron Star Tidal Deformability",
+      "authors": [
+        "Yonatan Kahn",
+        "Michael Wentzel",
+        "Nicolás Yunes"
+      ],
+      "abstract": "Effects of Lighter-than-QCD Axions on Neutron Star Tidal Deformability Yonatan Kahn, Michael Wentzel, Nicolás Yunes 18 pages, 10 figures, 5 pages of appendices High Energy Physics - Phenomenology (hep-ph); High Energy Astrophysical Phenomena (astro-ph.HE); General Relativity and Quantum Cosmology (gr-qc) Finite density corrections to the lighter-than-QCD axion can invert the effective axion potential, sourcing a non-trivial axion field inside dense objects. We perform the first numerical study of the complete dynamics of the lighter-than-QCD axion in a neutron star in 1+1 general relativity, extending the region of analysis to low-mass axions with kilometer-scale Compton wavelengths. We calculate gravitational effects of the axion field on the neutron star and show that for a broad range of axion masses and decay constants, neutron star properties, such as the mass, radius, and compactness, are affected at the order-1 level. This result indicates that approximate universal tidal deformability-compactness relation for neutron stars is non-trivially broken and can serve as a probe of lighter-than-QCD axions, independent of the unknown nuclear equation of state. We comment on the potential for axion studies with future gravitational-wave observations of neutron stars and applications of this work to other new physics signatures.",
+      "pdf_url": "https://arxiv.org/pdf/2511.13812.pdf",
+      "published": "2025-11-20T01:31:44.971786",
+      "updated": null,
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "primary_category": "hep-ph",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from hep-ph",
+        "cross_list_from": "hep-ph"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2511.13820",
+      "title": "Hierarchical Black Hole Mergers in Nuclear Star Clusters: A Combined Dynamical-Secular Channel for GW231123-like Events",
+      "authors": [
+        "Bin Liu",
+        "Dong Lai"
+      ],
+      "abstract": "Hierarchical Black Hole Mergers in Nuclear Star Clusters: A Combined Dynamical-Secular Channel for GW231123-like Events Bin Liu, Dong Lai 5 pages, 4 figures, 1 supplemental material High Energy Astrophysical Phenomena (astro-ph.HE); General Relativity and Quantum Cosmology (gr-qc) The recent binary black hole (BH) merger GW231123, with both components likely in the high-mass gap and with high spins, challenges standard BH binary formation models. It is usually thought that the BHs are of second (or higher) generation (2G), resulting from the mergers of smaller BHs. But the physical processes that produce the merging 2G BH binaries are unclear and highly unconstrained. We show that such 2G mergers can be naturally produced in the nuclear star cluster of Milky Way-like galaxy. The dominant channel combines a sequence of binary-single interactions with secular evolution driven by the central supermassive BH. Our model produces a merger rate consistent with GW231123 and further predicts an abundant population of 2G BH-star (or low-mass BH) binaries; these binaries may observationally manifest as micro tidal disruption events or low-frequency gravitational-wave (GW) sources. Detecting these binaries would provide crucial insights into the dynamical pathways of hierarchical BH assembly.",
+      "pdf_url": "https://arxiv.org/pdf/2511.13820.pdf",
+      "published": "2025-11-20T01:31:44.971957",
+      "updated": null,
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "primary_category": "astro-ph.HE",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from astro-ph.HE",
+        "cross_list_from": "astro-ph.HE"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2511.13835",
+      "title": "Reconstructing the Gravitational Waveform from Its Probe Limit",
+      "authors": [
+        "Carlo Heissenberg",
+        "Rodolfo Russo"
+      ],
+      "abstract": "Reconstructing the Gravitational Waveform from Its Probe Limit Carlo Heissenberg, Rodolfo Russo High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc) Gravitational observables for binary systems exhibit a simple polynomial dependence on the masses $m_1$, $m_2$ of the two scattering objects when they are written in terms of the appropriate kinematic variables in the post-Minkowskian (PM) regime. We point out that this property, combined with particle interchange symmetry, allows one to reconstruct the leading and subleading PM waveforms from their probe limit, $m_1 \\gg m_2$. As an application, focusing on their re-expansion in the small-velocity or post-Newtonian (PN) regime, we calculate the probe-limit waveforms up to 10PN, and then exploit this observation to deduce from them the waveforms for generic masses in the center-of-mass frame up to 5PN. To this end, we employ both the amplitude-based waveform integrands and the tail formula. This combined approach simplifies substantially the PN expansion of the full subleading PM waveform.",
+      "pdf_url": "https://arxiv.org/pdf/2511.13835.pdf",
+      "published": "2025-11-20T01:31:44.972116",
+      "updated": null,
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "primary_category": "hep-th",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from hep-th",
+        "cross_list_from": "hep-th"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2506.09540",
+      "title": "Covariant dynamics from static spherically symmetric geometries",
+      "authors": [
+        "Cong Zhang",
+        "Zhoujian Cao"
+      ],
+      "abstract": "Covariant dynamics from static spherically symmetric geometries Cong Zhang, Zhoujian Cao 6 pages, including appendix; v3: major revisions addressing the referees' comments, including a rewritten abstract emphasizing the two-fold contribution of our work. v2: major reversions based on the referee's comments General Relativity and Quantum Cosmology (gr-qc) This work reveals a fundamental link between general covariance and Birkhoff's theorem. We extend Birkhoff's theorem from general relativity to a broad class of generally covariant gravity theories formulated in the Hamiltonian framework. Conversely, we show that each one-parameter family of static, spherically symmetric spacetimes determines a class of covariant theories, each of which has that family of spacetimes as its entire vacuum solution space. Our systematic and model-independent framework applies to a wide range of spacetimes, including observationally inferred, quantum-gravity-inspired, and regular black holes. It provides a universal tool for probing their dynamical origins and enables the reconstruction of the underlying covariant theories from observational data, including gravitational-wave and black-hole-shadow measurements.",
+      "pdf_url": "https://arxiv.org/pdf/2506.09540.pdf",
+      "published": "2025-11-20T01:31:44.973781",
+      "updated": null,
+      "categories": [
+        "gr-qc"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2511.13642",
+      "title": "Gravitational--Electromagnetic Coupling on Kerr Spacetime",
+      "authors": [
+        "Fawzi Aly",
+        "Dejan Stojkovic"
+      ],
+      "abstract": "Gravitational--Electromagnetic Coupling on Kerr Spacetime Fawzi Aly, Dejan Stojkovic General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE); High Energy Physics - Phenomenology (hep-ph) We extend previous metric-based Schwarzschild studies of gravitational--electromagnetic (GEM) coupling to rotating black holes by working directly in a curvature-based Newman--Penrose/Teukolsky framework on Kerr spacetime. Within a minimally coupled Einstein--Maxwell system, we derive explicit quadratic electromagnetic source terms for the spin-$-2$ Teukolsky equation, providing a foundation for future numerical studies of GEM interactions in the framework of black-hole spectroscopy. Moreover, we give order-of-magnitude arguments showing that GEM quadratic quasinormal modes (QQNMs) can become relevant in a range of charged and magnetized astrophysical scenarios. Finally, we show through a brief dilaton-theory example that the GEM QQNM spectrum is sensitive to how gravity couples to electromagnetism, thereby providing a model-based way to test minimal coupling and to constrain hidden $U(1)$ sectors with gravitational-wave observations.",
+      "pdf_url": "https://arxiv.org/pdf/2511.13642.pdf",
+      "published": "2025-11-20T01:31:44.976512",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2511.14727",
+      "title": "The first data-driven bounds on the quantum decoherence of inflationary gravitational waves",
+      "authors": [
+        "Jessie de Kruijf",
+        "Giacomo Galloni",
+        "Nicola Bartolo"
+      ],
+      "abstract": "The first data-driven bounds on the quantum decoherence of inflationary gravitational waves Jessie de Kruijf, Giacomo Galloni, Nicola Bartolo Prepared for submission to JCAP Cosmology and Nongalactic Astrophysics (astro-ph.CO) The (large-scale) structures we observe in the Universe are classical, but within the inflationary scenario they do originate from quantum fluctuations. This leads to the question: ''How did this quantum-to-classical transition occur?''. A potential explanation is quantum decoherence due to interactions between different fields present during inflation. The tensor modes (i.e. primordial gravitational waves) can interact with a scalar sector, causing their quantum decoherence to occur and inducing a change in the gravitational wave (GW) background. The power spectrum of these GWs can be constrained using the upper bounds found by Planck, BICEP/Keck Array, LIGO-Virgo-KAGRA, Big Bang Nucleosynthesis, and the Pulsar Timing Array detections. These impose constraints on the interaction between the fields. We find that the observational upper bounds mainly constrain scenarios with a strong interaction, especially if the interaction is also strongly time dependent. Furthermore, we find which observationally allowed scenarios have not completed decoherence by the end of inflation, thus possibly leaving quantum signatures in the GW background. Lastly, we show that, interestingly enough, there are decoherence scenarios corresponding to the signal observed by PTA experiments. This highlights the importance of the quantum decoherence effect on GWs.",
+      "pdf_url": "https://arxiv.org/pdf/2511.14727.pdf",
+      "published": "2025-11-20T01:31:45.088915",
+      "updated": null,
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "primary_category": "astro-ph.CO",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2511.14266",
+      "title": "Quarkyonic Neutron Stars as Candidates for the GW230529 Mass-Gap Object",
+      "authors": [
+        "Jeet Amrit Pattnaik",
+        "S. K. Patra"
+      ],
+      "abstract": "Quarkyonic Neutron Stars as Candidates for the GW230529 Mass-Gap Object Jeet Amrit Pattnaik, S. K. Patra High Energy Astrophysical Phenomena (astro-ph.HE) We examine whether quarkyonic equations of state (EOS) can account for compact objects in the $2.5$-$4.5\\,M_\\odot$ mass range reported for the GW230529 gravitational-wave event. The pressure-energy density and mass-radius (M-R) relations obtained from quarkyonic EOS models indicate a significant stiffening at high densities, allowing stable configurations beyond $2.5\\,M_\\odot$. The predicted M-R sequences extend into the GW230529 mass window while maintaining radii in the range of $\\approx 13$-$15$~km, suggesting that quarkyonic stars can naturally populate the so-called compact object mass gap. These results imply that the heavier component of GW230529 could plausibly be a massive quarkyonic neutron star rather than a low-mass black hole.",
+      "pdf_url": "https://arxiv.org/pdf/2511.14266.pdf",
+      "published": "2025-11-20T01:31:45.218846",
+      "updated": null,
+      "categories": [
+        "astro-ph.HE"
+      ],
+      "primary_category": "astro-ph.HE",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2511.14739",
+      "title": "Forecasting properties of detectable massive binary black hole mergers in the era of space based gravitational-wave detectors",
+      "authors": [
+        "Sourabh Magare",
+        "Abhinav Roy",
+        "Shasvath J. Kapadia",
+        "Nishikanta Khandai",
+        "R. Srianand"
+      ],
+      "abstract": "Forecasting properties of detectable massive binary black hole mergers in the era of space based gravitational-wave detectors Sourabh Magare, Abhinav Roy, Shasvath J. Kapadia, Nishikanta Khandai, R. Srianand High Energy Astrophysical Phenomena (astro-ph.HE) Gravitational waves (GWs) from massive black hole (MBH) mergers will provide a novel way to probe the high-redshift universe and are key to understanding galactic dynamics and evolution. In this work, we analyze MBH mergers, their GW signals and detectability, as well as their population properties, using the cosmological hydrodynamical simulation - NINJA Simulation Suite. We discuss the effect of resolution and finite volume on the black hole mass function (BHMF), which in turn limits the mergers associated with low mass black holes, $M_{BH} \\lesssim 10^{6.5} M_\\odot$. We find the upper limit on the total mass of the MBH binaries detectable by LISA to be $\\sim 10^{8.4} M_\\odot$. We also find that adding time delays pertaining to dissipative processes like dynamical friction and stellar hardening during the final stages of the inspiral for which the simulation lacks sufficient resolution to model, considerably shifts the peak of redshift distribution of detectable binaries from $z\\sim0.5$ to $z\\sim0.1$. Time delays reduce the number of detectable GW events but on the other hand their signal-to-noise is increased. From the observational point of view, we find a strong correlation between the SFR and $L_{\\rm bol}$ at high redshifts for the detectable LISA binaries. This may prove to be a future application in the coincident observation of MBH binaries by GW and electromagnetic observations.",
+      "pdf_url": "https://arxiv.org/pdf/2511.14739.pdf",
+      "published": "2025-11-20T01:31:45.219820",
+      "updated": null,
+      "categories": [
+        "astro-ph.HE"
+      ],
+      "primary_category": "astro-ph.HE",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.01142",
+      "title": "Pan-STARRS follow-up of the gravitational-wave event S250818k and the lightcurve of SN 2025ulz",
+      "authors": [
+        "J. H. Gillanders",
+        "M. E. Huber",
+        "M. Nicholl",
+        "S. J. Smartt",
+        "K. W. Smith",
+        "K. C. Chambers",
+        "D. R. Young",
+        "J. W. Tweddle",
+        "S. Srivastav",
+        "M. D. Fulton",
+        "F. Stoppa",
+        "G. S. H. Paek",
+        "A. Aamer",
+        "M. R. Alarcon",
+        "A. Andersson",
+        "A. Aryan",
+        "K. Auchettl",
+        "T.-W. Chen",
+        "T. de Boer",
+        "A. K. H. Kong",
+        "J. Licandro",
+        "T. Lowe",
+        "D. Magill",
+        "E. A. Magnier",
+        "P. Minguez",
+        "T. Moore",
+        "G. Pignata",
+        "A. Rest",
+        "M. Serra-Ricart",
+        "B. J. Shappee",
+        "I. A. Smith",
+        "M. A. Tucker",
+        "R. Wainscoat"
+      ],
+      "abstract": "Pan-STARRS follow-up of the gravitational-wave event S250818k and the lightcurve of SN 2025ulz J. H. Gillanders, M. E. Huber, M. Nicholl, S. J. Smartt, K. W. Smith, K. C. Chambers, D. R. Young, J. W. Tweddle, S. Srivastav, M. D. Fulton, F. Stoppa, G. S. H. Paek, A. Aamer, M. R. Alarcon, A. Andersson, A. Aryan, K. Auchettl, T.-W. Chen, T. de Boer, A. K. H. Kong, J. Licandro, T. Lowe, D. Magill, E. A. Magnier, P. Minguez, T. Moore, G. Pignata, A. Rest, M. Serra-Ricart, B. J. Shappee, I. A. Smith, M. A. Tucker, R. Wainscoat Updated to match the version accepted for publication in ApJL. Contains 24 pages, 8 figures and 2 tables High Energy Astrophysical Phenomena (astro-ph.HE) Kilonovae are the scientifically rich, but observationally elusive, optical transient phenomena associated with compact binary mergers. Only a handful of events have been discovered to date, all through multi-wavelength (gamma ray) and multi-messenger (gravitational wave) signals. Given their scarcity, it is important to maximise the discovery possibility of new kilonova events. To this end, we present our follow-up observations of the gravitational-wave signal, S250818k, a plausible binary neutron star merger at a distance of $237 \\pm 62$ Mpc. Pan-STARRS tiled 286 and 318 square degrees (32% and 34% of the 90% sky localisation region) within 3 and 7 days of the GW signal, respectively. ATLAS covered 65% of the skymap within 3 days, but with lower sensitivity. These observations uncovered 47 new transients; however, none were deemed to be linked to S250818k. We undertook an expansive follow-up campaign of AT 2025ulz, the purported counterpart to S250818k. The griz-band lightcurve, combined with our redshift measurement ($z = 0.0849 \\pm 0.0003$) all indicate that SN 2025ulz is a SN IIb, and thus not the counterpart to S250818k. We rule out the presence of a AT 2017gfo-like kilonova within $\\approx 27$% of the distance posterior sampled by our Pan-STARRS pointings ($\\approx 9.1$% across the total 90% three-dimensional sky localisation). We demonstrate that early observations are optimal for probing the distance posterior of the three-dimensional gravitational-wave skymap, and that SN 2025ulz was a plausible kilonova candidate for $\\lesssim 5$ days, before ultimately being ruled out.",
+      "pdf_url": "https://arxiv.org/pdf/2510.01142.pdf",
+      "published": "2025-11-20T01:31:45.223358",
+      "updated": null,
+      "categories": [
+        "astro-ph.HE"
+      ],
+      "primary_category": "astro-ph.HE",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    }
+  ]
+}
