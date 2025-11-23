@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2025-11-22
+# Complete Daily GW arXiv Digest - 2025-11-23
 
 **总爬取文章**: 175 篇  
 **今天的文章**: 175 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2511.15890](https://arxiv.org/abs/2511.15890)  
 **Authors**: Anuradha Gupta  
-**Date**: 22 Nov 2025  
+**Date**: 23 Nov 2025  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2511.15793](https://arxiv.org/abs/2511.15793)  
 **Authors**: Ming-Yu Lei, Bei Zhou, Xiaoyuan Huang  
-**Date**: 22 Nov 2025  
+**Date**: 23 Nov 2025  
 **Categories**: astro-ph.HE, gr-qc, hep-ex, hep-ph  
 **Type**: cross-list from astro-ph.HE  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2511.15797](https://arxiv.org/abs/2511.15797)  
 **Authors**: Mariana Carrillo Gonzalez, Valerio De Luca, Alice Garoffolo, Julio Parra-Martinez, Mark Trodden  
-**Date**: 22 Nov 2025  
+**Date**: 23 Nov 2025  
 **Categories**: hep-th, astro-ph.CO, gr-qc  
 **Type**: cross-list from hep-th  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2511.16649](https://arxiv.org/abs/2511.16649)  
 **Authors**: Simone Blasi, Alberto Mariotti, Aäron Rase, Miguel Vanvlasselaer  
-**Date**: 22 Nov 2025  
+**Date**: 23 Nov 2025  
 **Categories**: hep-ph, astro-ph.CO, gr-qc  
 **Type**: cross-list from hep-ph  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2410.01348](https://arxiv.org/abs/2410.01348)  
 **Authors**: Andrew L. Miller  
-**Date**: 22 Nov 2025  
+**Date**: 23 Nov 2025  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: replaced  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2410.12727](https://arxiv.org/abs/2410.12727)  
 **Authors**: Aryabrat Mahapatra, Adarsh Pandey, Debojyoti Garain, Tapobrata Sarkar  
-**Date**: 22 Nov 2025  
+**Date**: 23 Nov 2025  
 **Categories**: gr-qc, astro-ph.HE, astro-ph.SR  
 **Type**: replaced  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2508.02756](https://arxiv.org/abs/2508.02756)  
 **Authors**: Philip D. Mannheim, Daniel A. Norman, Tianye Liu  
-**Date**: 22 Nov 2025  
+**Date**: 23 Nov 2025  
 **Categories**: gr-qc, astro-ph.CO, hep-th  
 **Type**: replaced  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2510.25672](https://arxiv.org/abs/2510.25672)  
 **Authors**: Swagat S. Mishra, Athul K. Soman  
-**Date**: 22 Nov 2025  
+**Date**: 23 Nov 2025  
 **Categories**: astro-ph.CO, gr-qc, hep-ph, hep-th  
 **Type**: replaced  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2511.16404](https://arxiv.org/abs/2511.16404)  
 **Authors**: Joseph P. Conlon, Edmund J. Copeland, Edward Hardy, Noelia Sánchez González  
-**Date**: 22 Nov 2025  
+**Date**: 23 Nov 2025  
 **Categories**: hep-ph, astro-ph.CO, hep-th  
 **Type**: cross-list from hep-ph  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2511.16631](https://arxiv.org/abs/2511.16631)  
 **Authors**: Haihao Shi, Zhenyang Huang, Junda Zhou, Guoliang Lü, Xuefei Chen  
-**Date**: 22 Nov 2025  
+**Date**: 23 Nov 2025  
 **Categories**: astro-ph.HE  
 **Type**: new submission  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2511.16658](https://arxiv.org/abs/2511.16658)  
 **Authors**: Vedran Brdar, Dibya S. Chattopadhyay, Samiur R. Mir, Tousif Raza, Marc S. Romanowski  
-**Date**: 22 Nov 2025  
+**Date**: 23 Nov 2025  
 **Categories**: hep-ph, astro-ph.HE, hep-ex  
 **Type**: cross-list from hep-ph  
 
