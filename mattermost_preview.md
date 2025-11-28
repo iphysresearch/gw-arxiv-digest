@@ -1,144 +1,74 @@
-# 📡 Daily GW arXiv Digest - 2025-11-27
-**Found 20 gravitational wave papers**
+# 📡 Daily GW arXiv Digest - 2025-11-28
+**Found 10 gravitational wave papers**
 
-[arXiv:2511.19553](https://arxiv.org/abs/2511.19553)[Submitted on 27 Nov 2025]
-**Quasinormal modes of scalar, electromagnetic, and gravitational perturbations in slowly rotating Kalb-Ramond black holes**
-Weike Deng, Wentao Liu, Kui Xiao, Jiliang Jing
-Subjects: **gr-qc**
-
----
-
-[arXiv:2511.19590](https://arxiv.org/abs/2511.19590)[Submitted on 27 Nov 2025]
-**Searching Stochastic Gravitational Wave Background Landscape Across Frequency Bands**
-Yunjia Bao, Tore Boybeyi, Vuk Mandic, Lian-Tao Wang
-Subjects: **gr-qc**; astro-ph.CO, astro-ph.HE, hep-ph
-
----
-
-[arXiv:2511.19593](https://arxiv.org/abs/2511.19593)[Submitted on 27 Nov 2025]
-**A parametrized model for gravitational waves from eccentric, precessing binary black holes: theory-agnostic tests of General Relativity with pTEOBResumS**
-Danilo Chiaramello, Nicolò Cibrario, Jacob Lange, Koustav Chandra, Rossella Gamba, Raffaella Bonino, Alessandro Nagar
-Subjects: **gr-qc**
-
----
-
-[arXiv:2511.19611](https://arxiv.org/abs/2511.19611)[Submitted on 27 Nov 2025]
-**Effective-one-body modelling of eccentric supermassive black hole binaries for Pulsar Timing Array**
-Sara Manzini, Stanislav Babak
-Subjects: **gr-qc**; astro-ph.HE
-
----
-
-[arXiv:2511.19626](https://arxiv.org/abs/2511.19626)[Submitted on 27 Nov 2025]
-**Universal Relations with Dynamical Tides**
-Jayana A. Saes, Abhishek Hegade K. R., Nicolás Yunes
-Subjects: **gr-qc**; nucl-th
-
----
-
-[arXiv:2511.19682](https://arxiv.org/abs/2511.19682)[Submitted on 27 Nov 2025]
-**Microseismic Noise Mitigation with Machine Learning for Advanced LIGO**
-Christina Reissel, Devin Lai, Shivanshu Dwivedi, Edgard Bonilla, Claudia Geer, Christopher Wipf, Richard Mittleman, Philip Harris, Eyal Schwartz, Dovi Poznanski, Brian Lantz, Erik Katsavounidis
+[arXiv:2511.20731](https://arxiv.org/abs/2511.20731)[Submitted on 28 Nov 2025]
+**Denoising gravitational wave with deep learning in the time-frequency domain**
+Yi-De Lee, Hwei-Jang Yo
 Subjects: **gr-qc**; astro-ph.IM
 
 ---
 
-[arXiv:2511.19898](https://arxiv.org/abs/2511.19898)[Submitted on 27 Nov 2025]
-**Quintessential Inflation in Light of ACT DR6**
-Sayantan Choudhury, Swapnil Kumar Singh, Satish Kumar Sahoo
-Subjects: **gr-qc**; astro-ph.CO, hep-ph, hep-th
-
----
-
-[arXiv:2511.19911](https://arxiv.org/abs/2511.19911)[Submitted on 27 Nov 2025]
-**Search for planetary-mass ultra-compact binaries using data from the first part of the LIGO--Virgo--KAGRA fourth observing run**
-The LIGO Scientific Collaboration, Virgo Collaboration, KAGRA Collaboration
-Subjects: **gr-qc**; astro-ph.CO
-
----
-
-[arXiv:2511.20301](https://arxiv.org/abs/2511.20301)[Submitted on 27 Nov 2025]
-**Quasi-Normal Mode Ringing of Binary Black Hole Mergers in Scalar-Gauss-Bonnet Gravity**
-Zexin Hu, Daniela D. Doneva, Stoytcho S. Yazadjiev, Lijing Shao
+[arXiv:2511.21183](https://arxiv.org/abs/2511.21183)[Submitted on 28 Nov 2025]
+**Observational appearance and photon rings of non-singular black holes from anisotropic fluids**
+David Díaz-Guerra, Angel Rincon, Diego Rubiera-Garcia
 Subjects: **gr-qc**
 
 ---
 
-[arXiv:2511.20435](https://arxiv.org/abs/2511.20435)[Submitted on 27 Nov 2025]
-**Resolving white dwarf binaries within globular clusters with LISA**
-Wouter G. J. van Zeist, Gijs Nelemans, Shu-Xu Yi, Simon F. Portegies Zwart
-Subjects: **gr-qc**; astro-ph.GA
-
----
-
-[arXiv:2511.19243](https://arxiv.org/abs/2511.19243) (cross-list from astro-ph.HE) [Submitted on 27 Nov 2025]
-**What do gravitational-wave observations tell us about Luminous Red Novae?**
-Dhruv Jain, Shasvath J. Kapadia, Kuntal Misra, Dimple, L. Resmi, Ajay Kumar Singh, K. G. Arun
-Subjects: **astro-ph.HE**; gr-qc
-
----
-
-[arXiv:2511.19586](https://arxiv.org/abs/2511.19586) (cross-list from hep-ph) [Submitted on 27 Nov 2025]
-**Stringent Constraints on Gravitational Wave Signatures of Dark Electromagnetism in Neutron Star Binaries**
-Ian Harris, Yonatan Kahn
-Subjects: **hep-ph**; gr-qc
-
----
-
-[arXiv:2511.19762](https://arxiv.org/abs/2511.19762) (cross-list from astro-ph.CO) [Submitted on 27 Nov 2025]
-**The Speed of Gravity and the Fate of Dark Energy**
-Jeremy Sakstein, Bhuvnesh Jain
-Subjects: **astro-ph.CO**; astro-ph.HE, astro-ph.SR, gr-qc, hep-ph
-
----
-
-[arXiv:2301.08319](https://arxiv.org/abs/2301.08319) (replaced) [Submitted on 27 Nov 2025]
-**Hamilton-Jacobi analysis of noncanonical inflation in $f(R, T)$ gravity: Constraints from Planck/ACT data, and theoretical bounds**
-Z. Ossoulian, T. Golanbari, Kh. Saaidi
+[arXiv:2511.21573](https://arxiv.org/abs/2511.21573)[Submitted on 28 Nov 2025]
+**Estimation of the MTOV precision for ET, CE, and NEMO from the post-merger of BNS coalescences**
+Gabriela Conde-Saavedra, Odylio Denys Aguiar, Henrique P. de Oliveira, Maximiliano Ujevic
 Subjects: **gr-qc**
 
 ---
 
-[arXiv:2511.13642](https://arxiv.org/abs/2511.13642) (replaced) [Submitted on 27 Nov 2025]
-**Coupling between gravitational and electromagnetic perturbations on Kerr Spacetime**
-Fawzi Aly, Dejan Stojkovic
-Subjects: **gr-qc**; astro-ph.HE, hep-ph
+[arXiv:2511.20970](https://arxiv.org/abs/2511.20970) (cross-list from astro-ph.HE) [Submitted on 28 Nov 2025]
+**The diverse morphology of gravitational wave signals from merging neutron-star white-dwarf binaries**
+Shenghua Yu, Youjun Lu, C. Simon Jeffery, Zhanwen Han, DongDong Liu, Jie Yang, Xilong Fan, Bo Peng, Jianbin Li
+Subjects: **astro-ph.HE**; astro-ph.SR, gr-qc
 
 ---
 
-[arXiv:2511.20436](https://arxiv.org/abs/2511.20436)[Submitted on 27 Nov 2025]
-**The effect of sound speed on the gravitational wave spectrum of first order phase transitions in the early universe**
-Mika Mäki
-Subjects: **astro-ph.CO**; hep-ph
+[arXiv:2511.21488](https://arxiv.org/abs/2511.21488) (cross-list from hep-ph) [Submitted on 28 Nov 2025]
+**Bayesian Analysis of the Complex Singlet Model with Phase Transition Gravitational Waves**
+Qingyuan Liang, Ligong Bian, Huai-Ke Guo, Yongcheng Wu
+Subjects: **hep-ph**; astro-ph.HE, gr-qc
 
 ---
 
-[arXiv:2510.12932](https://arxiv.org/abs/2510.12932) (replaced) [Submitted on 27 Nov 2025]
-**Strategy for identifying Vera C. Rubin Observatory kilonova candidates for targeted gravitational-wave searches**
-Simon Stevenson, Anais Möller, Jade Powell
-Subjects: **astro-ph.HE**; astro-ph.CO
+[arXiv:2509.11882](https://arxiv.org/abs/2509.11882) (replaced) [Submitted on 28 Nov 2025]
+**Universal relations for fast rotating neutron stars without equation of state bias**
+Christian J. Krüger, Mariachiara Celato
+Subjects: **gr-qc**
 
 ---
 
-[arXiv:2511.20477](https://arxiv.org/abs/2511.20477)[Submitted on 27 Nov 2025]
-**Rotational effects in quark stars: comparing different models**
-Adamu Issifu, Andreas Konstantinou, Franciele M. da Silva, Tobias Frederico
-Subjects: **astro-ph.HE**
+[arXiv:2511.21634](https://arxiv.org/abs/2511.21634) (cross-list from hep-ph) [Submitted on 28 Nov 2025]
+**Cosmological Probes of Lepton Parity Freeze-in Dark Matter: $ΔN_{\rm eff}$ & Gravitational Waves**
+Ernest Ma, Partha Kumar Paul, Narendra Sahu
+Subjects: **hep-ph**; astro-ph.CO
 
 ---
 
-[arXiv:2504.05600](https://arxiv.org/abs/2504.05600) (replaced) [Submitted on 27 Nov 2025]
-**Gravitational Wave Evidence of Spin Energy Extraction from Stellar-Mass Black Holes**
-Shu-Xu Yi, Tian-Yong Cao, Shuang-Nan Zhang
-Subjects: **astro-ph.HE**
+[arXiv:2502.18790](https://arxiv.org/abs/2502.18790) (replaced) [Submitted on 28 Nov 2025]
+**Delensing for Precision Cosmology: Optimizing Future CMB B-mode Surveys to Constrain r**
+Wen-Zheng Chen, Yang Liu, Yi-Ming Wang, Hong Li
+Subjects: **astro-ph.CO**
 
 ---
 
-[arXiv:2510.02301](https://arxiv.org/abs/2510.02301) (replaced) [Submitted on 27 Nov 2025]
-**Relativistic Jets and Winds in Radio-Identified Supermassive Black Hole Binary Candidates**
-Andrew G. Sullivan, Roger D. Blandford, Anna Synani, Philipe V. de la Parra, Noémie Globus, Mitchell C. Begelman, Anthony C.S. Readhead
-Subjects: **astro-ph.HE**; astro-ph.GA
+[arXiv:2510.23738](https://arxiv.org/abs/2510.23738) (replaced) [Submitted on 28 Nov 2025]
+**String Decomposition and Gravitational Waves in High-quality Axion Gauge Theories**
+Camilla Mupo, Yue Zhang
+Subjects: **hep-ph**; astro-ph.CO
 
 ---
 
-📊 **Summary**: 12 New • 3 Cross-lists • 5 Replacements
+[arXiv:2508.14474](https://arxiv.org/abs/2508.14474) (replaced) [Submitted on 28 Nov 2025]
+**The Prime Focus Infrared Microlensing Experiment (PRIME): First Results**
+Takahiro Sumi, David A. H. Buckley, Alexander S. Kutyrev, Motohide Tamura, David P. Bennett, Ian A. Bond, Giuseppe Cataldo, Joseph M. Durbak, S. Bradley Cenko, Dale Fixsen, Orion Guiffreda, Ryusei Hamada, Yuki Hirao, Asahi Idei, Dan Kelly, Markus Loose, Gennadiy N. Lotkin, Eric I. Lyness, Stephen Maher, Shuma Makida, Noriyuki Matsunaga, Shota Miyazaki, Gregory Mosby, Samuel H. Moseley, Tutumi Nagai, Togo Nagano, Seiya Nakayama, Mayu Nishio, Kansuke Nunota, Ryo Ogawa, Ryunosuke Oishi, Yui Okumoto, Nicholas J. Rattenbury, Yuki K. Satoh, Elmer H. Sharp, Daisuke Suzuki, Takuto Tamaoki, Eleonora Troja, Sarah V. White, Hibiki Yama
+Subjects: **astro-ph.EP**; astro-ph.GA, astro-ph.IM, astro-ph.SR
+
+---
+
+📊 **Summary**: 3 New • 3 Cross-lists • 4 Replacements
