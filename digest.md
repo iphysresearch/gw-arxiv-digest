@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2025-11-29
+# Complete Daily GW arXiv Digest - 2025-11-30
 
 **总爬取文章**: 147 篇  
 **今天的文章**: 147 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2511.20731](https://arxiv.org/abs/2511.20731)  
 **Authors**: Yi-De Lee, Hwei-Jang Yo  
-**Date**: 29 Nov 2025  
+**Date**: 30 Nov 2025  
 **Categories**: gr-qc, astro-ph.IM  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2511.21183](https://arxiv.org/abs/2511.21183)  
 **Authors**: David Díaz-Guerra, Angel Rincon, Diego Rubiera-Garcia  
-**Date**: 29 Nov 2025  
+**Date**: 30 Nov 2025  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2511.21573](https://arxiv.org/abs/2511.21573)  
 **Authors**: Gabriela Conde-Saavedra, Odylio Denys Aguiar, Henrique P. de Oliveira, Maximiliano Ujevic  
-**Date**: 29 Nov 2025  
+**Date**: 30 Nov 2025  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2511.20970](https://arxiv.org/abs/2511.20970)  
 **Authors**: Shenghua Yu, Youjun Lu, C. Simon Jeffery, Zhanwen Han, DongDong Liu, Jie Yang, Xilong Fan, Bo Peng, Jianbin Li  
-**Date**: 29 Nov 2025  
+**Date**: 30 Nov 2025  
 **Categories**: astro-ph.HE, astro-ph.SR, gr-qc  
 **Type**: cross-list from astro-ph.HE  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2511.21488](https://arxiv.org/abs/2511.21488)  
 **Authors**: Qingyuan Liang, Ligong Bian, Huai-Ke Guo, Yongcheng Wu  
-**Date**: 29 Nov 2025  
+**Date**: 30 Nov 2025  
 **Categories**: hep-ph, astro-ph.HE, gr-qc  
 **Type**: cross-list from hep-ph  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2509.11882](https://arxiv.org/abs/2509.11882)  
 **Authors**: Christian J. Krüger, Mariachiara Celato  
-**Date**: 29 Nov 2025  
+**Date**: 30 Nov 2025  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2511.21634](https://arxiv.org/abs/2511.21634)  
 **Authors**: Ernest Ma, Partha Kumar Paul, Narendra Sahu  
-**Date**: 29 Nov 2025  
+**Date**: 30 Nov 2025  
 **Categories**: hep-ph, astro-ph.CO  
 **Type**: cross-list from hep-ph  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2502.18790](https://arxiv.org/abs/2502.18790)  
 **Authors**: Wen-Zheng Chen, Yang Liu, Yi-Ming Wang, Hong Li  
-**Date**: 29 Nov 2025  
+**Date**: 30 Nov 2025  
 **Categories**: astro-ph.CO  
 **Type**: replaced  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2510.23738](https://arxiv.org/abs/2510.23738)  
 **Authors**: Camilla Mupo, Yue Zhang  
-**Date**: 29 Nov 2025  
+**Date**: 30 Nov 2025  
 **Categories**: hep-ph, astro-ph.CO  
 **Type**: replaced  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2508.14474](https://arxiv.org/abs/2508.14474)  
 **Authors**: Takahiro Sumi, David A. H. Buckley, Alexander S. Kutyrev, Motohide Tamura, David P. Bennett, Ian A. Bond, Giuseppe Cataldo, Joseph M. Durbak, S. Bradley Cenko, Dale Fixsen, Orion Guiffreda, Ryusei Hamada, Yuki Hirao, Asahi Idei, Dan Kelly, Markus Loose, Gennadiy N. Lotkin, Eric I. Lyness, Stephen Maher, Shuma Makida, Noriyuki Matsunaga, Shota Miyazaki, Gregory Mosby, Samuel H. Moseley, Tutumi Nagai, Togo Nagano, Seiya Nakayama, Mayu Nishio, Kansuke Nunota, Ryo Ogawa, Ryunosuke Oishi, Yui Okumoto, Nicholas J. Rattenbury, Yuki K. Satoh, Elmer H. Sharp, Daisuke Suzuki, Takuto Tamaoki, Eleonora Troja, Sarah V. White, Hibiki Yama  
-**Date**: 29 Nov 2025  
+**Date**: 30 Nov 2025  
 **Categories**: astro-ph.EP, astro-ph.GA, astro-ph.IM, astro-ph.SR  
 **Type**: replaced  
 
