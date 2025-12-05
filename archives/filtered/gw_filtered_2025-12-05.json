@@ -1,0 +1,434 @@
+{
+  "date": "2025-12-05",
+  "crawl_timestamp": "2025-12-05T01:31:43.485326",
+  "query": "cat:gr-qc OR cat:astro-ph.* (filtered for gravitational waves)",
+  "summary": {
+    "total_crawled": 172,
+    "total_gw_papers": 14,
+    "by_category": {
+      "gr-qc": {
+        "total": 26,
+        "gw_related": 4
+      },
+      "astro-ph": {
+        "total": 126,
+        "gw_related": 8
+      }
+    }
+  },
+  "crawl_verification": {
+    "total_expected": 252,
+    "total_actual": 252,
+    "verification_passed": true,
+    "category_details": [
+      {
+        "category": "gr-qc",
+        "url": "https://arxiv.org/list/gr-qc/new",
+        "expected_total": 48,
+        "actual_crawled": 48,
+        "page_source_info": "Total of 48 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.CO",
+        "url": "https://arxiv.org/list/astro-ph.CO/new",
+        "expected_total": 44,
+        "actual_crawled": 44,
+        "page_source_info": "Total of 44 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.HE",
+        "url": "https://arxiv.org/list/astro-ph.HE/new",
+        "expected_total": 47,
+        "actual_crawled": 47,
+        "page_source_info": "Total of 47 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.GA",
+        "url": "https://arxiv.org/list/astro-ph.GA/new",
+        "expected_total": 49,
+        "actual_crawled": 49,
+        "page_source_info": "Total of 49 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.SR",
+        "url": "https://arxiv.org/list/astro-ph.SR/new",
+        "expected_total": 25,
+        "actual_crawled": 25,
+        "page_source_info": "Total of 25 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.IM",
+        "url": "https://arxiv.org/list/astro-ph.IM/new",
+        "expected_total": 20,
+        "actual_crawled": 20,
+        "page_source_info": "Total of 20 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.EP",
+        "url": "https://arxiv.org/list/astro-ph.EP/new",
+        "expected_total": 19,
+        "actual_crawled": 19,
+        "page_source_info": "Total of 19 entries",
+        "success": true,
+        "verification_passed": true
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "https://arxiv.org/abs/2512.03713",
+      "title": "A theory-agnostic hierarchical Bayesian framework for black-hole spectroscopy: a case study on GW250114 in Einstein-dilaton-Gauss-Bonnet gravity",
+      "authors": [
+        "Shitong Guo",
+        "Yan-Gang Miao"
+      ],
+      "abstract": "A theory-agnostic hierarchical Bayesian framework for black-hole spectroscopy: a case study on GW250114 in Einstein-dilaton-Gauss-Bonnet gravity Shitong Guo, Yan-Gang Miao v1: 18 pages, 11 figures, 4 tables General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE) Black-hole spectroscopy has emerged as a powerful probe of strong-field gravity in the era of gravitational-wave astronomy. In this context, many current tests of modified or extended gravity are implemented by searching for predicted signatures modeled as perturbative corrections to general-relativistic waveforms; however, this approach may introduce model-dependent systematics and limit applicability to broader classes of theories. To complement such methods, we develop a theory-agnostic hierarchical Bayesian framework that connects ringdown observations -- modeled as damped sinusoids -- directly with theoretical quasinormal mode spectra, performing the comparison at the spectral level rather than through theory-specific waveform matching. The framework incorporates a soft-truncation module to account for the finite domain of validity in the theory's parameter space and is equipped with quantitative diagnostics that identify stable analysis time windows. As an illustrative application, we implement the framework within Einstein-dilaton-Gauss-Bonnet gravity and apply it to the gravitational-wave event GW250114, finding that the resulting posterior for the dimensionless coupling $\\zeta$ is robust against prior assumptions yet remains only weakly informative over the range considered in this work. We further perform controlled ringdown injection studies across different values of $\\zeta$, confirming that nonzero couplings can be recovered while also indicating a potential systematic effect: Kerr-based priors in the $\\zeta$ inference may partially absorb spectral deviations arising in alternative theories of gravity. This work establishes a transparent and extensible foundation for future strong-field gravity tests, naturally compatible with the growing precision and modal resolution of next-generation gravitational-wave detectors.",
+      "pdf_url": "https://arxiv.org/pdf/2512.03713.pdf",
+      "published": "2025-12-05T01:31:42.290653",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.03919",
+      "title": "Primordial Gravitational Wave Birefringence in a de Sitter Background with Chern-Simons Coupling",
+      "authors": [
+        "Abhishek Rout",
+        "Brett Altschul"
+      ],
+      "abstract": "Primordial Gravitational Wave Birefringence in a de Sitter Background with Chern-Simons Coupling Abhishek Rout, Brett Altschul General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) In this work, we investigate tensor perturbations in a de Sitter background within the framework of Chern-Simons modified gravity. We introduce transverse-traceless perturbations and analyze how the Chern-Simons Cotton tensor induces parity-violating modifications to gravitational wave propagation, while the Pontryagin density vanishes at linear order. Using a mode decomposition of the scalar background field, we derive the sub- and super-horizon limits of the wave equations and uncover chiral corrections in the dispersion relations of tensor modes. The resulting birefringence exhibits both amplitude and velocity components, alternating with the phase of the scalar field. Particular solutions sourced by the scalar background show helicity-dependent amplification and a characteristic scaling of the radiated flux that reduces smoothly to the Minkowski limit. The accumulated phase difference between right- and left-handed modes grows quadratically inside the horizon and becomes frozen outside, leaving a permanent parity-violating imprint in the primordial tensor spectrum. Finally, by promoting the Chern-Simons field to a massive dark matter candidate, we demonstrate how its mass-dependent dynamics connect gravitational birefringence to axion-like dark matter phenomenology.",
+      "pdf_url": "https://arxiv.org/pdf/2512.03919.pdf",
+      "published": "2025-12-05T01:31:42.291663",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.04083",
+      "title": "Screening of dipolar emission in two-scale Gauss-Bonnet gravity",
+      "authors": [
+        "Farid Thaalba",
+        "Leonardo Gualtieri",
+        "Thomas P. Sotiriou",
+        "Enrico Trincherini"
+      ],
+      "abstract": "Screening of dipolar emission in two-scale Gauss-Bonnet gravity Farid Thaalba, Leonardo Gualtieri, Thomas P. Sotiriou, Enrico Trincherini General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE); High Energy Physics - Theory (hep-th) We study black holes in shift-symmetric scalar Gauss-Bonnet gravity extended by a cubic Galileon interaction with a distinct energy scale. Introducing this hierarchy profoundly modifies the theory's phenomenology. The cubic interaction allows for smaller black holes, and can generate a screening mechanism near the horizon, making large Gauss-Bonnet couplings consistent with gravitational-wave bounds. Observable quantities such as the scalar charge, the innermost stable circular orbit, and its frequency are most affected for small black holes. The resulting multi-scale effective field theory remains technically natural and offers new avenues to probe gravity in the strong-field regime.",
+      "pdf_url": "https://arxiv.org/pdf/2512.04083.pdf",
+      "published": "2025-12-05T01:31:42.291825",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.03888",
+      "title": "The anisotropy and magnetic field structure of neutron stars through gravitational wave",
+      "authors": [
+        "Zhao-Wei Du",
+        "Xi-Long Fan"
+      ],
+      "abstract": "The anisotropy and magnetic field structure of neutron stars through gravitational wave Zhao-Wei Du, Xi-Long Fan High Energy Astrophysical Phenomena (astro-ph.HE); General Relativity and Quantum Cosmology (gr-qc) We investigate how gravitational wave (GW) observations can probe the internal physics of neutron stars by extending the Tolman-Oppenheimer-Volkoff framework to include pressure anisotropy and internal magnetic fields. Two representative magnetic field configurations, radial orientation dominated (RO) and transverse orientation dominated (TO), are implemented with strength and decay prescriptions. We found that both anisotropy and magnetic fields increase the maximum supported mass and modify the tidal deformability $\\Lambda$, thereby imprinting measurable signatures on GW signals. For the equal mass binary ($1.2M_\\odot$-$1.2M_\\odot$), anisotropy neutron star with RO magnetic field yield more compact stars and a larger shift in $\\Lambda$, allowing discrimination at signal-to-noise ratios (SNRs) as low as $\\sim18$ using the O4 power spectra density. TO fields produce weaker effects and require substantially higher SNRs for detection. In conclusion, we conclude that gravitational waves are capable of probing the internal structure of neutron stars.",
+      "pdf_url": "https://arxiv.org/pdf/2512.03888.pdf",
+      "published": "2025-12-05T01:31:42.293431",
+      "updated": null,
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "primary_category": "astro-ph.HE",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from astro-ph.HE",
+        "cross_list_from": "astro-ph.HE"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.03959",
+      "title": "Primary gravitational waves at high frequencies I: Origin of suppression in the power spectrum",
+      "authors": [
+        "Alipriyo Hoory",
+        "Jerome Martin",
+        "Arnab Paul",
+        "L. Sriramkumar"
+      ],
+      "abstract": "Primary gravitational waves at high frequencies I: Origin of suppression in the power spectrum Alipriyo Hoory, Jerome Martin, Arnab Paul, L. Sriramkumar Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) [Abridged] The primary gravitational waves (PGWs) are generated in the early universe from the quantum vacuum during inflation. In slow roll inflation, the power spectrum (PS) of PGWs over large scales, which leave the Hubble radius during inflation, is nearly scale-invariant. However, over very small scales, which never leave the Hubble radius, the PS of PGWs behaves as k^2, where k denotes the wave number. We examine the PS of PGWs at such high wave numbers or frequencies when the PGWs are evolved post-inflation, through the epochs of radiation and matter domination. Firstly, we argue that the PS has to be regularized in order to truncate the unphysical k^2 rise at high frequencies. Assuming instantaneous transitions from inflation to the epochs of radiation and matter domination, we carry out the method of adiabatic regularization to arrive at the PS of PGWs over a wide range of frequencies. We show that the process of regularization truncates the k^2 rise and the PS of PGWs oscillates with a fixed amplitude about a vanishing mean value over small scales or, equivalently, at high frequencies. Secondly, we smooth the transition from inflation to radiation domination (to be precise, we smooth the 'effective potential' governing the equation of motion of PGWs) and examine the impact of the smoothing on the regularized PS of PGWs. With the help of a linear smoothing function, we explicitly show that the smoother transition leads to a power-law suppression in the amplitude of the oscillations (about the zero mean value) of the regularized PS of PGWs over small scales that never leave the Hubble radius during inflation. Our analysis indicates that, when transitions are involved, regularization as well as smooth transitions seem essential to ensure that the correlation functions of the PGWs in real space are well behaved. We discuss the directions in which our results need to be extended.",
+      "pdf_url": "https://arxiv.org/pdf/2512.03959.pdf",
+      "published": "2025-12-05T01:31:42.293668",
+      "updated": null,
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "primary_category": "astro-ph.CO",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from astro-ph.CO",
+        "cross_list_from": "astro-ph.CO"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.04011",
+      "title": "Freeze-out and spectral running of primordial gravitational waves in viscous cosmology",
+      "authors": [
+        "Giuseppe Fanizza",
+        "Eliseo Pavone",
+        "Luigi Tedesco"
+      ],
+      "abstract": "Freeze-out and spectral running of primordial gravitational waves in viscous cosmology Giuseppe Fanizza, Eliseo Pavone, Luigi Tedesco 27 pages, 4 figures, prepared for submission to JCAP Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Phenomenology (hep-ph); High Energy Physics - Theory (hep-th) We investigate the impact of shear viscosity on the propagation of primordial gravitational waves (pGW) after inflation. Without assuming a specific inflationary scenario we focus on the evolution of pGWs after they re-enter the horizon during a cosmological epoch characterized by the presence of shear viscosity. We show that shear viscosity introduces an additional damping term in the tensor equation, modifying both the transfer function and the energy density power spectrum. For a constant shear viscosity-to-Hubble ratio the transfer function acquires an extra red tilt, while a time-dependent viscosity leads to a running spectral index $\\Omega_\\text{GW}\\sim k^{n_\\text{eff}(k)}$ controlled by the time evolution of the mean free path of the viscous fluid. Our analysis provides a general framework to analytically quantify how shear viscosity can alter the primordial gravitational wave background in standard and non-standard post-inflationary scenarios. As a case study we evaluate the effect of viscosity of the electron-photon-baryon plasma, on both the transfer function and the normalized energy density, finding a $k$-dependent blue tilt due to gravitational wave freeze-out from the viscous phase. This effect corresponds to a fractional difference of order $10^{-3}$.",
+      "pdf_url": "https://arxiv.org/pdf/2512.04011.pdf",
+      "published": "2025-12-05T01:31:42.294124",
+      "updated": null,
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "primary_category": "astro-ph.CO",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from astro-ph.CO",
+        "cross_list_from": "astro-ph.CO"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2411.19761",
+      "title": "Applicability of multi-component study on Bayesian searches for targeted anisotropic stochastic gravitational-wave background",
+      "authors": [
+        "Soichiro Kuwahara",
+        "Leo Tsukada"
+      ],
+      "abstract": "Applicability of multi-component study on Bayesian searches for targeted anisotropic stochastic gravitational-wave background Soichiro Kuwahara, Leo Tsukada Phys. Rev. D 112, 124011, December, 2025 General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE) Stochastic background gravitational waves have not yet been detected by ground-based laser interferometric detectors, but recent improvements in detector sensitivity have raised considerable expectations for their eventual detection. Previous studies have introduced methods for exploring anisotropic background gravitational waves using Bayesian statistics. These studies represent a groundbreaking approach by offering physically motivated anisotropy mapping that is distinct from the Singular Value Decomposition regularization of the Fisher Information Matrix. However, they are limited by the use of a single model, which can introduce potential bias when dealing with complex data that may consist of a mixture of multiple models. Here, we demonstrate the bias introduced by a single-component model approach in the parametric interpretation of anisotropic stochastic gravitational-wave backgrounds, and we confirm that using multiple-component models can mitigate this bias.",
+      "pdf_url": "https://arxiv.org/pdf/2411.19761.pdf",
+      "published": "2025-12-05T01:31:42.294886",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2504.02592",
+      "title": "Unified equation for massless spin fields and new definitions of key spin coefficients",
+      "authors": [
+        "Zhong-Heng Li"
+      ],
+      "abstract": "Unified equation for massless spin fields and new definitions of key spin coefficients Zhong-Heng Li High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc) Whether studying gravitational waves from extreme mass ratio inspirals or exploring the analogy between massless spin-particle waves, black hole perturbation theory proves indispensable. At the heart of developing a universal perturbation framework for such problems lies the challenge of formulating a coordinate-independent, unified wave equation that is universally applicable to any black hole spacetime. This paper resolves this central issue in type-D spacetimes by establishing a new definition of spin coefficients. Specifically, we introduce a new definition for the spin coefficients $\\rho$, $\\mu$, $\\tau$, and $\\pi$, which are defined as the directional derivatives of the logarithm of a generating function along the null tetrad ($l^{\\mu}$, $n^{\\mu}$, $m^{\\mu}$, $\\bar{m}^{\\mu}$), respectively. This is the first discovery that these spin coefficients are interconnected through a generating function. Using the newly defined spin coefficients, we find that the field equations for massless particles with spins 0, 1/2, 1, 3/2, and 2 in arbitrary type-D black hole spacetimes can be described by a single unified equation. This finding is particularly surprising, as unifying these field equations is already a significant challenge in flat spacetime, let alone in the intricate spacetime around black holes. Consequently, this work will inevitably prompt a re-examination of the shared characteristics among various types of particles in black hole spacetimes. Meanwhile, we verify the correctness of the new definition for the spin coefficients, and provide the explicit form of the unified equation for nearly all known type-D black hole backgrounds. This lays a solid foundation not only for studying gravitational waves from extreme mass ratio inspirals but also for exploring the analogy between massless spin-particle waves in any type-D black hole background.",
+      "pdf_url": "https://arxiv.org/pdf/2504.02592.pdf",
+      "published": "2025-12-05T01:31:42.295794",
+      "updated": null,
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "primary_category": "hep-th",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2505.10133",
+      "title": "$f$-mode oscillations of protoneutron stars",
+      "authors": [
+        "Zi-Yue Zheng",
+        "Ting-Ting Sun",
+        "Huan Chen",
+        "Jin-Biao Wei",
+        "Xiao-Ping Zheng",
+        "G. F. Burgio",
+        "H.-J. Schulze"
+      ],
+      "abstract": "$f$-mode oscillations of protoneutron stars Zi-Yue Zheng, Ting-Ting Sun, Huan Chen, Jin-Biao Wei, Xiao-Ping Zheng, G. F. Burgio, H.-J. Schulze High Energy Astrophysical Phenomena (astro-ph.HE); General Relativity and Quantum Cosmology (gr-qc) We investigate nonradial $f$-mode oscillations of protoneutron stars in full general relativity, employing equations of state described by the Brueckner-Hartree-Fock theory or the relativistic mean field model, while assuming isentropy and fixed lepton fractions for the internal structure. The validity of various universal relations for cold neutron stars involving $f$-mode characteristics and macroscopic properties of the star is confirmed for those isentropic protoneutron stars. Prospects of observations are also discussed. According to simulation results, we then model details of the thermal and trapping profiles in a PNS with the canonical mass. The corresponding $f$-mode frequencies and gravitational-wave strain amplitudes are presented. The validity of the universal relations during the evolution to the formation of a cold neutron star is confirmed.",
+      "pdf_url": "https://arxiv.org/pdf/2505.10133.pdf",
+      "published": "2025-12-05T01:31:42.296218",
+      "updated": null,
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "primary_category": "astro-ph.HE",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2507.06841",
+      "title": "Cosmic baryon census with fast radio bursts and gravitational waves",
+      "authors": [
+        "Ji-Guo Zhang",
+        "Ji-Yu Song",
+        "Ze-Wei Zhao",
+        "Wan-Peng Sun",
+        "Jing-Fei Zhang",
+        "Xin Zhang"
+      ],
+      "abstract": "Cosmic baryon census with fast radio bursts and gravitational waves Ji-Guo Zhang, Ji-Yu Song, Ze-Wei Zhao, Wan-Peng Sun, Jing-Fei Zhang, Xin Zhang Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Astrophysical Phenomena (astro-ph.HE); General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Phenomenology (hep-ph) The cosmic baryon density fraction ($\\Omega_{\\rm b}$) is intrinsically correlated with the Hubble constant ($H_0$) through the critical density of the Universe. In the context of the decade-long $H_0$ tension, the significant discrepancy between early- and late-Universe measurements of $H_0$ implies that fixing its value or imposing an external prior could bias the baryon census. To address this concern, we construct a late-Universe probe framework that unifies fast radio bursts (FRBs) and gravitational-wave (GW) standard sirens, which can respectively resolve the missing baryon problem and the $H_0$ tension through their dispersion measures and absolute luminosity distances. By combining $104$ localized FRBs with $47$ GW events, we obtain an $H_0$-free measurement of $\\Omega_{\\rm b}=0.0488\\pm0.0064$ ($1\\sigma$), in concordance with early-Universe observations of CMB + BBN. Although the current precision ($\\sim 13\\%$) is limited by sample size, the growing detections of both FRBs and GWs will make their synergy a powerful probe of low-redshift cosmology.",
+      "pdf_url": "https://arxiv.org/pdf/2507.06841.pdf",
+      "published": "2025-12-05T01:31:42.296662",
+      "updated": null,
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "primary_category": "astro-ph.CO",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2509.10319",
+      "title": "The merger of spinning, accreting supermassive black hole binaries",
+      "authors": [
+        "Lorenzo Ennoggi",
+        "Manuela Campanelli",
+        "Julian Krolik",
+        "Scott C. Noble",
+        "Yosef Zlochower",
+        "Maria Chiara de Simone"
+      ],
+      "abstract": "The merger of spinning, accreting supermassive black hole binaries Lorenzo Ennoggi, Manuela Campanelli, Julian Krolik, Scott C. Noble, Yosef Zlochower, Maria Chiara de Simone 7 pages, 3 figures. See Supplemental Material in the ancillary files section. Submitted to PRL High Energy Astrophysical Phenomena (astro-ph.HE); General Relativity and Quantum Cosmology (gr-qc); Computational Physics (physics.comp-ph); Plasma Physics (physics.plasm-ph) Because they are likely to accrete substantial amounts of interstellar gas, merging supermassive binary black holes are expected to be strong multimessenger sources, radiating gravitational waves, photons from thermal gas, and photons from relativistic electrons energized by relativistic jets. Here we report on a numerical simulation that covers the late inspiral, merger, and initial postmerger phase of such a system where both black holes have the same mass and spin, and both spin axes are parallel to the orbital angular momentum. The simulation incorporates both 3D general relativistic magnetohydrodynamics and numerical relativity. The thermal photon power during the late inspiral, merger, and immediate postmerger phases is drawn from strong shocks rather than dissipation of turbulence inside a smoothly structured accretion disk as typically found around accreting single black holes. We find that the thermal photon and jet Poynting flux outputs are closely related in time, and we posit a mechanism that enforces this relation. The power radiated in both photons and jets diminishes gradually as merger is approached, but jumps sharply at merger to a noisy plateau. Such a distinct lightcurve should aid efforts to identify supermassive black hole mergers, with or without accompanying gravitational wave detections.",
+      "pdf_url": "https://arxiv.org/pdf/2509.10319.pdf",
+      "published": "2025-12-05T01:31:42.297322",
+      "updated": null,
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "primary_category": "astro-ph.HE",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.03662",
+      "title": "Gravitational Decays of Secluded Scalars and Graviton Dark Radiation",
+      "authors": [
+        "Kazunori Nakayama",
+        "Fuminobu Takahashi",
+        "Juntaro Wada"
+      ],
+      "abstract": "Gravitational Decays of Secluded Scalars and Graviton Dark Radiation Kazunori Nakayama, Fuminobu Takahashi, Juntaro Wada High Energy Physics - Phenomenology (hep-ph); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th) We discuss graviton dark radiation produced by the decay of a secluded scalar field that couples to the Standard Model (SM) only through gravity. Such scalar fields are long-lived, and their decay channels generically include gravitons. If such particles existed and dominated the early universe, a sizable branching ratio into gravitons would yield non-negligible dark radiation that significantly alters the subsequent thermal history of the universe. In this work, we focus on the dark glueball as a representative secluded hidden scalar and compare the decay rates into SM particles via a non-minimal coupling to gravity with those into gravitons, paying attention to how the breaking of conformal invariance affects the amount of graviton dark radiation. We find that decays into the SM are dominated by two-body decay channels into Higgs bosons and gluons. In particular, when the Higgs field has a large non-minimal coupling to gravity, the production of graviton dark radiation is naturally suppressed in the metric formalism, and the SM sector is preferentially reheated and energy transfer to other hidden sectors is suppressed. Finally, we present the expected gravitational-wave spectrum resulting from dark glueball domination.",
+      "pdf_url": "https://arxiv.org/pdf/2512.03662.pdf",
+      "published": "2025-12-05T01:31:42.462196",
+      "updated": null,
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "primary_category": "hep-ph",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from hep-ph",
+        "cross_list_from": "hep-ph"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.04031",
+      "title": "Large Language Models for Limited Noisy Data: A Gravitational Wave Identification Study",
+      "authors": [
+        "Yixuan Li",
+        "Yuhao Lu",
+        "Yang Liu",
+        "Liang Li",
+        "R. Ruffini",
+        "Di Li",
+        "Rong-Gen Cai",
+        "Xiaoyan Zhu",
+        "Wenbin Lin",
+        "Yu Wang"
+      ],
+      "abstract": "Large Language Models for Limited Noisy Data: A Gravitational Wave Identification Study Yixuan Li, Yuhao Lu, Yang Liu, Liang Li, R. Ruffini, Di Li, Rong-Gen Cai, Xiaoyan Zhu, Wenbin Lin, Yu Wang Instrumentation and Methods for Astrophysics (astro-ph.IM); High Energy Astrophysical Phenomena (astro-ph.HE); Artificial Intelligence (cs.AI) This work investigates whether large language models (LLMs) offer advantages over traditional neural networks for astronomical data processing, in regimes with non-Gaussian, non-stationary noise and limited labeled samples. Gravitational wave observations provide an suitable test case, using only 90 LIGO events, finetuned LLMs achieve 97.4\\% accuracy for identifying signals. Further experiments show that, in contrast to traditional networks that rely on large simulated datasets, additional simulated samples do not improve LLM performance, while scaling studies reveal predictable gains with increasing model size and dataset size. These results indicate that LLMs can extract discriminative structure directly from observational data and provide an efficient assessment for gravitational wave identification. The same strategy may extend to other astronomical domains with similar noise properties, such as radio or pulsar observations.",
+      "pdf_url": "https://arxiv.org/pdf/2512.04031.pdf",
+      "published": "2025-12-05T01:31:42.655212",
+      "updated": null,
+      "categories": [
+        "astro-ph.IM",
+        "astro-ph.HE",
+        "cs.AI"
+      ],
+      "primary_category": "astro-ph.IM",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from astro-ph.IM",
+        "cross_list_from": "astro-ph.IM"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.23115",
+      "title": "Luminosity Functions and Detectability of Binary Neutron Star Merger-nova Signals with Various Merger Remnants",
+      "authors": [
+        "Zhiwei Chen",
+        "Youjun Lu",
+        "Hao Ma",
+        "Qingbo Chu"
+      ],
+      "abstract": "Luminosity Functions and Detectability of Binary Neutron Star Merger-nova Signals with Various Merger Remnants Zhiwei Chen, Youjun Lu, Hao Ma, Qingbo Chu 17 pages, 13 figures, accepted by MNRAS High Energy Astrophysical Phenomena (astro-ph.HE) With the rapid advancements in next-generation ground-based gravitational wave (GW) detectors, it is anticipated that $10^3$-$10^5$ binary neutron star (BNS) mergers per year will be detected, with a significant fraction accompanied by observable merger-nova signals through future sky surveys. Merger-novae are typically powered by the radioactive decay of heavy elements synthesized via the r-process. If the post-merger remnant is a long-lived rapid-rotating neutron star, the merger-nova can be significantly enhanced due to strong magnetized winds. In this paper, we generate mock BNS merger samples using binary population synthesis model and classify their post-merger remnants--black hole (BH) and magnetar, (i.e., long-lived supramassive NS and stable NS), based on results from numerical simulations. We then construct merger-nova radiation models to estimate their luminosity function. We find that the luminosity function may exhibit a distinctive triple-peak structure, with the relative positions and heights of these peaks depending on the equation of state (EOS) of the BNS. Furthermore, we estimate the average Target-of-Opportunity (ToO) detection efficiency $\\langle f_{\\rm eff} \\rangle$ with the Chinese Space Station Telescope (CSST) and find that due to possible enhanced luminosity, the largest source redshift with $\\langle f_{\\rm eff} \\rangle>0.1$ can be enlarged from $z_{\\rm s}\\sim 0.5$ to $z_{\\rm s}\\sim 1-1.5$. Besides, we also generate the detectable mass spectrum for merger-novae by $\\langle f_{\\rm eff}\\rangle$, which may provide insights to the ToO searching strategy.",
+      "pdf_url": "https://arxiv.org/pdf/2510.23115.pdf",
+      "published": "2025-12-05T01:31:42.657165",
+      "updated": null,
+      "categories": [
+        "astro-ph.HE"
+      ],
+      "primary_category": "astro-ph.HE",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    }
+  ]
+}
