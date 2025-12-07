@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2025-12-06
+# Complete Daily GW arXiv Digest - 2025-12-07
 
 **总爬取文章**: 182 篇  
 **今天的文章**: 182 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2512.04167](https://arxiv.org/abs/2512.04167)  
 **Authors**: Pau Amaro Seoane, Kostas Tzanavaris  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: gr-qc, astro-ph.CO  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2512.04473](https://arxiv.org/abs/2512.04473)  
 **Authors**: Pan-Pan Wang, Hao-Kang Chen, Wei-Liang Qian, Rui Luo, Jing Zhou, Wei-Sheng Huang, Yu-Jie Tan, Cheng-Gang Shao  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: gr-qc, astro-ph.GA, astro-ph.IM  
 **Type**: new submission  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2512.04482](https://arxiv.org/abs/2512.04482)  
 **Authors**: M. Laine, S. Procacci  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: gr-qc, hep-ph  
 **Type**: new submission  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2512.04516](https://arxiv.org/abs/2512.04516)  
 **Authors**: Damon Beveridge, Alistair McLeod, Linqing Wen, Weichangfeng Guo, Andreas Wicenec  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: gr-qc, astro-ph.IM  
 **Type**: new submission  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2512.04593](https://arxiv.org/abs/2512.04593)  
 **Authors**: Koustav Chandra, Rossella Gamba, Danilo Chiaramello  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2512.04806](https://arxiv.org/abs/2512.04806)  
 **Authors**: RunDong Tang, Lang Liu, Wen-Biao Han  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2512.04848](https://arxiv.org/abs/2512.04848)  
 **Authors**: Surajit Das, Surojit Dalui, Bum-Hoon Lee, Yi-Fu Cai  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: gr-qc, astro-ph.CO, hep-th, nlin.CD  
 **Type**: new submission  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2512.04851](https://arxiv.org/abs/2512.04851)  
 **Authors**: Yirong Fang, Changfu Shi, Jianwei Mei  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: gr-qc, astro-ph.IM  
 **Type**: new submission  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2512.05118](https://arxiv.org/abs/2512.05118)  
 **Authors**: Davide Guerra, Milton Ruiz, Michele Pasquali, Pablo Cerdá-Durán, Arnau Rios, José A. Font  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: new submission  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2512.04177](https://arxiv.org/abs/2512.04177)  
 **Authors**: Rashmish K. Mishra, Michael Nee, Lisa Randall  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: hep-th, astro-ph.CO, gr-qc, hep-ph  
 **Type**: cross-list from hep-th  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2512.04240](https://arxiv.org/abs/2512.04240)  
 **Authors**: Marcos A. G. Garcia, Sarunas Verner  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: hep-ph, astro-ph.CO, gr-qc  
 **Type**: cross-list from hep-ph  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2512.04548](https://arxiv.org/abs/2512.04548)  
 **Authors**: Ngo Phuc Duc Loc  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: astro-ph.CO, gr-qc, hep-ph, hep-th  
 **Type**: cross-list from astro-ph.CO  
 
@@ -155,7 +155,7 @@
 
 **arXiv**: [2108.01392](https://arxiv.org/abs/2108.01392)  
 **Authors**: Mario Imbrogno, Claudio Meringolo, Sergio Servidio  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -167,7 +167,7 @@
 
 **arXiv**: [2501.17043](https://arxiv.org/abs/2501.17043)  
 **Authors**: Thiago Guerreiro  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: gr-qc, quant-ph  
 **Type**: replaced  
 
@@ -179,7 +179,7 @@
 
 **arXiv**: [2506.07767](https://arxiv.org/abs/2506.07767)  
 **Authors**: Zhong-Wen Feng, Long-Xiang Li, Shi-Yu Li, Qing-Quan Jiang, Xia Zhou  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -191,7 +191,7 @@
 
 **arXiv**: [2507.03380](https://arxiv.org/abs/2507.03380)  
 **Authors**: Shailesh Kumar, Tieguang Zi, Arpan Bhattacharyya  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: gr-qc, hep-th  
 **Type**: replaced  
 
@@ -203,7 +203,7 @@
 
 **arXiv**: [2511.16863](https://arxiv.org/abs/2511.16863)  
 **Authors**: The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration: A. G. Abac, I. Abouelfettouh, F. Acernese, K. Ackley, C. Adamcewicz, S. Adhicary, D. Adhikari, N. Adhikari, R. X. Adhikari, V. K. Adkins, S. Afroz, A. Agapito, D. Agarwal, M. Agathos, N. Aggarwal, S. Aggarwal, O. D. Aguiar, I.-L. Ahrend, L. Aiello, A. Ain, P. Ajith, T. Akutsu, S. Albanesi, W. Ali, S. Al-Kershi, C. Alléné, A. Allocca, S. Al-Shammari, P. A. Altin, S. Alvarez-Lopez, W. Amar, O. Amarasinghe, A. Amato, F. Amicucci, C. Amra, A. Ananyeva, S. B. Anderson, W. G. Anderson, M. Andia, M. Ando, M. Andrés-Carcasona, T. Andrić, J. Anglin, S. Ansoldi, J. M. Antelis, S. Antier, M. Aoumi, E. Z. Appavuravther, S. Appert, S. K. Apple, K. Arai, A. Araya, M. C. Araya, M. Arca Sedda, J. S. Areeda, N. Aritomi, F. Armato, S. Armstrong, N. Arnaud, M. Arogeti, S. M. Aronson, G. Ashton, Y. Aso, L. Asprea, M. Assiduo, S. Assis de Souza Melo, S. M. Aston, P. Astone, F. Attadio, F. Aubin, K. AultONeal, G. Avallone, E. A. Avila, S. Babak, C. Badger, S. Bae, S. Bagnasco, L. Baiotti, R. Bajpai, T. Baka, A. M. Baker, K. A. Baker, T. Baker, G. Baldi, N. Baldicchi, M. Ball, G. Ballardin, S. W. Ballmer, S. Banagiri, B. Banerjee, D. Bankar, T. M. Baptiste, P. Baral, M. Baratti, J. C. Barayoga, B. C. Barish, D. Barker  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -215,7 +215,7 @@
 
 **arXiv**: [2509.05885](https://arxiv.org/abs/2509.05885)  
 **Authors**: Ilya Mandel  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: astro-ph.HE, astro-ph.SR, gr-qc  
 **Type**: replaced  
 
@@ -227,7 +227,7 @@
 
 **arXiv**: [2512.04209](https://arxiv.org/abs/2512.04209)  
 **Authors**: Leah Bigwood, Jamie McCullough, Jared Siegel, Alexandra Amon, George Efstathiou, David Sanchez-Cid, Elisa Legnani, Daniel Gruen, Jonathan Blazek, Cyrille Doux, Aurelio Carnero Rosell, Marco Gatti, Eric Huff, Niall MacCrann, Anna Porredon, Judit Prat Marti, Marcelle Soares dos Santos, Justin Myles, Simon Samuroff, Masaya Yamamoto, Boyan Yin, Joe Zuntz  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: astro-ph.CO  
 **Type**: new submission  
 
@@ -239,7 +239,7 @@
 
 **arXiv**: [2512.05108](https://arxiv.org/abs/2512.05108)  
 **Authors**: Evan McDonough, Elisa G. M. Ferreira  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: astro-ph.CO  
 **Type**: new submission  
 
@@ -251,7 +251,7 @@
 
 **arXiv**: [2512.04166](https://arxiv.org/abs/2512.04166)  
 **Authors**: Pieter van Dokkum, Connor Jennings, Imad Pasha, Charlie Conroy, Ish Kaul, Roberto Abraham, Shany Danieli, Aaron J. Romanowsky, Grant Tremblay  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: astro-ph.GA, astro-ph.CO, astro-ph.HE  
 **Type**: cross-list from astro-ph.GA  
 
@@ -263,7 +263,7 @@
 
 **arXiv**: [2512.04168](https://arxiv.org/abs/2512.04168)  
 **Authors**: Sahabub Jahedi, Indrajit Saha, Abhik Sarkar  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: hep-ph, astro-ph.CO  
 **Type**: cross-list from hep-ph  
 
@@ -275,7 +275,7 @@
 
 **arXiv**: [2507.15436](https://arxiv.org/abs/2507.15436)  
 **Authors**: Andrea Lapi, Francesco Shankar, Michele Bosi, Daniel Roberts, Hao Fu, Karthik M. Varadarajan, Lumen Boco  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: astro-ph.CO  
 **Type**: replaced  
 
@@ -287,7 +287,7 @@
 
 **arXiv**: [2504.05386](https://arxiv.org/abs/2504.05386)  
 **Authors**: Christopher Gerlach, Daniel Schmitt, Pedro Schwaller  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: hep-ph, astro-ph.CO  
 **Type**: replaced  
 
@@ -299,7 +299,7 @@
 
 **arXiv**: [2512.04589](https://arxiv.org/abs/2512.04589)  
 **Authors**: Kathrin Grunthal, Nataliya Porayko, David J. Champion, Michael Kramer  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: astro-ph.HE, astro-ph.IM  
 **Type**: new submission  
 
@@ -311,7 +311,7 @@
 
 **arXiv**: [2512.04804](https://arxiv.org/abs/2512.04804)  
 **Authors**: Alessandro Veutro, Irene Di Palma, Marco Drago, Pablo Cerdá-Durán, Robin van der Laag, Melissa López, Fulvio Ricci  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: astro-ph.HE, astro-ph.IM  
 **Type**: new submission  
 
@@ -323,7 +323,7 @@
 
 **arXiv**: [2512.04147](https://arxiv.org/abs/2512.04147)  
 **Authors**: W. Yu, A. F. Pala, T. Kupfer, B. T. Gänsicke, D. Koester, D. Belloni, T. L. S. Wong, M. R. Schreiber, J. van Roestel, A. J. Brown, E. O. Waagen, J.-L. González-Carballo, S. Bednarz, K. Bernacki, D. De Martino, E. Fernández Mañanes, R. González Farfán, M. J. Green, P. J. Groot, F.-J. Hambsch, C. Knigge, J.-L. Martin-Velasco, M. Morales-Aimar, G. Myers, R. Naves Nogues, R. Poggiani, A. Popowicz, G. Ramsay, E. Reina-Lorenz, P. Rodríguez-Gil, J.-L. Salto-González, E. M. Sion, D. Steeghs, P. Szkody, O. Toloza, G. Tovmassian  
-**Date**: 06 Dec 2025  
+**Date**: 07 Dec 2025  
 **Categories**: astro-ph.SR  
 **Type**: new submission  
 
