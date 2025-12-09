@@ -1,0 +1,449 @@
+{
+  "date": "2025-12-09",
+  "crawl_timestamp": "2025-12-09T01:31:56.976952",
+  "query": "cat:gr-qc OR cat:astro-ph.* (filtered for gravitational waves)",
+  "summary": {
+    "total_crawled": 124,
+    "total_gw_papers": 11,
+    "by_category": {
+      "gr-qc": {
+        "total": 18,
+        "gw_related": 4
+      },
+      "astro-ph": {
+        "total": 87,
+        "gw_related": 6
+      }
+    }
+  },
+  "crawl_verification": {
+    "total_expected": 179,
+    "total_actual": 179,
+    "verification_passed": true,
+    "category_details": [
+      {
+        "category": "gr-qc",
+        "url": "https://arxiv.org/list/gr-qc/new",
+        "expected_total": 36,
+        "actual_crawled": 36,
+        "page_source_info": "Total of 36 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.CO",
+        "url": "https://arxiv.org/list/astro-ph.CO/new",
+        "expected_total": 34,
+        "actual_crawled": 34,
+        "page_source_info": "Total of 34 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.HE",
+        "url": "https://arxiv.org/list/astro-ph.HE/new",
+        "expected_total": 23,
+        "actual_crawled": 23,
+        "page_source_info": "Total of 23 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.GA",
+        "url": "https://arxiv.org/list/astro-ph.GA/new",
+        "expected_total": 36,
+        "actual_crawled": 36,
+        "page_source_info": "Total of 36 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.SR",
+        "url": "https://arxiv.org/list/astro-ph.SR/new",
+        "expected_total": 18,
+        "actual_crawled": 18,
+        "page_source_info": "Total of 18 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.IM",
+        "url": "https://arxiv.org/list/astro-ph.IM/new",
+        "expected_total": 17,
+        "actual_crawled": 17,
+        "page_source_info": "Total of 17 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.EP",
+        "url": "https://arxiv.org/list/astro-ph.EP/new",
+        "expected_total": 15,
+        "actual_crawled": 15,
+        "page_source_info": "Total of 15 entries",
+        "success": true,
+        "verification_passed": true
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "https://arxiv.org/abs/2512.05193",
+      "title": "Black-hole ringdown with templates capturing spin precession: a critical re-analysis of GW190521",
+      "authors": [
+        "Chiara Anselmo",
+        "Costantino Pacilio",
+        "Davide Gerosa"
+      ],
+      "abstract": "Black-hole ringdown with templates capturing spin precession: a critical re-analysis of GW190521 Chiara Anselmo, Costantino Pacilio, Davide Gerosa General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE) The ringdown phase of a binary black-hole merger provides a clean probe of strong-field gravity, as it can be modeled with minimal assumptions. The quasi--normal--mode frequencies encode the mass and spin of the Kerr black-hole remnant, while the mode excitation depends on the progenitor binary. In this paper, we implement a recently developed amplitude model that captures spin precession in a simulation-based inference pipeline that specifically targets ringdown signals. We present a critical re-analysis of GW190521 -- a short-duration, merger-dominated event with conflicting interpretations. Spin-aligned and precessing analyses at two ringdown start times show that precession induces modest but systematic shifts in inferred parameters and subdominant mode amplitudes, although such ringdown-only analyses provide no strong evidence for precession. Our results demonstrate the feasibility of physics-informed precessing ringdown modelling, paving the way for the identification of spin precession in gravitational-wave events using solely their ringdown stages, where waveform systematics are expected to be substantially less prominent.",
+      "pdf_url": "https://arxiv.org/pdf/2512.05193.pdf",
+      "published": "2025-12-09T01:31:56.304854",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.05767",
+      "title": "Tidal Love numbers for regular black holes",
+      "authors": [
+        "Rui Wang",
+        "Qi-Long Shi",
+        "Wei Xiong",
+        "Peng-Cheng Li"
+      ],
+      "abstract": "Tidal Love numbers for regular black holes Rui Wang, Qi-Long Shi, Wei Xiong, Peng-Cheng Li General Relativity and Quantum Cosmology (gr-qc) Tidal Love numbers (TLNs) characterize the response of compact objects to external tidal fields and vanish for classical Schwarzschild and Kerr black holes in general relativity. Nonvanishing TLNs therefore provide a potential observational window into new physics. In this work, we present a unified and fully analytic study of the TLNs of three representative classes of regular black holes -- the Bardeen black hole,the black hole with sub-Planckian curvature, and the black hole arising in asymptotically safe gravity -- under scalar, vector, and axial gravitational perturbations. Employing a Green's function method combined with systematic perturbative expansions, we show that TLNs of regular black holes are generically nonzero and exhibit strong model and mode dependence. In many cases, higher-order corrections develop logarithmic scale dependence, closely resembling renormalization-group running in quantum field theory and revealing a scale-dependent tidal response absent in classical black holes. Our analysis demonstrates that the internal structure of regular black holes, including de Sitter or Minkowski cores and quantum-gravity-inspired modifications, leaves distinct fingerprints in their tidal properties. These results establish TLNs as promising probes for testing regular black hole models with future gravitational-wave observations.",
+      "pdf_url": "https://arxiv.org/pdf/2512.05767.pdf",
+      "published": "2025-12-09T01:31:56.305431",
+      "updated": null,
+      "categories": [
+        "gr-qc"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2501.12800",
+      "title": "Comparison of Quasinormal Modes of Black Holes in $f(\\mathbb{T})$ and $f(\\mathbb{Q})$ Gravity",
+      "authors": [
+        "Zhen-Xiao Zhang",
+        "Chen Lan",
+        "Yan-Gang Miao"
+      ],
+      "abstract": "Comparison of Quasinormal Modes of Black Holes in $f(\\mathbb{T})$ and $f(\\mathbb{Q})$ Gravity Zhen-Xiao Zhang, Chen Lan, Yan-Gang Miao The final version to appear in the CQG. 31 pages, 16 figures, 4 tables Class. Quantum Grav. 42 (2025) 235014 General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) We investigate the quasinormal modes of static and spherically symmetric black holes in vacuum within the framework of $f(\\mathbb{Q}) = \\mathbb{Q} + \\alpha \\mathbb{Q}^2$ gravity, and compare them with those in $f(\\mathbb{T}) = \\mathbb{T} + \\alpha \\mathbb{T}^2$ gravity. Based on the Symmetric Teleparallel Equivalent of General Relativity, we notice that the gravitational effects arise from non-metricity (the covariant derivative of metrics) in $f(\\mathbb{Q})$ gravity rather than curvature in $f(R)$ or torsion in $f(\\mathbb{T})$. Using the finite difference method and the sixth-order WKB method, we compute the quasinormal modes of massless scalar field and electromagnetic field perturbations. Tables of quasinormal frequencies for various parameter configurations are provided based on the sixth-order WKB method. Our findings reveal the differences in the quasinormal modes of black holes in $f(\\mathbb{Q})$ gravity compared to those in $f(R)$ and $f(\\mathbb{T})$ gravity. This variation demonstrates the impact of different parameter values, offering insights into the characteristics of $f(\\mathbb{Q})$ gravity. These results provide the theoretical groundwork for assessing alternative gravities' viability through gravitational wave data, and aid probably in picking out the alternative gravity theory that best aligns with the empirical reality.",
+      "pdf_url": "https://arxiv.org/pdf/2501.12800.pdf",
+      "published": "2025-12-09T01:31:56.307321",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2511.19911",
+      "title": "Search for planetary-mass ultra-compact binaries using data from the first part of the LIGO--Virgo--KAGRA fourth observing run",
+      "authors": [
+        "The LIGO Scientific Collaboration",
+        "the Virgo Collaboration",
+        "the KAGRA Collaboration: A. G. Abac",
+        "I. Abouelfettouh",
+        "F. Acernese",
+        "K. Ackley",
+        "C. Adamcewicz",
+        "S. Adhicary",
+        "D. Adhikari",
+        "N. Adhikari",
+        "R. X. Adhikari",
+        "V. K. Adkins",
+        "S. Afroz",
+        "A. Agapito",
+        "D. Agarwal",
+        "M. Agathos",
+        "N. Aggarwal",
+        "S. Aggarwal",
+        "O. D. Aguiar",
+        "I.-L. Ahrend",
+        "L. Aiello",
+        "A. Ain",
+        "P. Ajith",
+        "T. Akutsu",
+        "S. Albanesi",
+        "W. Ali",
+        "S. Al-Kershi",
+        "C. Alléné",
+        "A. Allocca",
+        "S. Al-Shammari",
+        "P. A. Altin",
+        "S. Alvarez-Lopez",
+        "W. Amar",
+        "O. Amarasinghe",
+        "A. Amato",
+        "F. Amicucci",
+        "C. Amra",
+        "A. Ananyeva",
+        "S. B. Anderson",
+        "W. G. Anderson",
+        "M. Andia",
+        "M. Ando",
+        "M. Andrés-Carcasona",
+        "T. Andrić",
+        "J. Anglin",
+        "S. Ansoldi",
+        "J. M. Antelis",
+        "S. Antier",
+        "M. Aoumi",
+        "E. Z. Appavuravther",
+        "S. Appert",
+        "S. K. Apple",
+        "K. Arai",
+        "A. Araya",
+        "M. C. Araya",
+        "M. Arca Sedda",
+        "J. S. Areeda",
+        "N. Aritomi",
+        "F. Armato",
+        "S. Armstrong",
+        "N. Arnaud",
+        "M. Arogeti",
+        "S. M. Aronson",
+        "G. Ashton",
+        "Y. Aso",
+        "L. Asprea",
+        "M. Assiduo",
+        "S. Assis de Souza Melo",
+        "S. M. Aston",
+        "P. Astone",
+        "F. Attadio",
+        "F. Aubin",
+        "K. AultONeal",
+        "G. Avallone",
+        "E. A. Avila",
+        "S. Babak",
+        "C. Badger",
+        "S. Bae",
+        "S. Bagnasco",
+        "L. Baiotti",
+        "R. Bajpai",
+        "T. Baka",
+        "A. M. Baker",
+        "K. A. Baker",
+        "T. Baker",
+        "G. Baldi",
+        "N. Baldicchi",
+        "M. Ball",
+        "G. Ballardin",
+        "S. W. Ballmer",
+        "S. Banagiri",
+        "B. Banerjee",
+        "D. Bankar",
+        "T. M. Baptiste",
+        "P. Baral",
+        "M. Baratti",
+        "J. C. Barayoga",
+        "B. C. Barish",
+        "D. Barker"
+      ],
+      "abstract": "Search for planetary-mass ultra-compact binaries using data from the first part of the LIGO--Virgo--KAGRA fourth observing run The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration: A. G. Abac, I. Abouelfettouh, F. Acernese, K. Ackley, C. Adamcewicz, S. Adhicary, D. Adhikari, N. Adhikari, R. X. Adhikari, V. K. Adkins, S. Afroz, A. Agapito, D. Agarwal, M. Agathos, N. Aggarwal, S. Aggarwal, O. D. Aguiar, I.-L. Ahrend, L. Aiello, A. Ain, P. Ajith, T. Akutsu, S. Albanesi, W. Ali, S. Al-Kershi, C. Alléné, A. Allocca, S. Al-Shammari, P. A. Altin, S. Alvarez-Lopez, W. Amar, O. Amarasinghe, A. Amato, F. Amicucci, C. Amra, A. Ananyeva, S. B. Anderson, W. G. Anderson, M. Andia, M. Ando, M. Andrés-Carcasona, T. Andrić, J. Anglin, S. Ansoldi, J. M. Antelis, S. Antier, M. Aoumi, E. Z. Appavuravther, S. Appert, S. K. Apple, K. Arai, A. Araya, M. C. Araya, M. Arca Sedda, J. S. Areeda, N. Aritomi, F. Armato, S. Armstrong, N. Arnaud, M. Arogeti, S. M. Aronson, G. Ashton, Y. Aso, L. Asprea, M. Assiduo, S. Assis de Souza Melo, S. M. Aston, P. Astone, F. Attadio, F. Aubin, K. AultONeal, G. Avallone, E. A. Avila, S. Babak, C. Badger, S. Bae, S. Bagnasco, L. Baiotti, R. Bajpai, T. Baka, A. M. Baker, K. A. Baker, T. Baker, G. Baldi, N. Baldicchi, M. Ball, G. Ballardin, S. W. Ballmer, S. Banagiri, B. Banerjee, D. Bankar, T. M. Baptiste, P. Baral, M. Baratti, J. C. Barayoga, B. C. Barish, D. Barker 6 pages (main) + 7 pages (appendix) + refs; 8 figures General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO) We present a search for gravitational waves from inspiraling, planetary-mass ultra-compact binaries using data from the first part of the fourth observing run of LIGO, Virgo and KAGRA. Finding no evidence of such systems, we determine the maximum distance reach for such objects and their merger rate densities, independently of how they could have formed. Then, we identify classes of primordial black-hole mass distributions for which these rate limits can be translated into relevant constraints on the mass distribution of primordial black holes, assuming that they compose all of dark matter, in the mass range $[10^{-6},10^{-3}]M_\\odot$. Our constraints are consistent with existing microlensing results in the planetary-mass range, and provide a complementary probe to sub-solar mass objects.",
+      "pdf_url": "https://arxiv.org/pdf/2511.19911.pdf",
+      "published": "2025-12-09T01:31:56.309322",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2508.13264",
+      "title": "From Wide Triples to UCXBs: Multimessenger Signatures of Dynamically-formed Black Hole-White Dwarf Systems in the LISA Band",
+      "authors": [
+        "Zeyuan Xuan",
+        "Cheyanne Shariat",
+        "Smadar Naoz"
+      ],
+      "abstract": "From Wide Triples to UCXBs: Multimessenger Signatures of Dynamically-formed Black Hole-White Dwarf Systems in the LISA Band Zeyuan Xuan, Cheyanne Shariat, Smadar Naoz 12+6 pages, 3+3 figures. Updated to match the published version in ApJ High Energy Astrophysical Phenomena (astro-ph.HE); Astrophysics of Galaxies (astro-ph.GA); General Relativity and Quantum Cosmology (gr-qc) Ultracompact X-ray binaries (UCXBs) are a subclass of low-mass X-ray binaries characterized by tight orbits and degenerate donors, which pose significant challenges to our understanding of their formation. Recent discoveries of black hole (BH) candidates with main-sequence (MS) or red giant (RG) companions suggest that BH-white dwarf (BH-WD) binaries are common in the Galactic field. Motivated by these observations and the fact that most massive stars are born in triples, we show that wide BH-WD systems can naturally form UCXBs through the eccentric Kozai-Lidov (EKL) mechanism. Notably, EKL-driven eccentricity excitations combined with gravitational wave (GW) emission and WD dynamical tides can effectively shrink and circularize the orbit, leading to mass-transferring BH-WD binaries. These systems represent promising multimessenger sources in both X-ray and GW observations. Specifically, we predict that the wide triple channel can produce $\\sim3-27$ ($\\sim1-5$) detectable UCXBs in the Milky Way (Andromeda galaxy), including $\\sim1$ system observable by the mHz GW detection of LISA. If the final WD mass can reach sufficiently small values, this channel could contribute up to $\\sim 10^3$ UCXBs in the Galaxy. Furthermore, the identification of tertiary companions in observed UCXBs would provide direct evidence for this formation pathway and yield unique insights into their dynamical origins.",
+      "pdf_url": "https://arxiv.org/pdf/2508.13264.pdf",
+      "published": "2025-12-09T01:31:56.327213",
+      "updated": null,
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.GA",
+        "gr-qc"
+      ],
+      "primary_category": "astro-ph.HE",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.05435",
+      "title": "Spinning Primordial Black Holes and Scalar Induced Gravitational Waves from Single Field Inflation",
+      "authors": [
+        "Abolhassan Mohammadi",
+        "Yogesh",
+        "Qiang Wu",
+        "Tao Zhu"
+      ],
+      "abstract": "Spinning Primordial Black Holes and Scalar Induced Gravitational Waves from Single Field Inflation Abolhassan Mohammadi, Yogesh, Qiang Wu, Tao Zhu Cosmology and Nongalactic Astrophysics (astro-ph.CO) We investigate the formation of primordial black holes (PBHs), their spin and abundance, in a single-field inflationary model based on a mutated hilltop potential inserted with a small step-like feature. This step induces a brief phase of ultra-slow-roll inflation, producing the large enhancement of the scalar power spectrum required for an appreciable amount of PBH abundance. Instead of the commonly used analytical power spectra, we compute the primordial power spectrum accurately by numerically solving the Mukhanov-Sasaki equation. Using the obtained power spectrum, we apply peak theory with $\\nabla^2 \\zeta$ treated as a Gaussian random field and parametrize the curvature profile by its amplitude $\\mu$ and characteristic width $K$. Confining the study to Type-I PBH, the threshold value is calculated using two robust methods: the average of the compaction function and the q-function method. Using the result, the dimensionless spin parameter of the resulting PBHs is calculated at linear order and found to be $\\sqrt{\\langle a_\\star^2 \\rangle} \\sim 10^{-3}$; however, it can be higher for smaller masses. We present detailed predictions for two representative parameter sets, calculate the present-day PBH mass function $f_{\\rm PBH}(M)$ and the associated scalar-induced gravitational waves (SIGW). The first produces PBHs of mass $M \\simeq 10^{-13}\\,M_\\odot$ that can account for $100\\%$ of dark matter, while the second yields $M \\simeq 10^{-2}\\,M_\\odot$ PBHs contributing approximately $2.4\\%$ of the dark matter density. The predicted signals of SIGWs lie within the sensitivity bands of future experiments such as LISA, DECIGO, BBO, and SKA. In particular, the second parameter set produces a SIGWs compatible with the recent NANOGrav evidence for a low-frequency gravitational-wave signal.",
+      "pdf_url": "https://arxiv.org/pdf/2512.05435.pdf",
+      "published": "2025-12-09T01:31:56.511437",
+      "updated": null,
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "primary_category": "astro-ph.CO",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.05565",
+      "title": "Gauge-independent treatment of electroweak phase transition",
+      "authors": [
+        "Jie Liu",
+        "Renhui Qin",
+        "Ligong Bian"
+      ],
+      "abstract": "Gauge-independent treatment of electroweak phase transition Jie Liu, Renhui Qin, Ligong Bian 7+5 pages, 7 figures, comments welcome High Energy Physics - Phenomenology (hep-ph); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th) We provide the first certificate of the gauge-independent bubble nucleation at the electroweak phase transition with the standard model effective field theory. Taking advantage of the thermal effective field theory framework, with the power counting $\\lambda \\sim g^3$, we rigorously demonstrate the gauge independence of the bubble nucleation rate up to two-loop order. Furthermore, we analyze the influence of relevant phase transition parameters on the gauge parameter and investigate its implications for gravitational waves generated by the electroweak phase transitions.",
+      "pdf_url": "https://arxiv.org/pdf/2512.05565.pdf",
+      "published": "2025-12-09T01:31:56.513745",
+      "updated": null,
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "primary_category": "hep-ph",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from hep-ph",
+        "cross_list_from": "hep-ph"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.02061",
+      "title": "Strong-lensing rates of massive black hole binaries in LISA",
+      "authors": [
+        "Juan Gutiérrez",
+        "Macarena Lagos"
+      ],
+      "abstract": "Strong-lensing rates of massive black hole binaries in LISA Juan Gutiérrez, Macarena Lagos Phys. Rev. D 112, 123512 (2025) Cosmology and Nongalactic Astrophysics (astro-ph.CO) Similarly to electromagnetic (EM) signals, gravitational lensing by intervening galaxies can also affect gravitational waves (GWs). In this paper, we estimate the strong-lensing rate of massive black hole mergers observed with LISA. Given the uncertainties in the source populations as well as in the population of galaxies at high redshift, we consider: six different source population models, including light and heavy seeds, as well as three lens population models, including redshift-independent and redshift-dependent evolution properties. Among all the scenarios explored, the expected number of strong lensed events detected in a 4-year observation time in LISA ranges between 0.13-231 with most of them having two (one) images detectable in the heavy (light) seed scenarios. The event numbers obtained correspond to 0.2%-0.9% of all detected unlensed events. Out of all the detectable strong-lensed events, up to 61% (in the light-seed scenario) and 1% (in the heavy-seed scenario) of them are above the detectability threshold solely due to strong lensing effects and would otherwise be undetectable. For detectable pairs of strong-lensed events by galaxy lenses, we also find between 72%-81% of them to have time delays from 1 week to 1 year.",
+      "pdf_url": "https://arxiv.org/pdf/2510.02061.pdf",
+      "published": "2025-12-09T01:31:56.516381",
+      "updated": null,
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "primary_category": "astro-ph.CO",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2508.13267",
+      "title": "A catalog to unite them all: REGALADE, a revised galaxy compilation for the advanced detector era",
+      "authors": [
+        "Hugo Tranin",
+        "Nadejda Blagorodnova",
+        "Marco A. Gómez-Muñoz",
+        "Maxime Wavasseur",
+        "Paul J. Groot",
+        "Lloyd Landsberg",
+        "Fiorenzo Stoppa",
+        "Steven Bloemen",
+        "Paul M. Vreeswijk",
+        "Daniëlle L.A. Pieterse",
+        "Jan van Roestel",
+        "Simone Scaringi",
+        "Sara Faris"
+      ],
+      "abstract": "A catalog to unite them all: REGALADE, a revised galaxy compilation for the advanced detector era Hugo Tranin, Nadejda Blagorodnova, Marco A. Gómez-Muñoz, Maxime Wavasseur, Paul J. Groot, Lloyd Landsberg, Fiorenzo Stoppa, Steven Bloemen, Paul M. Vreeswijk, Daniëlle L.A. Pieterse, Jan van Roestel, Simone Scaringi, Sara Faris Accepted for publication in A&A. 18 pages including 4 pages of appendix. 18 figures. (replaced with accepted version) Astrophysics of Galaxies (astro-ph.GA); Cosmology and Nongalactic Astrophysics (astro-ph.CO) Many applications in transient science, gravitational wave follow-up, and galaxy population studies require all-sky galaxy catalogs with reliable distances, extents, and stellar masses. However, existing catalogs often lack completeness beyond $\\sim 100$ Mpc, suffer from stellar contamination, or do not provide homogeneous stellar mass estimates and size information. Our goal is to build a high-purity, high-completeness, all-sky galaxy catalog out to 2,000 Mpc, specifically designed to support time-domain and multi-messenger astrophysics. We combined major galaxy catalogs and deep imaging surveys -- including the Legacy Surveys, Pan-STARRS, DELVE, and SDSS -- and added spectroscopic, photometric, and redshift-independent distances. We cleaned the sample using the Gaia catalog to remove stars and visually inspected all ambiguous cases below 100 Mpc through a classification platform that gathered 27,000 expert votes. Stellar masses were estimated using optical and mid-infrared profile-fit photometry, and we improved the accuracy of photometric distances by combining multiple independent estimates. The resulting catalog, REGALADE, includes nearly 80 million galaxies with distances under 2,000 Mpc. It provides stellar masses for 88% of the sample and ellipse fits for 80%. REGALADE is more than 90% complete for galaxies contributing 50% of the total $r$-band luminosity out to 360 Mpc. In science tests, it recovers 60% more known supernova hosts, doubles the number of low-luminosity transient hosts, and identifies more reliable hosts for ultraluminous and hyper-luminous X-ray sources. REGALADE is one of the most complete and reliable all-sky galaxy catalog to date for the nearby Universe, built for real-world applications in transient and multi-messenger astrophysics. The full dataset, visual classifications, and code will be released to support broad community use.",
+      "pdf_url": "https://arxiv.org/pdf/2508.13267.pdf",
+      "published": "2025-12-09T01:31:56.517792",
+      "updated": null,
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "primary_category": "astro-ph.GA",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.05218",
+      "title": "Two Step Localization Method for Electromagnetic Followup of LIGO-Virgo-KAGRA Gravitational-Wave Triggers",
+      "authors": [
+        "Daniel Skorohod",
+        "Ofek Birnholtz"
+      ],
+      "abstract": "Two Step Localization Method for Electromagnetic Followup of LIGO-Virgo-KAGRA Gravitational-Wave Triggers Daniel Skorohod, Ofek Birnholtz High Energy Astrophysical Phenomena (astro-ph.HE) Rapid detection and follow-up of electromagnetic (EM) counterparts to gravitational wave (GW) signals from binary neutron star (BNS) mergers are essential for constraining source properties and probing the physics of relativistic transients. Observational strategies for these early EM searches are therefore critical, yet current practice remains suboptimal, motivating improved, coordination-aware approaches. We propose and evaluate the Two-Step Localization strategy, a coordinated observational protocol in which one wide-field auxiliary telescope and one narrow-field main telescope monitor the evolving GW sky localization in real time. The auxiliary telescope, by virtue of its large field of view, has a higher probability of detecting early EM emission. Upon registering a candidate signal, it triggers the main telescope to slew to the inferred location for prompt, high-resolution follow-up. We assess the performance of Two-Step Localization using large-scale simulations that incorporate dynamic sky-map updates, realistic telescope parameters, and signal-to-noise ratio (SNR)-weighted localization contours. For context, we compare Two-Step Localization to two benchmark strategies lacking coordination. Our results demonstrate that Two-Step Localization significantly reduces the median detection latency, highlighting the effectiveness of targeted cooperation in the early-time discovery of EM counterparts. Our results point to the most impactful next step: next-generation faster telescopes that deliver drastically higher slew rates and shorter scan times, reducing the number of required tiles; a deeper, truly wide-field auxiliary improves coverage more than simply adding more telescopes.",
+      "pdf_url": "https://arxiv.org/pdf/2512.05218.pdf",
+      "published": "2025-12-09T01:31:56.616467",
+      "updated": null,
+      "categories": [
+        "astro-ph.HE"
+      ],
+      "primary_category": "astro-ph.HE",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.05315",
+      "title": "Nuclear parameter inference with semi-agnostic priors",
+      "authors": [
+        "Lami Suleiman",
+        "Anthea F. Fantina",
+        "Francesca Gulminelli",
+        "Jocelyn Read"
+      ],
+      "abstract": "Nuclear parameter inference with semi-agnostic priors Lami Suleiman, Anthea F. Fantina, Francesca Gulminelli, Jocelyn Read High Energy Astrophysical Phenomena (astro-ph.HE); Nuclear Theory (nucl-th) Radio pulsar timing, X-ray pulse profile modeling or gravitational-wave detections of binary mergers involving at least one neutron star offer the opportunity to elucidate the properties of dense and neutron rich matter in thermodynamic regimes inaccessible to nuclear laboratories. Such inference relies on building appropriate equation-of-state priors, such as the recently introduced semi-agnostic constructions that incorporate nuclear theory and experimental information available in low to intermediate density regimes, while offering the necessary flexibility at high density. In this paper, we assess how detections of mass, radius, and tidal deformability for low-mass ($\\sim 1$M$_{\\odot}$) or high-mass ($\\sim 1.9$M$_{\\odot}$) neutron stars would contribute to constraining nuclear empirical parameters in an inference based on semi-agnostic equation-of-state priors. We first assessed the correlation factors between nuclear empirical parameters and the zero-temperature and $\\beta$-equilibrated pressure in different regimes of density. We then simulate observations for three nucleonic equations of state to test the recovery of the corresponding nuclear empirical parameters. We show that not all nuclear empirical parameters significantly correlate with the pressure and find a competition between them in the high-density regime that challenges their inference. We also find that using semi-agnostic constructions instead of assuming a nucleonic content up to the highest densities in the neutron-star core can help recover more accurately the true nuclear empirical parameters. Parameterizing the high-density regime of the equation of state with the nucleonic meta-model can pollute the inference of nuclear empirical parameters; semi-agnostic constructions are a solution to that. However, many nuclear matter empirical parameters contribute in a similar way to the building of baryonic pressure.",
+      "pdf_url": "https://arxiv.org/pdf/2512.05315.pdf",
+      "published": "2025-12-09T01:31:56.617321",
+      "updated": null,
+      "categories": [
+        "astro-ph.HE",
+        "nucl-th"
+      ],
+      "primary_category": "astro-ph.HE",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    }
+  ]
+}
