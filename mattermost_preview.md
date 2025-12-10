@@ -1,81 +1,145 @@
-# 📡 Daily GW arXiv Digest - 2025-12-09
-**Found 11 gravitational wave papers**
+# 📡 Daily GW arXiv Digest - 2025-12-10
+**Found 32 gravitational wave papers**
 
-[arXiv:2512.05193](https://arxiv.org/abs/2512.05193)[Submitted on 09 Dec 2025]
-**Black-hole ringdown with templates capturing spin precession: a critical re-analysis of GW190521**
-Chiara Anselmo, Costantino Pacilio, Davide Gerosa
+[arXiv:2512.06055](https://arxiv.org/abs/2512.06055)[Submitted on 10 Dec 2025]
+**Investigating all-sky Frequency Hough performances for neutron stars**
+Martina Di Cesare, Pia Astone, Rosario De Rosa, David Keitel, Cristiano Palomba, Marco Serra
 Subjects: **gr-qc**; astro-ph.HE
 
 ---
 
-[arXiv:2512.05767](https://arxiv.org/abs/2512.05767)[Submitted on 09 Dec 2025]
-**Tidal Love numbers for regular black holes**
-Rui Wang, Qi-Long Shi, Wei Xiong, Peng-Cheng Li
+[arXiv:2512.06489](https://arxiv.org/abs/2512.06489)[Submitted on 10 Dec 2025]
+**Adiabatic tides in compact binaries on quasi-elliptic orbits: Dynamics at the second-and-a-half relative post-Newtonian order**
+Quentin Henry, Anna Heffernan
 Subjects: **gr-qc**
 
 ---
 
-[arXiv:2501.12800](https://arxiv.org/abs/2501.12800) (replaced) [Submitted on 09 Dec 2025]
-**Comparison of Quasinormal Modes of Black Holes in $f(\mathbb{T})$ and $f(\mathbb{Q})$ Gravity**
-Zhen-Xiao Zhang, Chen Lan, Yan-Gang Miao
-Subjects: **gr-qc**; hep-th
+[arXiv:2512.06807](https://arxiv.org/abs/2512.06807)[Submitted on 10 Dec 2025]
+**Extreme mass ratio inspirals in the cold vector dark matter environment**
+Rajesh Karmakar, Kaustubh Mukund Vispute, Debaprasad Maity
+Subjects: **gr-qc**; astro-ph.CO, astro-ph.HE, hep-th
 
 ---
 
-[arXiv:2511.19911](https://arxiv.org/abs/2511.19911) (replaced) [Submitted on 09 Dec 2025]
-**Search for planetary-mass ultra-compact binaries using data from the first part of the LIGO--Virgo--KAGRA fourth observing run**
-The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration: A. G. Abac, I. Abouelfettouh, F. Acernese, K. Ackley, C. Adamcewicz, S. Adhicary, D. Adhikari, N. Adhikari, R. X. Adhikari, V. K. Adkins, S. Afroz, A. Agapito, D. Agarwal, M. Agathos, N. Aggarwal, S. Aggarwal, O. D. Aguiar, I.-L. Ahrend, L. Aiello, A. Ain, P. Ajith, T. Akutsu, S. Albanesi, W. Ali, S. Al-Kershi, C. Alléné, A. Allocca, S. Al-Shammari, P. A. Altin, S. Alvarez-Lopez, W. Amar, O. Amarasinghe, A. Amato, F. Amicucci, C. Amra, A. Ananyeva, S. B. Anderson, W. G. Anderson, M. Andia, M. Ando, M. Andrés-Carcasona, T. Andrić, J. Anglin, S. Ansoldi, J. M. Antelis, S. Antier, M. Aoumi, E. Z. Appavuravther, S. Appert, S. K. Apple, K. Arai, A. Araya, M. C. Araya, M. Arca Sedda, J. S. Areeda, N. Aritomi, F. Armato, S. Armstrong, N. Arnaud, M. Arogeti, S. M. Aronson, G. Ashton, Y. Aso, L. Asprea, M. Assiduo, S. Assis de Souza Melo, S. M. Aston, P. Astone, F. Attadio, F. Aubin, K. AultONeal, G. Avallone, E. A. Avila, S. Babak, C. Badger, S. Bae, S. Bagnasco, L. Baiotti, R. Bajpai, T. Baka, A. M. Baker, K. A. Baker, T. Baker, G. Baldi, N. Baldicchi, M. Ball, G. Ballardin, S. W. Ballmer, S. Banagiri, B. Banerjee, D. Bankar, T. M. Baptiste, P. Baral, M. Baratti, J. C. Barayoga, B. C. Barish, D. Barker
+[arXiv:2512.06918](https://arxiv.org/abs/2512.06918)[Submitted on 10 Dec 2025]
+**Angular Momentum Penrose Inequality**
+Da Xu
+Subjects: **gr-qc**; math.FA
+
+---
+
+[arXiv:2512.07205](https://arxiv.org/abs/2512.07205)[Submitted on 10 Dec 2025]
+**Systematic bias due to eccentricity in parameter estimation for merging binary neutron stars : spinning case**
+Eunjung Lee, Hee-Suk Cho, Chang-Hwan Lee
+Subjects: **gr-qc**
+
+---
+
+[arXiv:2512.07546](https://arxiv.org/abs/2512.07546)[Submitted on 10 Dec 2025]
+**Long-wavelength UV-LEDs and charge management in the detection of gravitational waves in space**
+Yuandong Jia, Yinbowen Zhang, Suwen Wang, Guozhi Chai, Zemin Zhang, Yi Zhang, Hongxin Li, Shuanglin Huang, Hongqing Huo, Zongfeng Li, Yun Kau Lau
+Subjects: **gr-qc**; astro-ph.IM
+
+---
+
+[arXiv:2512.07291](https://arxiv.org/abs/2512.07291) (cross-list from astro-ph.HE) [Submitted on 10 Dec 2025]
+**Revisiting PBH Accretion, Evaporation and Their Cosmological Consequences**
+Jitumani Kalita, Debaprasad Maity
+Subjects: **astro-ph.HE**; astro-ph.CO, gr-qc, hep-th
+
+---
+
+[arXiv:2301.02631](https://arxiv.org/abs/2301.02631) (replaced) [Submitted on 10 Dec 2025]
+**Tsallis holographic inflation in $f(R,T)$ gravity: CMB constraints, reheating, and swampland implications**
+S. Taghavi, T. Golanbari, Kh. Saaidi
+Subjects: **gr-qc**
+
+---
+
+[arXiv:2507.08095](https://arxiv.org/abs/2507.08095) (replaced) [Submitted on 10 Dec 2025]
+**Model-agnostic gravitational-wave background characterization algorithm**
+Taylor Knapp, Patrick M. Meyers, Arianna I. Renzini
+Subjects: **gr-qc**; astro-ph.HE, astro-ph.IM
+
+---
+
+[arXiv:2511.02056](https://arxiv.org/abs/2511.02056) (replaced) [Submitted on 10 Dec 2025]
+**Testing Quantum Gravity with Gravitational Waves from the ringdown of binary Black Holes coalescences: A New Frontier in Fundamental Physics**
+Marco Danilo Claudio Torri, Fulvio Ricci, Marco Giammarchi, Lino Miramonti, Valerio Toso, Chiara Sigala
+Subjects: **gr-qc**; hep-ph, hep-th
+
+---
+
+[arXiv:2511.10522](https://arxiv.org/abs/2511.10522) (replaced) [Submitted on 10 Dec 2025]
+**Learning Post-Newtonian Corrections from Numerical Relativity**
+Jooheon Yoo, Michael Boyle, Nils Deppe
+Subjects: **gr-qc**
+
+---
+
+[arXiv:2512.04167](https://arxiv.org/abs/2512.04167) (replaced) [Submitted on 10 Dec 2025]
+**Popcorn EMRIs: Transient Gravitational Wave Signals and Their Analysis in Schwartz Space**
+Pau Amaro Seoane, Kostas Tzanavaris
 Subjects: **gr-qc**; astro-ph.CO
 
 ---
 
-[arXiv:2508.13264](https://arxiv.org/abs/2508.13264) (replaced) [Submitted on 09 Dec 2025]
-**From Wide Triples to UCXBs: Multimessenger Signatures of Dynamically-formed Black Hole-White Dwarf Systems in the LISA Band**
-Zeyuan Xuan, Cheyanne Shariat, Smadar Naoz
-Subjects: **astro-ph.HE**; astro-ph.GA, gr-qc
+[arXiv:2506.11290](https://arxiv.org/abs/2506.11290) (replaced) [Submitted on 10 Dec 2025]
+**Merger History of Clustered Primordial Black Holes**
+Viktor Stasenko
+Subjects: **astro-ph.CO**; gr-qc
 
 ---
 
-[arXiv:2512.05435](https://arxiv.org/abs/2512.05435)[Submitted on 09 Dec 2025]
-**Spinning Primordial Black Holes and Scalar Induced Gravitational Waves from Single Field Inflation**
-Abolhassan Mohammadi, Yogesh, Qiang Wu, Tao Zhu
+[arXiv:2506.21868](https://arxiv.org/abs/2506.21868) (replaced) [Submitted on 10 Dec 2025]
+**Probing the peak of star formation with the stochastic background of binary black hole mergers**
+Nico Bers, Sylvia Biscoveanu
+Subjects: **astro-ph.HE**; gr-qc
+
+---
+
+[arXiv:2508.17003](https://arxiv.org/abs/2508.17003) (replaced) [Submitted on 10 Dec 2025]
+**Disformal interactions in the Dark Sector: From driving Early Dark Energy to confronting cosmological tensions**
+Pulkit Bansal, Joseph P. Johnson, S. Shankaranarayanan
+Subjects: **astro-ph.CO**; gr-qc, hep-ph
+
+---
+
+[arXiv:2511.21488](https://arxiv.org/abs/2511.21488) (replaced) [Submitted on 10 Dec 2025]
+**Bayesian Analysis of the Complex Singlet Model with Phase Transition Gravitational Waves**
+Qingyuan Liang, Ligong Bian, Huai-Ke Guo, Yongcheng Wu
+Subjects: **hep-ph**; astro-ph.HE, gr-qc
+
+---
+
+[arXiv:2512.06094](https://arxiv.org/abs/2512.06094)[Submitted on 10 Dec 2025]
+**Black hole merger rates for LISA and LGWA from semi-analytical modelling of light seeds**
+Jasbir Singh, Paola Severgnini, Vieri Cammelli, Alessandra De Rosa, Cristian Vignali, Fabio Rigamonti, Rosa Valiante, Pierluigi Monaco, Jonathan C. Tan, Lorenzo Battistini, Roberto Della Ceca, Jan Harms, Manali Parvatikar
+Subjects: **astro-ph.CO**; astro-ph.GA
+
+---
+
+[arXiv:2512.07235](https://arxiv.org/abs/2512.07235)[Submitted on 10 Dec 2025]
+**Inference of $B$-mode polarization in the presence of non-Gaussian foregrounds**
+Sen Li, Chang Feng, Filipe B. Abdalla
 Subjects: **astro-ph.CO**
 
 ---
 
-[arXiv:2512.05565](https://arxiv.org/abs/2512.05565) (cross-list from hep-ph) [Submitted on 09 Dec 2025]
-**Gauge-independent treatment of electroweak phase transition**
-Jie Liu, Renhui Qin, Ligong Bian
-Subjects: **hep-ph**; astro-ph.CO, hep-th
+[arXiv:2512.02099](https://arxiv.org/abs/2512.02099) (cross-list from astro-ph.HE) [Submitted on 10 Dec 2025]
+**Possible $ν$ Source Class: 3-sigma Detection of High-Energy Neutrinos from Supermassive Black Hole Binary Candidates**
+Pugazhendhi A D, Subhadip Bouri, Bei Zhou, Rachana, Ranjan Laha
+Subjects: **astro-ph.HE**; astro-ph.CO, hep-ex, hep-ph
 
 ---
 
-[arXiv:2510.02061](https://arxiv.org/abs/2510.02061) (replaced) [Submitted on 09 Dec 2025]
-**Strong-lensing rates of massive black hole binaries in LISA**
-Juan Gutiérrez, Macarena Lagos
-Subjects: **astro-ph.CO**
-
----
-
-[arXiv:2508.13267](https://arxiv.org/abs/2508.13267) (replaced) [Submitted on 09 Dec 2025]
-**A catalog to unite them all: REGALADE, a revised galaxy compilation for the advanced detector era**
-Hugo Tranin, Nadejda Blagorodnova, Marco A. Gómez-Muñoz, Maxime Wavasseur, Paul J. Groot, Lloyd Landsberg, Fiorenzo Stoppa, Steven Bloemen, Paul M. Vreeswijk, Daniëlle L.A. Pieterse, Jan van Roestel, Simone Scaringi, Sara Faris
+[arXiv:2512.06159](https://arxiv.org/abs/2512.06159) (cross-list from astro-ph.GA) [Submitted on 10 Dec 2025]
+**From the Intergalactic to the Interstellar Scales -- EQUALS: a High-resolution Legacy Survey of Gas in the Distant Universe Using ESPRESSO**
+Trystyn Berg, Valentina D'Odorico, Elisa Boera, Giorgio Calderone, Rodrigo Cuellar, Guido Cupani, Stefano Cristiani, Simona Di Stefano, Andrea Grazian, Francesco Guarneri, Vid Iršič, Sebastian Lopez, Dinko Milaković, Pasquier Noterdaeme, Luca Pasquini, Matteo Viel, Louise Welsh
 Subjects: **astro-ph.GA**; astro-ph.CO
 
 ---
 
-[arXiv:2512.05218](https://arxiv.org/abs/2512.05218)[Submitted on 09 Dec 2025]
-**Two Step Localization Method for Electromagnetic Followup of LIGO-Virgo-KAGRA Gravitational-Wave Triggers**
-Daniel Skorohod, Ofek Birnholtz
-Subjects: **astro-ph.HE**
-
----
-
-[arXiv:2512.05315](https://arxiv.org/abs/2512.05315)[Submitted on 09 Dec 2025]
-**Nuclear parameter inference with semi-agnostic priors**
-Lami Suleiman, Anthea F. Fantina, Francesca Gulminelli, Jocelyn Read
-Subjects: **astro-ph.HE**; nucl-th
-
----
-
-📊 **Summary**: 5 New • 1 Cross-lists • 5 Replacements
+📊 **Summary**: 10 New • 6 Cross-lists • 16 Replacements
+📋 Showing top 20 of 32 papers
