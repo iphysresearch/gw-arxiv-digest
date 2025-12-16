@@ -1,0 +1,418 @@
+{
+  "date": "2025-12-16",
+  "crawl_timestamp": "2025-12-16T01:32:08.262385",
+  "query": "cat:gr-qc OR cat:astro-ph.* (filtered for gravitational waves)",
+  "summary": {
+    "total_crawled": 149,
+    "total_gw_papers": 13,
+    "by_category": {
+      "gr-qc": {
+        "total": 30,
+        "gw_related": 7
+      },
+      "astro-ph": {
+        "total": 105,
+        "gw_related": 4
+      }
+    }
+  },
+  "crawl_verification": {
+    "total_expected": 210,
+    "total_actual": 210,
+    "verification_passed": true,
+    "category_details": [
+      {
+        "category": "gr-qc",
+        "url": "https://arxiv.org/list/gr-qc/new",
+        "expected_total": 46,
+        "actual_crawled": 46,
+        "page_source_info": "Total of 46 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.CO",
+        "url": "https://arxiv.org/list/astro-ph.CO/new",
+        "expected_total": 32,
+        "actual_crawled": 32,
+        "page_source_info": "Total of 32 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.HE",
+        "url": "https://arxiv.org/list/astro-ph.HE/new",
+        "expected_total": 30,
+        "actual_crawled": 30,
+        "page_source_info": "Total of 30 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.GA",
+        "url": "https://arxiv.org/list/astro-ph.GA/new",
+        "expected_total": 44,
+        "actual_crawled": 44,
+        "page_source_info": "Total of 44 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.SR",
+        "url": "https://arxiv.org/list/astro-ph.SR/new",
+        "expected_total": 22,
+        "actual_crawled": 22,
+        "page_source_info": "Total of 22 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.IM",
+        "url": "https://arxiv.org/list/astro-ph.IM/new",
+        "expected_total": 21,
+        "actual_crawled": 21,
+        "page_source_info": "Total of 21 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.EP",
+        "url": "https://arxiv.org/list/astro-ph.EP/new",
+        "expected_total": 15,
+        "actual_crawled": 15,
+        "page_source_info": "Total of 15 entries",
+        "success": true,
+        "verification_passed": true
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "https://arxiv.org/abs/2512.11044",
+      "title": "Gravitational synchronization in bosonic dark matter admixed neutron stars",
+      "authors": [
+        "Claudio Lazarte",
+        "Nicolas Sanchis-Gual",
+        "José A. Font"
+      ],
+      "abstract": "Gravitational synchronization in bosonic dark matter admixed neutron stars Claudio Lazarte, Nicolas Sanchis-Gual, José A. Font General Relativity and Quantum Cosmology (gr-qc) While the search for dark matter remains a central focus of modern astrophysics and high-energy physics, neutron stars provide natural laboratories in which the interaction between dark matter and baryonic matter can be studied. In this work we model dark matter as an ultralight bosonic field, which can accrete onto the neutron star and form a composite object bound through gravity. Using long-term, numerical relativity simulations in spherical symmetry, we extract and analyze the frequency spectra of the radial oscillation modes of fermion-boson stars. Our simulations reveal that the fermionic and bosonic components synchronize through gravitational coupling, enriching their oscillation spectrum. This synchronization leads to new multi-state scalar configurations and reshapes the hierarchy of the neutron-star radial modes. We further propose a procedure to compute the values of the new dominant modes as a function of the bosonic mass, and discuss the implications for neutron-star physics and gravitational-wave astronomy.",
+      "pdf_url": "https://arxiv.org/pdf/2512.11044.pdf",
+      "published": "2025-12-16T01:32:07.579052",
+      "updated": null,
+      "categories": [
+        "gr-qc"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.11262",
+      "title": "Gravitational Wave Detection Based on Gravitomagnetic Effects",
+      "authors": [
+        "Yu-Qi Dong",
+        "Zhoujian Cao",
+        "Yu-Xiao Liu"
+      ],
+      "abstract": "Gravitational Wave Detection Based on Gravitomagnetic Effects Yu-Qi Dong, Zhoujian Cao, Yu-Xiao Liu General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) In this paper, we explore the feasibility of detecting gravitomagnetic effects generated by gravitational waves, by monitoring the relative orientation of the angular momentum vectors of test particles. We analyze the response of the relative angular momentum direction to all six polarization modes of gravitational waves and estimate the magnitude of its variation during gravitational wave events. Our findings indicate that when test particles possess magnetic moments, applying an external magnetic field of appropriate strength can induce resonant precession of the angular momentum direction under the influence of gravitational waves. This resonance may significantly amplify the gravitational wave signal, potentially enabling its detection with future gyroscope-based detectors. Such detectors would complement existing gravitational wave observatories that rely on gravitoelectric effects.",
+      "pdf_url": "https://arxiv.org/pdf/2512.11262.pdf",
+      "published": "2025-12-16T01:32:07.579532",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.11268",
+      "title": "Vibration Isolation for the Laser Interferometer Lunar Antenna",
+      "authors": [
+        "Brett N. Shapiro"
+      ],
+      "abstract": "Vibration Isolation for the Laser Interferometer Lunar Antenna Brett N. Shapiro General Relativity and Quantum Cosmology (gr-qc); Instrumentation and Methods for Astrophysics (astro-ph.IM); Instrumentation and Detectors (physics.ins-det) The Laser Interferometer Lunar Antenna (LILA) presents a novel concept for observing gravitational waves from astrophysical sources at sub-Hertz frequencies. Compared to the Earth, the seismic environment of the moon, while uncertain, is known to be orders of magnitude lower, opening the possibility for achieving this sub-Hz band. This band fills the gap between space-based detectors (mHz) and Earth-based detectors (10 Hz to a few kHz). The initial version of LILA, known as LILA Pioneer, calls for non-suspended optics, relying on the moon's resonant modes to respond to gravitational waves. However, the follow-on design, LILA Horizon, requires suspensions to realize in-band free floating test masses and to filter the residual seismic background. This paper will establish baseline designs for these suspensions for different assumptions of the seismic background.",
+      "pdf_url": "https://arxiv.org/pdf/2512.11268.pdf",
+      "published": "2025-12-16T01:32:07.579820",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.11020",
+      "title": "Geometry of non-Gaussianity in transient non-attractor inflation",
+      "authors": [
+        "Mohammad Hossein Namjoo",
+        "Bahar Nikbakht"
+      ],
+      "abstract": "Geometry of non-Gaussianity in transient non-attractor inflation Mohammad Hossein Namjoo, Bahar Nikbakht 29 pages, plus an appendix, 16 figures Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Phenomenology (hep-ph); High Energy Physics - Theory (hep-th) Inflationary models predicting abundant primordial black holes (PBHs) and large amplitude of scalar-induced gravitational waves (SIGWs) often rely on amplified fluctuations over limited scales, typically driven by phase transitions, particle production, or departures from slow-roll evolution. While the power spectrum of these models has been extensively studied, higher-order correlations are much less understood. Motivated by the complex physics involved and the fact that PBH and SIGW formation are both sensitive to non-linearities, we present a detailed study of the bispectrum as the leading non-linear effect in these scenarios. We refer to the scale- and shape-dependence of the bispectrum collectively as its geometry; and define a scale-dependent shape correlator to disentangle the two dependencies. Generally, we find that for the scales most affected by phase transitions and particle production (including the power spectrum peak), the bispectrum is strongest near the equilateral configuration, while non-attractor phases tend to produce correlations near the squeezed configuration. We further propose a simplified bispectrum estimator, resembling local-type non-Gaussianity but with scale-dependent amplitude, that captures the main features of the full bispectrum. As an implication of our results, we show that incorporating the bispectrum significantly broadens the range of scales with a substantial probability of large smoothed density contrasts compared to linear analysis. This suggests that non-linearities can alter not only PBH abundance and SIGW amplitude but also their mass and frequency spectra. In particular, and in contrast with the usual assumption, our results hint that the second-highest peak of the power spectrum may produce more PBHs than the highest peak.",
+      "pdf_url": "https://arxiv.org/pdf/2512.11020.pdf",
+      "published": "2025-12-16T01:32:07.581539",
+      "updated": null,
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "primary_category": "astro-ph.CO",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from astro-ph.CO",
+        "cross_list_from": "astro-ph.CO"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2402.01819",
+      "title": "Fast LISA Likelihood Approximations by Downsampling",
+      "authors": [
+        "Jethro Linley"
+      ],
+      "abstract": "Fast LISA Likelihood Approximations by Downsampling Jethro Linley General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE); Instrumentation and Methods for Astrophysics (astro-ph.IM) The Laser Interferometer Space Antenna (LISA) is due to launch in the mid-2030s. A key challenge for LISA data analysis is efficient Bayesian inference with parametrised gravitational-wave models, particularly for early inspirals of low- and intermediate-mass black-hole binaries, where time series can contain $\\sim 10^8$-$10^9$ samples and naive likelihood evaluations become prohibitively expensive. For purely simulated studies, we present a simple time-domain likelihood-approximation scheme for such signals. The method retains only a small subset of samples and defines a modified noise-weighted inner product on this reduced set that closely reproduces the original inner product on the waveform manifold. Because this alters the effective noise model, the scheme is intended for simulated LISA data rather than direct analysis of real LISA data. In our examples, the resulting posteriors agree to high accuracy with those obtained using much denser sampling, while retaining only $10^3$-$10^4$ samples. The computational cost then scales linearly with the number of retained samples $N_s$, so the speed-up is roughly $N/N_s$, where $N$ is the original data length; for realistic LISA-like datasets with $N\\sim10^8$-$10^9$ this would correspond to gains of order $10^4$-$10^6$ over straightforward frequency-domain likelihood evaluations of the full dataset. The time-domain formulation is particularly convenient for incorporating waveform modifications from non-trivial astrophysical environments or alternative-gravity effects. The results presented here provide the theoretical basis for the software package \\texttt{Dolfen}.",
+      "pdf_url": "https://arxiv.org/pdf/2402.01819.pdf",
+      "published": "2025-12-16T01:32:07.583165",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "astro-ph.IM"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2506.03609",
+      "title": "Experimental Limits on Planetary Mass Primordial Black Hole Mergers",
+      "authors": [
+        "William M. Campbell",
+        "Leonardo Mariani",
+        "Michael E. Tobar",
+        "Maxim Goryachev"
+      ],
+      "abstract": "Experimental Limits on Planetary Mass Primordial Black Hole Mergers William M. Campbell, Leonardo Mariani, Michael E. Tobar, Maxim Goryachev General Relativity and Quantum Cosmology (gr-qc) The multi-mode acoustic gravitational wave experiment (MAGE) is a high-frequency gravitational wave detection experiment featuring cryogenic quartz bulk acoustic wave resonators operating as sensitive strain antennas in the MHz regime. After 61 days of non-continuous data collection, we present bounds on the observable merger rate density of primordial black hole binary systems of chirp mass $1.2\\times10^{-4}M_\\odot<\\mathcal{M}<1.7\\times10^{-9}M_\\odot$. The maximum achieved limit on the merger rate density is $\\mathcal{R}>1.3\\times10^{18}~\\mathrm{kpc}^{-3}\\mathrm{yr}^{-1}$ which corresponds to constraining yearly mergers to a distance of reach on the order of the solar system, or $1.0\\times10^{-6}$ kpc during the observational period. In addition, we exclude significantly rare and strong events similar to those observed in previous predecessor experiments as non-gravitational background signals, utilising coincident analysis between multiple detectors.",
+      "pdf_url": "https://arxiv.org/pdf/2506.03609.pdf",
+      "published": "2025-12-16T01:32:07.583860",
+      "updated": null,
+      "categories": [
+        "gr-qc"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.07468",
+      "title": "Ergoregion instability in bosonic stars: scalar mode structure, universality, and weakly nonlinear effects",
+      "authors": [
+        "Nils Siemonsen"
+      ],
+      "abstract": "Ergoregion instability in bosonic stars: scalar mode structure, universality, and weakly nonlinear effects Nils Siemonsen Phys. Rev. D 112, 124031 (2025) General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) Ultracompact spinning horizonless spacetimes with ergoregions are subject to the ergoregion instability. We systematically investigate the instability of a massless scalar field in a variety of rapidly spinning Proca stars and boson stars using WKB-, frequency-, and time-domain methods. We find universal features in the mode structure: the onset of the instability is signaled by a zero-mode, the mode frequencies and growth rates are related by a simple scaling relation in the small-frequency limit (as found for Kerr-like objects), the mode frequencies approach the orbital frequency of counter-rotating stably trapped null geodesics in the eikonal limit, and for each unstable azimuthal mode only a finite number of overtones and polar modes are exponentially growing. The e-folding times are as short as $\\tau\\sim 10^4 M$ (in terms of the spacetime's ADM mass $M$). Interestingly, we find a near universal relationship between the frequencies and growth rates across all bosonic stars and also compared with Kerr-like objects. Furthermore, we show that weakly nonlinear backreaction of the instability induces a shift in growth rates as well as emission of gravitational waves; we find evidence that these effects lead to an amplification of the unstable process. This suggests that strongly nonlinear interactions are important during the gravitational saturation of the instability.",
+      "pdf_url": "https://arxiv.org/pdf/2510.07468.pdf",
+      "published": "2025-12-16T01:32:07.584923",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.10539",
+      "title": "BinaryGFH-v2: Improved method to search for gravitational waves from sub-solar-mass, ultra-compact binaries using the Generalized Frequency-Hough Transform",
+      "authors": [
+        "Andrew L. Miller",
+        "Lorenzo Pierini"
+      ],
+      "abstract": "BinaryGFH-v2: Improved method to search for gravitational waves from sub-solar-mass, ultra-compact binaries using the Generalized Frequency-Hough Transform Andrew L. Miller, Lorenzo Pierini 11 pages + refs, 12 figures; comments welcome! General Relativity and Quantum Cosmology (gr-qc); Instrumentation and Methods for Astrophysics (astro-ph.IM) Observing gravitational waves from sub-solar-mass, inspiraling compact binaries would provide almost smoking-gun evidence for primordial black holes. Here, we develop a method to search for ultra-compact binaries with chirp masses ranging from $[10^{-2},10^{-1}]M_\\odot$. This mass range represents a previously unexplored gap in gravitational-wave searches for compact binaries: it was thought that the signals would too long for matched-filtering analyses but too short for time-frequency pattern-recognition techniques. Despite this, we show that a pattern-recognition technique, the Generalized frequency-Hough (GFH), can be employed with particular modifications that allow us to handle rapidly spinning-up binaries and to increase the statistical robustness of our method, and call this improved method BinaryGFH-v2. We then design a hypothetical search for binaries in this mass regime, compare the empirical and theoretical sensitivities of this method, and project constraints on formation rate densities and the fraction of dark matter that primordial black holes could compose in both current- and future-generation gravitational-wave detectors. Our results show that our method can be used to search for sub-solar-mass, ultra-compact objects in a mass regime that remains to-date unconstrained with gravitational waves.",
+      "pdf_url": "https://arxiv.org/pdf/2512.10539.pdf",
+      "published": "2025-12-16T01:32:07.585516",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2504.03527",
+      "title": "Wave-particle duality in the measurement of gravitational radiation",
+      "authors": [
+        "Hudson A. Loughlin",
+        "Germain Tobar",
+        "Evan D. Hall",
+        "Vivishek Sudhir"
+      ],
+      "abstract": "Wave-particle duality in the measurement of gravitational radiation Hudson A. Loughlin, Germain Tobar, Evan D. Hall, Vivishek Sudhir Quantum Physics (quant-ph); General Relativity and Quantum Cosmology (gr-qc); Optics (physics.optics) In a consistent description of the quantum measurement process, whether the wave or particle-like aspect of a system is revealed depends on the details of the measurement chain, and cannot be interpreted as an objective fact about the system independent of the measurement. We show precisely how this comes to be in the measurement of gravitational radiation. Whether a wave or particle-like aspect is revealed is a property of the detector employed at the end of the quantum measurement chain, rather than of the meter, such as a gravitational-wave (GW) antenna or resonant bar, used to couple the radiation to the detector. A linear detector yields no signal for radiation in a Fock state and a signal proportional to the amplitude in a coherent state -- supporting a wave-like interpretation. By contrast, the signal from a detector coupled to the meter's energy is non-zero only when the incident radiation contains at least a single graviton. Thus, conceptually simple modifications of contemporary GW antennae can reveal wave-particle duality in the measurement of gravitational radiation.",
+      "pdf_url": "https://arxiv.org/pdf/2504.03527.pdf",
+      "published": "2025-12-16T01:32:07.586537",
+      "updated": null,
+      "categories": [
+        "quant-ph",
+        "gr-qc"
+      ],
+      "primary_category": "quant-ph",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2511.19586",
+      "title": "Stringent Constraints on Gravitational Wave Signatures of Dark Electromagnetism in Neutron Star Binaries",
+      "authors": [
+        "Ian Harris",
+        "Yonatan Kahn"
+      ],
+      "abstract": "Stringent Constraints on Gravitational Wave Signatures of Dark Electromagnetism in Neutron Star Binaries Ian Harris, Yonatan Kahn 6 pages, 2 figures. Added additional references High Energy Physics - Phenomenology (hep-ph); General Relativity and Quantum Cosmology (gr-qc) Gravitational wave interferometers have studied compact object mergers and solidified our understanding of strong gravity. Their increasing precision raises the possibility of detecting new physics, especially in a neutron star binary system that may contain hidden-sector particles. In particular, a new vector force between binary constituents, giving rise to dark electromagnetic phenomena, could measurably alter the inspiral waveforms and thus be constrained by gravitational wave observations. In this work, we critically examine the mechanisms for neutron stars to acquire enough hidden-sector particles with requisite couplings to furnish a detectable signature from dark electromagnetism. We demonstrate that the repulsive nature of vector forces imposes stringent constraints on any putative particle physics model or astrophysical environment which could give rise to such gravitational signatures. We argue that absent an extreme fine-tuning of parameters, such signatures are well out of reach of any current or near-future gravitational wave observatory.",
+      "pdf_url": "https://arxiv.org/pdf/2511.19586.pdf",
+      "published": "2025-12-16T01:32:07.587451",
+      "updated": null,
+      "categories": [
+        "hep-ph",
+        "gr-qc"
+      ],
+      "primary_category": "hep-ph",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.11041",
+      "title": "KiDS-Legacy: Constraining dark energy, neutrino mass, and curvature",
+      "authors": [
+        "Robert Reischke",
+        "Benjamin Stölzner",
+        "Benjamin Joachimi",
+        "Angus H. Wright",
+        "Marika Asgari",
+        "Maciej Bilicki",
+        "Nora Elisa Chisari",
+        "Andrej Dvornik",
+        "Christos Georgiou",
+        "Benjamin Giblin",
+        "Joachim Harnois-Déraps",
+        "Catherine Heymans",
+        "Hendrik Hildebrandt",
+        "Henk Hoekstra",
+        "Shahab Joudaki",
+        "Konrad Kuijken",
+        "Shun-Sheng Li",
+        "Laila Linke",
+        "Arthur Loureiro",
+        "Constance Mahony",
+        "Lauro Moscardini",
+        "Lucas Porth",
+        "Mario Radovich",
+        "Tilman Tröster",
+        "Maximilian von Wietersheim-Kramsta",
+        "Ziang Yan",
+        "Mijin Yoon",
+        "Yun-Hao Zhang"
+      ],
+      "abstract": "KiDS-Legacy: Constraining dark energy, neutrino mass, and curvature Robert Reischke, Benjamin Stölzner, Benjamin Joachimi, Angus H. Wright, Marika Asgari, Maciej Bilicki, Nora Elisa Chisari, Andrej Dvornik, Christos Georgiou, Benjamin Giblin, Joachim Harnois-Déraps, Catherine Heymans, Hendrik Hildebrandt, Henk Hoekstra, Shahab Joudaki, Konrad Kuijken, Shun-Sheng Li, Laila Linke, Arthur Loureiro, Constance Mahony, Lauro Moscardini, Lucas Porth, Mario Radovich, Tilman Tröster, Maximilian von Wietersheim-Kramsta, Ziang Yan, Mijin Yoon, Yun-Hao Zhang 14 pages, 8 figures, submitted to A&A Cosmology and Nongalactic Astrophysics (astro-ph.CO) We constrain minimally extended cosmological models with the cosmic shear analysis of the final data release from the Kilo-Degree Survey (KiDS-Legacy) in combination with external probes. Due to the consistency of the KiDS-Legacy analysis with the Cosmic Microwave Background (CMB), we can combine these data sets reliably for the first time. Additionally, we use CMB lensing, galaxy redshift-space distortions, and baryon acoustic oscillations. We assess, in turn, the effects of spatial curvature, varying neutrino masses, and an evolving dark energy component on cosmological constraints from KiDS-Legacy alone and in combination with external probes. We find KiDS-Legacy to be consistent with the fiducial flat $\\Lambda$CDM analysis with $c^2 \\sum m_\\nu\\leq 1.5\\,$eV, $w_0 = -1.0\\pm 0.7$ and $w_a = -1.3^{+1.9}_{-2.0}$ while $\\Omega_K = 0.08^{+0.16}_{-0.17}$ (1$\\sigma$ bounds) with almost equal goodness-of-fit. $w_0w_a$CDM is not a significant improvement over $\\Lambda$CDM when cosmic shear and CMB lensing are combined, yielding a Bayes factor $B = 0.07$. If all probes are combined, however, $B$ increases to 2.73, corresponding to a $2.6\\sigma$ suspicousness tension. The constraint on $S_8 = \\sigma_8\\sqrt{\\Omega_\\mathrm{m}/0.3}$ is robust to opening up the parameter space for cosmic shear. Adding all external datasets to KiDS-Legacy, we find with $S_8 = 0.816 \\pm 0.006$ in $\\Lambda$CDM and $S_8 = 0.837 \\pm 0.008$ in $w_0 w_a$CDM for all probes combined.",
+      "pdf_url": "https://arxiv.org/pdf/2512.11041.pdf",
+      "published": "2025-12-16T01:32:07.687658",
+      "updated": null,
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "primary_category": "astro-ph.CO",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.11103",
+      "title": "The Crab Nebula Revisited Using HST/WFC3",
+      "authors": [
+        "William P. Blair",
+        "Ravi Sankrit",
+        "Dan Milisavljevic",
+        "Tea Temim",
+        "J. Martin Laming",
+        "Patrick Slane",
+        "Ziwei Ding",
+        "Thomas Martin"
+      ],
+      "abstract": "The Crab Nebula Revisited Using HST/WFC3 William P. Blair, Ravi Sankrit, Dan Milisavljevic, Tea Temim, J. Martin Laming, Patrick Slane, Ziwei Ding, Thomas Martin 34 pages, 30 figures, one Appendix; accepted Dec. 8, 2025, for The Astrophysical Journal Solar and Stellar Astrophysics (astro-ph.SR); Astrophysics of Galaxies (astro-ph.GA); High Energy Astrophysical Phenomena (astro-ph.HE) It has been over 24 years since the iconic Crab Nebula has been visited by the high spatial resolution eye of the Hubble Space Telescope. The expanding nebula is dynamic on these timescales, with many of the outer filaments of the nebula known to show proper motions of 0.3'' or more per year. Over time, it has become increasingly difficult to compare the fine scale structure of the nebula with recent data at other wavelengths. We have re-observed the Crab in an HST Cycle 31 program using the WFC3 camera and filters similar to those previously used to make the existing mosaic that dates from 1999-2000 and was obtained with the WFPC2 camera. Two central fields were observed with the F487N filter, providing an uncontaminated hydrogen band for comparison. We also observed two primarily continuum band filters (F547M and F763M), allowing us to study the optical synchrotron nebula component of the Crab's emission. We compare these new data to the first epoch of WFPC2 data as well as to more contemporaneous NIR/MIR imagery from JWST. Finally, we highlight two previously unrecognized groupings of filaments with similar emission characteristics that are nearly diametrically opposed from the pulsar but whose origin remains uncertain.",
+      "pdf_url": "https://arxiv.org/pdf/2512.11103.pdf",
+      "published": "2025-12-16T01:32:07.792050",
+      "updated": null,
+      "categories": [
+        "astro-ph.SR",
+        "astro-ph.GA",
+        "astro-ph.HE"
+      ],
+      "primary_category": "astro-ph.SR",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from astro-ph.SR",
+        "cross_list_from": "astro-ph.SR"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.11665",
+      "title": "Rapid sinking and efficient mergers of supermassive black holes in compact high-redshift galaxies",
+      "authors": [
+        "Atte Keitaanranta",
+        "Peter H. Johansson",
+        "Alexander Rawlings",
+        "Toni Tuominen",
+        "Antti Rantala",
+        "Thorsten Naab",
+        "Shihong Liao",
+        "Bastián Reinoso"
+      ],
+      "abstract": "Rapid sinking and efficient mergers of supermassive black holes in compact high-redshift galaxies Atte Keitaanranta, Peter H. Johansson, Alexander Rawlings, Toni Tuominen, Antti Rantala, Thorsten Naab, Shihong Liao, Bastián Reinoso Astrophysics of Galaxies (astro-ph.GA) We present a cosmological zoom-in simulation targeting the high redshift compact progenitor phase of massive galaxies, with the most massive galaxy reaching a stellar mass of $M_{\\star}=8.5\\times 10^{10} \\ M_{\\odot}$ at $z=5$. The dynamics of supermassive black holes (SMBHs) is modelled from seeding down to their coalescence at sub-parsec scales due to gravitational wave (GW) emission by utilising a new version of the KETJU code, which combines regularised integration of sufficiently massive SMBHs with a dynamical friction subgrid model for lower-mass SMBHs. All nine massive galaxies included in this study go through a gas-dominated phase of early compaction in the redshift range of $z\\sim 7-9$, starting at stellar masses of $M_\\star\\gtrsim 10^8\\ \\mathrm{M}_\\odot$ and ending at a few times $M_{\\star}\\sim 10^9\\ \\mathrm{M}_\\odot$. The sizes, masses and broad band fluxes of these compact systems are in general agreement with the population of systems observed with JWST known as `Little Red Dots'. In the compact phase, the stellar and SMBH masses grow rapidly, leading to a sharp decline in the central gas fractions. The outer regions, however, remain relatively gas-rich, leading to subsequent off-centre star formation and size growth. Due to the very high central stellar densities ($\\rho_{\\star}\\gtrsim 10^{13}\\,\\mathrm{M_\\odot/kpc^3}$), the SMBHs merge rapidly, typically just $\\sim 4-35\\ \\mathrm{Myr}$ after the SMBH binaries have become bound. Combining KETJU with the phenomenological PhenomD model resolves the complete evolution of the GW emission from SMBH binaries through the Pulsar Timing Array frequency waveband up to the final few orbits that produce GWs observable with the future LISA mission.",
+      "pdf_url": "https://arxiv.org/pdf/2512.11665.pdf",
+      "published": "2025-12-16T01:32:07.953781",
+      "updated": null,
+      "categories": [
+        "astro-ph.GA"
+      ],
+      "primary_category": "astro-ph.GA",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    }
+  ]
+}
