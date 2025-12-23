@@ -1,145 +1,145 @@
-# 📡 Daily GW arXiv Digest - 2025-12-22
-**Found 29 gravitational wave papers**
+# 📡 Daily GW arXiv Digest - 2025-12-23
+**Found 24 gravitational wave papers**
 
-[arXiv:2512.16098](https://arxiv.org/abs/2512.16098)[Submitted on 22 Dec 2025]
-**Effective metric for binaries in framework of EOB theory to fifth PM order**
-Jiliang Jing, Weike Deng, Sheng Long
-Subjects: **gr-qc**; hep-th
-
----
-
-[arXiv:2512.16253](https://arxiv.org/abs/2512.16253)[Submitted on 22 Dec 2025]
-**Gravitational wave interactions with a viscous fluid: Core collapse supernova, binary neutron star merger, and accretion around a black hole merger**
-Nigel T. Bishop, Vishnu Kakkat, Monos Naidoo
-Subjects: **gr-qc**
+[arXiv:2512.17204](https://arxiv.org/abs/2512.17204)[Submitted on 23 Dec 2025]
+**A Search for Binary Black Hole Mergers in LIGO O1-O3 Data with Convolutional Neural Networks**
+Ethan Silver, Plamen Krastev, Edo Berger
+Subjects: **gr-qc**; astro-ph.HE, astro-ph.IM
 
 ---
 
-[arXiv:2512.16347](https://arxiv.org/abs/2512.16347)[Submitted on 22 Dec 2025]
-**GWTC-4.0: Searches for Gravitational-Wave Lensing Signatures**
-The LIGO Scientific Collaboration, The Virgo Collaboration, The KAGRA Collaboration
+[arXiv:2512.17348](https://arxiv.org/abs/2512.17348)[Submitted on 23 Dec 2025]
+**Ghost-free 2-form fields in cosmology: implications for gravitational parity violation**
+Yuki Horii, Tomoaki Murata, Tsutomu Kobayashi
 Subjects: **gr-qc**; astro-ph.CO
 
 ---
 
-[arXiv:2512.15873](https://arxiv.org/abs/2512.15873) (cross-list from astro-ph.HE) [Submitted on 22 Dec 2025]
-**In-plane Black-hole Spin Measurements Suggest Most Gravitational-wave Mergers Form in Triples**
-Jakob Stegmann, Fabio Antonini, Aleksandra Olejak, Sylvia Biscoveanu, Vivien Raymond, Stefano Rinaldi, Beth Flanagan
+[arXiv:2512.17550](https://arxiv.org/abs/2512.17550)[Submitted on 23 Dec 2025]
+**GW231123: Overlapping Gravitational Wave Signals?**
+Qian Hu, Harsh Narola, Jef Heynen, Mick Wright, John Veitch, Justin Janquart, Chris Van Den Broeck
+Subjects: **gr-qc**; astro-ph.HE
+
+---
+
+[arXiv:2512.17887](https://arxiv.org/abs/2512.17887)[Submitted on 23 Dec 2025]
+**Trails of clouds in binary black holes**
+Mateja Bošković, Rafael A. Porto, Matthias Koschnitzke
+Subjects: **gr-qc**; astro-ph.CO, astro-ph.HE, hep-ph, hep-th
+
+---
+
+[arXiv:2512.16971](https://arxiv.org/abs/2512.16971) (cross-list from astro-ph.IM) [Submitted on 23 Dec 2025]
+**ESO Expanding Horizon White Paper: Revealing the properties of matter at supranuclear densities with gravitational waves**
+Tim Dietrich , Tanja Hinderer , Micaela Oertel , Conrado A. Torres , Nils Andersson , Dániel Barta , Andreas Bauswein , Béatrice Bonga , Marica Branchesi , G. Fiorella Burgio , Stefano Burrello , Prasanta Char , Sylvain Chaty , Maria Colonna , Daniela Doneva , Anthea F. Fantina , Tobias Fischer , Juan Garcia-Bellido , Archisman Ghosh , Bruno Giacomazzo , Fabian Gittins , Vanessa Graber , Francesca Gulminelli , Jan Harms , Kostas Kokkotas , Felipe J. Llanes-Estrada , Michele Maggiore , Gabriel Martinez-Pinedo , Andrea Maselli , Chiranjib Mondal , Samaya Nissanke , M Angeles Perez Garcia , Cristiano Palomba , Pantelis Pnigouras , Anna Puecher , Michele Punturo , Adriana R. Raduta , Violetta Sagun , Armen Sedrakian , Nikolaos Stergioulas , Laura Tolos , Kadri Yakut , Stoytcho Yazadjiev Institüt für Physik und Astronomie, Universität Potsdam, Haus 28, Karl-Liebknecht-Str. 24/25, 14476, Potsdam, Germany, Max Planck Institute for Gravitational Physics , Am Mühlenberg 1, Potsdam 14476, Germany, Institute for Theoretical Physics, Utrecht University, Princetonplein 5, 3584 CC Utrecht, The Netherlands, Observatoire astronomique de Strasbourg, CNRS, Université de Strasbourg, 11 rue de l'Université, 67000 Strasbourg, France, Observatoire de Paris, CNRS, Université PSL, 5 place Jules Janssen, 92915 Meudon, France, Department of Fundamental Physics and IUFFyM Plaza de la Merced s/n E-37008 Salamanca, Spain, Mathematical Sciences and STAG Research Centre, University of Southampton, Southampton SO17 1BJ, United Kingdom, HUN-REN Wigner Research Centre for Physics, Konkoly-Thege Miklos ut 29-33, 1121 Budapest, Hungary, GSI Helmholtzzentrum für Schwerionenforschung, Planckstraße 1, D-64291 Darmstadt, Germany, Institute for Mathematics, Astrophysics and Particle Physics, Radboud University, 6525 AJ Nijmegen, The Netherlands, Theoretical Sciences Visiting Program, Okinawa Inst. of Science and Technology Graduate University, Onna, 904-0495, Japan, Gran Sasso Science Institute, I-67100, L'Aquila , Italy, INFN Sezione di Catania, Via S. Sofia 64, 95123 Catania, Italy, INFN - Laboratori Nazionali del Sud Via S. Sofia, 62, 95123 Catania, Italy, Université Paris Cité, CNRS, Astroparticule et Cosmologie, F-75013 Paris, France, Departamento de Astronomia y Astrofisica, Universitat de Valencia, Moliner 50, 46100, Burjassot Spain, Grand Accélérateur National d'Ions Lourds, CEA/DRF CNRS/IN2P3, Boulevard Henri Becquerel, 14076 Caen, France, University of Wroclaw, Wroclaw 50204, Poland, Research Center for Comp. Physics and Data Proc., Silesian University, Bezručovo nám. 13, CZ-746-01 Opava, Czech Republic, Department of Theoretical Physics, Universidad Autónoma de Madrid, 28049 Madrid, Spain, Department of Physics and Astronomy, Ghent University, Proeftuinstraat 85, B-9000 Ghent, Belgium, Dipartimento di Fisica G. Occhialini, Universitá degli Studi di Milano-Bicocca, Piazza della Scienza 3, I-20126 Milano, Italia, INFN, Sezione di Milano-Bicocca, Piazza della Scienza 3, I-20126, Milano, Italia, Department of Physics, Royal Holloway, University of London, Egham Hill Egham, TW20 0EX, United Kingdom, Université de Caen Normandie, ENSICAEN, CNRS/IN2P3, LPC Caen UMR6534, F-14000 Caen, France, INFN, Laboratori Nazionali del Gran Sasso, 67100 Assergi, Italy, Theoretical Astrophysics, University of Tübingen, Tübingen 72076, Germany, Depto. Física Teórica and IPARCOS, Univ. Complutense de Madrid, Plaza de las Ciencias 1, 28040 Madrid Spain, Département de Physique Théorique, Université de Genéve, 24 quai Ernest Ansermet, 1211 Genéve 4, Switzerland and Gravitational Wave Science Center , Université de Genéve, CH-1211 Geneva, Switzerland, Universite Libre de Bruxelles, Avenue F. Roosevelt 50, CP 226, 1050 Bruxelles, Belgium, DESY and the German Centre for Astrophysics , Platanenallee 6, 15738 Zeuthen, Germany, INFN, Sezione di Roma I-00185 Roma, Italy, Department of Physics, University of Alicante, 03690 San Vicente del Raspeig , Spain, Istituto Nazionale di Fisica Nucleare, sezione di Perugia, via Pascoli, 06123 Perugia, Italy, National Institute for Physics and Nuclear Engineering , RO-077125, Bucharest, Romania, Frankfurt Institute for Advanced Studies, 60438 Frankfurt am Main, Germany, Department of Physics, Aristotle University of Thessaloniki, 54124 Thessaloniki, Greece, Institute of Space Sciences , Campus UAB, Carrer de Can Magrans, 08193 Barcelona, Spain, Institut d'Estudis Espacials de Catalunya , 08860 Castelldefels , Spain, Department of Astronomy and Space Sciences, Faculty of Science, Ege University, 35100, Izmir, Turkey, Department of Theoretical Physics, Sofia University St. Kliment Ohridski 5 J. Bourchier Blvd. Sofia 1164, Bulgaria, Institute for Gravitational and Subatomic Physics, Princetonplein 1, 3584 CC Utrecht, The Netherlands)
+Subjects: **astro-ph.IM**; astro-ph.CO, astro-ph.HE, astro-ph.SR, gr-qc, nucl-th
+
+---
+
+[arXiv:2512.17088](https://arxiv.org/abs/2512.17088) (cross-list from astro-ph.CO) [Submitted on 23 Dec 2025]
+**Gravitational wave oscillations in Multi-Proca dark energy models**
+Gabriel Gomez, Jose F. Rodriguez
+Subjects: **astro-ph.CO**; gr-qc
+
+---
+
+[arXiv:2512.17201](https://arxiv.org/abs/2512.17201) (cross-list from astro-ph.HE) [Submitted on 23 Dec 2025]
+**Constraining the Nanohertz Gravitational Wave Background with an X-ray Pulsar Timing Array from NICER observations**
+Tian-Yong Cao, Shi-jie Zheng, Shu-Xu Yi, Ming-Yu Ge, Yi-Tao Yin, Yao-Ming Duan, Xiang Yang, Wen
 Subjects: **astro-ph.HE**; gr-qc
 
 ---
 
-[arXiv:2512.15911](https://arxiv.org/abs/2512.15911) (cross-list from astro-ph.GA) [Submitted on 22 Dec 2025]
-**The Era of Binary Supermassive Black Holes: Coordination of Nanohertz-Frequency Gravitational-Wave Follow-up**
-Sarah Burke-Spolaor, Tamara Bogdanović, Daniel J. D'Orazio, Michael Eracleous, Suvi Gezari, Matthew J. Graham, Kayhan Gültekin, Jeffrey Hazboun, Chiara M. F. Mingarelli, Gautham Narayan, Polina Petrov, Nicolo Veronesi
-Subjects: **astro-ph.GA**; gr-qc
+[arXiv:2512.17339](https://arxiv.org/abs/2512.17339) (cross-list from astro-ph.HE) [Submitted on 23 Dec 2025]
+**Uncovering the population of compact binary mergers and their formation pathways with gravitational waves through the Einstein Telescope**
+M. Arca-Sedda, I. Dvorkin, G. Franciolini, M. C. Artale, M. Branchesi, E. Bortolas, M. Colpi, V. De Luca, A. Ghosh, M. Maggiore, M. Mapelli, B. Mestichelli, M. Mezcua, S. Nissanke, L. Paiella, A. Riotto, F. Santoliquido, N. Tamanini, R. Schneider, C. Ugolini, M. P. Vaccaro, K. Yakut
+Subjects: **astro-ph.HE**; astro-ph.CO, gr-qc
 
 ---
 
-[arXiv:2512.16162](https://arxiv.org/abs/2512.16162) (cross-list from astro-ph.HE) [Submitted on 22 Dec 2025]
-**Probing neutron star interiors and the properties of cold ultra-dense matter with the SKAO**
-Avishek Basu, Vanessa Graber, Marcus E. Lower, Marco Antonelli, Danai Antonopoulou, Manjari Bagchi, Prasanta Char, Paulo C. C. Freire, Brynmor Haskell, Huanchen Hu, David I. Jones, Banibrata Mukhopadhyay, Micaela Oertel, Nanda Rea, Violetta Sagun, Benjamin Shaw, Jaikhomba Singha, Benjamin W. Stappers, Tinn Thongmeearkom, Anna L. Watts, Patrick Weltevrede, The SKA Pulsar Science Working Group
-Subjects: **astro-ph.HE**; astro-ph.IM, gr-qc, hep-ph, nucl-th
+[arXiv:2512.17395](https://arxiv.org/abs/2512.17395) (cross-list from physics.ins-det) [Submitted on 23 Dec 2025]
+**In situ substrate birefringence characterization in gravitational wave detectors using a heterodyne polarimetry method**
+Satoshi Tanioka, Terri Pearce, Yuta Michimura, Kazuhiro Agatsuma, Martin Van Beuzekom, Alberto Vecchio, Stephen Webster, Matteo Leonardi, Keiko Kokeyama
+Subjects: **astro-ph.IM**; gr-qc
 
 ---
 
-[arXiv:2512.16163](https://arxiv.org/abs/2512.16163) (cross-list from astro-ph.HE) [Submitted on 22 Dec 2025]
-**The SKAO Pulsar Timing Array**
-Ryan M. Shannon, N. D. Ramesh Bhat, Aurelien Chalumeau, Siyuan Chen, H. Thankful Cromartie, A. Gopukumar, Kathrin Grunthal, Jeffrey S. Hazboun, Francesco Iraci, Bhal Chandra Joshi, Ryo Kato, Michael J. Keith, Kejia Lee, Kuo Liu, Hannah Middleton, Matthew T. Miles, Chiara M. F. Mingarelli, Aditya Parthasarathy, Daniel J. Reardon, Golam M. Shaifullah, Keitaro Takahashi, Caterina Tiburzi, Riccardo J. Truant, Xiao Xue, Andrew Zic, The SKAO Pulsar Science Working Group
-Subjects: **astro-ph.HE**; astro-ph.CO, astro-ph.IM, gr-qc
+[arXiv:2512.17631](https://arxiv.org/abs/2512.17631) (cross-list from astro-ph.GA) [Submitted on 23 Dec 2025]
+**Across the Universe: GW231123 as a magnified and diffracted black hole merger**
+Srashti Goyal, Hector Villarrubia-Rojo, Miguel Zumalacarregui
+Subjects: **astro-ph.GA**; astro-ph.CO, gr-qc
 
 ---
 
-[arXiv:2512.16264](https://arxiv.org/abs/2512.16264) (cross-list from astro-ph.IM) [Submitted on 22 Dec 2025]
-**Expanding Horizons - Transforming Astronomy in the 2040s Time-Domain Multi-Messenger Astronomy in the 2040s: EM Follow-up of LGWA Sources**
-F. Patat, S. Piranomonte, S. Benetti, A. Bonforte, R. Della Ceca, G. Di Rico, A. Frigeri, J. Harms, M. Olivieri, A. Perali, P. Severgnini, A. Stallone, the LGWA Collaboration
-Subjects: **astro-ph.IM**; astro-ph.HE, astro-ph.SR, gr-qc
+[arXiv:2502.12237](https://arxiv.org/abs/2502.12237) (replaced) [Submitted on 23 Dec 2025]
+**Systematic biases in parameter estimation on LISA binaries: The effect of excluding higher harmonics for non-spinning binaries**
+Sophia Yi, Francesco Iacovelli, Sylvain Marsat, Digvijay Wadekar, Emanuele Berti
+Subjects: **gr-qc**; astro-ph.HE
 
 ---
 
-[arXiv:2512.16441](https://arxiv.org/abs/2512.16441) (cross-list from astro-ph.HE) [Submitted on 22 Dec 2025]
-**Classification of the equation of state of neutron stars via sparse dictionary learning**
-Miquel Llorens-Monteagudo, Alejandro Torres-Forné, José A. Font
-Subjects: **astro-ph.HE**; gr-qc
+[arXiv:2504.21320](https://arxiv.org/abs/2504.21320) (replaced) [Submitted on 23 Dec 2025]
+**Towards model-independent identification of lensed gravitational waves using Kramers-Kronig relation**
+So Tanaka, Gopalkrishna Prabhu, Shasvath J. Kapadia, Teruaki Suyama
+Subjects: **gr-qc**; astro-ph.CO
 
 ---
 
-[arXiv:2512.16720](https://arxiv.org/abs/2512.16720) (cross-list from astro-ph.HE) [Submitted on 22 Dec 2025]
-**A finite temperature framework for quark matter with color-superconducting phases**
-Hosein Gholami, Marco Hofmann, Débora Mroczek, Jacquelyn Noronha-Hostler
-Subjects: **astro-ph.HE**; gr-qc, hep-ph, nucl-th
-
----
-
-[arXiv:2512.16821](https://arxiv.org/abs/2512.16821) (cross-list from hep-ph) [Submitted on 22 Dec 2025]
-**Delayed Scaling of Multi-Type Cosmic F- and D-strings in VOS Models**
-Kazuto Nakamura, Masaki Yamada
-Subjects: **hep-ph**; astro-ph.CO, gr-qc, hep-th
-
----
-
-[arXiv:2412.14258](https://arxiv.org/abs/2412.14258) (replaced) [Submitted on 22 Dec 2025]
-**Teleparallel gravity at null infinity**
-Florian Girelli, Jianhui Qiu, Céline Zwikel
+[arXiv:2507.02258](https://arxiv.org/abs/2507.02258) (replaced) [Submitted on 23 Dec 2025]
+**Perturbations of Einstein--Maxwell--phantom spacetime: Instabilities of charged Ellis--Bronnikov wormholes and quasinormal modes of black holes**
+Guan-Yu Wu, Si-Yu Wang, Yan-Gang Miao
 Subjects: **gr-qc**; hep-th
 
 ---
 
-[arXiv:2504.01651](https://arxiv.org/abs/2504.01651) (replaced) [Submitted on 22 Dec 2025]
-**Nonlinear electrodynamic black holes and their role in testing modified theories of gravity**
-Javokhir Sharipov, Mirzabek Alloqulov, Pankaj Sheoran, Sanjar Shaymatov
+[arXiv:2507.15720](https://arxiv.org/abs/2507.15720) (replaced) [Submitted on 23 Dec 2025]
+**Toward relativistic inspirals into black holes surrounded by matter**
+Lukáš Polcar, Vojtěch Witzany
 Subjects: **gr-qc**
 
 ---
 
-[arXiv:2506.08888](https://arxiv.org/abs/2506.08888) (replaced) [Submitted on 22 Dec 2025]
-**Waveform model for the $(\ell=2, m=0)$ spherical harmonic and the displacement memory contribution from precessing binary black holes**
-Maria Rosselló-Sastre, Sascha Husa
-Subjects: **gr-qc**
+[arXiv:2509.02122](https://arxiv.org/abs/2509.02122) (replaced) [Submitted on 23 Dec 2025]
+**Gravitational waves induced by matter isocurvature in general cosmologies**
+Guillem Domènech, Jan Tränkle
+Subjects: **gr-qc**; astro-ph.CO, hep-ph
 
 ---
 
-[arXiv:2508.19333](https://arxiv.org/abs/2508.19333) (replaced) [Submitted on 22 Dec 2025]
-**Lensing by black holes within astrophysical environments**
-Gerasimos Kouniatalis, Arthur G. Suvorov, Kyriakos Destounis
-Subjects: **gr-qc**; astro-ph.GA, astro-ph.HE, hep-ph
+[arXiv:2501.13601](https://arxiv.org/abs/2501.13601) (replaced) [Submitted on 23 Dec 2025]
+**Forecasted Detection Limits on the (Dark) Matter Density in Supermassive Black Hole Binaries for LISA**
+Matthias Daniel, Kris Pardo, Laura Sagunski
+Subjects: **astro-ph.HE**; astro-ph.CO, gr-qc
 
 ---
 
-[arXiv:2511.17893](https://arxiv.org/abs/2511.17893) (replaced) [Submitted on 22 Dec 2025]
-**Wave Front Sensing demodulated at the difference frequency between two phase-modulation sidebands in a compound interferometer configuration for a gravitational-wave detector**
-Chiaki Hirose, Kenta Tanaka, Osamu Miyakawa, Takafumi Ushiba
-Subjects: **gr-qc**; astro-ph.IM
+[arXiv:2508.21582](https://arxiv.org/abs/2508.21582) (replaced) [Submitted on 23 Dec 2025]
+**Probing Picohertz Gravitational Waves with Pulsars**
+Qinyuan Zheng, Chiara M. F. Mingarelli, William DeRocco, Jonathan Nay, Kimberly K. Boddy, Jeff A. Dror
+Subjects: **astro-ph.HE**; gr-qc
 
 ---
 
-[arXiv:2304.09396](https://arxiv.org/abs/2304.09396) (replaced) [Submitted on 22 Dec 2025]
-**Binary Black Hole Mergers: Spin and mass ratio effects on gravitational waveforms**
-İsmail Özbakır, Kadri Yakut
-Subjects: **astro-ph.HE**; astro-ph.SR, gr-qc
+[arXiv:2512.17707](https://arxiv.org/abs/2512.17707) (cross-list from hep-ph) [Submitted on 23 Dec 2025]
+**Boiling away asymmetries: low-scale phase transitions, gravitational waves and leptogenesis**
+Leonardo Grimaldi, Michele Lucente, Silvia Pascoli
+Subjects: **hep-ph**; astro-ph.CO
 
 ---
 
-[arXiv:2512.15833](https://arxiv.org/abs/2512.15833)[Submitted on 22 Dec 2025]
-**The Simons Observatory: forecasted constraints on primordial gravitational waves with the expanded array of Small Aperture Telescopes**
-The Simons Observatory Collaboration: I. Abril-Cabezas, S. Adachi, P. Ade, A. E. Adler, P. Agrawal, J. Aguirre, S. Aiola, T. Alford, A. Ali, D. Alonso, M. A. Alvarez, R. An, M. Aravena, K. Arnold, P. Ashton, F. Astori, Z. Atkins, J. Austermann, S. Azzoni, C. Baccigalupi, D. Baker, R. Balafendiev, A. Baleato Lizancos, D. Barron, P. Barry, J. Bartlett, A. Basyrov, N. Battaglia, E. S. Battistelli, R. Battye, A. Bayer, A. Bazarko, J. A. Beall, R. Bean, D. Beck, S. Beckman, J. Begin, A. Beheshti, B. Beringue, T. Bhandarkar, S. Bhimani, F. Bianchini, E. Biermann, M. Billi, S. Biquard, B. Bixler, L. Bizzarri, S. Boada, D. Boettger, B. Bolliet, J. R. Bond, J. Borrill, J. Borrow, C. Braithwaite, T. L. R. Brien, M. L. Brown, S. M. Bruno, S. Bryan, R. Bustos, H. Cai, E. Calabrese, V. Calafut, F. M. Carl, A. Carones, J. Carron, A. Challinor, E. Chamberlain, P. Chanial, N. Chen, K. Cheung, B. Chiang, Y. Chinone, J. Chluba, H. S. Cho, S. K. Choi, M. Chu, J. Clancy, S. E. Clark, P. Clarke, J. Cleary, D. L. Clements, J. Connors, C. Contaldi, G. Coppi, L. Corbett, N. F. Cothard, W. Coulton, D. Crichton, K. D. Crowley, K. T. Crowley, A. Cukierman, J. M. D'Ewart, K. Dachlythra, O. Darwish, R. Datta, S. Day-Weiss, T. de Haan, S. Desai, M. Devlin
-Subjects: **astro-ph.CO**; hep-ex, hep-th
+[arXiv:2503.15066](https://arxiv.org/abs/2503.15066) (replaced) [Submitted on 23 Dec 2025]
+**Novel Quantity for Probing Matter Perturbations Below the Fresnel Scale in Gravitational Lensing of Gravitational Waves**
+So Tanaka, Teruaki Suyama
+Subjects: **astro-ph.CO**
 
 ---
 
-[arXiv:2512.16916](https://arxiv.org/abs/2512.16916)[Submitted on 22 Dec 2025]
-**Discovering gravitational waveform distortions from lensing: a deep dive into GW231123**
-Juno C. L. Chan, Jose María Ezquiaga, Rico K. L. Lo, Joey Bowman, Lorena Magaña Zertuche, Luka Vujeva
-Subjects: **astro-ph.CO**; hep-ph
+[arXiv:2512.16988](https://arxiv.org/abs/2512.16988) (cross-list from astro-ph.IM) [Submitted on 23 Dec 2025]
+**The final stages of binary evolution using multi-messenger studies**
+Thomas Kupfer, Simone Scaringi, Paul Groot, Boris Gänsicke, Ingrid Pelisoli, Anna F. Pala, Jan van Roestel, Silvia Toonen, Domitilla de Martino, Noel Castro Segura, David Buckley, Valerie Van Grootel, Kieran O'Brien, Samaya Nissanke
+Subjects: **astro-ph.IM**; astro-ph.HE, astro-ph.SR
 
 ---
 
-[arXiv:2512.16809](https://arxiv.org/abs/2512.16809) (cross-list from hep-ph) [Submitted on 22 Dec 2025]
-**Impact of Supercooling on Direct Searches for Dark Matter and Gravitational Wave Backgrounds**
-Davide Racco, Alfredo Stanzione
-Subjects: **hep-ph**; astro-ph.CO, hep-th
-
----
-
-📊 **Summary**: 9 New • 11 Cross-lists • 9 Replacements
-📋 Showing top 20 of 29 papers
+📊 **Summary**: 6 New • 9 Cross-lists • 9 Replacements
+📋 Showing top 20 of 24 papers
