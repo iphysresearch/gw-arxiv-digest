@@ -1,393 +1,225 @@
-# Complete Daily GW arXiv Digest - 2025-12-24
+# Complete Daily GW arXiv Digest - 2025-12-25
 
-**总爬取文章**: 265 篇  
-**今天的文章**: 265 篇  
-  - gr-qc: 61 篇  
-  - astro-ph: 171 篇  
-**引力波相关**: 32 篇  
-**提交类型**: 🆕 14 New • 🔄 5 Cross-lists • 🔄 13 Replacements  
+**总爬取文章**: 133 篇  
+**今天的文章**: 133 篇  
+  - gr-qc: 35 篇  
+  - astro-ph: 74 篇  
+**引力波相关**: 18 篇  
+**提交类型**: 🆕 6 New • 🔄 6 Cross-lists • 🔄 6 Replacements  
 
-## 1. Constraints on gravitational waves from the 2024 Vela pulsar glitch
+## 1. On the Stability of Anisotropic Neutron Stars
 
-**arXiv**: [2512.17990](https://arxiv.org/abs/2512.17990)  
-**Authors**: The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration, Jim Palfreyman, S. B. Araujo Furlan, S. del Palacio, G. Gancio, F. García, G. E. Romero, E. Zubieta  
-**Date**: 24 Dec 2025  
-**Categories**: gr-qc, astro-ph.HE  
+**arXiv**: [2512.19825](https://arxiv.org/abs/2512.19825)  
+**Authors**: L. M. Becerra, E. A. Becerra-Vergara, F. D. Lora-Clavijo, J. F. Rodriguez  
+**Date**: 25 Dec 2025  
+**Categories**: gr-qc, astro-ph.HE, astro-ph.SR  
 **Type**: new submission  
 
-**Abstract**: Constraints on gravitational waves from the 2024 Vela pulsar glitch The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration, Jim Palfreyman, S. B. Araujo Furlan, S. del Palacio, G. Gancio, F. García, G. E. Romero, E. Zubieta main paper: 16 pages and 7 figures; total with appendices: 29 pages and 14 figures. Data release will be available at this https URL General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE) Among known neutron stars, the Vela pulsar is one of the best targets for gravitational-wave searches. It is also one of the most prolific in terms of glitches, sudden frequency changes in a pulsar's rotation. Such glitches could cause a variety of transient gravitational-wave signals. Here we search for signals associated with a Vela glitch on 29 April 2024 in data of the two LIGO detectors from the fourth LIGO-Virgo-KAGRA observing run. We search both for seconds-scale burst-like emission, primarily from fundamental (f-)mode oscillations, and for longer quasi-monochromatic transients up to four months in duration, primarily from quasi-static quadrupolar deformations. We find no significant detection candidates, but for the first time we set direct observational upper limits on gravitational strain amplitude that are stricter than what can be indirectly inferred from the overall glitch energy scale. We discuss the short- and long-duration observational constraints in the context of specific emission models. These results demonstrate the potential of gravitational-wave probes of glitching pulsars as detector sensitivity continues to improve.  
+**Abstract**: On the Stability of Anisotropic Neutron Stars L. M. Becerra, E. A. Becerra-Vergara, F. D. Lora-Clavijo, J. F. Rodriguez 13 pages, 11 figures. Summited in Physical Review D General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE); Solar and Stellar Astrophysics (astro-ph.SR) We model anisotropic neutron stars using three distinct prescriptions for pressure anisotropy, the Horvat, Bowers-Liang, and Covariant models, and three equations of state with different particle compositions, each described by a piecewise polytropic parametrization with continuous sound speed. The stability of these configurations is assessed through their dynamical evolution using a fully non-linear relativistic code. For stable configurations, we compute the oscillation spectrum and identify the fundamental mode frequency. We found that, while the isotropic and Horvat models become unstable close to the maximum-mass point, the Bowers-Liang and Covariant models become unstable at lower central densities, indicating that the standard turning-point criterion may not reliably predict the onset of dynamical instability in anisotropic stars. Based on our results, we also determine the neutral-stability line and verify that configurations lying to the right of this line are indeed unstable under radial perturbations and collapse. Overall, given an equation of state, pressure anisotropy can increase the maximum mass of an stable configuration by up to ~30 % compared to the isotropic case. It also allows for more compact stable configurations that may collapse on longer timescales once they become unstable. Finally, we show that these compact stars could initially mimic a black hole's gravitational-wave ringdown. However, the production of subsequent echoes is not guaranteed by high compactness; instead, it depends critically on the star's specific internal structure and equation of state.  
 
 ---
 
-## 2. Inflationary models with a quadratic relationship between the parameters of cosmological perturbations
+## 2. Gauge-invariant Bardeen variables for plane waves and their relation to Cartan and Killing invariants
 
-**arXiv**: [2512.18484](https://arxiv.org/abs/2512.18484)  
-**Authors**: Igor V. Fomin, Vladimir L. Glushkov, Evgenii S. Dentsel, Gevorg D. Manucharyan, Vyacheslav A. Sizov  
-**Date**: 24 Dec 2025  
+**arXiv**: [2512.19828](https://arxiv.org/abs/2512.19828)  
+**Authors**: R. Radhakrishnan, D. McNutt, D. Mirfendereski, E. Davis, W. Julius, G. Cleaver  
+**Date**: 25 Dec 2025  
 **Categories**: gr-qc  
 **Type**: new submission  
 
-**Abstract**: Inflationary models with a quadratic relationship between the parameters of cosmological perturbations Igor V. Fomin, Vladimir L. Glushkov, Evgenii S. Dentsel, Gevorg D. Manucharyan, Vyacheslav A. Sizov General Relativity and Quantum Cosmology (gr-qc) An approach to construct cosmological inflation models on the basis of a certain dependence of the scalar field evolution on the e-folds number is considered. The reconstruction of the model background parameters according to the kind of specific connection between the parameters of cosmological perturbations is proposed. By the slow-roll approximation, as functions of the e-fold number, the scalar field potential and the Hubble parameter are determined. The logarithmic dependence between the scalar field evolution and the number of e-folds is investigated as the example. The derived model was found to obey a quadratic law between the parameters of cosmological perturbations. On the basis of suggested approach, a new cosmological inflation model with an exponential potential is proposed. This complies with existing observational constraints for both background and perturbation spectrum parameters. A comparison of obtained results with the solutions obtained by the symbol regression is made. The restrictions for arbitrary parameters in the model with logarithmic potential are also considered. The proposed form of the scalar field potential is consistent with one of the optimal potentials obtained when using machine learning methods to analyze the correspondence of inflationary models to observational data and gravitational waves contribution to the anisotropy and polarization of the CMB.  
+**Abstract**: Gauge-invariant Bardeen variables for plane waves and their relation to Cartan and Killing invariants R. Radhakrishnan, D. McNutt, D. Mirfendereski, E. Davis, W. Julius, G. Cleaver General Relativity and Quantum Cosmology (gr-qc) The Newman-Penrose (NP) formalism is traditionally used to analyze the polarization content of gravitational waves, while the gauge-invariant Bardeen formalism provides a complementary, and often simpler, description based on the irreducible scalar, vector, and tensor perturbations of the metric. In this work we apply the Bardeen formalism to plane gravitational waves in Minkowski spacetime, computing all scalar, vector, and tensor gauge-invariant variables explicitly and demonstrating that only the two transverse-traceless tensor modes survive, as expected for vacuum waves in general relativity. We then compare these Bardeen variables with curvature-based invariants constructed using the linearized Cartan--Karlhede (CK) algorithm. We show that the CK invariants do not distinguish the $\oplus$ and $\times$ modes. Instead, we show that the Bardeen variables coincide with the Killing invariants obtained by projecting the metric perturbation onto the translational Killing vectors of the Minkowski background. Thus, in the plane-wave case, the physical gravitational-wave degrees of freedom are encoded in invariants generated from the Killing vector fields, rather than Cartan invariants.  
 
 ---
 
-## 3. Probing the spin of compact objects with gravitational microlensing of gravitational waves
+## 3. Measuring Eccentricity and Addressing Waveform Systematics in GW231123
 
-**arXiv**: [2512.18707](https://arxiv.org/abs/2512.18707)  
-**Authors**: Gopalkrishna Prabhu, Uddeepta Deka, Sumanta Chakraborty, Shasvath J. Kapadia  
-**Date**: 24 Dec 2025  
+**arXiv**: [2512.20060](https://arxiv.org/abs/2512.20060)  
+**Authors**: Aasim Jan, Sophia Nicolella, Deirdre Shoemaker, Richard O'Shaughnessy  
+**Date**: 25 Dec 2025  
 **Categories**: gr-qc  
 **Type**: new submission  
 
-**Abstract**: Probing the spin of compact objects with gravitational microlensing of gravitational waves Gopalkrishna Prabhu, Uddeepta Deka, Sumanta Chakraborty, Shasvath J. Kapadia General Relativity and Quantum Cosmology (gr-qc) Propagating gravitational waves (GWs) can encounter a massive object (lens) whose gravitational radius is comparable to the wavelength of the GWs (wave-optics regime). The resulting `microlensed' signal contains imprints about the properties of the lens. In this work, we compute the GW waveforms microlensed by a rotating compact object in weak-field gravity. Using these waveforms, for the first time, we assess how well the parameters of the rotating lens can be inferred from GW lensing observations. We find that if we allow for naked singular solutions within general relativity or beyond, which in principle can have spins that are not bounded to be extremal, our method can be used to extract the rotating lens parameters using observations of microlensed GWs with future detectors. As a result, we find that the lens parameters for such lenses are well recovered within $90\%$ confidence for signal-to-noise ratio (SNR) 50 and especially well for SNR$=100$ with Einstein Telescope.  
+**Abstract**: Measuring Eccentricity and Addressing Waveform Systematics in GW231123 Aasim Jan, Sophia Nicolella, Deirdre Shoemaker, Richard O'Shaughnessy General Relativity and Quantum Cosmology (gr-qc) The gravitational-wave event GW231123_135430 is the heaviest binary black hole system observed by the LIGO--Virgo--KAGRA Collaboration to date, with the initial analysis indicating the individual black hole masses lie within or above the theorized pair-instability mass gap of roughly $60$--$130\,M_\odot$. The inference further suggests that both black holes possess high spins, measured to be $0.90^{+0.10}_{-0.19}$ and $0.80^{+0.20}_{-0.51}$. Therefore, the observation of this event suggests the formation of black holes from channels beyond the standard stellar collapse. However, different waveform models yield significantly different parameter estimates, possibly due to missing physics in the models used in inference. In this work, we carry out a reanalysis of GW231123 using a physically complete model, accounting for both spin precession and eccentricity. Our analysis shows that this event does not exhibit strong evidence for eccentricity and the exclusion of eccentricity has minimal impact on inference. Furthermore, for GW231123-like systems, even eccentricities as large as $0.15$ at $10$ Hz do not yield a confident nonzero eccentricity measurement. Through a zero-noise injection recovery study, we show that the observed discrepancies in the parameter estimates can be explained by disagreement in the waveform models at strong spin precession, with the degree of parameter bias in the zero-noise runs being comparable to that observed for the real signal. We also show that inference performed with an eccentric, aligned-spin waveform model can yield a confident nonzero eccentricity measurement due to the degeneracy between eccentricity and spin precession. Bayesian model selection, however, rules out this interpretation in favor of the eccentric, spin precessing hypothesis, which supports zero eccentricity -- a conclusion we confirm with additional zero-noise injection-recovery tests.  
 
 ---
 
-## 4. Traversable wormholes inside anisotropic magnetized neutron stars: physical properties and potential observational imprints
-
-**arXiv**: [2512.18795](https://arxiv.org/abs/2512.18795)  
-**Authors**: Muhammad Lawrence Pattersons, Freddy Permana Zen, Hadyan Luthfan Prihadi, Muhammad F. A. R. Sakti  
-**Date**: 24 Dec 2025  
-**Categories**: gr-qc, astro-ph.HE, hep-th  
-**Type**: new submission  
-
-**Abstract**: Traversable wormholes inside anisotropic magnetized neutron stars: physical properties and potential observational imprints Muhammad Lawrence Pattersons, Freddy Permana Zen, Hadyan Luthfan Prihadi, Muhammad F. A. R. Sakti General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE); High Energy Physics - Theory (hep-th) In this paper, we formulate wormhole-plus-neutron-star (WH+NS) systems supported by two scalar fields, allowing for both pressure anisotropy and magnetic fields. In general, such WH+NS systems contain ghosts; however, these ghosts can be eliminated. We find that neither anisotropy nor magnetic fields affect the traversability of the wormhole. In particular, the null energy condition (NEC) remains violated in the vicinity of the wormhole throat, ensuring the traversable nature of the geometry. For magnetized configurations, the resulting WH+NS systems can become extremely massive, with ADM masses exceeding $8\,M_\odot$, and can exhibit large surface redshifts exceeding $z \simeq 1.5$. Furthermore, we analyze the gravitational-wave echo time of the systems, which serves as a potential observational imprint. Our results indicate that the echo time can vary depending on the magnetic field configuration, suggesting that WH+NS systems may provide distinctive signals of gravitational echo.  
-
----
-
-## 5. Quantum sensing of high-frequency gravitational waves with ion crystals
-
-**arXiv**: [2512.19053](https://arxiv.org/abs/2512.19053)  
-**Authors**: Asuka Ito, Ryuichiro Kitano, Wakutaka Nakano, Ryoto Takai  
-**Date**: 24 Dec 2025  
-**Categories**: gr-qc, hep-ph, quant-ph  
-**Type**: new submission  
-
-**Abstract**: Quantum sensing of high-frequency gravitational waves with ion crystals Asuka Ito, Ryuichiro Kitano, Wakutaka Nakano, Ryoto Takai General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Phenomenology (hep-ph); Atomic Physics (physics.atom-ph); Quantum Physics (quant-ph) A detection method for high-frequency gravitational waves using two-dimensional ion crystals is investigated. Gravitational waves can resonantly excite the drumhead modes of the ion crystal, particularly the parity-odd modes. In the optical dipole force protocol, entanglement between the drumhead modes and the collective spins transfers the excitation of the drumhead modes to the rotation of the total spin. Furthermore, gravitational wave detection beyond the standard quantum limit becomes possible as a squeezed spin state is generated through this entanglement. The sensitivity gets better with a larger ions crystals as well as a larger number of the ions. Future realization of large ion crystals can significantly improve the sensitivity to gravitational waves in the 10 kHz to 10 MHz region.  
-
----
-
-## 6. A Self-Consistent Hubble Expansion in f(T) Gravity model: Confrontation with Recent Observations
-
-**arXiv**: [2512.19066](https://arxiv.org/abs/2512.19066)  
-**Authors**: K. S.Kavya, T. Vinutha, B.Revathi  
-**Date**: 24 Dec 2025  
-**Categories**: gr-qc  
-**Type**: new submission  
-
-**Abstract**: A Self-Consistent Hubble Expansion in f(T) Gravity model: Confrontation with Recent Observations K. S.Kavya, T. Vinutha, B.Revathi General Relativity and Quantum Cosmology (gr-qc) The accelerated expansion of the universe remains one of the most profound puzzles in modern cosmology, often attributed to dark energy within the framework of General Relativity. As an alternative, modified teleparallel gravity theories such as $f(T)$ gravity offer a purely geometric mechanism to explain cosmic acceleration. In this work, we construct a plane-symmetric anisotropic cosmological model in the framework of exponential $f(T)$ gravity, adopting the functional form $f(T) = T + u e^{-vT}$. A key novelty of this study is that the Hubble function $H(z)$ is derived self-consistently from the field equations rather than being prescribed phenomenologically. Furthermore, we provide the first comprehensive observational test of an anisotropic $f(T)$ model using a combination of DESI, gravitational-wave (GW) data, and complementary datasets including OHD, CMB, and Pantheon+SH0ES. Our best-fit analysis yields $70 \lesssim H_0 \lesssim 73~\mathrm{km\,s^{-1}\,Mpc^{-1}}$, $0.28 \lesssim \Omega_m \lesssim 0.34$, and $-0.99 \lesssim \omega \lesssim -0.69$, all consistent with current late-time cosmological observations. The model accurately reproduces the distance modulus of Type Ia supernovae and the luminosity-distance relation from gravitational-wave standard sirens. These results demonstrate that the proposed anisotropic exponential $f(T)$ model can account for the observed cosmic acceleration without invoking a dark-energy component, thereby offering a novel and observationally consistent framework for studying anisotropic extensions of gravity.  
-
----
-
-## 7. The First Model-Independent Upper Bound on Micro-lensing Signature of the Highest Mass Binary Black Hole Event GW231123
-
-**arXiv**: [2512.19077](https://arxiv.org/abs/2512.19077)  
-**Authors**: Aniruddha Chakraborty, Suvodip Mukherjee  
-**Date**: 24 Dec 2025  
-**Categories**: gr-qc, astro-ph.CO, astro-ph.GA, astro-ph.HE  
-**Type**: new submission  
-
-**Abstract**: The First Model-Independent Upper Bound on Micro-lensing Signature of the Highest Mass Binary Black Hole Event GW231123 Aniruddha Chakraborty, Suvodip Mukherjee General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); Astrophysics of Galaxies (astro-ph.GA); High Energy Astrophysical Phenomena (astro-ph.HE) The recently discovered gravitational wave (GW) event, GW231123, is the highest mass binary black hole (BBH) merger detected to date by the LIGO-Virgo-KAGRA Collaboration. The inferred source masses of GW231123 lie in a mass range where stellar-progenitor black holes are rare to exist due to the pair instability supernovae mass gap, and hence alternative scenarios of origin of this inferred heavy mass black hole become important. One of such hypotheses of its origin is gravitational lensing that introduces modulations to the amplitude and phase of GWs and can make the inferred mass higher from the true value. In this work, we search for the lensing signatures from GW231123 and all other events in a model-independent approach using the technique \texttt{$\mu$-GLANCE} which carries out tests on its residual strain to look for common features across the detector network through cross-correlation and infers the lensing signal in a Bayesian framework. Our analysis tests yield no strong evidence in support for lensing, though it detects presence of potential residual in the data, which can be a micro-lensing signature with a modulation amplitude less than 0.8 at 95\% C.I. However, our study finds that current waveform systematics for such heavy mass binary systems are large enough to shadow the detection of lensing from such short-duration GWs such as GW231123, and hence no concluding claim of lensing could be made at this stage. We conclude that if this event is lensed, then in near future, detection of similar lensed events will take place with current detector sensitivity and hence can open a potential discovery space of lensed GW signal with the aid of more accurate waveform models.  
-
----
-
-## 8. Probing quantum anomaly corrections on black hole physics through chaos
-
-**arXiv**: [2512.19163](https://arxiv.org/abs/2512.19163)  
-**Authors**: Yu-Sen An, Wei-Hao Zhang  
-**Date**: 24 Dec 2025  
-**Categories**: gr-qc  
-**Type**: new submission  
-
-**Abstract**: Probing quantum anomaly corrections on black hole physics through chaos Yu-Sen An, Wei-Hao Zhang General Relativity and Quantum Cosmology (gr-qc) The black hole horizon can induce chaotic motion of particles around the black hole. The original integrable motion of particles can transit to the chaotic motion when approaching black hole horizon. In this work, we consider the black hole background where quantum conformal anomaly correction is taken into account. We use the Poincare section and Lyapunov exponent as representative probes to illustrate chaos. We investigate the effect of anomaly coefficient on the chaos of particles and find that quantum anomaly enhances the chaos of particle motions. As the chaotic orbits of particles can leave an imprint on the gravitational wave signals of the extreme mass ratio inspirals, our results pave the way to detect conformal anomaly effect in actual observations.  
-
----
-
-## 9. Parameter estimation for the GWTC-4.0 catalog with phenomenological waveform models that include orbital eccentricity and an updated description of spin precession
-
-**arXiv**: [2512.19513](https://arxiv.org/abs/2512.19513)  
-**Authors**: Yumeng Xu, Jorge Valencia, Héctor Estellés Estrella, Antoni Ramos Buades, Sascha Husa, Maria Rosselló-Sastre, Joan Llobera Querol, Felip Ramis Vidal, Maria de Lluc Planas Llompart, Marta Colleoni, Eleanor Hamilton, Arnau Montava Agudo, Jesús Yébana Carrilero, Anna Heffernan  
-**Date**: 24 Dec 2025  
-**Categories**: gr-qc, astro-ph.CO, astro-ph.HE  
-**Type**: new submission  
-
-**Abstract**: Parameter estimation for the GWTC-4.0 catalog with phenomenological waveform models that include orbital eccentricity and an updated description of spin precession Yumeng Xu, Jorge Valencia, Héctor Estellés Estrella, Antoni Ramos Buades, Sascha Husa, Maria Rosselló-Sastre, Joan Llobera Querol, Felip Ramis Vidal, Maria de Lluc Planas Llompart, Marta Colleoni, Eleanor Hamilton, Arnau Montava Agudo, Jesús Yébana Carrilero, Anna Heffernan General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Astrophysical Phenomena (astro-ph.HE) The GWTC-4.0 catalog of transient gravitational wave signals describes observations made in the first part of the fourth observing run of the LIGO-Virgo-KAGRA (LVK) gravitational wave detector network. Here we extend the LVK's GWTC-4.0 analysis to elliptic orbits, and an improved description of spin precession in the frequency domain. For this study we use state-of-the-art waveforms from the IMRPhenom family (specifically XPNR, TPHM, and TEHM), and we consider the 84 confidently detected events that are consistent with binary-black-hole mergers. We present an extended catalog of updated posterior samples, quantify how incorporation of these waveform effects alters inferred source properties relative to previous analyses, and discuss waveform systematics.  
-
----
-
-## 10. Circular Disformal Kerr: An Exact Rotating Black Hole Beyond GR
-
-**arXiv**: [2512.19549](https://arxiv.org/abs/2512.19549)  
-**Authors**: Jibril Ben Achour, Adolfo Cisterna, Hugo Roussille  
-**Date**: 24 Dec 2025  
-**Categories**: gr-qc, hep-th  
-**Type**: new submission  
-
-**Abstract**: Circular Disformal Kerr: An Exact Rotating Black Hole Beyond GR Jibril Ben Achour, Adolfo Cisterna, Hugo Roussille General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) The Kerr solution is the cornerstone of General Relativity (GR) for modelling astrophysical rotating black holes and for testing GR through gravitational-wave observations and black hole imaging. Understanding how the Kerr geometry is modified in alternative theories of gravity is therefore a crucial step toward constraining possible deviations from GR. Despite their importance, exact analytical solutions describing rotating black holes in modified gravity are rare, limiting our ability to explore novel phenomenology and to design robust observational tests of new physics. In this work, we present a new exact rotating black hole solution within a specific scalar-tensor theory belonging to the Horndeski class. The solution is obtained via a disformal transformation acting on a Kerr stealth black hole. Crucially, unlike previous constructions, the disformal transformation of our chosen seed configuration preserves circularity, ensuring that many of the geometrical and physical properties that make the Kerr spacetime so compelling are retained. We refer to the resulting geometry as the Circular Disformal Kerr solution. Remarkably, key features such as the structure of Killing horizons, the ergosphere, and the absence of causality violations closely mirror those of the Kerr metric. The spacetime is algebraically general, corresponding to Petrov type I. This new exact solution therefore provides a rare example of a rotating black hole beyond GR that closely mimics the Kerr geometry, offering a valuable theoretical laboratory to investigate the phenomenology of Kerr-like black holes in modified gravity.  
-
----
-
-## 11. Boson Stars in Bumblebee Gravity and Their Gravitational Waveforms from Extreme-Mass-Ratio Inspirals
-
-**arXiv**: [2512.19581](https://arxiv.org/abs/2512.19581)  
-**Authors**: Mao-Jiang Liu, Long-Xing Huang, Yong-Qiang Wang, Ke Yang  
-**Date**: 24 Dec 2025  
-**Categories**: gr-qc  
-**Type**: new submission  
-
-**Abstract**: Boson Stars in Bumblebee Gravity and Their Gravitational Waveforms from Extreme-Mass-Ratio Inspirals Mao-Jiang Liu, Long-Xing Huang, Yong-Qiang Wang, Ke Yang 25 pages, 12 figures and 3 tables General Relativity and Quantum Cosmology (gr-qc) We investigate the impact of Lorentz violation on the internal structure of mini-boson stars and the resulting gravitational-wave signals from extreme-mass-ratio inspirals (EMRIs) within the framework of bumblebee gravity. Numerical solutions for static, spherically symmetric configurations reveal that a positive Lorentz-violating parameter $\ell$ suppresses repulsive pressure, thereby enhancing gravitational binding and yielding more compact boson stars. Conversely, a negative $\ell$ amplifies repulsive pressure and weakens gravitational binding, such that no static solutions exist beyond a critical negative value. These structural modifications imprint distinct features on EMRI dynamics, characterized by a monotonic decrease in both orbital eccentricity and radial range as $\ell$ increases. Unlike the intermittent bursts from grazing orbits that resemble black-hole signals, penetrating orbits that enter the boson-star core exhibit sustained, amplitude-modulated gravitational-wave signatures without quiet intervals. Their characteristic strain falls within the detectability range of LISA, providing a potential observable for constraining Lorentz violation.  
-
----
-
-## 12. CoBiTS: Single-detector discrimination of binary black hole signals from glitches using deep learning
-
-**arXiv**: [2512.17975](https://arxiv.org/abs/2512.17975)  
-**Authors**: Matthew VanDyke, Kexuan Wu, Sukanta Bose  
-**Date**: 24 Dec 2025  
-**Categories**: astro-ph.IM, astro-ph.HE, gr-qc  
-**Type**: cross-list from astro-ph.IM  
-
-**Abstract**: CoBiTS: Single-detector discrimination of binary black hole signals from glitches using deep learning Matthew VanDyke, Kexuan Wu, Sukanta Bose Instrumentation and Methods for Astrophysics (astro-ph.IM); High Energy Astrophysical Phenomena (astro-ph.HE); General Relativity and Quantum Cosmology (gr-qc) We develop a Conformer neural network, called Conformer Binary neTwork Search, or CoBiTS, for distinguishing binary black hole (BBH) gravitational wave (GW) signals from non-Gaussian and non-stationary noise artifacts in the data from current generation LIGO-Virgo-KAGRA detectors. A large subset of these transient noise artifacts, termed as ``glitches'' for short, trigger BBH search templates. Some of them go on to produce detection candidates and require human vetting, supported by data quality tools, to be correctly identified and vetoed. In its current version, CoBiTS takes as inputs single-detector strain timeseries snippets, claimed by other search pipelines to be containing GW candidates, and outputs the significance of each snippet to contain a BBH signal and a glitch. CoBiTS is shown to be particularly effective in discriminating high-mass BBH signals from blips and scattered light glitches, even when a signal is near concurrent or overlapping with a glitch. The performance of CoBiTS gains from employing Conformer, which is a specialized model that combines convolutional layers and Transformer architecture for sequence modeling tasks. Conformer is especially good at leveraging the strengths of both convolutional layers -- for local feature extraction -- and self-attention layers -- for capturing long-range dependencies.  
-
----
-
-## 13. Robust and scalable simulation-based inference for gravitational wave signals with gaps
-
-**arXiv**: [2512.18290](https://arxiv.org/abs/2512.18290)  
-**Authors**: Ruiting Mao, Jeong Eun Lee, Matthew C. Edwards  
-**Date**: 24 Dec 2025  
-**Categories**: astro-ph.IM, gr-qc  
-**Type**: cross-list from astro-ph.IM  
-
-**Abstract**: Robust and scalable simulation-based inference for gravitational wave signals with gaps Ruiting Mao, Jeong Eun Lee, Matthew C. Edwards Instrumentation and Methods for Astrophysics (astro-ph.IM); General Relativity and Quantum Cosmology (gr-qc); Data Analysis, Statistics and Probability (physics.data-an); Instrumentation and Detectors (physics.ins-det) The Laser Interferometer Space Antenna (LISA) data stream will inevitably contain gaps due to maintenance and environmental disturbances, introducing nonstationarities and spectral leakage that compromise standard frequency-domain likelihood evaluations. We present a scalable Simulation-Based Inference (SBI) framework capable of robust parameter estimation directly from gapped time-series data. We employ Flow Matching Posterior Estimation (FMPE) conditioned on a learned summary of the data, optimized through an end-to-end training strategy. To address the computational challenges of long-duration signals, we propose a dual-pathway summarizer architecture: a 1D Convolutional Neural Network (CNN) operating on the time domain for high precision, and a novel wavelet-based 2D CNN utilizing asymmetric, dilated kernels to achieve scalability for datasets spanning months. We demonstrate the efficacy of this framework on simulated Galactic Binary-like signals, showing that our joint training approach yields tighter, unbiased posteriors compared to two-stage reconstruction pipelines. Furthermore, we provide the first systematic comparison showing that FMPE offers superior stability and coverage calibration over conventional Normalizing Flows in the presence of severe data artifacts.  
-
----
-
-## 14. Nanohertz Gravitational Waves
-
-**arXiv**: [2512.18822](https://arxiv.org/abs/2512.18822)  
-**Authors**: Alberto Sesana, Daniel G. Figueroa  
-**Date**: 24 Dec 2025  
-**Categories**: astro-ph.CO, gr-qc  
-**Type**: cross-list from astro-ph.CO  
-
-**Abstract**: Alberto Sesana, Daniel G. Figueroa 63 pages, 8 figures, to appear in the Annual Reviews of Astronomy and Astrophysics. The authors' ordering follows the astrophysics community standards, which is not necessarily in alphabetical order. Alberto Sesana covered the description of astrophysical GW sources, whereas Daniel G. Figueroa covered the mechanisms generating GWBs in the early Universe Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Quantum Cosmology (gr-qc) Evidence of a gravitational wave (GW) signal has emerged in pulsar timing array (PTA) data, opening a new window into the nanoHz GW Universe. We explore the physics of GW signals potentially explaining the data, with a primary focus on GW backgrounds (GWBs), considering both astrophysical and cosmological origins. We describe how: (i) An astrophysical nanoHz GWB emerges as the superposition of individual signals from inspiralling massive black-hole binaries (MBHBs); (ii) Environment coupling, eccentricity, and sparse sampling, affect the MBHB signal spectrum and statistical properties, causing great uncertainty in theoretical predictions, but simultaneously offering a handle to discriminate a potential astrophysical origin; (iii) PTA data offers unprecedented opportunities to constrain high-energy physics beyond the standard model, by probing early Universe GWBs, originated during or after inflation; (iv) Different early Universe GWBs, typically created by non-linear and out-of-equilibrium dynamics, can explain the PTA data, as e.g. from inflation scenarios, first order phase transitions, or topological defects; (v) The PTA detection of GWs opens a new window to explore the Universe, with profound implications for astrophysics and particle physics, probing e.g. the equation of state of the early Universe, the origin of the cosmological perturbations, the nature of the dark matter, or whether exotic objects like primordial black holes or cosmic strings exist.  
-
----
-
-## 15. Illuminating the Dark Sector: Understanding Modified Gravity Signatures with Cross-Correlations of Gravitational Waves and Large-Scale Structure
-
-**arXiv**: [2512.19186](https://arxiv.org/abs/2512.19186)  
-**Authors**: Chiara De Leo, Guadalupe Cañas-Herrera, Anna Balaudo, Matteo Martinelli, Alessandra Silvestri, Tessa Baker  
-**Date**: 24 Dec 2025  
-**Categories**: astro-ph.CO, gr-qc  
-**Type**: cross-list from astro-ph.CO  
-
-**Abstract**: Illuminating the Dark Sector: Understanding Modified Gravity Signatures with Cross-Correlations of Gravitational Waves and Large-Scale Structure Chiara De Leo, Guadalupe Cañas-Herrera, Anna Balaudo, Matteo Martinelli, Alessandra Silvestri, Tessa Baker 33 pages, 11 figures. Prepared for submission to JCAP Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Quantum Cosmology (gr-qc) We investigate the synergy between large-scale structure (LSS) observations and gravitational wave (GW) events for testing modified gravity. In particular, we forecast the LSS $\times$ GW cross-correlation signal using Stage-IV LSS surveys, such as Euclid, in combination with future detections from the Einstein Telescope. This cross-correlation provides a novel probe of fundamental physics, potentially revealing deviations from the $\Lambda$CDM paradigm that may not be accessible through electromagnetic observations alone. We describe the considered modified gravity scenarios, the relevant LSS and GW observables, and the synthetic forecast methodology. Our results demonstrate that combining LSS and GWs can significantly enhance constraints on departures from General Relativity, opening a new window for multi-messenger cosmology. We further assess the observational requirements GW experiments must meet to improve upon constraints obtainable from LSS alone.  
-
----
-
-## 16. Binary dynamics from Einstein-Maxwell theory at second post-Newtonian order using effective field theory
-
-**arXiv**: [2205.11591](https://arxiv.org/abs/2205.11591)  
-**Authors**: Pawan Kumar Gupta  
-**Date**: 24 Dec 2025  
-**Categories**: gr-qc  
-**Type**: replaced  
-
-**Abstract**: Binary dynamics from Einstein-Maxwell theory at second post-Newtonian order using effective field theory Pawan Kumar Gupta General Relativity and Quantum Cosmology (gr-qc) The detection of gravitational waves from binary black holes sources has opened the possibility to search for electric charges and "dark" charges on black holes, the latter being candidates for dark matter. This requires theoretical predictions about the effect of charges on the inspiral of binary black holes in order to place constraint on charges. The effects of these charges on the inspiral of binary black holes can be described using Einstein-Maxwell theory. They have previously been derived up to first post-Newtonian (1PN) order, and the results were recently used to place bounds on the charge-to-mass ratio on black holes. Here we use the effective field theory approach with a metric parameterization based on a temporal Kaluza-Klein decomposition with non-relativistic gravitational fields to arrive at the Lagrangian for binary motion under the influence of charges up to 2PN order.  
-
----
-
-## 17. Sound waves from primordial black hole formations
-
-**arXiv**: [2504.12243](https://arxiv.org/abs/2504.12243)  
-**Authors**: Zhuan Ning, Xiang-Xi Zeng, Zi-Yan Yuwen, Shao-Jiang Wang, Heling Deng, Rong-Gen Cai  
-**Date**: 24 Dec 2025  
-**Categories**: gr-qc, astro-ph.CO, hep-ph  
-**Type**: replaced  
-
-**Abstract**: Sound waves from primordial black hole formations Zhuan Ning, Xiang-Xi Zeng, Zi-Yan Yuwen, Shao-Jiang Wang, Heling Deng, Rong-Gen Cai v1, two columns, 17 pages, 12 figures, extended long-paper version to the companion Letter arXiv:2504.11275; v2, two columns, 20 pages, 15 figures, 1 table, extended simulations to incorporate more general configurations, conclusions unchanged, version accepted for publication in Physical Review D General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Phenomenology (hep-ph) We present a numerical investigation of primordial black hole (PBH) formation from super-horizon curvature perturbations and the subsequent generation and propagation of sound waves, which can serve as a new source of stochastic gravitational wave backgrounds (SGWBs) presented in a companion letter. Using the Misner-Sharp formalism with an excision technique, our simulations extend to significantly later times than previous work and indicate that the near-critical perturbations produce a distinct compression wave featuring both overdense and underdense shells, while significantly supercritical perturbations yield only an underdense shell. We also show that a softer equation of state suppresses the formation of compression waves. Furthermore, the comoving thickness of sound shells remains nearly constant during propagation and scales with the Hubble radius at horizon re-entry, thereby serving as a key link between the gravitational-wave peak frequency and PBH mass in the companion letter. These results offer new insights into the dynamics of PBH formation and suggest potential observational signatures of PBHs in the gravitational wave (GW) spectrum from associated sound waves.  
-
----
-
-## 18. The Possibility of Formation of Compact Boson Stars via Cosmological Evolution of a Background Scalar Field
-
-**arXiv**: [2505.09159](https://arxiv.org/abs/2505.09159)  
-**Authors**: Yu Miyauchi, Takahiro Tanaka  
-**Date**: 24 Dec 2025  
-**Categories**: gr-qc, astro-ph.CO, hep-ph  
-**Type**: replaced  
-
-**Abstract**: The Possibility of Formation of Compact Boson Stars via Cosmological Evolution of a Background Scalar Field Yu Miyauchi, Takahiro Tanaka 28 pages, 15 figures, Version to be published in JCAP General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Phenomenology (hep-ph) Boson stars, hypothetical astrophysical objects bound by the self-gravity of a scalar field, have been widely studied as a type of exotic compact object that is horizonless and provides a testing ground for physics beyond the Standard Model. In particular, many previous works have demonstrated methods for distinguishing compact boson stars from black holes in general relativity through gravitational wave observations. However, the formation scenario of compact boson stars within the age of the universe remains unclear. In this paper, we explore a possible scenario for the formation of compact boson stars. The model we consider requires two coupled scalar fields: a complex scalar field that forms a boson star and a spatially homogeneous background field, as formation of a compact boson star cannot be achieved in a single filed model. Using the adiabatic approximation, we show that non-relativistic boson clouds can evolve into compact boson stars through the cosmological time-evolution of the background field. In our model the background field evolves to increase the effective mass of the scalar field, and as a result compact boson stars can form within the cosmological timescale, if the variation of the background field is as large as the Planck scale. However, further investigation is required because the required initial states are not the configurations that can be described by the well-studied Schrödinger-Poisson system.  
-
----
-
-## 19. Eccentricity signatures in LIGO-Virgo-KAGRA's BNS and NSBH binaries
-
-**arXiv**: [2508.00179](https://arxiv.org/abs/2508.00179)  
-**Authors**: Keisi Kacanja, Kanchan Soni, Alexander Harvey Nitz  
-**Date**: 24 Dec 2025  
-**Categories**: gr-qc, astro-ph.HE, hep-ph  
-**Type**: replaced  
-
-**Abstract**: Eccentricity signatures in LIGO-Virgo-KAGRA's BNS and NSBH binaries Keisi Kacanja, Kanchan Soni, Alexander Harvey Nitz Published in Phys. Rev. D 112, 122007 (2025) General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE); High Energy Physics - Phenomenology (hep-ph) Measurement of eccentricity in low-mass binary systems through gravitational waves is crucial to distinguish between various formation channels. Detecting eccentricity in these systems is challenging due to a lack of accurate eccentric waveform models and the high computational cost of Bayesian inferences. We access the eccentricities of six previously observed low-mass gravitational wave events using publicly available data from the first four observing runs of the LIGO and Virgo collaboration. We analyze the events using the new eccentric waveform model, SEOBNRv5EHM, and compare our results with the existing model, TEOBResumS-Dali. We also present the first eccentricity constraints for GW190814. To improve accuracy, we include higher-order modes in both models and optimize inference using efficient marginalization and parallelization techniques. We find that GW200105 exhibits non-negligible eccentricity, with a measured eccentricity of $e=0.135^{+0.019}_{-0.088}$ at 20 Hz (90% credible level) for TEOBResumS-Dali and $e=0.125^{+0.029}_{-0.082}$ for SEOBNRv5EHM, given a uniform eccentricity prior from 0 to 0.2. This provides moderate support for the eccentric hypothesis, with a Bayes factor of $\sim6-7$ in favor of the eccentric model. With a uniform log prior on eccentricity, the Bayes factor is reduced to 2.35. The remaining five sources are consistent with low eccentricity, with 90% upper limits from $e \leq 0.011$ to $e \leq 0.066$. We find no support for non-negligible eccentricity in GW190814. Finally, we discuss the challenges of performing Bayesian inference in eccentric, multi-modal parameter spaces, including issues related to sampling efficiency and waveform systematics.  
-
----
-
-## 20. Observing Double White Dwarfs with the Lunar GW Antenna
-
-**arXiv**: [2509.07849](https://arxiv.org/abs/2509.07849)  
-**Authors**: Giovanni Benetti, Marica Branchesi, Jan Harms, Jean-Pierre Zendri  
-**Date**: 24 Dec 2025  
+## 4. Calibration Method of Spacecraft-Inertial Sensor Center-of-Mass Offset for the Taiji Gravitational Wave Detection Mission under Science Mode
+
+**arXiv**: [2512.20468](https://arxiv.org/abs/2512.20468)  
+**Authors**: Haoyue Zhang, Dong Ye, Peng Xu, Li-E Qiang, Ziren Luo  
+**Date**: 25 Dec 2025  
 **Categories**: gr-qc, astro-ph.IM  
-**Type**: replaced  
-
-**Abstract**: Observing Double White Dwarfs with the Lunar GW Antenna Giovanni Benetti, Marica Branchesi, Jan Harms, Jean-Pierre Zendri 20 pages, 13 figures, 4 tables. Paper restructured with unchanged results. Appendices and references added General Relativity and Quantum Cosmology (gr-qc); Instrumentation and Methods for Astrophysics (astro-ph.IM) The Lunar Gravitational Wave Antenna (LGWA) is a proposed gravitational-wave detector that will observe in the decihertz (dHz) frequency region. In this band, binary white dwarf systems are expected to merge, emitting gravitational waves. Detecting this emission opens new perspectives for understanding the Type Ia supernova progenitors and for investigating dense matter physics. In this paper, we present the capabilities of LGWA to detect and localize short-period double white dwarfs in terms of sky locations and distances. The analysis employs realistic spatial distributions and merger rates, as well as binary-mass distributions informed by population-synthesis models. The simulated population of double white dwarfs is generated using the SeBa stellar-evolution code, coupled with dedicated sampling algorithms. The performance of the LGWA detector, both in terms of signal detectability and parameter estimation, is assessed using standard gravitational-wave data analysis techniques, including Fisher matrix methods, as implemented in the GWFish and Legwork codes. The analysis indicates that, over 10 years of observation, LGWA could detect approximately 30 monochromatic Galactic sources and 10 extragalactic mergers, demonstrating the unique potential of decihertz gravitational-wave detectors to access and characterize extragalactic DWD populations. This will open new avenues for understanding Type Ia supernova progenitors and the physics of DWDs.  
-
----
-
-## 21. Gravitational quasinormal modes of Dymnikova black holes
-
-**arXiv**: [2509.24633](https://arxiv.org/abs/2509.24633)  
-**Authors**: Bekir Can Lütfüoğlu, Erdinç Ulaş Saka, Abubakir Shermatov, Inomjon Ibragimov, Javlon Rayimbaev, Sokhibjan Muminov  
-**Date**: 24 Dec 2025  
-**Categories**: gr-qc  
-**Type**: replaced  
-
-**Abstract**: Gravitational quasinormal modes of Dymnikova black holes Bekir Can Lütfüoğlu, Erdinç Ulaş Saka, Abubakir Shermatov, Inomjon Ibragimov, Javlon Rayimbaev, Sokhibjan Muminov 11 pages, 4 figures, and 8 tables General Relativity and Quantum Cosmology (gr-qc) We investigate gravitational quasinormal modes of the Dymnikova black hole, a regular spacetime in which the central singularity is replaced by a de Sitter core. This geometry, originally proposed as a phenomenological model, also arises naturally in the framework of Asymptotically Safe gravity, where quantum corrections lead to a scale-dependent modification of the Schwarzschild solution. Focusing on axial gravitational perturbations, we compute the dominant quasinormal frequencies using the WKB method with Padé approximants and verify the results with time-domain integration. We find that the introduction of the quantum parameter $l_{\rm cr}$ leads to systematic deviations from the Schwarzschild spectrum: the real oscillation frequency decreases as $l_{\rm cr}$ increases, while the damping rate also becomes smaller, implying longer-lived modes. In the limit of large $l_{\rm cr}$, the quasinormal spectrum smoothly approaches the Schwarzschild case. These results suggest that even though the corrections are localized near the horizon, they leave imprints in the gravitational-wave ringdown which may become accessible to observation with future high-precision detectors.  
-
----
-
-## 22. Consistent Regularization of Signature-Changing BTZ Black Holes
-
-**arXiv**: [2512.01486](https://arxiv.org/abs/2512.01486)  
-**Authors**: Farzad Milani  
-**Date**: 24 Dec 2025  
-**Categories**: gr-qc, hep-th  
-**Type**: replaced  
-
-**Abstract**: Consistent Regularization of Signature-Changing BTZ Black Holes Farzad Milani 37 pages, 7 figures (4 composite figures with subpanels, total 10 individual EPS files). Includes 2 appendices General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) Spacetime singularities represent a fundamental challenge in gravitational physics. We present a mathematically consistent framework for signature-changing black holes based on the $(2+1)$-dimensional BTZ metric, where the signature transitions from Lorentzian $(-,+,+)$ to Euclidean $(+,+,+)$ at the horizon. We identify and rectify a critical inconsistency in previous regularization schemes concerning second-order distributional terms $\varepsilon''(r)$, introducing a \emph{modified Hadamard regularization} that respects distribution theory. This produces a vacuum solution free of surface layers and impulsive gravitational waves. Geodesic analysis reveals that radially infalling observers require infinite proper time to reach the horizon, effectively preventing access to the would-be singularity while maintaining finite curvature invariants throughout the spacetime. We further establish the physical robustness of the geometry by demonstrating linear stability against gravitational perturbations, showing that quantum scalar field propagation remains unitary and well-defined across the signature change, and reinterpreting the $r=0$ region as a topological boundary rather than a curvature singularity. Our work establishes atemporality via signature change as a mathematically rigorous mechanism for \emph{singularity avoidance} in black hole spacetimes.  
-
----
-
-## 23. Measuring black hole spins with x-ray reflection spectroscopy: A GRMHD outlook
-
-**arXiv**: [2507.02583](https://arxiv.org/abs/2507.02583)  
-**Authors**: Swarnim Shashank, Askar B. Abdikamalov, Honghui Liu, Abdurakhmon Nosirov, Cosimo Bambi, Indu K. Dihingia, Yosuke Mizuno  
-**Date**: 24 Dec 2025  
-**Categories**: astro-ph.HE, gr-qc  
-**Type**: replaced  
-
-**Abstract**: Measuring black hole spins with x-ray reflection spectroscopy: A GRMHD outlook Swarnim Shashank, Askar B. Abdikamalov, Honghui Liu, Abdurakhmon Nosirov, Cosimo Bambi, Indu K. Dihingia, Yosuke Mizuno 21 pages, 12 figures. v2: refereed version. Supplemental material available at this http URL Phys. Rev. D 112, 123030 (2025) High Energy Astrophysical Phenomena (astro-ph.HE); General Relativity and Quantum Cosmology (gr-qc) X-ray reflection spectroscopy has evolved as one of the leading methods to measure black hole spins. However, the question is whether its measurements are subjected to systematic biases, especially considering the possible discrepancy between the spin measurements inferred with this technique and those from gravitational wave observations. In this work, we use general relativistic magnetohydrodynamic (GRMHD) simulations of thin accretion disks around spinning black holes for modeling the accretion process, and then we simulate NuSTAR observations to test the capability of modern reflection models in recovering the input spins. For the first time, we model the electron density and ionization profiles from GRMHD-simulated disks. Our study reveals that current reflection models work well only for fast-rotating black holes. We model the corona as the base of the jet and we find that reflection models with lamppost emissivity profiles fail to recover the correct black hole spins. Reflection models with broken power-law emissivity profiles perform better. As we increase the complexity of the simulated models, it is more difficult to recover the correct input spins, pointing toward the need to update our current reflection models with more advanced accretion disks and coronal geometries.  
-
----
-
-## 24. Delayed Scaling of Multi-Type Cosmic F- and D-strings in VOS Models
-
-**arXiv**: [2512.16821](https://arxiv.org/abs/2512.16821)  
-**Authors**: Kazuto Nakamura, Masaki Yamada  
-**Date**: 24 Dec 2025  
-**Categories**: hep-ph, astro-ph.CO, gr-qc, hep-th  
-**Type**: replaced  
-
-**Abstract**: Delayed Scaling of Multi-Type Cosmic F- and D-strings in VOS Models Kazuto Nakamura, Masaki Yamada 50 pages, 20 figures; v2: Appendix revised High Energy Physics - Phenomenology (hep-ph); Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) We investigate the velocity-dependent one-scale (VOS) model to the case of one cosmic F-string and two D-strings as color flux tubes in pure Spin($4N$) gauge theory. We analytically calculate the scaling string density as a function of the reconnection probabilities, and confirm our results with numerical calculations. We also determine the timescale at which the string density reaches the scaling regime, and find that for certain values of the reconnection probability, the scaling time can become extremely large, by many orders of magnitude. This leads to a characteristic suppression signature of the gravitational-wave signal at high frequencies, which may become observable in the frequency range of future interferometric gravitational-wave observations.  
-
----
-
-## 25. Deep Learning for Primordial $B$-mode Extraction
-
-**arXiv**: [2512.19577](https://arxiv.org/abs/2512.19577)  
-**Authors**: Eric Guzman, Joel Meyers  
-**Date**: 24 Dec 2025  
-**Categories**: astro-ph.CO, cs.CV, stat.ML  
 **Type**: new submission  
 
-**Abstract**: Deep Learning for Primordial $B$-mode Extraction Eric Guzman, Joel Meyers 12 pages, 8 figures. Code available from this https URL Cosmology and Nongalactic Astrophysics (astro-ph.CO); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (stat.ML) The search for primordial gravitational waves is a central goal of cosmic microwave background (CMB) surveys. Isolating the characteristic $B$-mode polarization signal sourced by primordial gravitational waves is challenging for several reasons: the amplitude of the signal is inherently small; astrophysical foregrounds produce $B$-mode polarization contaminating the signal; and secondary $B$-mode polarization fluctuations are produced via the conversion of $E$ modes. Current and future low-noise, multi-frequency observations enable sufficient precision to address the first two of these challenges such that secondary $B$ modes will become the bottleneck for improved constraints on the amplitude of primordial gravitational waves. The dominant source of secondary $B$-mode polarization is gravitational lensing by large scale structure. Various strategies have been developed to estimate the lensing deflection and to reverse its effects the CMB, thus reducing confusion from lensing $B$ modes in the search for primordial gravitational waves. However, a few complications remain. First, there may be additional sources of secondary $B$-mode polarization, for example from patchy reionization or from cosmic polarization rotation. Second, the statistics of delensed CMB maps can become complicated and non-Gaussian, especially when advanced lensing reconstruction techniques are applied. We previously demonstrated how a deep learning network, ResUNet-CMB, can provide nearly optimal simultaneous estimates of multiple sources of secondary $B$-mode polarization. In this paper, we show how deep learning can be applied to estimate and remove multiple sources of secondary $B$-mode polarization, and we further show how this technique can be used in a likelihood analysis to produce nearly optimal, unbiased estimates of the amplitude of primordial gravitational waves.  
+**Abstract**: Calibration Method of Spacecraft-Inertial Sensor Center-of-Mass Offset for the Taiji Gravitational Wave Detection Mission under Science Mode Haoyue Zhang, Dong Ye, Peng Xu, Li-E Qiang, Ziren Luo 15 pages, 12 figures, Calibration study for the Taiji gravitational-wave mission in science mode General Relativity and Quantum Cosmology (gr-qc); Instrumentation and Methods for Astrophysics (astro-ph.IM); Instrumentation and Detectors (physics.ins-det) Accurately calibrating the center-of-mass (CoM) offset between the spacecraft (SC) and the inertial sensor test mass (TM) is crucial for space-based gravitational-wave (GW) antennas, such as LISA and Taiji. Current calibration methods require additional spacecraft maneuvers that disrupt science data continuity and inter-satellite links, compromising the coherence of gravitational wave signals. Here, we present a maneuver-free calibration scheme that directly estimates the CoM offset vector using only standard science-mode measurements from inertial sensors, interferometers, and differential wavefront sensors. By embedding the CoM offset induced coupling acceleration as an extended state in a model-based adaptive Kalman filter, we achieve estimation accuracy of 0.01-1.5 mm across all axes with a maximum error below 1%. This approach enables continuous, high-precision calibration during nominal observation runs, ensuring continuous and coherent gravitational wave data collection while maintaining the required precision, and also facilitating advanced DFACS functions such as performance evaluations and fault diagnosis. For LISA-like missions, where data continuity is paramount for detecting faint gravitational wave signals, this method will enhance scientific output and reliability.  
 
 ---
 
-## 26. Standard Sirens in 2040s: Probing the Cosmic Expansion History with Gravitational Waves and Spectroscopic Galaxy Surveys
+## 5. Spin-induced quadrupole moment based test for eccentric binaries
 
-**arXiv**: [2512.18369](https://arxiv.org/abs/2512.18369)  
-**Authors**: Nicola Borghi, Michele Moresco, Richard I. Anderson, Carmelita Carbone, Andrea Cimatti, Stephanie Escoffier, Carlo Giocoli, Sean MacBride, Fatemeh Zahra Majidi, Dinko Milaković, Lauro Moscardini, Lucia Pozzetti, Margherita Talia, Elena Tomasetti  
-**Date**: 24 Dec 2025  
-**Categories**: astro-ph.IM, astro-ph.CO, astro-ph.GA  
-**Type**: cross-list from astro-ph.IM  
+**arXiv**: [2512.20579](https://arxiv.org/abs/2512.20579)  
+**Authors**: N. V. Krishnendu  
+**Date**: 25 Dec 2025  
+**Categories**: gr-qc  
+**Type**: new submission  
 
-**Abstract**: Standard Sirens in 2040s: Probing the Cosmic Expansion History with Gravitational Waves and Spectroscopic Galaxy Surveys Nicola Borghi, Michele Moresco, Richard I. Anderson, Carmelita Carbone, Andrea Cimatti, Stephanie Escoffier, Carlo Giocoli, Sean MacBride, Fatemeh Zahra Majidi, Dinko Milaković, Lauro Moscardini, Lucia Pozzetti, Margherita Talia, Elena Tomasetti White Paper submitted to "ESO Expanding Horizons: Transforming Astronomy in the 2040s" Instrumentation and Methods for Astrophysics (astro-ph.IM); Cosmology and Nongalactic Astrophysics (astro-ph.CO); Astrophysics of Galaxies (astro-ph.GA) Gravitational waves (GWs) from compact binary coalescences have matured into a robust cosmological probe, providing self-calibrated luminosity distance measurements independent of any cosmic distance ladder, hence the term "standard sirens". The binary neutron star merger GW170817 delivered the first such measurement of the Hubble constant, demonstrating that GWs offer a path to precision cosmology with systematics orthogonal to standard cosmological probes. To convert GW distances into cosmological parameters, redshift information is essential. To maximize the scientific potential, the redshift must be obtained from individual galaxies, either by identifying electromagnetic counterparts of GW events (bright sirens) or by statistically associating potential hosts within the GW localization volume (dark sirens). The precision of these redshifts sets the achievable accuracy. Forecasts show that photometric uncertainties degrade cosmological constraints by up to an order of magnitude compared to spectroscopic ones. Wide-field, high-multiplex spectroscopic facilities will therefore be an essential infrastructure for GW cosmology in the 2040s.  
+**Abstract**: Spin-induced quadrupole moment based test for eccentric binaries N. V. Krishnendu General Relativity and Quantum Cosmology (gr-qc) The spin-induced quadrupole moment-based test of black hole nature is routinely used to probe the true nature of detected binary signals, assuming a circular orbit. We extend the applicability of the method to binaries in eccentric orbits. Considering simulated signals of varying masses, spins, and signal strengths, we demonstrate how the systematic errors resulting from neglecting orbital eccentricity compare with the statistical errors, using a semi-analytic Fisher matrix-based formalism that accounts for both current and future detectors. Further, we quantify the systematic errors by developing a Bayesian inference framework for the current detector network. The inspiral-only aligned spin gravitational wave waveform model for eccentric binaries, TaylorF2Ecc, is employed. For the current detector network, neglecting an initial eccentricity of $e_0^{\rm inj}=0.1$ defined at $20\,\mathrm {Hz} $ can lead to a serious bias in binary parameter inference. Notably, a nearly equal-mass, moderately spinning binary black hole in an eccentric orbit can be identified as a non-black hole binary with extreme spins and asymmetric masses. We demonstrate the criticality of biased estimates that may arise when neglecting the orbital eccentricity while performing tests of black hole nature and discuss prospects.  
 
 ---
 
-## 27. Echoes from the dark: Galaxy catalog incompleteness in standard siren cosmology
+## 6. Stable mass transfer in massive binaries leading to merging black holes
 
-**arXiv**: [2509.18243](https://arxiv.org/abs/2509.18243)  
-**Authors**: Nicola Borghi, Michele Moresco, Matteo Tagliazucchi, Giulia Cuomo  
-**Date**: 24 Dec 2025  
+**arXiv**: [2512.20054](https://arxiv.org/abs/2512.20054)  
+**Authors**: Xiao-Tian Xu, Norbert Langer, Jakub Klencki, Chen Wang, Xiang-Dong Li  
+**Date**: 25 Dec 2025  
+**Categories**: astro-ph.SR, astro-ph.HE, gr-qc  
+**Type**: cross-list from astro-ph.SR  
+
+**Abstract**: Stable mass transfer in massive binaries leading to merging black holes Xiao-Tian Xu, Norbert Langer, Jakub Klencki, Chen Wang, Xiang-Dong Li Solar and Stellar Astrophysics (astro-ph.SR); High Energy Astrophysical Phenomena (astro-ph.HE); General Relativity and Quantum Cosmology (gr-qc) The vast majority of massive binary systems in the universe is evidently unsuited to produce merging binary black holes. However, several narrow evolutionary paths of isolated massive binaries towards this goal have recently been identified. Due to the high degree of simplification and assumptions applied in previous modelling of these paths, conclusions remained vague so far. For one of these paths, the stable mass transfer channel, we now construct detailed binary evolution models which include internal differential rotation as well as mass and angular momentum transfer between the stars, all the way from the zero-age main sequence to the formation of the black holes, only skipping the rapid late burning stages. This allows us to follow the mass and chemical structure evolution of the mass accreting component, which turns out to have a key influence on the phase of reverse mass transfer, that allows the obtained black hole spins and mass ratios to naturally fall into the regime observed for the gravitational-wave source in the 10--25$M_\odot$ primary black hole mass range. As for this channel, also a large number of progenitor binaries are known, we conclude that it likely contributes to the observed population of gravitational wave sources.  
+
+---
+
+## 7. A non-compact QCD axion
+
+**arXiv**: [2512.20290](https://arxiv.org/abs/2512.20290)  
+**Authors**: Georgios K. Karananas, Mikhail Shaposhnikov, Sebastian Zell  
+**Date**: 25 Dec 2025  
+**Categories**: hep-ph, astro-ph.CO, gr-qc, hep-th  
+**Type**: cross-list from hep-ph  
+
+**Abstract**: Georgios K. Karananas, Mikhail Shaposhnikov, Sebastian Zell High Energy Physics - Phenomenology (hep-ph); Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) We investigate the cosmology of an axion that is fundamentally non-compact. During inflation, fluctuations of the effectively massless field populate many QCD vacua, thereby evading conventional isocurvature constraints while generating domain walls -- without accompanying cosmic strings. A small non-QCD contribution to the axion potential is required to trigger the timely collapse of domain walls; as a consequence, a residual amount of CP violation in the strong sector must exist, potentially within reach of planned experiments. Non-compact axions can account for the entirety of the dark matter abundance, and the collapse of domain walls sources a stochastic gravitational-wave background at nanohertz frequencies. Such axion dynamics can be embedded in top-down constructions -- such as Weyl-invariant Einstein-Cartan gravity -- where the tilting of the axion potential arises automatically.  
+
+---
+
+## 8. Supertranslation in the bulk for generic spacetime
+
+**arXiv**: [2512.20331](https://arxiv.org/abs/2512.20331)  
+**Authors**: Pujian Mao  
+**Date**: 25 Dec 2025  
+**Categories**: hep-th, gr-qc  
+**Type**: cross-list from hep-th  
+
+**Abstract**: Supertranslation in the bulk for generic spacetime Pujian Mao High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc) Supertranslations are usually defined as asymptotic symmetries associated with spacetime boundaries, such as null infinity and black hole horizons. In this Letter, we show that supertranslations admit a natural, coordinate-independent extension into the bulk of spacetime, realized as transitions between families of null hypersurfaces. This construction applies to generic spacetimes in arbitrary dimensions and unifies the realizations of supertranslations at null infinity and black hole horizons. The associated symmetry algebra can be realized by light-ray operators defined on the null hypersurface. Within this framework, the gravitational wave memory effect corresponds to a shift of null hypersurfaces in the bulk. As explicit examples, we compute bulk supertranslations in Minkowski spacetime in arbitrary dimensions and in four-dimensional Schwarzschild spacetime, where we uncover a novel curvature-induced memory effect with observable consequences for light propagation.  
+
+---
+
+## 9. From Cosmology to Cosmonomy
+
+**arXiv**: [2512.20416](https://arxiv.org/abs/2512.20416)  
+**Authors**: Emmanuel N. Saridakis  
+**Date**: 25 Dec 2025  
+**Categories**: astro-ph.CO, gr-qc  
+**Type**: cross-list from astro-ph.CO  
+
+**Abstract**: Conceptual and epistemological analysis of modern precision cosmology as a data-driven, law-based science (termed "cosmonomy''), addressed to the cosmology community and historians/philosophers of science Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Quantum Cosmology (gr-qc); History and Philosophy of Physics (physics.hist-ph) For most of its history, cosmology was a qualitatively constrained discourse on the universe, shaped by limited observational access and the absence of global dynamical laws. This situation has changed decisively in recent decades. Modern cosmology is now driven by an unprecedented flow of high-precision data from a wide range of independent probes, including the cosmic microwave background, large-scale structure, supernovae, baryon acoustic oscillations, gravitational lensing, cosmic chronometers, redshift-space distortions, gravitational-wave standard sirens, and emerging 21-cm observations, among others. This observational wealth is matched by a concrete theoretical and mathematical framework, based on general relativity, which provides the dynamical equations governing the evolution of spacetime and matter at cosmic scales. Combined with explicit background and perturbative equations, this framework enables quantitative, predictive, and falsifiable descriptions of cosmic evolution. Thus, cosmology operates today as a nomological natural science of the observable universe, characterized by general laws, predictive power, and systematic empirical testing. We argue that this epistemic transformation motivates a corresponding conceptual shift, directly analogous to the historical transition from astrology to astronomy. In this sense, the transition from cosmology to \emph{cosmonomy} should begin to be discussed among cosmologists, or, more precisely, among cosmonomers.  
+
+---
+
+## 10. Signatures of High-Frequency Gravitational Waves in Electromagnetic Cavities
+
+**arXiv**: [2512.20592](https://arxiv.org/abs/2512.20592)  
+**Authors**: Sebastian Schenk, Kristof Schmieden, Pedro Schwaller  
+**Date**: 25 Dec 2025  
+**Categories**: hep-ph, astro-ph.CO, gr-qc, hep-ex  
+**Type**: cross-list from hep-ph  
+
+**Abstract**: Signatures of High-Frequency Gravitational Waves in Electromagnetic Cavities Sebastian Schenk, Kristof Schmieden, Pedro Schwaller High Energy Physics - Phenomenology (hep-ph); Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Experiment (hep-ex) Similar to axions, gravitational waves (GW) can induce oscillating electromagnetic fields inside electromagnetic cavities. We explore their experimental sensitivity to monochromatic and non-monochromatic GW signals, using the total deposited energy as a primary measure. Focusing on cylindrical and spherical cavities, we present the coupling coefficients of GWs to the dominant electromagnetic resonances in transverse-traceless gauge, which is most appropriate in this regime. By considering the superposition of degenerate modes, we further examine their angular sensitivity. In addition, we calculate the response of a spherical cavity to non-monochromatic GWs emitted by primordial black hole mergers. We find that, for transient signals, a high quality factor with $Q \gtrsim 10^5$ does not necessarily enhance experimental sensitivity. In fact, even in the most optimistic scenario, only mergers within the solar system yield an observable energy deposit in the cavity.  
+
+---
+
+## 11. Observational constraints on the spin/anisotropy of the CCOs of Cassiopeia A, Vela Jr. and G347.3-0.5 and a single surviving continuous gravitational wave candidate
+
+**arXiv**: [2512.15672](https://arxiv.org/abs/2512.15672)  
+**Authors**: Jing Ming, Maria Alessandra Papa, Heinz-Bernd Eggenstein, Bernd Machenschalk, J. Martins, B. Steltner, B. McGloughlin, V. Dergachev, R. Prix, M. Bensch  
+**Date**: 25 Dec 2025  
+**Categories**: gr-qc, hep-ph  
+**Type**: replaced  
+
+**Abstract**: Observational constraints on the spin/anisotropy of the CCOs of Cassiopeia A, Vela Jr. and G347.3-0.5 and a single surviving continuous gravitational wave candidate Jing Ming, Maria Alessandra Papa, Heinz-Bernd Eggenstein, Bernd Machenschalk, J. Martins, B. Steltner, B. McGloughlin, V. Dergachev, R. Prix, M. Bensch General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Phenomenology (hep-ph) We carry out the deepest and broadest search for continuous gravitational-wave signals with frequencies between 20-1500 Hz, from three neutron stars at the center of the supernova remnants Cassiopeia A, Vela Jr., and G347.3-0.5. This search was made possible by the computing power shared by thousands of Einstein@Home volunteers. After the initial Einstein@Home search, we perform a multi-stage follow-up of the most promising $\approx$ 45 million signal candidates. In the last stages, we use independent data to further investigate the remaining candidates from the previous stages. We set the most stringent constraints to date on the gravitational-wave amplitude, equatorial ellipticity, r-mode saturation amplitude, and -- for the first time -- the neutron-star crustal anisotropy. For spin periods lower than 2 ms we constrain the ellipticity to be smaller than $4\times 10^{-7}$ for all targets. We exclude the crustal anisotropy to be smaller than $5\times 10^{-3}$ for spin periods between 1.3-100 ms. Only one candidate -- from the low frequency G347.3 search -- survives all follow-ups. We illustrate properties of this candidate. Investigations on new data will aid in clarifying its nature. Such ``new" data exists and would be optimal for this purpose, but they are not publicly accessible at the time of writing.  
+
+---
+
+## 12. Scalar-Induced Gravitational Waves from self-resonant preheating in $α$-attractor models
+
+**arXiv**: [2504.17602](https://arxiv.org/abs/2504.17602)  
+**Authors**: Daniel del-Corral, Paolo Gondolo, K. Sravan Kumar, João Marto  
+**Date**: 25 Dec 2025  
+**Categories**: astro-ph.CO, gr-qc, hep-th  
+**Type**: replaced  
+
+**Abstract**: Scalar-Induced Gravitational Waves from self-resonant preheating in $α$-attractor models Daniel del-Corral, Paolo Gondolo, K. Sravan Kumar, João Marto Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) After the inflationary phase, the universe enters the preheating phase, during which the inflaton field rolls down its potential and oscillates. When the potential significantly deviates from a parabolic shape at its minimum, these oscillations trigger an instability in the scalar perturbations, leading to their amplification. This phenomenon, known as self-resonance, has important implications in cosmology. Notably, since scalar perturbations couple to tensor perturbations at second order in the equations of motion, this amplification results in the production of Gravitational Waves (GWs), referred to as Scalar-Induced Gravitational Waves (SIGWs). In this study, we investigate the production of SIGWs during the preheating phase for a class of inflationary models known as $\alpha$-attractors, characterized by a single parameter $\alpha$. We focus on small values of this parameter, specifically $\alpha \sim O(10^{-1} - 10^{-4})$, where the self-resonance effect is particularly pronounced. We obtain lower bounds on this parameter, $\log_{10}(\alpha)>-3.54$ for the T-model and $\log_{10}(\alpha)>-3.17$ for the E-model, based on the energy density of SIGWs constrained by Big Bang nucleosynthesis, which ultimately translates into lower bounds on the tensor-to-scalar ratio, $r>9.61\times10^{-7}$ for the T-model and $r>2.25\times10^{-6}$ for the E-model. Note that these bounds on $\alpha$ and $r$ are derived within the linear framework of tensor fluctuations at the level of equations of motion, which nevertheless include scalar-scalar-tensor interactions with metric and matter fields. However, fully non-linear approaches, with all higher-order metric fluctuations, would be needed in the future to further validate these conclusions.  
+
+---
+
+## 13. Multifaceted Supercooling: From PTA to LIGO
+
+**arXiv**: [2506.21397](https://arxiv.org/abs/2506.21397)  
+**Authors**: Satyabrata Datta, Rome Samanta  
+**Date**: 25 Dec 2025  
+**Categories**: hep-ph, astro-ph.CO, gr-qc  
+**Type**: replaced  
+
+**Abstract**: Multifaceted Supercooling: From PTA to LIGO Satyabrata Datta, Rome Samanta 27 pages, 11 figures, added new Appendix A on temperature-dependent relativistic degrees of freedom; revised Appendices B and C; updated discussion and references, matches the JHEP version High Energy Physics - Phenomenology (hep-ph); Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Quantum Cosmology (gr-qc) Supercooled phase transitions, as predicted, e.g., in near-conformal and confining extensions of the Standard Model (SM), are established sources of strong stochastic gravitational wave backgrounds (SGWBs). In this work, we investigate another facet of such transitions: their significant and largely uncharted impact on gravitational wave spectra originating from independent cosmological sources. Focusing on gravitational waves produced by a metastable cosmic string network, we show that an intervening supercooled phase, initiating thermal inflation, can reshape and suppress the high-frequency part of the spectrum. This mechanism reopens regions of string parameter space previously excluded by LIGO's null results, while remaining compatible with the nanohertz SGWB signal reported by pulsar timing arrays (PTAs). The resulting total spectrum typically exhibits a dual-component structure, sourced by both string decay and the phase transition itself, rendering the scenario observationally distinctive. We systematically classify the viable parameter space and identify regions accessible to upcoming detectors such as Advanced LIGO, LISA, and ET.  
+
+---
+
+## 14. Cosmological consequences of spontaneous symmetry breaking
+
+**arXiv**: [2512.20474](https://arxiv.org/abs/2512.20474)  
+**Authors**: Giacomo Ferrante  
+**Date**: 25 Dec 2025  
+**Categories**: hep-ph, astro-ph.CO  
+**Type**: cross-list from hep-ph  
+
+**Abstract**: Cosmological consequences of spontaneous symmetry breaking Giacomo Ferrante PhD thesis; 171 pages, 21 figures High Energy Physics - Phenomenology (hep-ph); Cosmology and Nongalactic Astrophysics (astro-ph.CO) The Standard Model of particle physics and the $\Lambda$CDM model of cosmology provide an incomplete description of our Universe. Both models face challenges, including explaining the nature of dark matter, the origin of the Universe's initial conditions, and the fine-tuning of the Higgs boson mass. This thesis investigates the cosmological implications of spontaneous symmetry breaking to address some of these issues, focusing on theories with a non-trivial vacuum structure. We introduce a novel class of elementary scalars called ''accidents'', which emerge as accidentally flat directions in the vacuum manifold: unlike Nambu-Goldstone boson directions, accident directions are not related to any symmetry. Radiative corrections induce a mass for the accidents that is one-loop suppressed with respect to naive expectations, making them naturally light. We propose that accidents can act as viable dark matter candidates, and as the inflaton driving cosmic inflation. We construct a model of hybrid inflation in which the inflaton potential is an accident direction and is naturally flat. In models of accident inflation where the vacuum manifold has a non-trivial topology, cosmic strings and domain walls form after the end of inflation. Such topological defects generate a stochastic background of gravitational waves. Finally, we investigate the cosmological production of dark magnetic monopoles. Focusing on 't Hooft-Polyakov monopoles from SO(3)$\rightarrow$SO(2) symmetry breaking, we explore both second-order and first-order phase transitions, and we identify the regions of parameter space where the monopole relic density matches the one of dark matter. This model also features stable massive gauge bosons. We find that the relic density of dark gauge bosons is always far larger than the one of monopoles, concluding that dark monopoles cannot constitute a sizeable fraction of dark matter.  
+
+---
+
+## 15. Full-sky Models of Galactic Microwave Emission and Polarization at Sub-arcminute Scales for the Python Sky Model
+
+**arXiv**: [2502.20452](https://arxiv.org/abs/2502.20452)  
+**Authors**: The Pan-Experiment Galactic Science Group: Julian Borrill, Susan E. Clark, Jacques Delabrouille, Andrei V. Frolov, Shamik Ghosh, Brandon S. Hensley, Monica D. Hicks, Nicoletta Krachmalnicoff, King Lau, Myra M. Norton, Clement Pryke, Giuseppe Puglisi, Mathieu Remazeilles, Elisa Russier, Benjamin Thorne, Jian Yao, Andrea Zonca  
+**Date**: 25 Dec 2025  
 **Categories**: astro-ph.CO, astro-ph.GA  
 **Type**: replaced  
 
-**Abstract**: Echoes from the dark: Galaxy catalog incompleteness in standard siren cosmology Nicola Borghi, Michele Moresco, Matteo Tagliazucchi, Giulia Cuomo 14 pages, 9 figures, 2 tables. Accepted for publication in A&A. \mathtt{CHIMERA} is available at this https URL Cosmology and Nongalactic Astrophysics (astro-ph.CO); Astrophysics of Galaxies (astro-ph.GA) Gravitational wave observations can be combined with galaxy catalogs to constrain cosmology and test modified gravity theories using the standard siren method. However, galaxy catalogs are intrinsically incomplete due to observational limitations, potentially leaving host galaxies undetected, thereby weakening constraints and potentially introducing systematic errors. In this work, we present a self-consistent framework to study catalog incompleteness and host weighting effects, implemented in the publicly available CHIMERA pipeline. We obtain joint cosmological and astrophysical population constraints from 100 binary black hole (BBH) events in a LIGO-Virgo-KAGRA O5-like configuration using spectroscopic galaxy catalogs with varying completeness levels and stellar-mass host weighting schemes. We find percent-level constraints on $H_0$ with complete catalogs, reaching precisions of 1.6%, 1.3%, and 0.9% for constant, linear, and quadratic mass weighting, respectively. As completeness decreases, the precision degrades following a sigmoid trend, with a threshold and steepness that increase for stronger weightings. Simultaneously, the correlation between $H_0$ and the BBH population mass scale increases, making results more sensitive to assumptions about the astrophysical population. Remarkably, 2% precision remains achievable even when catalogs contain only 50% of the potential host galaxies within the gravitational wave detection horizon, while 1% precision requires host probabilities scaling with stellar mass squared. The results are robust against host weighting mismodeling, even at moderate completeness levels. This work further highlights the importance of spectroscopic galaxy surveys in standard siren cosmology and provides a pathway for developing the science case of future facilities.  
+**Abstract**: Full-sky Models of Galactic Microwave Emission and Polarization at Sub-arcminute Scales for the Python Sky Model The Pan-Experiment Galactic Science Group: Julian Borrill, Susan E. Clark, Jacques Delabrouille, Andrei V. Frolov, Shamik Ghosh, Brandon S. Hensley, Monica D. Hicks, Nicoletta Krachmalnicoff, King Lau, Myra M. Norton, Clement Pryke, Giuseppe Puglisi, Mathieu Remazeilles, Elisa Russier, Benjamin Thorne, Jian Yao, Andrea Zonca Updated to match version published in ApJ. 35 pages, 15 figures. A supplement describing author contributions to this paper can be found at this https URL The Astrophysical Journal, Volume 991, Issue 1, id.23, 2025 Cosmology and Nongalactic Astrophysics (astro-ph.CO); Astrophysics of Galaxies (astro-ph.GA) Polarized foreground emission from the Galaxy is one of the biggest challenges facing current and upcoming cosmic microwave background (CMB) polarization experiments. We develop new models of polarized Galactic dust and synchrotron emission at CMB frequencies that draw on the latest observational constraints, that employ the ``polarization fraction tensor'' framework to couple intensity and polarization in a physically motivated way, and that allow for stochastic realizations of small-scale structure at sub-arcminute angular scales currently unconstrained by full-sky data. We implement these models into the publicly available Python Sky Model (PySM) software and additionally provide PySM interfaces to select models of dust and CO emission from the literature. We characterize the behavior of each model by quantitatively comparing it to observational constraints in both maps and power spectra, demonstrating an overall improvement over previous PySM models. Finally, we synthesize models of the various Galactic foreground components into a coherent suite of three plausible microwave skies that span a range of astrophysical complexity allowed by current data.  
 
 ---
 
-## 28. Is Dark Energy Changing? Probing the Universe's Expansion with present and future astronomical probes
+## 16. New and updated timing models for seven young energetic X-ray pulsars, including the Big Glitcher PSR J0537-6910
 
-**arXiv**: [2510.09766](https://arxiv.org/abs/2510.09766)  
-**Authors**: Mehdi Rezaei, Supriya Pan, Weiqiang Yang, David F. Mota  
-**Date**: 24 Dec 2025  
-**Categories**: astro-ph.CO  
-**Type**: replaced  
+**arXiv**: [2512.19800](https://arxiv.org/abs/2512.19800)  
+**Authors**: Wynn C. G. Ho, Lucien Kuiper, Cristobal M. Espinoza, Timothy Leon, Bennett Waybright, Sebastien Guillot, Zaven Arzoumanian, Slavko Bogdanov, Alice K. Harding  
+**Date**: 25 Dec 2025  
+**Categories**: astro-ph.HE, astro-ph.SR  
+**Type**: new submission  
 
-**Abstract**: Is Dark Energy Changing? Probing the Universe's Expansion with present and future astronomical probes Mehdi Rezaei, Supriya Pan, Weiqiang Yang, David F. Mota 8 figures and 4 tables, accepted for publication in APJ The Astrophysical Journal, 995:164 (16pp), 2025 December 20 Cosmology and Nongalactic Astrophysics (astro-ph.CO) This study explores the possibility of a time-varying dark energy (DE) equation of state (EoS) deviating from -1. We employ a comprehensive dataset of usual astronomical probes (Type Ia supernovae, baryon acoustic oscillations, Big Bang nucleosynthesis, Hubble data, and Planck 2018 CMB) alongside future mock gravitational wave (GW) distance measurements from the Einstein Telescope. We utilize the Pad'e approximation, a versatile framework encompassing well-known DE models like constant EoS, Chevallier-Polarski-Linder parametrization and other time-evolving DE parametrizations. Within Pad'e parametrization, we examine three specific forms (Pad'e-I, SPad'e-I, Pad'e-II) applied to both spatially flat and non-flat universes. Pad'e-II exhibits particularly interesting features in terms of the evidence of dynamical DE at many standard deviations. Our results can be summarized as follows. Flat Universe: When analyzing the combined dataset of standard probes (including CMB) with Pad'e-II in a flat universe, we find a strong preference (6.4{\sigma}) for a dynamical (time-varying) DE EoS. This preference remains significant (4.7{\sigma}) even when incorporating future GW data. Non-Flat Universe: In a non-flat universe, the combined standard datasets (without or with CMB) also indicate dynamical DE EoS at a high confidence level (6.2{\sigma} and 6.4{\sigma}, respectively). The addition of GW data slightly reduces the evidence (3.8{\sigma} and 5.1{\sigma}, respectively), but the preference persists. These results collectively suggest a robust case for dynamical DE in the dark sector. While a non-flat universe is not strongly favored, Pad'e-II hints at a possible closed universe when CMB data is included (with or without GW data).  
-
----
-
-## 29. Boosted dark matter from primordial black holes produced in a first-order phase transition
-
-**arXiv**: [2212.13035](https://arxiv.org/abs/2212.13035)  
-**Authors**: Danny Marfatia, Po-Yan Tseng  
-**Date**: 24 Dec 2025  
-**Categories**: hep-ph, astro-ph.CO, hep-ex  
-**Type**: replaced  
-
-**Abstract**: Boosted dark matter from primordial black holes produced in a first-order phase transition Danny Marfatia, Po-Yan Tseng 14 pages, 2 figures, 1 table. Bug fixed. Conclusions unchanged High Energy Physics - Phenomenology (hep-ph); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Experiment (hep-ex) During a cosmological first-order phase transition in a dark sector, fermion dark matter particles $\chi$ can form macroscopic Fermi balls that collapse to primordial black holes (PBHs) under certain conditions. The evaporation of the PBHs produces a boosted $\chi$ flux, which may be detectable if $\chi$ couples to visible matter. We consider the interaction of $\chi$ with electrons, and calculate signals of the dark matter flux in the XENON1T, XENONnT, Super-Kamiokande and Hyper-Kamiokande experiments. A correlated gravitational wave signal from the phase transition can be observed at THEIA and $\mu$Ares. An amount of dark radiation measurable by CMB-S4 is an epiphenomenon of the phase transition.  
+**Abstract**: New and updated timing models for seven young energetic X-ray pulsars, including the Big Glitcher PSR J0537-6910 Wynn C. G. Ho, Lucien Kuiper, Cristobal M. Espinoza, Timothy Leon, Bennett Waybright, Sebastien Guillot, Zaven Arzoumanian, Slavko Bogdanov, Alice K. Harding 16 pages, 17 figures; accepted for publication in MNRAS High Energy Astrophysical Phenomena (astro-ph.HE); Solar and Stellar Astrophysics (astro-ph.SR) We present new timing models and update our previous ones for the rotational evolution of seven young energetic pulsars, including four of the top five in spin-down luminosity Edot among all known pulsars. For each of the six pulsars that were monitored on a regular basis by NICER, their rotation phase-connected timing model covers the entire period of NICER observations, in many cases from 2017-2025. For PSR J0058-7218, which was only identified in 2021, we extend the baseline of its timing model by 3 years and report detections of its first three glitches. The timing model for PSR J0537-6910 over the entire 8 years of NICER monitoring is presented, including a total of 23 glitches; we also report its spin frequency and pulsed spectrum from a 2016 NuSTAR observation. For PSR B0540-69, its complete timing model from 2015-2025 is provided, including a braking index evolution from near 0 to 1.6 during this period. The 8-year timing model for PSR J1412+7922 (also known as Calvera) is reported, which includes a position that is consistent with that measured from imaging. For PSR J1811-1925, we present its 3.5-year timing model. For PSR J1813-1749, its incoherent timing model is extended through early 2025 using new Chandra observations. For PSR J1849-0001, its 7-year timing model is provided, including a position that is consistent with and more accurate than its imaging position and its first glitch that is one of the largest ever measured. Our timing models of these seven X-ray pulsars enable their study at other energies and in gravitational wave data.  
 
 ---
 
-## 30. Searches for Prompt Low-Frequency Radio Counterparts to Gravitational Wave Event S250206dm with the OVRO-LWA Time Machine
+## 17. Lense-Thirring Precession Modulates Repeated Lensing of Continues Gravitational Wave Source from AGN Disks
 
-**arXiv**: [2512.18543](https://arxiv.org/abs/2512.18543)  
-**Authors**: Nikita Kosogorov, Gregg Hallinan, Casey Law, Jack Hickish, Jayce Dowell, Kunal P. Mooley, Marin M. Anderson, Judd D. Bowman, Ruby Byrne, Morgan Catha, Bin Chen, Xingyao Chen, Sherry Chhabra, Larry D'Addario, Ivey Davis, Katherine Elder, Dale Gary, Charlie Harnach, Greg Hellbourg, Rick Hobbs, David Hodge, Mark Hodges, Yuping Huang, Andrea Isella, Daniel C. Jacobs, Ghislain Kemby, John T. Klinefelter, Matthew Kolopanis, James Lamb, Nivedita Mahesh, Surajit Mondal, Brian O'Donnell, Kathryn Plant, Corey Posner, Travis Powell, Vinand Prayag, Andres Rizo, Andrew Romero-Wolf, Jun Shi, Greg Taylor, Jordan Trim, Mike Virgin, Akshatha Vydula, Sandy Weinreb, Scott White, David Woody, Sijie Yu, Thomas Zentmeyer, Peijin Zhang  
-**Date**: 24 Dec 2025  
+**arXiv**: [2506.04196](https://arxiv.org/abs/2506.04196)  
+**Authors**: Yu-Zhe Li, Wen-Long Xu, Yi-Gu Chen, Wei-Hua Lei  
+**Date**: 25 Dec 2025  
 **Categories**: astro-ph.HE  
-**Type**: new submission  
-
-**Abstract**: Searches for Prompt Low-Frequency Radio Counterparts to Gravitational Wave Event S250206dm with the OVRO-LWA Time Machine Nikita Kosogorov, Gregg Hallinan, Casey Law, Jack Hickish, Jayce Dowell, Kunal P. Mooley, Marin M. Anderson, Judd D. Bowman, Ruby Byrne, Morgan Catha, Bin Chen, Xingyao Chen, Sherry Chhabra, Larry D'Addario, Ivey Davis, Katherine Elder, Dale Gary, Charlie Harnach, Greg Hellbourg, Rick Hobbs, David Hodge, Mark Hodges, Yuping Huang, Andrea Isella, Daniel C. Jacobs, Ghislain Kemby, John T. Klinefelter, Matthew Kolopanis, James Lamb, Nivedita Mahesh, Surajit Mondal, Brian O'Donnell, Kathryn Plant, Corey Posner, Travis Powell, Vinand Prayag, Andres Rizo, Andrew Romero-Wolf, Jun Shi, Greg Taylor, Jordan Trim, Mike Virgin, Akshatha Vydula, Sandy Weinreb, Scott White, David Woody, Sijie Yu, Thomas Zentmeyer, Peijin Zhang Accepted for publication in The Astrophysical Journal (ApJ). 19 pages, 6 figures High Energy Astrophysical Phenomena (astro-ph.HE) We report on a search for prompt, low-frequency radio emission from the gravitational-wave (GW) merger S250206dm using the Owens Valley Radio Observatory Long Wavelength Array (OVRO-LWA). Early alerts favored a neutron-star-containing merger, making this a compelling target. Motivated by theoretical predictions of coherent radio bursts from mergers involving a neutron star, we utilized the OVRO-LWA Time Machine system to analyze voltage data recorded around the time of the event. The Time Machine is a two-stage voltage buffer and processing pipeline that continuously buffers raw data from all antennas across the array's nearly full-hemisphere instantaneous field of view, enabling retrospective beamforming, dedispersion, and fast-transient candidate identification. For this event, we analyzed a 30-minute interval beginning 3.5 minutes after the merger, which included two minutes of pre-alert data recovered by the ring buffer. We searched the 50% localization probability region with millisecond time resolution in the 69-86 MHz frequency band. No radio counterpart was detected above a 7-sigma fluence detection threshold of ~150 Jy ms. Using Bayesian analysis, we place a 95% confidence upper limit on the source luminosity of L95 = 4 x 10^41 erg s^-1. These constraints start to probe the bright end of the coherent-emission parameter space predicted by jet-ISM shock processes, magnetar and blitzar-like mechanisms, and recent simulation-based scenarios for neutron-star-containing mergers. This study presents the first sensitive, large-area, millisecond-timescale search for prompt low-frequency radio emission from a GW merger with the OVRO-LWA, establishing a framework in which about ten additional events will yield stringent population-level constraints.  
-
----
-
-## 31. Continuous Wide-Field Optical Monitoring for Very Early-Phase Transient Discovery
-
-**arXiv**: [2512.18157](https://arxiv.org/abs/2512.18157)  
-**Authors**: Massimo Della Valle, Maria Teresa Botticella, Enrico Cappellaro, Roberto Ragazzoni, Matteo Aliverti, Carmelo Arcidiacono, Lorenzo Amati, Andrea Baruffolo, Maria Grazia Bernardini, Giovanni Boato, Fabrizio Bocchino, Francesco Borsa, Mohamed Yahia Bournane, Enzo Brocato, Giovanni Bruno, Paolo D'Avanzo, Nancy Elias-Rosa, Silvio Di Rosa, Diego Farias, Jacopo Farinato, Davide Greggio, Adriano Ingallinera, Luca Izzo, Marco Limongi, Demetrio Magrin, Marco Marongiu, Andrea Melandri, Giusi Micela, Matteo Murgia, Valerio Nascimbeni, Salvatore Orlando, Antonino Petralia, Vincenzo Petrecca, Maura Pilia, Silvia Piranomonte, Andrea Possenti, Kalyan Radhakrishnan, Oleksandra Rebrysh, Simone Riggi, Irene Salmaso, Giovanni Scandariato, Corrado Trigilio, Simone Zaggia  
-**Date**: 24 Dec 2025  
-**Categories**: astro-ph.IM  
-**Type**: new submission  
-
-**Abstract**: Continuous Wide-Field Optical Monitoring for Very Early-Phase Transient Discovery Massimo Della Valle, Maria Teresa Botticella, Enrico Cappellaro, Roberto Ragazzoni, Matteo Aliverti, Carmelo Arcidiacono, Lorenzo Amati, Andrea Baruffolo, Maria Grazia Bernardini, Giovanni Boato, Fabrizio Bocchino, Francesco Borsa, Mohamed Yahia Bournane, Enzo Brocato, Giovanni Bruno, Paolo D'Avanzo, Nancy Elias-Rosa, Silvio Di Rosa, Diego Farias, Jacopo Farinato, Davide Greggio, Adriano Ingallinera, Luca Izzo, Marco Limongi, Demetrio Magrin, Marco Marongiu, Andrea Melandri, Giusi Micela, Matteo Murgia, Valerio Nascimbeni, Salvatore Orlando, Antonino Petralia, Vincenzo Petrecca, Maura Pilia, Silvia Piranomonte, Andrea Possenti, Kalyan Radhakrishnan, Oleksandra Rebrysh, Simone Riggi, Irene Salmaso, Giovanni Scandariato, Corrado Trigilio, Simone Zaggia Submitted in response to the call for White Papers for the definition of the ESO next transformational facility. this https URL. 6 pages Instrumentation and Methods for Astrophysics (astro-ph.IM) The study of transient phenomena in a multimessenger context is expected to remain a major pillar of astrophysical discovery in the decades ahead. Supernovae, Kilonovae, Black-Hole formation, Novae, GRBs, and tidal disruption events are prime examples, as their earliest phases link electromagnetic radiation to gravitational waves, neutrinos, and high-energy emission. Yet, the physics connecting these messengers unfolds within minutes to hours, while traditional surveys revisit the same region of the sky on the scale of days/weeks, missing when the event begins. Current survey facilities excel at answering what happened and how often, but essentially fail in addressing how it happened and how it couples to gravitational waves, neutrinos, or high-energy emission. Continuous wide-area optical monitoring, as proposed here, removes this limitation. The traditional approach, where a GW or neutrino alert triggers electromagnetic follow-up, is now complemented, and sometimes reversed: early electromagnetic discoveries can prompt searches for weaker gravitational waves or neutrino signals that would otherwise be missed. In the Einstein Telescope era, wide-field optical monitoring will allow us to find the optical counterparts of gravitational-wave events and understand their physics. At the same time, a telescope capable of continuous monitoring provides immediate scientific value for planetary defense, space-debris tracking, stellar variability, exoplanets transit monitoring, accretion-driven activity, and when we step into a new observational territory, the true discoveries are often the ones we did not expect. In this vision, continuous time-domain astronomy does not replace classical surveys: it completes them by supplying the missing temporal dimension. Follow-up observations remain essential, but they now begin at the physical onset of the event rather than after its evolution is underway.  
-
----
-
-## 32. Validation of optical pathlength stability in a LISA test-bench demonstrator
-
-**arXiv**: [2511.16749](https://arxiv.org/abs/2511.16749)  
-**Authors**: Shivani Harer, Maxime Vincent, Hubert Halloin, Ouali Acef, Nisrine Arab, Romain Arguel, Axel Arhancet, Damien Bachet, Nathalie Besson, Sébastien Bize, Aurélien Boutin, Sara Bruhier, Christelle Buy, Michael Carle, Jean-Pierre Coulon, Nicoleta Dinu-Jaeger, Mathieu Dupont, Christophe Fabron, R'emi Granelli, David Holleville, Dominique Huet, Pascal Huguet Chantôme, Eric Kajfasz, Mickael Lacroix, Matthieu Laporte, Rodolphe Le Targat, Jean Lesrel, Michel Lintz, Michel Lours, Christophe Meessen, Mourad Merzougui, Alexis Mehlman, Marco Nardello, Laure Oudda, Benjamin Pointard, Pierre Prat, Emmanuelle Rivière, Jérôme Royon, Aurélia Secroun, Samuel Sube, Johannes Veyron, Thomas Zerguerras, Julien Zoubian  
-**Date**: 24 Dec 2025  
-**Categories**: astro-ph.IM  
 **Type**: replaced  
 
-**Abstract**: Validation of optical pathlength stability in a LISA test-bench demonstrator Shivani Harer, Maxime Vincent, Hubert Halloin, Ouali Acef, Nisrine Arab, Romain Arguel, Axel Arhancet, Damien Bachet, Nathalie Besson, Sébastien Bize, Aurélien Boutin, Sara Bruhier, Christelle Buy, Michael Carle, Jean-Pierre Coulon, Nicoleta Dinu-Jaeger, Mathieu Dupont, Christophe Fabron, R'emi Granelli, David Holleville, Dominique Huet, Pascal Huguet Chantôme, Eric Kajfasz, Mickael Lacroix, Matthieu Laporte, Rodolphe Le Targat, Jean Lesrel, Michel Lintz, Michel Lours, Christophe Meessen, Mourad Merzougui, Alexis Mehlman, Marco Nardello, Laure Oudda, Benjamin Pointard, Pierre Prat, Emmanuelle Rivière, Jérôme Royon, Aurélia Secroun, Samuel Sube, Johannes Veyron, Thomas Zerguerras, Julien Zoubian Instrumentation and Methods for Astrophysics (astro-ph.IM) The Laser Interferometer Space Antenna (LISA) observatory is a future L3 mission of the European Space Agency (ESA) to detect gravitational waves, set to launch in 2035. The detector constellation will conduct interferometry to picometer stability over an unprecedented arm length of 2.5 million km. In this paper, we present the development and testing results for the Zerodur interferometer (ZIFO), an optical demonstrator built to validate critical technology for the test setup of the interferometric core of LISA. Optical path length stability measurements on the ZIFO demonstrate successful reduction of bench noise to maintain the 10 pm/$\sqrt{\text{Hz}}$ specification across the 1 mHz to 1 Hz frequency band. We also identify and characterize dominant noise sources from phasemeters and correlations of beam tilt into the path length that were observed during the test campaign.  
+**Abstract**: Lense-Thirring Precession Modulates Repeated Lensing of Continues Gravitational Wave Source from AGN Disks Yu-Zhe Li, Wen-Long Xu, Yi-Gu Chen, Wei-Hua Lei Accepted for publication in Physical Review D High Energy Astrophysical Phenomena (astro-ph.HE) Gravitational lensing of gravitational waves (GWs) offers a novel observational channel that complements traditional electromagnetic approaches and provides unique insights into the astrophysical environments of GW sources. In this work, we investigate the repeated lensing of continuous gravitational wave (CW) sources in active galactic nucleus (AGN) disks by central supermassive black holes (SMBHs), focusing on the imprint of SMBH spin via the Lense-Thirring (LT) effect. Although typically weak and challenging to observe, the spin-induced precession of source orbits can accumulate over time, thereby modulating the lensing geometry. Such modulations influence the magnification, duration, and waveform structure of each repeated lensing event, and enhance the overall probability of lensing occurrences. Using matched filtering, we demonstrate that spin-dependent signatures may be detectable, suggesting that lensed CW signals could serve as an indirect probe of SMBH spin in AGNs.  
+
+---
+
+## 18. A fast powerful X-ray transient from possible tidal disruption of a white dwarf
+
+**arXiv**: [2509.25877](https://arxiv.org/abs/2509.25877)  
+**Authors**: Dongyue Li, Wenda Zhang, Jun Yang, Jin-Hong Chen, Weimin Yuan, Huaqing Cheng, Fan Xu, Xinwen Shu, Rong-Feng Shen, Ning Jiang, Jiazheng Zhu, Chang Zhou, Weihua Lei, Hui Sun, Chichuan Jin, Lixin Dai, Bing Zhang, Yu-Han Yang, Wenjie Zhang, Hua Feng, Bifang Liu, Hongyan Zhou, Haiwu Pan, Mingjun Liu, Stephane Corbel, Sitha K. Jagan, Maria Cristina Baglio, Christopher R. Burns, Floriane Cangemi, Chun Chen, Yehao Cheng, Alexis Coleiro, Francesco Coti Zelati, Sourya R. Das, Zhongnan Dong, Luis Galbany, Noa Grollimund, Daniel Kelson, Dong Lai, Xia Li, Yuan Liu, Alessio Marino, Brenna Mockler, Paul O'Brien, Erlin Qiao, Nanda Rea, Resmi, Jérome Rodriguez, Richard Saxton, Luming Sun, Lian Tao, Tinggui Wang, Yilong Wang, Xuefeng Wu, Dong Xu, Yijia Zhang, Guoying Zhao, Congying Bao, Zhiming Cai, Yehai Chen, Yong Chen, Bertrand Cordier, Chenzhou Cui, Weiwei Cui, Zhou Fan, He Gao, Giancarlo Ghirlanda, Ju Guan, Dawei Han, Jinxin Hao, Jingwei Hu, Maohai Huang, Yong-Feng Huang, Shumei Jia, Ge Jin, Stefanie Komossa, Chengkui Li, Zhixing Ling, Congzhan Liu, Heyang Liu, Huaqiu Liu, Fangjun Lu, Kirpal Nandra, Jan-Uwe Ness, Arne Rau, Jeremy Sanders, Liming Song, Roberto Soria, Shengli Sun, Xiaojin Sun, Yuyin Tan, Eleonora Troja, Sixiang Wen, Haitao Xu, Changbin Xue, Yongquan Xue, Yi-Han Iris Yin, Chen Zhang, Shuang-Nan Zhang, Yonghe Zhang  
+**Date**: 25 Dec 2025  
+**Categories**: astro-ph.HE  
+**Type**: replaced  
+
+**Abstract**: A fast powerful X-ray transient from possible tidal disruption of a white dwarf Dongyue Li, Wenda Zhang, Jun Yang, Jin-Hong Chen, Weimin Yuan, Huaqing Cheng, Fan Xu, Xinwen Shu, Rong-Feng Shen, Ning Jiang, Jiazheng Zhu, Chang Zhou, Weihua Lei, Hui Sun, Chichuan Jin, Lixin Dai, Bing Zhang, Yu-Han Yang, Wenjie Zhang, Hua Feng, Bifang Liu, Hongyan Zhou, Haiwu Pan, Mingjun Liu, Stephane Corbel, Sitha K. Jagan, Maria Cristina Baglio, Christopher R. Burns, Floriane Cangemi, Chun Chen, Yehao Cheng, Alexis Coleiro, Francesco Coti Zelati, Sourya R. Das, Zhongnan Dong, Luis Galbany, Noa Grollimund, Daniel Kelson, Dong Lai, Xia Li, Yuan Liu, Alessio Marino, Brenna Mockler, Paul O'Brien, Erlin Qiao, Nanda Rea, Resmi, Jérome Rodriguez, Richard Saxton, Luming Sun, Lian Tao, Tinggui Wang, Yilong Wang, Xuefeng Wu, Dong Xu, Yijia Zhang, Guoying Zhao, Congying Bao, Zhiming Cai, Yehai Chen, Yong Chen, Bertrand Cordier, Chenzhou Cui, Weiwei Cui, Zhou Fan, He Gao, Giancarlo Ghirlanda, Ju Guan, Dawei Han, Jinxin Hao, Jingwei Hu, Maohai Huang, Yong-Feng Huang, Shumei Jia, Ge Jin, Stefanie Komossa, Chengkui Li, Zhixing Ling, Congzhan Liu, Heyang Liu, Huaqiu Liu, Fangjun Lu, Kirpal Nandra, Jan-Uwe Ness, Arne Rau, Jeremy Sanders, Liming Song, Roberto Soria, Shengli Sun, Xiaojin Sun, Yuyin Tan, Eleonora Troja, Sixiang Wen, Haitao Xu, Changbin Xue, Yongquan Xue, Yi-Han Iris Yin, Chen Zhang, Shuang-Nan Zhang, Yonghe Zhang submitted on 19 October 2025, accepted for publication in Science Bulletin on 12 December 2025 High Energy Astrophysical Phenomena (astro-ph.HE) Stars captured by black holes (BHs) can be torn apart by strong tidal forces, producing electromagnetic flares. To date, more than 100 tidal disruption events (TDEs) have been observed, each involving invariably normal gaseous stars whose debris falls onto the BH, sustaining the flares over years. White dwarfs (WDs), which are the most prevalent compact stars and a million times denser--and therefore tougher--than gaseous stars, can only be disrupted by intermediate-mass black holes (IMBHs) of 10^2--10^5 solar masses. WD-TDEs are considered to generate more powerful and short-lived flares, but their evidence has been lacking. Here we report observations of a fast and luminous X-ray transient EP250702a detected by Einstein Probe. Its one-day-long X-ray peak as luminous as 10^(47-49) erg/s showed strong recurrent flares with hard spectra extending to several tens of MeV gamma-rays, as detected by Fermi/GBM and Konus-Wind, indicating relativistic jet emission. The jet's X-ray dropped sharply from 3 x 10^49 erg/s to around 10^44 erg/s within 20 days (10 days in the source rest frame). These characteristics are inconsistent with any known transient phenomena other than a jetted-TDE evolving over an unprecedentedly short timescale, indicating the disruption of a WD by an IMBH. At late times, a new soft component progressively dominates the X-ray spectrum, exhibiting an extreme super-Eddington luminosity, which possibly originates from an accretion disc. WD-TDEs open a new window for investigating the elusive IMBHs and their surrounding stellar environments, and they are prime sources of gravitational waves in the band of space-based interferometers.  
 
 ---
 
