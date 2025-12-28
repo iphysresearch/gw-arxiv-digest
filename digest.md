@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2025-12-27
+# Complete Daily GW arXiv Digest - 2025-12-28
 
 **总爬取文章**: 102 篇  
 **今天的文章**: 102 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2512.20699](https://arxiv.org/abs/2512.20699)  
 **Authors**: Filippo Santoliquido, Jacopo Tissino, Ulyana Dupletsa, Marica Branchesi, Jan Harms  
-**Date**: 27 Dec 2025  
+**Date**: 28 Dec 2025  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2512.21151](https://arxiv.org/abs/2512.21151)  
 **Authors**: Zhuan Ning, Zi-Yan Yuwen, Xiang-Xi Zeng, Rong-Gen Cai, Shao-Jiang Wang  
-**Date**: 27 Dec 2025  
+**Date**: 28 Dec 2025  
 **Categories**: gr-qc, astro-ph.CO, hep-ph  
 **Type**: new submission  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2512.21186](https://arxiv.org/abs/2512.21186)  
 **Authors**: Tieguang Zi, Chang-Qing Ye  
-**Date**: 27 Dec 2025  
+**Date**: 28 Dec 2025  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2512.21328](https://arxiv.org/abs/2512.21328)  
 **Authors**: Azadeh Maleknejad  
-**Date**: 27 Dec 2025  
+**Date**: 28 Dec 2025  
 **Categories**: gr-qc, astro-ph.CO, hep-ph, hep-th  
 **Type**: new submission  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2512.20890](https://arxiv.org/abs/2512.20890)  
 **Authors**: Qiyuan Yang, Zhi-Qiang You, Xilong Fan  
-**Date**: 27 Dec 2025  
+**Date**: 28 Dec 2025  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: cross-list from astro-ph.HE  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2512.20965](https://arxiv.org/abs/2512.20965)  
 **Authors**: Guo-Peng Li, Xi-Long Fan  
-**Date**: 27 Dec 2025  
+**Date**: 28 Dec 2025  
 **Categories**: astro-ph.HE, astro-ph.GA, astro-ph.SR, gr-qc  
 **Type**: cross-list from astro-ph.HE  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2507.23457](https://arxiv.org/abs/2507.23457)  
 **Authors**: Sabin Roman  
-**Date**: 27 Dec 2025  
+**Date**: 28 Dec 2025  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2505.22534](https://arxiv.org/abs/2505.22534)  
 **Authors**: Aya Ghaleb, Ameek Malhotra, Gianmassimo Tasinato, Ivonne Zavala  
-**Date**: 27 Dec 2025  
+**Date**: 28 Dec 2025  
 **Categories**: astro-ph.CO, gr-qc  
 **Type**: replaced  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2512.20867](https://arxiv.org/abs/2512.20867)  
 **Authors**: Hajime Sotani  
-**Date**: 27 Dec 2025  
+**Date**: 28 Dec 2025  
 **Categories**: astro-ph.HE, nucl-th  
 **Type**: new submission  
 
