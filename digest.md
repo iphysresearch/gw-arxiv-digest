@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2025-12-31
+# Complete Daily GW arXiv Digest - 2026-01-01
 
 **总爬取文章**: 187 篇  
 **今天的文章**: 186 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2512.22267](https://arxiv.org/abs/2512.22267)  
 **Authors**: Dylan S. Fonseca, Caio F. B. Macedo, Mateus Malato Corrêa, Diego Rubiera-Garcia  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: gr-qc, astro-ph.GA  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2512.22679](https://arxiv.org/abs/2512.22679)  
 **Authors**: José P. S. Lemos  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2512.22762](https://arxiv.org/abs/2512.22762)  
 **Authors**: Xinyi Che, Xiangyu Lyu, Changfu Shi  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2512.22938](https://arxiv.org/abs/2512.22938)  
 **Authors**: Benjamin J. Owen , Binod Rajbhandari Texas Tech University, University of Maryland Baltimore County, Rochester Institute of Technology)  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: new submission  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2512.22945](https://arxiv.org/abs/2512.22945)  
 **Authors**: Benjamin J. Owen  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: new submission  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2512.23279](https://arxiv.org/abs/2512.23279)  
 **Authors**: Hang Yang, Daiqin Su  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2512.23556](https://arxiv.org/abs/2512.23556)  
 **Authors**: Xiaolin Zhang, Chengye Yu, Haoran Li, Sobhan Kazempour, Mingqiu Li, Sichun Sun  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: gr-qc, astro-ph.IM, hep-ph  
 **Type**: new submission  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2512.22652](https://arxiv.org/abs/2512.22652)  
 **Authors**: Francisco Colipí-Marchant, Gabriel Marin, Gonzalo A. Palma, Francisco Rojas  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: hep-th, astro-ph.CO, gr-qc  
 **Type**: cross-list from hep-th  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2205.07530](https://arxiv.org/abs/2205.07530)  
 **Authors**: Yi Yang, Dong Liu, Ali Övgün, Zheng-Wen Long, Zhaoyi Xu  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2301.08032](https://arxiv.org/abs/2301.08032)  
 **Authors**: Pujian Mao, Jun-Bao Wu, Xiaoning Wu  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: gr-qc, hep-th  
 **Type**: replaced  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2408.08956](https://arxiv.org/abs/2408.08956)  
 **Authors**: Francesco Crescimbeni, Xisco Jimenez Forteza, Swetha Bhagwat, Julian Westerweck, Paolo Pani  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: gr-qc, astro-ph.HE, hep-ph  
 **Type**: replaced  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2504.15709](https://arxiv.org/abs/2504.15709)  
 **Authors**: Farzad Milani  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -155,7 +155,7 @@
 
 **arXiv**: [2511.23110](https://arxiv.org/abs/2511.23110)  
 **Authors**: M. V. S. Saketh, Rajes Ghosh, Anuj Mishra  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -167,7 +167,7 @@
 
 **arXiv**: [2512.01486](https://arxiv.org/abs/2512.01486)  
 **Authors**: Farzad Milani  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: gr-qc, hep-th  
 **Type**: replaced  
 
@@ -179,7 +179,7 @@
 
 **arXiv**: [2512.19163](https://arxiv.org/abs/2512.19163)  
 **Authors**: Yu-Sen An, Wei-Hao Zhang  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -191,7 +191,7 @@
 
 **arXiv**: [2505.15419](https://arxiv.org/abs/2505.15419)  
 **Authors**: Santabrata Das, Md Riajul Haque, Jitumani Kalita, Rajesh Karmakar, Debaprasad Maity  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: astro-ph.CO, gr-qc, hep-ph  
 **Type**: replaced  
 
@@ -203,7 +203,7 @@
 
 **arXiv**: [2509.25083](https://arxiv.org/abs/2509.25083)  
 **Authors**: Nilanjandev Bhaumik, Huai-Ke Guo, Si-Jiang Liu  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: astro-ph.CO, gr-qc, hep-ph  
 **Type**: replaced  
 
@@ -215,7 +215,7 @@
 
 **arXiv**: [2512.18290](https://arxiv.org/abs/2512.18290)  
 **Authors**: Ruiting Mao, Jeong Eun Lee, Matthew C. Edwards  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: astro-ph.IM, gr-qc  
 **Type**: replaced  
 
@@ -227,7 +227,7 @@
 
 **arXiv**: [2512.22683](https://arxiv.org/abs/2512.22683)  
 **Authors**: Anumanchi Agastya Sai Ram Likhit, Rajib Saha  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: astro-ph.CO  
 **Type**: new submission  
 
@@ -239,7 +239,7 @@
 
 **arXiv**: [2512.22339](https://arxiv.org/abs/2512.22339)  
 **Authors**: Debasish Borah, Indrajit Saha  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: hep-ph, astro-ph.CO  
 **Type**: cross-list from hep-ph  
 
@@ -251,7 +251,7 @@
 
 **arXiv**: [2506.02141](https://arxiv.org/abs/2506.02141)  
 **Authors**: Ayan Chakraborty, Debaprasad Maity, Rajesh Mondal  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: astro-ph.CO, hep-ph, hep-th  
 **Type**: replaced  
 
@@ -263,7 +263,7 @@
 
 **arXiv**: [2512.23577](https://arxiv.org/abs/2512.23577)  
 **Authors**: Jing Fu Hu, Hang Lu, Bao Yuan Sun  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: astro-ph.HE, nucl-th  
 **Type**: new submission  
 
@@ -275,7 +275,7 @@
 
 **arXiv**: [2510.12465](https://arxiv.org/abs/2510.12465)  
 **Authors**: Stefano Torniamenti, Michela Mapelli, Lumen Boco, Filippo Simonato, Giuliano Iorio, Erika Korb  
-**Date**: 31 Dec 2025  
+**Date**: 01 Jan 2026  
 **Categories**: astro-ph.HE, astro-ph.GA  
 **Type**: replaced  
 
