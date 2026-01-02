@@ -1,145 +1,145 @@
-# 📡 Daily GW arXiv Digest - 2026-01-01
-**Found 23 gravitational wave papers**
+# 📡 Daily GW arXiv Digest - 2026-01-02
+**Found 21 gravitational wave papers**
 
-[arXiv:2512.22267](https://arxiv.org/abs/2512.22267)[Submitted on 01 Jan 2026]
-**Matter environments around black holes: geodesics, light rings and ultracompact configurations**
-Dylan S. Fonseca, Caio F. B. Macedo, Mateus Malato Corrêa, Diego Rubiera-Garcia
-Subjects: **gr-qc**; astro-ph.GA
-
----
-
-[arXiv:2512.22679](https://arxiv.org/abs/2512.22679)[Submitted on 01 Jan 2026]
-**When spacetime vibrates: An introduction to gravitational waves**
-José P. S. Lemos
+[arXiv:2512.23933](https://arxiv.org/abs/2512.23933)[Submitted on 02 Jan 2026]
+**Gravitational Lensing of Gravitational Waves: Spin-wave Optics through Black Hole Scattering**
+Zhao Li, Shaoqi Hou, Wen Zhao
 Subjects: **gr-qc**
 
 ---
 
-[arXiv:2512.22762](https://arxiv.org/abs/2512.22762)[Submitted on 01 Jan 2026]
-**Constraining the dynamical Chern-Simons gravity with future gravitational wave detectors**
-Xinyi Che, Xiangyu Lyu, Changfu Shi
+[arXiv:2512.24036](https://arxiv.org/abs/2512.24036)[Submitted on 02 Jan 2026]
+**Signatures of Quantum-Corrected Black Holes in Gravitational Waves from Periodic Orbits**
+Fazlay Ahmed, Qiang Wu, Sushant G Ghosh, Tao Zhu
 Subjects: **gr-qc**
 
 ---
 
-[arXiv:2512.22938](https://arxiv.org/abs/2512.22938)[Submitted on 01 Jan 2026]
-**Multi-messenger detectability of continuous gravitational waves from the near future to next generation detectors**
-Benjamin J. Owen , Binod Rajbhandari Texas Tech University, University of Maryland Baltimore County, Rochester Institute of Technology)
+[arXiv:2512.24055](https://arxiv.org/abs/2512.24055)[Submitted on 02 Jan 2026]
+**Kinematic Anisotropies in PTA Observations: Analytical Toolkit**
+Maximilian Blümke, Kai Schmitz, Tobias Schröder, Deepali Agarwal, Joseph D. Romano
+Subjects: **gr-qc**; astro-ph.CO, astro-ph.HE, astro-ph.IM, hep-ph
+
+---
+
+[arXiv:2512.24194](https://arxiv.org/abs/2512.24194)[Submitted on 02 Jan 2026]
+**Impact of Anisotropy on Neutron Star Structure and Curvature**
+A. C. Khunt, K. Yavuz Ekşi, P. C. Vinodkumar
 Subjects: **gr-qc**; astro-ph.HE
 
 ---
 
-[arXiv:2512.22945](https://arxiv.org/abs/2512.22945)[Submitted on 01 Jan 2026]
-**Colloquium: Multimessenger astronomy with continuous gravitational waves and future detectors**
-Benjamin J. Owen
+[arXiv:2512.24298](https://arxiv.org/abs/2512.24298)[Submitted on 02 Jan 2026]
+**Degrees of freedom of quadratic scalar-nonmetricity theory**
+Jia-Jun Chen, Zheng Chen, Xian Gao
+Subjects: **gr-qc**; hep-th
+
+---
+
+[arXiv:2512.24396](https://arxiv.org/abs/2512.24396)[Submitted on 02 Jan 2026]
+**Effective Regge-Wheeler equations of a hybrid loop quantum black hole**
+Beatriz Elizaga Navascués, Alvaro Torres-Caballeros
+Subjects: **gr-qc**
+
+---
+
+[arXiv:2512.24429](https://arxiv.org/abs/2512.24429)[Submitted on 02 Jan 2026]
+**Gravitational Holonomy in Sagnac Interferometry**
+Reza Javadinezhad, Ali Seraj
+Subjects: **gr-qc**; hep-th
+
+---
+
+[arXiv:2512.24554](https://arxiv.org/abs/2512.24554)[Submitted on 02 Jan 2026]
+**Stellar modeling within regularized 4D Einstein-Gauss-Bonnet gravity in light of current astrophysical constraints**
+G. Panotopoulos, Á. Rincón, I. Lopes
+Subjects: **gr-qc**; astro-ph.SR
+
+---
+
+[arXiv:2512.24703](https://arxiv.org/abs/2512.24703)[Submitted on 02 Jan 2026]
+**Difference between quark stars and neutron stars in universal relations and their effect on gravitational waves**
+Duanyuan Gao, Hao-Jui Kuan, Yurui Zhou, Zhiqiang Miao, Yong Gao, Chen Zhang, Enping Zhou
 Subjects: **gr-qc**; astro-ph.HE
 
 ---
 
-[arXiv:2512.23279](https://arxiv.org/abs/2512.23279)[Submitted on 01 Jan 2026]
-**Mass distribution of ultralight boson in binary black hole systems**
-Hang Yang, Daiqin Su
-Subjects: **gr-qc**
+[arXiv:2512.24730](https://arxiv.org/abs/2512.24730)[Submitted on 02 Jan 2026]
+**Model-independent search of gravitational wave echoes in LVK data**
+Di Wu, Xi-Li Zhang, Qing-Guo Huang, Jing Ren
+Subjects: **gr-qc**; astro-ph.HE
 
 ---
 
-[arXiv:2512.23556](https://arxiv.org/abs/2512.23556)[Submitted on 01 Jan 2026]
-**The new generation lunar gravitational wave detectors: sky map resolution and joint analysis**
-Xiaolin Zhang, Chengye Yu, Haoran Li, Sobhan Kazempour, Mingqiu Li, Sichun Sun
-Subjects: **gr-qc**; astro-ph.IM, hep-ph
-
----
-
-[arXiv:2512.22652](https://arxiv.org/abs/2512.22652) (cross-list from hep-th) [Submitted on 01 Jan 2026]
-**Schwinger-Keldysh Cosmological Cutting Rules**
-Francisco Colipí-Marchant, Gabriel Marin, Gonzalo A. Palma, Francisco Rojas
-Subjects: **hep-th**; astro-ph.CO, gr-qc
-
----
-
-[arXiv:2205.07530](https://arxiv.org/abs/2205.07530) (replaced) [Submitted on 01 Jan 2026]
-**Quasinormal modes of Kerr-like black bounce spacetime**
-Yi Yang, Dong Liu, Ali Övgün, Zheng-Wen Long, Zhaoyi Xu
-Subjects: **gr-qc**
-
----
-
-[arXiv:2301.08032](https://arxiv.org/abs/2301.08032) (replaced) [Submitted on 01 Jan 2026]
-**Angular momentum and memory effect**
-Pujian Mao, Jun-Bao Wu, Xiaoning Wu
+[arXiv:2512.24960](https://arxiv.org/abs/2512.24960)[Submitted on 02 Jan 2026]
+**From Principles to Effective Models: A Constructive Framework for Effective Covariant Actions with a Unique Vacuum Solution**
+Kristina Giesel, Hongguang Liu
 Subjects: **gr-qc**; hep-th
 
 ---
 
-[arXiv:2408.08956](https://arxiv.org/abs/2408.08956) (replaced) [Submitted on 01 Jan 2026]
-**Theory-agnostic searches for non-gravitational modes in black hole ringdown**
-Francesco Crescimbeni, Xisco Jimenez Forteza, Swetha Bhagwat, Julian Westerweck, Paolo Pani
-Subjects: **gr-qc**; astro-ph.HE, hep-ph
+[arXiv:2512.25044](https://arxiv.org/abs/2512.25044)[Submitted on 02 Jan 2026]
+**Primordial black hole dark matter from ultra-slow-roll inflation in Horndeski gravity**
+Despina Totolou, Theodoros Papanikolaou, Emmanuel N. Saridakis
+Subjects: **gr-qc**; astro-ph.CO
 
 ---
 
-[arXiv:2504.15709](https://arxiv.org/abs/2504.15709) (replaced) [Submitted on 01 Jan 2026]
-**Gravitational Wave Backreaction in $f(R,G)$ Gravity**
-Farzad Milani
+[arXiv:2512.24691](https://arxiv.org/abs/2512.24691) (cross-list from hep-th) [Submitted on 02 Jan 2026]
+**Non-perturbative Thermodynamics of Quark Gluon Plasma and Gravitational Waves**
+Narasimha Reddy Gosala, Arundhati Dasgupta
+Subjects: **hep-th**; gr-qc, hep-ph
+
+---
+
+[arXiv:2506.20198](https://arxiv.org/abs/2506.20198) (replaced) [Submitted on 02 Jan 2026]
+**Laboratory Frame Representation for General High-Frequency Gravitational Waveforms**
+Lars Fischer, Tom Krokotsch, Gudrid Moortgat-Pick
 Subjects: **gr-qc**
 
 ---
 
-[arXiv:2511.23110](https://arxiv.org/abs/2511.23110) (replaced) [Submitted on 01 Jan 2026]
-**Strong-field Gravitational Wave Lensing in the Kerr Background**
-M. V. S. Saketh, Rajes Ghosh, Anuj Mishra
-Subjects: **gr-qc**
+[arXiv:2508.17348](https://arxiv.org/abs/2508.17348) (replaced) [Submitted on 02 Jan 2026]
+**Importance of relativistic pericenter precession in identifying the presence of a third body near eccentric binaries**
+Pankaj Saini, Lorenz Zwick, János Takátsy, Connar Rowan, Kai Hendriks, Gaia Fabj, Daniel J. D'Orazio, Johan Samsing
+Subjects: **gr-qc**; astro-ph.HE
 
 ---
 
-[arXiv:2512.01486](https://arxiv.org/abs/2512.01486) (replaced) [Submitted on 01 Jan 2026]
-**Consistent Regularization of Signature-Changing BTZ Black Holes**
-Farzad Milani
-Subjects: **gr-qc**; hep-th
+[arXiv:2501.17121](https://arxiv.org/abs/2501.17121) (replaced) [Submitted on 02 Jan 2026]
+**Predictions on observing hot holographic quark star with gravitational waves**
+Le-Feng Chen, Heng-Yi Yuan, Meng-Hua Zhou, Kun Lu, Jing-Yi Wu, Kilar Zhang
+Subjects: **hep-ph**; astro-ph.HE, gr-qc, hep-th
 
 ---
 
-[arXiv:2512.19163](https://arxiv.org/abs/2512.19163) (replaced) [Submitted on 01 Jan 2026]
-**Probing quantum anomaly corrections on black hole physics through chaos**
-Yu-Sen An, Wei-Hao Zhang
-Subjects: **gr-qc**
+[arXiv:2503.02607](https://arxiv.org/abs/2503.02607) (replaced) [Submitted on 02 Jan 2026]
+**Gravitational wave probes of particle dark matter: a review**
+Andrew L. Miller
+Subjects: **astro-ph.HE**; gr-qc
 
 ---
 
-[arXiv:2505.15419](https://arxiv.org/abs/2505.15419) (replaced) [Submitted on 01 Jan 2026]
-**Impact of general relativistic accretion on primordial black holes**
-Santabrata Das, Md Riajul Haque, Jitumani Kalita, Rajesh Karmakar, Debaprasad Maity
-Subjects: **astro-ph.CO**; gr-qc, hep-ph
+[arXiv:2510.02083](https://arxiv.org/abs/2510.02083) (replaced) [Submitted on 02 Jan 2026]
+**Updating GUT-Scale Pole Higgs Inflation After ACT DR6**
+C. Pallis
+Subjects: **hep-ph**; astro-ph.CO, hep-th
 
 ---
 
-[arXiv:2509.25083](https://arxiv.org/abs/2509.25083) (replaced) [Submitted on 01 Jan 2026]
-**Extended mass distribution of PBHs during QCD phase transition: SGWB and mini-EMRIs**
-Nilanjandev Bhaumik, Huai-Ke Guo, Si-Jiang Liu
-Subjects: **astro-ph.CO**; gr-qc, hep-ph
+[arXiv:2512.23758](https://arxiv.org/abs/2512.23758)[Submitted on 02 Jan 2026]
+**Machine-Learning Classification of Neutron-Star Matter Composition from Macroscopic and Oscillation Observables**
+Wasif Husain
+Subjects: **astro-ph.HE**; astro-ph.IM, hep-ph
 
 ---
 
-[arXiv:2512.18290](https://arxiv.org/abs/2512.18290) (replaced) [Submitted on 01 Jan 2026]
-**Robust and scalable simulation-based inference for gravitational wave signals with gaps**
-Ruiting Mao, Jeong Eun Lee, Matthew C. Edwards
-Subjects: **astro-ph.IM**; gr-qc
+[arXiv:2507.09728](https://arxiv.org/abs/2507.09728) (replaced) [Submitted on 02 Jan 2026]
+**Probing Right Handed Neutrino assisted Reheating with Gravitational Waves and Leptogenesis**
+Arghyajit Datta, Shaaban Khalil, Rajat Kumar Mandal, Arunansu Sil
+Subjects: **hep-ph**; astro-ph.HE, hep-th
 
 ---
 
-[arXiv:2512.22683](https://arxiv.org/abs/2512.22683)[Submitted on 01 Jan 2026]
-**A Generative Reconstruction of Low-$\ell$ CMB B-Mode Signal using Reverse Diffusion in Deep Learning**
-Anumanchi Agastya Sai Ram Likhit, Rajib Saha
-Subjects: **astro-ph.CO**
-
----
-
-[arXiv:2512.22339](https://arxiv.org/abs/2512.22339) (cross-list from hep-ph) [Submitted on 01 Jan 2026]
-**Gravitational waves from seesaw assisted collapsing domain walls**
-Debasish Borah, Indrajit Saha
-Subjects: **hep-ph**; astro-ph.CO
-
----
-
-📊 **Summary**: 9 New • 2 Cross-lists • 12 Replacements
-📋 Showing top 20 of 23 papers
+📊 **Summary**: 13 New • 1 Cross-lists • 7 Replacements
+📋 Showing top 20 of 21 papers
