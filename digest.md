@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2026-01-04
+# Complete Daily GW arXiv Digest - 2026-01-05
 
 **总爬取文章**: 196 篇  
 **今天的文章**: 194 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2512.23933](https://arxiv.org/abs/2512.23933)  
 **Authors**: Zhao Li, Shaoqi Hou, Wen Zhao  
-**Date**: 04 Jan 2026  
+**Date**: 05 Jan 2026  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2512.24036](https://arxiv.org/abs/2512.24036)  
 **Authors**: Fazlay Ahmed, Qiang Wu, Sushant G Ghosh, Tao Zhu  
-**Date**: 04 Jan 2026  
+**Date**: 05 Jan 2026  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2512.24055](https://arxiv.org/abs/2512.24055)  
 **Authors**: Maximilian Blümke, Kai Schmitz, Tobias Schröder, Deepali Agarwal, Joseph D. Romano  
-**Date**: 04 Jan 2026  
+**Date**: 05 Jan 2026  
 **Categories**: gr-qc, astro-ph.CO, astro-ph.HE, astro-ph.IM, hep-ph  
 **Type**: new submission  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2512.24194](https://arxiv.org/abs/2512.24194)  
 **Authors**: A. C. Khunt, K. Yavuz Ekşi, P. C. Vinodkumar  
-**Date**: 04 Jan 2026  
+**Date**: 05 Jan 2026  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: new submission  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2512.24298](https://arxiv.org/abs/2512.24298)  
 **Authors**: Jia-Jun Chen, Zheng Chen, Xian Gao  
-**Date**: 04 Jan 2026  
+**Date**: 05 Jan 2026  
 **Categories**: gr-qc, hep-th  
 **Type**: new submission  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2512.24396](https://arxiv.org/abs/2512.24396)  
 **Authors**: Beatriz Elizaga Navascués, Alvaro Torres-Caballeros  
-**Date**: 04 Jan 2026  
+**Date**: 05 Jan 2026  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2512.24429](https://arxiv.org/abs/2512.24429)  
 **Authors**: Reza Javadinezhad, Ali Seraj  
-**Date**: 04 Jan 2026  
+**Date**: 05 Jan 2026  
 **Categories**: gr-qc, hep-th  
 **Type**: new submission  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2512.24554](https://arxiv.org/abs/2512.24554)  
 **Authors**: G. Panotopoulos, Á. Rincón, I. Lopes  
-**Date**: 04 Jan 2026  
+**Date**: 05 Jan 2026  
 **Categories**: gr-qc, astro-ph.SR  
 **Type**: new submission  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2512.24703](https://arxiv.org/abs/2512.24703)  
 **Authors**: Duanyuan Gao, Hao-Jui Kuan, Yurui Zhou, Zhiqiang Miao, Yong Gao, Chen Zhang, Enping Zhou  
-**Date**: 04 Jan 2026  
+**Date**: 05 Jan 2026  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: new submission  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2512.24730](https://arxiv.org/abs/2512.24730)  
 **Authors**: Di Wu, Xi-Li Zhang, Qing-Guo Huang, Jing Ren  
-**Date**: 04 Jan 2026  
+**Date**: 05 Jan 2026  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: new submission  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2512.24960](https://arxiv.org/abs/2512.24960)  
 **Authors**: Kristina Giesel, Hongguang Liu  
-**Date**: 04 Jan 2026  
+**Date**: 05 Jan 2026  
 **Categories**: gr-qc, hep-th  
 **Type**: new submission  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2512.25044](https://arxiv.org/abs/2512.25044)  
 **Authors**: Despina Totolou, Theodoros Papanikolaou, Emmanuel N. Saridakis  
-**Date**: 04 Jan 2026  
+**Date**: 05 Jan 2026  
 **Categories**: gr-qc, astro-ph.CO  
 **Type**: new submission  
 
@@ -155,7 +155,7 @@
 
 **arXiv**: [2512.24691](https://arxiv.org/abs/2512.24691)  
 **Authors**: Narasimha Reddy Gosala, Arundhati Dasgupta  
-**Date**: 04 Jan 2026  
+**Date**: 05 Jan 2026  
 **Categories**: hep-th, gr-qc, hep-ph  
 **Type**: cross-list from hep-th  
 
@@ -167,7 +167,7 @@
 
 **arXiv**: [2506.20198](https://arxiv.org/abs/2506.20198)  
 **Authors**: Lars Fischer, Tom Krokotsch, Gudrid Moortgat-Pick  
-**Date**: 04 Jan 2026  
+**Date**: 05 Jan 2026  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -179,7 +179,7 @@
 
 **arXiv**: [2508.17348](https://arxiv.org/abs/2508.17348)  
 **Authors**: Pankaj Saini, Lorenz Zwick, János Takátsy, Connar Rowan, Kai Hendriks, Gaia Fabj, Daniel J. D'Orazio, Johan Samsing  
-**Date**: 04 Jan 2026  
+**Date**: 05 Jan 2026  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: replaced  
 
@@ -191,7 +191,7 @@
 
 **arXiv**: [2501.17121](https://arxiv.org/abs/2501.17121)  
 **Authors**: Le-Feng Chen, Heng-Yi Yuan, Meng-Hua Zhou, Kun Lu, Jing-Yi Wu, Kilar Zhang  
-**Date**: 04 Jan 2026  
+**Date**: 05 Jan 2026  
 **Categories**: hep-ph, astro-ph.HE, gr-qc, hep-th  
 **Type**: replaced  
 
@@ -203,7 +203,7 @@
 
 **arXiv**: [2503.02607](https://arxiv.org/abs/2503.02607)  
 **Authors**: Andrew L. Miller  
-**Date**: 04 Jan 2026  
+**Date**: 05 Jan 2026  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: replaced  
 
@@ -215,7 +215,7 @@
 
 **arXiv**: [2510.02083](https://arxiv.org/abs/2510.02083)  
 **Authors**: C. Pallis  
-**Date**: 04 Jan 2026  
+**Date**: 05 Jan 2026  
 **Categories**: hep-ph, astro-ph.CO, hep-th  
 **Type**: replaced  
 
@@ -227,7 +227,7 @@
 
 **arXiv**: [2512.23758](https://arxiv.org/abs/2512.23758)  
 **Authors**: Wasif Husain  
-**Date**: 04 Jan 2026  
+**Date**: 05 Jan 2026  
 **Categories**: astro-ph.HE, astro-ph.IM, hep-ph  
 **Type**: new submission  
 
@@ -239,7 +239,7 @@
 
 **arXiv**: [2507.09728](https://arxiv.org/abs/2507.09728)  
 **Authors**: Arghyajit Datta, Shaaban Khalil, Rajat Kumar Mandal, Arunansu Sil  
-**Date**: 04 Jan 2026  
+**Date**: 05 Jan 2026  
 **Categories**: hep-ph, astro-ph.HE, hep-th  
 **Type**: replaced  
 
@@ -251,7 +251,7 @@
 
 **arXiv**: [2505.02245](https://arxiv.org/abs/2505.02245)  
 **Authors**: Artak Mkrtchyan, Dieter Horns  
-**Date**: 04 Jan 2026  
+**Date**: 05 Jan 2026  
 **Categories**: astro-ph.GA  
 **Type**: replaced  
 
