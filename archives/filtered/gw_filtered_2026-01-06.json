@@ -1,0 +1,321 @@
+{
+  "date": "2026-01-06",
+  "crawl_timestamp": "2026-01-06T01:32:06.935279",
+  "query": "cat:gr-qc OR cat:astro-ph.* (filtered for gravitational waves)",
+  "summary": {
+    "total_crawled": 110,
+    "total_gw_papers": 10,
+    "by_category": {
+      "gr-qc": {
+        "total": 24,
+        "gw_related": 8
+      },
+      "astro-ph": {
+        "total": 69,
+        "gw_related": 1
+      }
+    }
+  },
+  "crawl_verification": {
+    "total_expected": 144,
+    "total_actual": 144,
+    "verification_passed": true,
+    "category_details": [
+      {
+        "category": "gr-qc",
+        "url": "https://arxiv.org/list/gr-qc/new",
+        "expected_total": 41,
+        "actual_crawled": 41,
+        "page_source_info": "Total of 41 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.CO",
+        "url": "https://arxiv.org/list/astro-ph.CO/new",
+        "expected_total": 22,
+        "actual_crawled": 22,
+        "page_source_info": "Total of 22 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.HE",
+        "url": "https://arxiv.org/list/astro-ph.HE/new",
+        "expected_total": 22,
+        "actual_crawled": 22,
+        "page_source_info": "Total of 22 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.GA",
+        "url": "https://arxiv.org/list/astro-ph.GA/new",
+        "expected_total": 21,
+        "actual_crawled": 21,
+        "page_source_info": "Total of 21 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.SR",
+        "url": "https://arxiv.org/list/astro-ph.SR/new",
+        "expected_total": 15,
+        "actual_crawled": 15,
+        "page_source_info": "Total of 15 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.IM",
+        "url": "https://arxiv.org/list/astro-ph.IM/new",
+        "expected_total": 12,
+        "actual_crawled": 12,
+        "page_source_info": "Total of 12 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.EP",
+        "url": "https://arxiv.org/list/astro-ph.EP/new",
+        "expected_total": 11,
+        "actual_crawled": 11,
+        "page_source_info": "Total of 11 entries",
+        "success": true,
+        "verification_passed": true
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "https://arxiv.org/abs/2601.00164",
+      "title": "Gravitational Wave Tails and Transient Behaviors of Quantum-Corrected Black Holes",
+      "authors": [
+        "Rong-Zhen Guo",
+        "Qing-Guo Huang"
+      ],
+      "abstract": "Gravitational Wave Tails and Transient Behaviors of Quantum-Corrected Black Holes Rong-Zhen Guo, Qing-Guo Huang General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th) Gravitational wave astronomy plays a pivotal role in testing the dynamics of gravity in strong-field regimes and probing the nature of black holes. Motivated by recent studies on late-time tails in gravitational waves, we examine the gravitational wave tails of black holes incorporating quantum corrections within the framework of effective Loop Quantum Gravity. Our findings indicate that both the amplitudes and the intermediate behavior of these tails are influenced by quantum corrections. We demonstrate that the amplitude and transient characteristics of the tail are sensitive to the specific details of the black hole's dynamics.",
+      "pdf_url": "https://arxiv.org/pdf/2601.00164.pdf",
+      "published": "2026-01-06T01:32:06.037014",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2601.00185",
+      "title": "Imprints of quantum gravity effects on gravitational waves: a comparative study using extreme mass-ratio inspirals",
+      "authors": [
+        "Ruo-Ting Chen",
+        "Guoyang Fu",
+        "Dan Zhang",
+        "Jian-Pin Wu"
+      ],
+      "abstract": "Imprints of quantum gravity effects on gravitational waves: a comparative study using extreme mass-ratio inspirals Ruo-Ting Chen, Guoyang Fu, Dan Zhang, Jian-Pin Wu General Relativity and Quantum Cosmology (gr-qc) Within a generally covariant Hamiltonian framework of loop quantum gravity (LQG), two black hole models parameterized by a quantum correction $\\zeta$ have recently been constructed. Using extreme mass-ratio inspirals (EMRIs) as high-precision probes, we investigate the imprints of this LQG deformation in the surrounding spacetime. Waveforms generated via an improved augmented analytic kludge (AAK) model in both LQG-BH backgrounds and in Schwarzschild spacetime are compared through a faithfulness analysis. This allows us to quantify the detectability of the deviation with LISA and to derive constraints on $\\zeta$ based on a detection threshold. We find that the first LQG-BH model produces significantly stronger signatures in EMRI signals than the second, making its quantum gravity effects more accessible to future space-borne gravitational-wave detection.",
+      "pdf_url": "https://arxiv.org/pdf/2601.00185.pdf",
+      "published": "2026-01-06T01:32:06.037181",
+      "updated": null,
+      "categories": [
+        "gr-qc"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2601.00550",
+      "title": "Taxonomy of periodic orbits and gravitational waves in a deformed Schwarzschild black hole spacetime",
+      "authors": [
+        "Zhutong Hua",
+        "Zhen-Tao He",
+        "Jiageng Jiao",
+        "Jing-Qi Lai",
+        "Yu Tian"
+      ],
+      "abstract": "Taxonomy of periodic orbits and gravitational waves in a deformed Schwarzschild black hole spacetime Zhutong Hua, Zhen-Tao He, Jiageng Jiao, Jing-Qi Lai, Yu Tian General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE) In this paper, we investigate periodic orbits of test particles around a deformed Schwarzschild black hole and the resulting gravitational waves. Firstly, we examine the properties of circular orbits and find that circular orbits could disappear when the deformation is large enough. Then, using an orbital taxonomy, we characterize various periodic orbits with a set of triples, which describes the zoom-whirl behaviours. We also calculate the gravitational waveform signals generated by different periodic orbits, revealing the influence of the deformation on the gravitational wave, which can be potentially picked up by future space-based detectors.",
+      "pdf_url": "https://arxiv.org/pdf/2601.00550.pdf",
+      "published": "2026-01-06T01:32:06.037521",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2601.00169",
+      "title": "Isotropic stochastic gravitational wave background reconstruction for Taiji constellation",
+      "authors": [
+        "Yang Jiang",
+        "Qing-Guo Huang"
+      ],
+      "abstract": "Isotropic stochastic gravitational wave background reconstruction for Taiji constellation Yang Jiang, Qing-Guo Huang Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Quantum Cosmology (gr-qc) The stochastic gravitational wave background is a broadband target from diverse astrophysical and cosmological sources. The background falls within the mHz frequency band could become a potential observable for future space-based interferometers. Taiji, a proposed space mission slated for launch in the 2030s, will enable the study of such a background. However, the unique characteristics of space missions pose distinctive challenges for separating the stochastic background from instrumental noise. To address the data analysis requirements, we develop a preliminary pipeline to search for the SGWB and evaluate its performance with Taiji simulation datasets. At present, we demonstrate that the algorithm can successfully recover the parameters of injected background with a known spectral density after setting aside the complication of galactic binaries foreground. Furthermore, by employing the trans-dimensional Markov Chain Monte Carlo method, we extend the analysis to reconstruct the background with unknown spectral morphology.",
+      "pdf_url": "https://arxiv.org/pdf/2601.00169.pdf",
+      "published": "2026-01-06T01:32:06.040131",
+      "updated": null,
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "primary_category": "astro-ph.CO",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from astro-ph.CO",
+        "cross_list_from": "astro-ph.CO"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.05603",
+      "title": "Motion of spinning particles in the Kerr-Newman black hole exterior. I. Periodic orbits",
+      "authors": [
+        "Yi-Ping Chen",
+        "Tien Hsieh",
+        "Da-Shin Lee"
+      ],
+      "abstract": "Motion of spinning particles in the Kerr-Newman black hole exterior. I. Periodic orbits Yi-Ping Chen, Tien Hsieh, Da-Shin Lee General Relativity and Quantum Cosmology (gr-qc) The motion of a spinning particle in the exterior of a Kerr-Newman black hole is studied. The dynamics is governed by the Mathisson-Papapetrou equations in the pole-dipole approximation, including the spin-curvature coupling to leading order in the spin. In terms of conserved quantities, the dynamical equations in Mino time can be transformed into the integral form for both aligned and misaligned spins with respect to the orbital motion. These non-geodesic equations can be solved analytically with the solutions involving Jacobi elliptic functions. The radial potential is derived to study the particle's parameter space for various types of orbits, based on its roots corrected by the particle's spin. We consider equatorial motion oscillating between two turning points, which are the two outermost roots of the radial potential, in the misaligned case. In this case, there is an induced oscillatory motion out of the equatorial plane. In particular, the periods of the motion are obtained explicitly. When the orbits become a source of gravitational-wave emission, these periods of motion will play a key role in determining gravitational-wave signals in the frequency domain. Numerical kludge waveforms are constructed. The gravitational-wave amplitudes are found to be sensitive to the turning points of the orbits. The implications for gravitational-wave emission due to extreme mass-ratio inspirals (EMRIs) are discussed.",
+      "pdf_url": "https://arxiv.org/pdf/2510.05603.pdf",
+      "published": "2026-01-06T01:32:06.041441",
+      "updated": null,
+      "categories": [
+        "gr-qc"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.15704",
+      "title": "Physical Effects of Gravitational Waves at Second Order",
+      "authors": [
+        "Guillem Domènech",
+        "Shi Pi",
+        "Ao Wang"
+      ],
+      "abstract": "Physical Effects of Gravitational Waves at Second Order Guillem Domènech, Shi Pi, Ao Wang General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Phenomenology (hep-ph); High Energy Physics - Theory (hep-th) There is currently no rigorous definition of gravitational wave strain at second order in cosmological perturbation theory. The usual association of gravitational waves with transverse and traceless fluctuations of the metric on spatial hypersurfaces becomes ambiguous at second order, as it inherently depends on the spacetime slicing. While this poses no practical issues in linearized gravity, it presents a fundamental problem for secondary gravitational waves, especially notorious for gravitational waves induced by primordial fluctuations. We compute, for the first time, the physical effects of gravitational waves at second order, as measured by geodesic observers that emit and receive electromagnetic signals, thereby settling the debate on gauge ambiguities. We find that the measured gravitational wave strain coincides with the transverse-traceless components in the Newton gauge.",
+      "pdf_url": "https://arxiv.org/pdf/2512.15704.pdf",
+      "published": "2026-01-06T01:32:06.042423",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph",
+        "hep-th"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.22938",
+      "title": "Multi-messenger detectability of continuous gravitational waves from the near future to next generation detectors",
+      "authors": [
+        "Benjamin J. Owen , Binod Rajbhandari Texas Tech University, University of Maryland Baltimore County, Rochester Institute of Technology)"
+      ],
+      "abstract": "Multi-messenger detectability of continuous gravitational waves from the near future to next generation detectors Benjamin J. Owen (1 and 2), Binod Rajbhandari (1 and 2 and 3) ((1) Texas Tech University, (2) University of Maryland Baltimore County, (3) Rochester Institute of Technology) General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE) Continuous gravitational waves have the potential to transform gravitational wave astronomy and yield fresh insights into astrophysics, nuclear and particle physics, and condensed matter physics. We evaluate their detectability by combining various theoretical and observational arguments from the literature and systematically applying those arguments to known astronomical objects and future gravitational wave detectors. We detail and update previous estimates made in support of Cosmic Explorer [M. Evans et al., arXiv:2306.13745; I. Gupta et al., Class. Quantum Grav. 41, 245001 (2024)]. It is commonly argued that the spins of accreting neutron stars are regulated by gravitational wave emission and that millisecond pulsars contain a young pulsar's magnetic field buried under accreted material. If either of these arguments holds, the first detection of continuous gravitational waves is likely with near future upgrades of current detectors, and many detections are likely with next generation detectors such as Cosmic Explorer and the Einstein Telescope. A lack of detections in the next several years would begin to raise serious doubts about current theories of millisecond pulsar formation.",
+      "pdf_url": "https://arxiv.org/pdf/2512.22938.pdf",
+      "published": "2026-01-06T01:32:06.042643",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.22945",
+      "title": "Colloquium: Multimessenger astronomy with continuous gravitational waves and future detectors",
+      "authors": [
+        "Benjamin J. Owen"
+      ],
+      "abstract": "Colloquium: Multimessenger astronomy with continuous gravitational waves and future detectors Benjamin J. Owen 13 pages, 4 figures, to appear in Rev. Mod. Phys General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE) Continuous gravitational waves from rapidly rotating neutron stars are on the new frontiers of gravitational wave astrophysics and have strong connections to electromagnetic astronomy, nuclear astrophysics, and condensed matter physics. In this Colloquium I survey prospects for detection of continuous gravitational waves from various neutron star populations, especially aided by electromagnetic observations. Although there are caveats, current theories and observations suggest that the first detections are likely within a few years, and that many are likely in the era of next generation detectors such as Cosmic Explorer and the Einstein Telescope. I also survey what can be learned from these signals, each one of which will contain more cycles than all the compact binary mergers ever detected. Since continuous gravitational wave emission mechanisms depend on aspects of neutron star physics, such as crustal elasticity, which are not well constrained by current astronomical observations and physical experiments, their detection can tell us a great deal that is new about extreme matter. Even more can be learned by combining gravitational wave observations with data from the Square Kilometre Array, the Next Generation Very Large Array, FAST, and other electromagnetic detectors operating in the next generation era.",
+      "pdf_url": "https://arxiv.org/pdf/2512.22945.pdf",
+      "published": "2026-01-06T01:32:06.042828",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.24194",
+      "title": "Impact of Anisotropy on Neutron Star Structure and Curvature",
+      "authors": [
+        "A. C. Khunt",
+        "K. Yavuz Ekşi",
+        "P. C. Vinodkumar"
+      ],
+      "abstract": "Impact of Anisotropy on Neutron Star Structure and Curvature A. C. Khunt, K. Yavuz Ekşi, P. C. Vinodkumar General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE) We investigate the impact of pressure anisotropy on the structural and geometric properties of neutron stars within general relativity, focusing primarily on the phenomenological Bowers-Liang (BL) model, and comparing selected results with a quasi-local prescription. Using the SLy equation of state, we explore how anisotropic stresses modify global observables such as the mass-radius relation, moment of inertia, compactness, and tidal deformability over a broad range of anisotropy parameters. We find that moderate positive anisotropy can increase the maximum supported mass up to approximately $2.4\\;M_\\odot$ and enhance stellar compactness by up to $20\\%$ relative to isotropic configurations, while remaining broadly consistent with current NICER and gravitational-wave constraints. To probe the internal gravitational field, we compute curvature invariants including the Ricci scalar, the Ricci tensor contraction, the Kretschmann scalar, and the Weyl scalar. We show that curvature measures directly tied to the matter distribution exhibit a strong sensitivity to anisotropy, whereas the Weyl curvature remains comparatively insensitive, reflecting its role as a measure of the free gravitational field. Within the phenomenological BL framework, the maximum compactness increases with anisotropy and reaches values as high as $\\mathcal{C}_{\\max}\\approx 0.25$-$0.38$ for $\\lambda_{\\rm BL}\\in[-4,+4]$, although the physical realizability of such highly compact configurations depends sensitively on the underlying anisotropy mechanism. A comparison with the quasi-local model highlights the strong model dependence of anisotropic effects, underscoring both the potential significance and the limitations of phenomenological anisotropy prescriptions in modeling strong-field neutron-star interiors.",
+      "pdf_url": "https://arxiv.org/pdf/2512.24194.pdf",
+      "published": "2026-01-06T01:32:06.043267",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.23789",
+      "title": "Dark Recipe for the First Giants: From Population III Stars to Early Supermassive Black Holes via Dark Matter Capture",
+      "authors": [
+        "Sulagna Bhattacharya",
+        "Debajit Bose",
+        "Basudeb Dasgupta",
+        "Jaya Doliya",
+        "Ranjan Laha"
+      ],
+      "abstract": "Dark Recipe for the First Giants: From Population III Stars to Early Supermassive Black Holes via Dark Matter Capture Sulagna Bhattacharya, Debajit Bose, Basudeb Dasgupta, Jaya Doliya, Ranjan Laha v1: 17 pages, 7 figures, 1 table. Comments are welcome. For a short video explaining the paper, please see: this https URL High Energy Physics - Phenomenology (hep-ph); Cosmology and Nongalactic Astrophysics (astro-ph.CO) The presence of supermassive black holes (SMBHs) at high redshifts ($z>5$), as revealed by James Webb Space Telescope (JWST), challenges standard black hole (BH) formation scenarios. We propose a mechanism in which non-annihilating dark matter (DM) with non-gravitational interactions with the Standard Model (SM) particles accumulates inside Population III (Pop III) stars, inducing their premature collapse into BH seeds having the same mass as the parent star. Owing to their early formation, these seeds can accrete for longer periods and grow into the SMBHs observed at early cosmic times. Focusing on spin-dependent (SD) DM-proton interactions, we identify regions of parameter space that account for the observed high-redshift SMBH population, their mass function, and the SMBH-stellar mass relation. Portions of this parameter space are testable by forthcoming direct detection experiments. The scenario may lead to distinctive gravitational wave (GW) signatures from SMBH mergers, accessible to Laser Interferometer Space Antenna (LISA) and pulsar timing array (PTA) observations.",
+      "pdf_url": "https://arxiv.org/pdf/2512.23789.pdf",
+      "published": "2026-01-06T01:32:06.226943",
+      "updated": null,
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "primary_category": "hep-ph",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from hep-ph",
+        "cross_list_from": "hep-ph"
+      }
+    }
+  ]
+}
