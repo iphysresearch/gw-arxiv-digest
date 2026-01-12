@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2026-01-11
+# Complete Daily GW arXiv Digest - 2026-01-12
 
 **总爬取文章**: 156 篇  
 **今天的文章**: 155 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2601.04379](https://arxiv.org/abs/2601.04379)  
 **Authors**: George Ruppeiner  
-**Date**: 11 Jan 2026  
+**Date**: 12 Jan 2026  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2601.04276](https://arxiv.org/abs/2601.04276)  
 **Authors**: Rahul Dhurkunde, Ian Harry  
-**Date**: 11 Jan 2026  
+**Date**: 12 Jan 2026  
 **Categories**: astro-ph.IM, astro-ph.HE, gr-qc, hep-ex  
 **Type**: cross-list from astro-ph.IM  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2601.04307](https://arxiv.org/abs/2601.04307)  
 **Authors**: Yunjia Bao, Keisuke Harigaya  
-**Date**: 11 Jan 2026  
+**Date**: 12 Jan 2026  
 **Categories**: hep-ph, astro-ph.CO, gr-qc, hep-th  
 **Type**: cross-list from hep-ph  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2601.04340](https://arxiv.org/abs/2601.04340)  
 **Authors**: Zihan Wang  
-**Date**: 11 Jan 2026  
+**Date**: 12 Jan 2026  
 **Categories**: astro-ph.CO, gr-qc, hep-ph  
 **Type**: cross-list from astro-ph.CO  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2601.05041](https://arxiv.org/abs/2601.05041)  
 **Authors**: Oskar Schiller  
-**Date**: 11 Jan 2026  
+**Date**: 12 Jan 2026  
 **Categories**: math.DG, gr-qc  
 **Type**: cross-list from math.DG  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2601.05069](https://arxiv.org/abs/2601.05069)  
 **Authors**: Wencong Hong, Shi Pi, Ao Wang, Zhenyu Zhang  
-**Date**: 11 Jan 2026  
+**Date**: 12 Jan 2026  
 **Categories**: astro-ph.CO, gr-qc, hep-ph, hep-th  
 **Type**: cross-list from astro-ph.CO  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2503.02320](https://arxiv.org/abs/2503.02320)  
 **Authors**: Takahisa Igata  
-**Date**: 11 Jan 2026  
+**Date**: 12 Jan 2026  
 **Categories**: gr-qc, astro-ph.HE, hep-th  
 **Type**: replaced  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2506.10847](https://arxiv.org/abs/2506.10847)  
 **Authors**: R. Casadio, C. Noberto Souza, R. da Rocha  
-**Date**: 11 Jan 2026  
+**Date**: 12 Jan 2026  
 **Categories**: gr-qc, hep-th  
 **Type**: replaced  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2508.15534](https://arxiv.org/abs/2508.15534)  
 **Authors**: Oliver Steppohn, Sebastian H. Völkel, Tim Dietrich  
-**Date**: 11 Jan 2026  
+**Date**: 12 Jan 2026  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: replaced  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2509.07737](https://arxiv.org/abs/2509.07737)  
 **Authors**: Ziming Wang, Dicong Liang, Lijing Shao  
-**Date**: 11 Jan 2026  
+**Date**: 12 Jan 2026  
 **Categories**: gr-qc, astro-ph.HE, astro-ph.IM  
 **Type**: replaced  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2509.21652](https://arxiv.org/abs/2509.21652)  
 **Authors**: Chen-Kai Qiao, Yi Zheng, Zhou-Jian Cao  
-**Date**: 11 Jan 2026  
+**Date**: 12 Jan 2026  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: replaced  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2510.17787](https://arxiv.org/abs/2510.17787)  
 **Authors**: Nishkal Rao, Anuj Mishra, Apratim Ganguly, Anupreeta More  
-**Date**: 11 Jan 2026  
+**Date**: 12 Jan 2026  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: replaced  
 
@@ -155,7 +155,7 @@
 
 **arXiv**: [2601.04168](https://arxiv.org/abs/2601.04168)  
 **Authors**: Alexandre Toubiana, Jonathan Gair  
-**Date**: 11 Jan 2026  
+**Date**: 12 Jan 2026  
 **Categories**: gr-qc, astro-ph.GA, astro-ph.HE, astro-ph.IM, astro-ph.SR  
 **Type**: replaced  
 
@@ -167,7 +167,7 @@
 
 **arXiv**: [2504.17741](https://arxiv.org/abs/2504.17741)  
 **Authors**: Tao Han, Jing-Fei Zhang, Xin Zhang  
-**Date**: 11 Jan 2026  
+**Date**: 12 Jan 2026  
 **Categories**: astro-ph.CO, gr-qc, hep-ph  
 **Type**: replaced  
 
@@ -179,7 +179,7 @@
 
 **arXiv**: [2506.22543](https://arxiv.org/abs/2506.22543)  
 **Authors**: Rahul Srinivasan, Enrico Barausse, Natalia Korsakova, Roberto Trotta  
-**Date**: 11 Jan 2026  
+**Date**: 12 Jan 2026  
 **Categories**: astro-ph.GA, gr-qc, stat.ML  
 **Type**: replaced  
 
@@ -191,7 +191,7 @@
 
 **arXiv**: [2511.15797](https://arxiv.org/abs/2511.15797)  
 **Authors**: Mariana Carrillo Gonzalez, Valerio De Luca, Alice Garoffolo, Julio Parra-Martinez, Mark Trodden  
-**Date**: 11 Jan 2026  
+**Date**: 12 Jan 2026  
 **Categories**: hep-th, astro-ph.CO, gr-qc  
 **Type**: replaced  
 
@@ -203,7 +203,7 @@
 
 **arXiv**: [2601.04774](https://arxiv.org/abs/2601.04774)  
 **Authors**: Felipe Andrade-Oliveira, David Sanchez-Cid, Danny Laghi, Marcelle Soares-Santos  
-**Date**: 11 Jan 2026  
+**Date**: 12 Jan 2026  
 **Categories**: astro-ph.CO  
 **Type**: new submission  
 
@@ -215,7 +215,7 @@
 
 **arXiv**: [2507.01191](https://arxiv.org/abs/2507.01191)  
 **Authors**: Aleksandr Chatrchyan, M.C. David Marsh, Charalampos Nikolis  
-**Date**: 11 Jan 2026  
+**Date**: 12 Jan 2026  
 **Categories**: hep-ph, astro-ph.CO, hep-th  
 **Type**: replaced  
 
@@ -227,7 +227,7 @@
 
 **arXiv**: [2601.04990](https://arxiv.org/abs/2601.04990)  
 **Authors**: Clara Plasse, Alexis Reboul-Salze, Jérome Guilet, Diego Götz, Nicolas Leroy, Raphaël. Raynaud, Matteo Bugli, Tito Dal Canton  
-**Date**: 11 Jan 2026  
+**Date**: 12 Jan 2026  
 **Categories**: astro-ph.HE  
 **Type**: new submission  
 
@@ -239,7 +239,7 @@
 
 **arXiv**: [2601.04347](https://arxiv.org/abs/2601.04347)  
 **Authors**: Yakubu Mu'allim, J. O.Vwavware, A. Ohwofosirai  
-**Date**: 11 Jan 2026  
+**Date**: 12 Jan 2026  
 **Categories**: astro-ph.IM, astro-ph.EP, astro-ph.SR  
 **Type**: cross-list from astro-ph.IM  
 
