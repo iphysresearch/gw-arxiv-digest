@@ -1,144 +1,102 @@
-# 📡 Daily GW arXiv Digest - 2026-01-12
-**Found 20 gravitational wave papers**
+# 📡 Daily GW arXiv Digest - 2026-01-13
+**Found 14 gravitational wave papers**
 
-[arXiv:2601.04379](https://arxiv.org/abs/2601.04379)[Submitted on 12 Jan 2026]
-**Could black hole thermodynamics play a role in black hole mergers?**
-George Ruppeiner
+[arXiv:2601.05734](https://arxiv.org/abs/2601.05734)[Submitted on 13 Jan 2026]
+**A nonlinear voice from GW250114 ringdown**
+Yi-Fan Wang, Sizheng Ma, Neev Khera, Huan Yang
+Subjects: **gr-qc**; astro-ph.HE
+
+---
+
+[arXiv:2601.05750](https://arxiv.org/abs/2601.05750)[Submitted on 13 Jan 2026]
+**Parameterized Post-Newtonian Analysis of Quadratic Gravity and Solar System Constraints**
+Jie Zhu, Hao Li
 Subjects: **gr-qc**
 
 ---
 
-[arXiv:2601.04276](https://arxiv.org/abs/2601.04276) (cross-list from astro-ph.IM) [Submitted on 12 Jan 2026]
-**Search for Precessing Binary Black Holes in Advanced LIGO's Third Observing Run using Harmonic Decomposition**
-Rahul Dhurkunde, Ian Harry
-Subjects: **astro-ph.IM**; astro-ph.HE, gr-qc, hep-ex
+[arXiv:2601.05754](https://arxiv.org/abs/2601.05754)[Submitted on 13 Jan 2026]
+**Gravitational waves and small-field astrometry**
+Robin Geyer, Sven Zschocke, Michael Soffel, Sergei Klioner, Lennart Lindegren, Uwe Lammers
+Subjects: **gr-qc**; astro-ph.IM
 
 ---
 
-[arXiv:2601.04307](https://arxiv.org/abs/2601.04307) (cross-list from hep-ph) [Submitted on 12 Jan 2026]
-**Spectator Composes a Gravitational Canon: Spectator-field-triggered Phase Transition During Inflation and its Anisotropic Gravitational Wave Signals**
-Yunjia Bao, Keisuke Harigaya
-Subjects: **hep-ph**; astro-ph.CO, gr-qc, hep-th
+[arXiv:2601.05447](https://arxiv.org/abs/2601.05447) (cross-list from physics.ins-det) [Submitted on 13 Jan 2026]
+**Robust Bilinear-Noise-Optimal Control for Gravitational-Wave Detectors: A Mixed LQG/$H_\infty$ Approach**
+Ian A. O. MacMillan, Lee P. McCuller
+Subjects: **astro-ph.IM**; gr-qc
 
 ---
 
-[arXiv:2601.04340](https://arxiv.org/abs/2601.04340) (cross-list from astro-ph.CO) [Submitted on 12 Jan 2026]
-**Diluting the Dark Sector: A Common Origin for the PTA Signal and Inelastic SIDM**
-Zihan Wang
+[arXiv:2601.06017](https://arxiv.org/abs/2601.06017) (cross-list from astro-ph.CO) [Submitted on 13 Jan 2026]
+**Probing Cosmic Expansion and Early Universe with Einstein Telescope**
+Angelo Ricciardone, Mairi Sakellariadou, Archisman Ghosh, Alessandro Agapito, M. Celeste Artale, Michael Bacchi, Tessa Baker, Marco Baldi, Nicola Bartolo, Andrea Begnoni, Enis Belgacem, Marek Biesiada, Jose J. Blanco-Pillado, Tomasz Bulik, Marica Branchesi, Gianluca Calcagni, Giulia Capurri, Carmelita Carbone, Roberto Casadio, J.A.R. Cembranos, Andrea Cozzumbo, Ivan De Martino, Jose M. Diego, Emanuela Dimastrogiovanni, Guillem Domènech, Ulyana Dupletsa, Hannah Duval, Gabriele Franciolini, Andrea Giusti, Giuseppe Greco, Lavinia Heisenberg, Alexander C. Jenkins, Sumit Kumar, Gaetano Lambiase, Michele Maggiore, Michele Mancarella, Federico Marulli, Sabino Matarrese, Isabela Santiago de Matos, Michele Moresco, Riccardo Murgia, Ilia Musco, Gabriele Perna, Michele Punturo, Diego Rubiera-Garcia, Javier Rubio, Alexander Sevrin, Riccardo Sturani, Matteo Tagliazucchi, Nicola Tamanini, Alessandro Tronconi, Ville Vaskonen, Daniele Vernieri, Stoytcho Yazadjiev, Ivonne Zavala
+Subjects: **astro-ph.CO**; gr-qc
+
+---
+
+[arXiv:2601.06024](https://arxiv.org/abs/2601.06024) (cross-list from astro-ph.CO) [Submitted on 13 Jan 2026]
+**Primordial black holes: constraints, potential evidence and prospects**
+Bernard Carr, Antonio J. Iovino, Gabriele Perna, Ville Vaskonen, Hardi Veermäe
 Subjects: **astro-ph.CO**; gr-qc, hep-ph
 
 ---
 
-[arXiv:2601.05041](https://arxiv.org/abs/2601.05041) (cross-list from math.DG) [Submitted on 12 Jan 2026]
-**The Initial Value Problem for the Generalised Einstein Equations**
-Oskar Schiller
-Subjects: **math.DG**; gr-qc
+[arXiv:2504.21147](https://arxiv.org/abs/2504.21147) (replaced) [Submitted on 13 Jan 2026]
+**Improved parametrized test of general relativity using the IMRPhenomX waveform family: Including higher harmonics and precession**
+Soumen Roy, Maria Haney, Geraint Pratten, Peter T. H. Pang, Chris Van Den Broeck
+Subjects: **gr-qc**; astro-ph.IM
 
 ---
 
-[arXiv:2601.05069](https://arxiv.org/abs/2601.05069) (cross-list from astro-ph.CO) [Submitted on 12 Jan 2026]
-**Constraining the Primoridal Black Hole Abundance with Space-Based Detectors**
-Wencong Hong, Shi Pi, Ao Wang, Zhenyu Zhang
-Subjects: **astro-ph.CO**; gr-qc, hep-ph, hep-th
-
----
-
-[arXiv:2503.02320](https://arxiv.org/abs/2503.02320) (replaced) [Submitted on 12 Jan 2026]
-**Deflection angle in the strong deflection limit: a perspective from local geometrical invariants and matter distributions**
-Takahisa Igata
-Subjects: **gr-qc**; astro-ph.HE, hep-th
-
----
-
-[arXiv:2506.10847](https://arxiv.org/abs/2506.10847) (replaced) [Submitted on 12 Jan 2026]
-**Quantum gravitational corrections at third-order curvature, acoustic analog black holes and their quasinormal modes**
-R. Casadio, C. Noberto Souza, R. da Rocha
-Subjects: **gr-qc**; hep-th
-
----
-
-[arXiv:2508.15534](https://arxiv.org/abs/2508.15534) (replaced) [Submitted on 12 Jan 2026]
-**Black hole spectroscopy of collapsing and merging neutron stars**
-Oliver Steppohn, Sebastian H. Völkel, Tim Dietrich
+[arXiv:2506.02819](https://arxiv.org/abs/2506.02819) (replaced) [Submitted on 13 Jan 2026]
+**Realistic assessment of a single gravitational wave source localization taking into account precise pulsar distances with pulsar timing arrays**
+Ryo Kato, Keitaro Takahashi
 Subjects: **gr-qc**; astro-ph.HE
 
 ---
 
-[arXiv:2509.07737](https://arxiv.org/abs/2509.07737) (replaced) [Submitted on 12 Jan 2026]
-**Anatomy of parameter-estimation biases in overlapping gravitational-wave signals: detector network**
-Ziming Wang, Dicong Liang, Lijing Shao
-Subjects: **gr-qc**; astro-ph.HE, astro-ph.IM
+[arXiv:2511.05910](https://arxiv.org/abs/2511.05910) (replaced) [Submitted on 13 Jan 2026]
+**Primordial observables of explicit diffeomorphism violation in gravity**
+Mohsen Khodadi, Nils A. Nilsson, Gaetano Lambiase, Javad T. Firouzjaee
+Subjects: **gr-qc**
 
 ---
 
-[arXiv:2509.21652](https://arxiv.org/abs/2509.21652) (replaced) [Submitted on 12 Jan 2026]
-**A User-Friendly Python Interface for Numerical Relativity Program AMSS-NCKU**
-Chen-Kai Qiao, Yi Zheng, Zhou-Jian Cao
-Subjects: **gr-qc**; astro-ph.HE
+[arXiv:2601.00980](https://arxiv.org/abs/2601.00980) (replaced) [Submitted on 13 Jan 2026]
+**Graviton-Photon Mixing by a Kerr-Newman Black Hole with Worldline EFT**
+Qinyuan Zheng
+Subjects: **hep-th**; astro-ph.HE, gr-qc
 
 ---
 
-[arXiv:2510.17787](https://arxiv.org/abs/2510.17787) (replaced) [Submitted on 12 Jan 2026]
-**Comprehensive analysis of time-domain overlapping gravitational wave transients: A Lensing Study**
-Nishkal Rao, Anuj Mishra, Apratim Ganguly, Anupreeta More
-Subjects: **gr-qc**; astro-ph.HE
-
----
-
-[arXiv:2601.04168](https://arxiv.org/abs/2601.04168) (replaced) [Submitted on 12 Jan 2026]
-**A framework for LISA population inference**
-Alexandre Toubiana, Jonathan Gair
-Subjects: **gr-qc**; astro-ph.GA, astro-ph.HE, astro-ph.IM, astro-ph.SR
-
----
-
-[arXiv:2504.17741](https://arxiv.org/abs/2504.17741) (replaced) [Submitted on 12 Jan 2026]
-**Multi-messenger standard-siren cosmology for third-generation gravitational-wave detectors: forecasts considering observations of gamma-ray bursts and kilonovae**
-Tao Han, Jing-Fei Zhang, Xin Zhang
-Subjects: **astro-ph.CO**; gr-qc, hep-ph
-
----
-
-[arXiv:2506.22543](https://arxiv.org/abs/2506.22543) (replaced) [Submitted on 12 Jan 2026]
-**Simulation-based population inference of LISA's Galactic binaries: Bypassing the global fit**
-Rahul Srinivasan, Enrico Barausse, Natalia Korsakova, Roberto Trotta
-Subjects: **astro-ph.GA**; gr-qc, stat.ML
-
----
-
-[arXiv:2511.15797](https://arxiv.org/abs/2511.15797) (replaced) [Submitted on 12 Jan 2026]
-**Scattering perspective on gravitational lensing**
-Mariana Carrillo Gonzalez, Valerio De Luca, Alice Garoffolo, Julio Parra-Martinez, Mark Trodden
-Subjects: **hep-th**; astro-ph.CO, gr-qc
-
----
-
-[arXiv:2601.04774](https://arxiv.org/abs/2601.04774)[Submitted on 12 Jan 2026]
-**First measurement of the Hubble constant from a combined weak lensing and gravitational-wave standard siren analysis**
-Felipe Andrade-Oliveira, David Sanchez-Cid, Danny Laghi, Marcelle Soares-Santos
+[arXiv:2601.06023](https://arxiv.org/abs/2601.06023)[Submitted on 13 Jan 2026]
+**Weak lensing of bright standard sirens: prospects for $σ_8$**
+Ville Vaskonen
 Subjects: **astro-ph.CO**
 
 ---
 
-[arXiv:2507.01191](https://arxiv.org/abs/2507.01191) (replaced) [Submitted on 12 Jan 2026]
-**Gravitational waves from a dilaton-induced, first-order QCD phase transition**
-Aleksandr Chatrchyan, M.C. David Marsh, Charalampos Nikolis
+[arXiv:2601.05793](https://arxiv.org/abs/2601.05793) (cross-list from hep-ph) [Submitted on 13 Jan 2026]
+**Towards Accurate Gravitational Wave Predictions: Gauge-Invariant Nucleation in the Electroweak Phase Transition**
+Jie Liu, Renhui Qin, Ligong Bian
 Subjects: **hep-ph**; astro-ph.CO, hep-th
 
 ---
 
-[arXiv:2601.04990](https://arxiv.org/abs/2601.04990)[Submitted on 12 Jan 2026]
-**Probing millisecond magnetar formation in binary neutron star mergers through X-ray follow-up of gravitational wave alerts**
-Clara Plasse, Alexis Reboul-Salze, Jérome Guilet, Diego Götz, Nicolas Leroy, Raphaël. Raynaud, Matteo Bugli, Tito Dal Canton
-Subjects: **astro-ph.HE**
+[arXiv:2601.05926](https://arxiv.org/abs/2601.05926) (cross-list from hep-ph) [Submitted on 13 Jan 2026]
+**Naturally small Dirac neutrino mass and $B-L$ dark matter**
+Ernest Ma, Partha Kumar Paul, Narendra Sahu
+Subjects: **hep-ph**; astro-ph.CO
 
 ---
 
-[arXiv:2601.04347](https://arxiv.org/abs/2601.04347) (cross-list from astro-ph.IM) [Submitted on 12 Jan 2026]
-**The Impact of Robotic Telescopes on Time-Domain Astronomy**
-Yakubu Mu'allim, J. O.Vwavware, A. Ohwofosirai
-Subjects: **astro-ph.IM**; astro-ph.EP, astro-ph.SR
+[arXiv:2503.04880](https://arxiv.org/abs/2503.04880) (replaced) [Submitted on 13 Jan 2026]
+**New Source for QCD Axion Dark Matter Production: Curvature Induced**
+Cem Eröncel, Yann Gouttenoire, Ryosuke Sato, Géraldine Servant, Peera Simakachorn
+Subjects: **hep-ph**; astro-ph.CO
 
 ---
 
-📊 **Summary**: 3 New • 6 Cross-lists • 11 Replacements
+📊 **Summary**: 4 New • 5 Cross-lists • 5 Replacements
