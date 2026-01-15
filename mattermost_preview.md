@@ -1,145 +1,145 @@
-# 📡 Daily GW arXiv Digest - 2026-01-14
-**Found 24 gravitational wave papers**
+# 📡 Daily GW arXiv Digest - 2026-01-15
+**Found 21 gravitational wave papers**
 
-[arXiv:2601.06684](https://arxiv.org/abs/2601.06684)[Submitted on 14 Jan 2026]
-**Limits of vacuum-template subtraction for LISA massive black hole binary sources in realistic environments**
-Lorenz Zwick
+[arXiv:2601.07908](https://arxiv.org/abs/2601.07908)[Submitted on 15 Jan 2026]
+**Signatures of a subpopulation of hierarchical mergers in the GWTC-4 gravitational-wave dataset**
+Cailin Plunkett, Thomas Callister, Michael Zevin, Salvatore Vitale
 Subjects: **gr-qc**; astro-ph.HE
 
 ---
 
-[arXiv:2601.06711](https://arxiv.org/abs/2601.06711)[Submitted on 14 Jan 2026]
-**Event Horizon Telescope Observational Constraints on Dymnikova-Type Non-Singular Black Holes in Higher Dimensions**
-A. Errehymy, Y. Khedif, M. Daoud, Y. Myrzakulov, O. Donmez, B. Turimov
+[arXiv:2601.07931](https://arxiv.org/abs/2601.07931)[Submitted on 15 Jan 2026]
+**General gravitational properties of neutron stars: curvature invariants, binding energy, and trace anomaly**
+Iván Garibay, Christian Ecker, Luciano Rezzolla
+Subjects: **gr-qc**; astro-ph.HE, nucl-th
+
+---
+
+[arXiv:2601.08252](https://arxiv.org/abs/2601.08252) (cross-list from hep-th) [Submitted on 15 Jan 2026]
+**Resumming Scattering Amplitudes for Waveforms**
+Katsuki Aoki, Andrea Cristofoli
+Subjects: **hep-th**; gr-qc
+
+---
+
+[arXiv:2601.08675](https://arxiv.org/abs/2601.08675) (cross-list from astro-ph.CO) [Submitted on 15 Jan 2026]
+**One-Loop Tensor Power Spectrum from a Non-Minimally Coupled Spectator Field during Inflation**
+Zhe Li, Chen Yuan, Qing-Guo Huang
+Subjects: **astro-ph.CO**; gr-qc, hep-th
+
+---
+
+[arXiv:2309.14473](https://arxiv.org/abs/2309.14473) (replaced) [Submitted on 15 Jan 2026]
+**Analysis of GWTC-3 with fully precessing numerical relativity surrogate models**
+Tousif Islam, Avi Vajpeyi, Feroz H. Shaik, Carl-Johan Haster, Vijay Varma, Scott E. Field, Jacob Lange, Richard O'Shaughnessy, Rory Smith
 Subjects: **gr-qc**
 
 ---
 
-[arXiv:2601.06956](https://arxiv.org/abs/2601.06956)[Submitted on 14 Jan 2026]
-**IndIGO-D: Probing Compact Binary Coalescences in the Decihertz GW Band**
-Abhishek Sharma, Divya Tahelyani, Anand S. Sengupta, Sanjit Mitra
-Subjects: **gr-qc**; astro-ph.HE
+[arXiv:2402.03984](https://arxiv.org/abs/2402.03984) (replaced) [Submitted on 15 Jan 2026]
+**Angular correlation and deformed Hellings-Downs curve from spin-2 ultralight dark matter**
+Rong-Gen Cai, Jing-Rui Zhang, Yun-Long Zhang
+Subjects: **gr-qc**; astro-ph.CO, hep-ph, hep-th
 
 ---
 
-[arXiv:2601.07091](https://arxiv.org/abs/2601.07091)[Submitted on 14 Jan 2026]
-**Balance flux laws beyond general relativity**
-David Maibach, Jann Zosso
+[arXiv:2407.04682](https://arxiv.org/abs/2407.04682) (replaced) [Submitted on 15 Jan 2026]
+**Phenomenology and origin of late-time tails in eccentric binary black hole mergers**
+Tousif Islam, Guglielmo Faggioli, Gaurav Khanna, Scott E. Field, Maarten van de Meent, Alessandra Buonanno
 Subjects: **gr-qc**
 
 ---
 
-[arXiv:2601.07179](https://arxiv.org/abs/2601.07179)[Submitted on 14 Jan 2026]
-**Chiroptical effect induced by gravitational waves**
-Haorong Wu, Xilong Fan
-Subjects: **gr-qc**; astro-ph.HE, quant-ph
+[arXiv:2412.08852](https://arxiv.org/abs/2412.08852) (replaced) [Submitted on 15 Jan 2026]
+**Scalar perturbations on the normal and self-accelerating branch of a DGP brane and $σ_8$**
+Maribel Hernández-Márquez, Celia Escamilla-Rivera
+Subjects: **gr-qc**; astro-ph.CO
 
 ---
 
-[arXiv:2601.07500](https://arxiv.org/abs/2601.07500)[Submitted on 14 Jan 2026]
-**Merger Dynamics of N+N Co-planar Particles in Newton Gravitation**
-Qi Su, Baicheng Zhang, Ding-Fang Zeng
-Subjects: **gr-qc**
-
----
-
-[arXiv:2601.07739](https://arxiv.org/abs/2601.07739)[Submitted on 14 Jan 2026]
-**Systematic Biases in Gravitational-Wave Parameter Estimation from Neglecting Orbital Eccentricity in Space-Based Detectors**
-Jin-Zhao Yang, Jia-Hao Zhong, Tao Yang
-Subjects: **gr-qc**; astro-ph.CO, astro-ph.IM
-
----
-
-[arXiv:2601.07774](https://arxiv.org/abs/2601.07774) (cross-list from astro-ph.CO) [Submitted on 14 Jan 2026]
-**Popcorn in the sky: Identifying primordial black holes in the gravitational-wave background**
-Eleni Bagui, Sébastien Clesse, Federico De Lillo, Alexander C. Jenkins, Mairi Sakellariadou
-Subjects: **astro-ph.CO**; astro-ph.IM, gr-qc
-
----
-
-[arXiv:2504.12243](https://arxiv.org/abs/2504.12243) (replaced) [Submitted on 14 Jan 2026]
-**Sound waves from primordial black hole formations**
-Zhuan Ning, Xiang-Xi Zeng, Zi-Yan Yuwen, Shao-Jiang Wang, Heling Deng, Rong-Gen Cai
-Subjects: **gr-qc**; astro-ph.CO, hep-ph
-
----
-
-[arXiv:2504.17587](https://arxiv.org/abs/2504.17587) (replaced) [Submitted on 14 Jan 2026]
-**Enhancing gravitational-wave detection: a machine learning pipeline combination approach with robust uncertainty quantification**
-Gregory Ashton, Ann-Kristin Malz, Nicolo Colombo
-Subjects: **gr-qc**; astro-ph.HE
-
----
-
-[arXiv:2507.11663](https://arxiv.org/abs/2507.11663) (replaced) [Submitted on 14 Jan 2026]
-**Asymptotic quasinormal modes, echoes, and black hole spectral instability: a brief review**
-Shui-Fa Shen, Guan-Ru Li, Ramin G. Daghigh, Jodin C. Morey, Michael D. Green, Wei-Liang Qian, Rui-Hong Yue
-Subjects: **gr-qc**
-
----
-
-[arXiv:2507.19582](https://arxiv.org/abs/2507.19582) (replaced) [Submitted on 14 Jan 2026]
-**There and back again: Outspiraling motion in non-Kerr compact objects**
-Manuel O. Mariano, Carlos A. R. Herdeiro
-Subjects: **gr-qc**
-
----
-
-[arXiv:2510.02163](https://arxiv.org/abs/2510.02163) (replaced) [Submitted on 14 Jan 2026]
-**Uncertainty in predicting the stochastic gravitational wave background from compact binary coalescences**
-Michael Ebersold, Tania Regimbau
+[arXiv:2503.16649](https://arxiv.org/abs/2503.16649) (replaced) [Submitted on 15 Jan 2026]
+**Extreme mass ratio inspirals in dark matter halos: dynamics and distinguishability of halo models**
+Sara Gliorio, Emanuele Berti, Andrea Maselli, Nicholas Speeney
 Subjects: **gr-qc**; astro-ph.CO, astro-ph.HE
 
 ---
 
-[arXiv:2510.11518](https://arxiv.org/abs/2510.11518) (replaced) [Submitted on 14 Jan 2026]
-**Gravitational wave echos from physical black holes**
-Yu-Song Cao, YanXia Liu, Ding-Fang Zeng
+[arXiv:2510.16762](https://arxiv.org/abs/2510.16762) (replaced) [Submitted on 15 Jan 2026]
+**Globally defined Carroll symmetry of gravitational waves**
+Mahmut Elbistan, Peng-Ming Zhang, Peter Horvathy
+Subjects: **gr-qc**; hep-th, math-ph
+
+---
+
+[arXiv:2512.04593](https://arxiv.org/abs/2512.04593) (replaced) [Submitted on 15 Jan 2026]
+**From Source Properties to Strong-Field Tests: a multipronged analysis of GW250114 with an effective one-body model for generic orbits**
+Koustav Chandra, Rossella Gamba, Danilo Chiaramello
 Subjects: **gr-qc**
 
 ---
 
-[arXiv:2512.19549](https://arxiv.org/abs/2512.19549) (replaced) [Submitted on 14 Jan 2026]
-**A Circular Disformal Kerr Black Hole**
-Jibril Ben Achour, Adolfo Cisterna, Hugo Roussille
-Subjects: **gr-qc**; hep-th
+[arXiv:2509.10607](https://arxiv.org/abs/2509.10607) (replaced) [Submitted on 15 Jan 2026]
+**Bias in the tensor-to-scalar ratio from self-interacting dark radiation**
+Nahuel Mirón-Granese, Claudia G. Scóccola
+Subjects: **astro-ph.CO**; gr-qc, hep-ph
 
 ---
 
-[arXiv:2512.21520](https://arxiv.org/abs/2512.21520) (replaced) [Submitted on 14 Jan 2026]
-**Multiband Gravitational Wave Detection Prospects for M31 UCXB-1 System in Low and Middle Frequency Band**
-Xiao Guo, Zhoujian Cao, Zhiwei Chen
+[arXiv:2510.08685](https://arxiv.org/abs/2510.08685) (replaced) [Submitted on 15 Jan 2026]
+**Hydrodynamic models of reheating**
+Juan Pablo Elía, Lucas Cantarutti, Nahuel Mirón-Granese, Esteban Calzetta
+Subjects: **hep-ph**; astro-ph.CO, gr-qc
+
+---
+
+[arXiv:2510.15028](https://arxiv.org/abs/2510.15028) (replaced) [Submitted on 15 Jan 2026]
+**Impact of Neutrino Flavor Conversions on Neutron Star Merger Dynamics, Ejecta, Nucleosynthesis, and Multi-Messenger Signals**
+Yi Qiu, David Radice, Sherwood Richers, Federico Maria Guercilena, Albino Perego, Maitraya Bhattacharyya
 Subjects: **astro-ph.HE**; gr-qc
 
 ---
 
-[arXiv:2601.03341](https://arxiv.org/abs/2601.03341) (replaced) [Submitted on 14 Jan 2026]
-**Cavity Multimodes as an Array for High-Frequency Gravitational Waves**
-Diego Blas, Yifan Chen, Yuxin Liu, Yanfei Shang, Jing Shu
-Subjects: **hep-ph**; astro-ph.HE, astro-ph.IM, gr-qc, hep-ex
+[arXiv:2601.08524](https://arxiv.org/abs/2601.08524)[Submitted on 15 Jan 2026]
+**Revisiting the Great Attractor: The Local Group's streamline trajectory, cosmic velocity and dynamical fate**
+Richard Stiskalek, Harry Desmond, Stuart McAlpine, Guilhem Lavaux, Jens Jasche, Michael J. Hudson
+Subjects: **astro-ph.CO**; astro-ph.GA
 
 ---
 
-[arXiv:2601.07716](https://arxiv.org/abs/2601.07716)[Submitted on 14 Jan 2026]
-**Induced gravitational waves - beyond linear cosmological perturbation theory**
-Raphael Picard
-Subjects: **astro-ph.CO**
+[arXiv:2601.08622](https://arxiv.org/abs/2601.08622)[Submitted on 15 Jan 2026]
+**Primordial Gravitational Waves from Scalar Backreaction in Axion-SU(2) Inflation**
+Mattia Cielo, Matteo Fasiello, Alexandros Papageorgiou
+Subjects: **astro-ph.CO**; hep-ph
 
 ---
 
-[arXiv:2510.06311](https://arxiv.org/abs/2510.06311) (replaced) [Submitted on 14 Jan 2026]
-**Modeling gravitational wave sources in the MillenniumTNG simulations**
-Federico Marinacci, Marco Baldi, Giuliano Iorio, M. Celeste Artale, Michela Mapelli, Volker Springel, Sownak Bose, Lars Hernquist
-Subjects: **astro-ph.CO**; astro-ph.IM, astro-ph.SR
+[arXiv:2601.08714](https://arxiv.org/abs/2601.08714)[Submitted on 15 Jan 2026]
+**Evolution and afterglow emission of gamma-ray burst jets from binary neutron star mergers**
+Emma Dreas, Om Sharan Salafia, Andrea Pavan, Riccardo Ciolfi, Annalisa Celotti
+Subjects: **astro-ph.HE**; astro-ph.IM
 
 ---
 
-[arXiv:2512.15292](https://arxiv.org/abs/2512.15292) (replaced) [Submitted on 14 Jan 2026]
-**Ultralight Dark Matter Constraints from NanoHertz Gravitational Waves**
-Shreyas Tiruvaskar, Russell Boey, Richard Easther, Chris Gordon
-Subjects: **astro-ph.CO**
+[arXiv:2601.08080](https://arxiv.org/abs/2601.08080) (cross-list from astro-ph.GA) [Submitted on 15 Jan 2026]
+**Long Term (250 years) Hydrodynamical Simulation of the Supermassive Black Hole Binary OJ287**
+Ariel Chitan, Sarah C. Gallagher, Shahram Abbassi
+Subjects: **astro-ph.GA**; astro-ph.HE
 
 ---
 
-📊 **Summary**: 11 New • 1 Cross-lists • 12 Replacements
-📋 Showing top 20 of 24 papers
+[arXiv:2505.00194](https://arxiv.org/abs/2505.00194) (replaced) [Submitted on 15 Jan 2026]
+**Bayesian Inference of Hybrid Star Properties from Future High-Precision Measurements of Their Radii**
+Bao-An Li, Xavier Grundler, Wen-Jie Xie, Nai-Bo Zhang
+Subjects: **astro-ph.HE**; astro-ph.GA, hep-ph, nucl-ex, nucl-th
+
+---
+
+[arXiv:2510.10548](https://arxiv.org/abs/2510.10548) (replaced) [Submitted on 15 Jan 2026]
+**Coherence of Supermassive Black Hole Binary Demographics with the nHz Stochastic Gravitational Wave Background**
+Katsunori Kusakabe, Yoshiyuki Inoue, Daisuke Toyouchi
+Subjects: **astro-ph.HE**
+
+---
+
+📊 **Summary**: 6 New • 3 Cross-lists • 12 Replacements
+📋 Showing top 20 of 21 papers
