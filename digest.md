@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2026-01-18
+# Complete Daily GW arXiv Digest - 2026-01-19
 
 **总爬取文章**: 151 篇  
 **今天的文章**: 151 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2601.09819](https://arxiv.org/abs/2601.09819)  
 **Authors**: Murdoc Newell, Alexis Boudon, Hong Qi  
-**Date**: 18 Jan 2026  
+**Date**: 19 Jan 2026  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2601.10239](https://arxiv.org/abs/2601.10239)  
 **Authors**: Emma Bruyère, Cyril Pitrou  
-**Date**: 18 Jan 2026  
+**Date**: 19 Jan 2026  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2601.10303](https://arxiv.org/abs/2601.10303)  
 **Authors**: Faizuddin Ahmed, Ahmad Al-Badawi, İzzet Sakallı  
-**Date**: 18 Jan 2026  
+**Date**: 19 Jan 2026  
 **Categories**: gr-qc, astro-ph.HE, hep-th  
 **Type**: new submission  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2601.10428](https://arxiv.org/abs/2601.10428)  
 **Authors**: Xiaolin Liu, Sachiko Kuroyanagi  
-**Date**: 18 Jan 2026  
+**Date**: 19 Jan 2026  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2601.10550](https://arxiv.org/abs/2601.10550)  
 **Authors**: Santiago Jaraba, Jérôme Novak, Micaela Oertel  
-**Date**: 18 Jan 2026  
+**Date**: 19 Jan 2026  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: new submission  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2601.10552](https://arxiv.org/abs/2601.10552)  
 **Authors**: Zhong-Hao Luo, Fa Peng Huang, Pengming Zhang, Chen Zhang  
-**Date**: 18 Jan 2026  
+**Date**: 19 Jan 2026  
 **Categories**: gr-qc, hep-ph  
 **Type**: new submission  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2601.09764](https://arxiv.org/abs/2601.09764)  
 **Authors**: Junlang Li, Jiehong Huang, Xinyao Guo, Haixing Miao, Yuchao Chen, Xiaoman Huang, Yuan Pan, Chenjie Zhou, Raffaele Flaminio, Jameson Graef Rollins, Bram Slagmolen, Fan Zhang, Teng Zhang, Mengyao Wang  
-**Date**: 18 Jan 2026  
+**Date**: 19 Jan 2026  
 **Categories**: astro-ph.IM, gr-qc  
 **Type**: cross-list from physics.ins-det  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2601.09834](https://arxiv.org/abs/2601.09834)  
 **Authors**: Guido D'Amico, Andrew A. Geraci, Nemanja Kaloper, Alexander Westphal  
-**Date**: 18 Jan 2026  
+**Date**: 19 Jan 2026  
 **Categories**: hep-ph, astro-ph.CO, gr-qc, hep-th, quant-ph  
 **Type**: cross-list from hep-ph  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2601.09918](https://arxiv.org/abs/2601.09918)  
 **Authors**: Preet Baxi, Jessica Leviton, Eilam Morag, Matthew Pitkin, Keith Riles  
-**Date**: 18 Jan 2026  
+**Date**: 19 Jan 2026  
 **Categories**: astro-ph.IM, gr-qc  
 **Type**: cross-list from astro-ph.IM  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2601.10145](https://arxiv.org/abs/2601.10145)  
 **Authors**: Waqas Ahmed, Waqar Ahmad, Ahsan Illahi, M. Junaid  
-**Date**: 18 Jan 2026  
+**Date**: 19 Jan 2026  
 **Categories**: hep-ph, gr-qc, hep-th  
 **Type**: cross-list from hep-ph  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2501.11071](https://arxiv.org/abs/2501.11071)  
 **Authors**: Jing-Rui Zhang, Ju Chen, Heng-Sen Jiao, Rong-Gen Cai, Yun-Long Zhang  
-**Date**: 18 Jan 2026  
+**Date**: 19 Jan 2026  
 **Categories**: gr-qc, astro-ph.CO, hep-ph  
 **Type**: replaced  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2412.02750](https://arxiv.org/abs/2412.02750)  
 **Authors**: Jakob Ehring , Sajad Abbar , H.-Thomas Janka , Georg Raffelt , Ko Nakamura , Kei Kotake Academia Sinica, Taipei City, Taiwan, MPI Physics, Garching, Germany, MPI Astrophysics, Garching, Germany, Fukuoka University, Japan, University of Wroclaw, Poland)  
-**Date**: 18 Jan 2026  
+**Date**: 19 Jan 2026  
 **Categories**: astro-ph.HE, gr-qc, hep-ph  
 **Type**: replaced  
 
@@ -155,7 +155,7 @@
 
 **arXiv**: [2508.18363](https://arxiv.org/abs/2508.18363)  
 **Authors**: Mayusree Das, Armen Sedrakian, Banibrata Mukhopadhyay  
-**Date**: 18 Jan 2026  
+**Date**: 19 Jan 2026  
 **Categories**: astro-ph.HE, astro-ph.SR, gr-qc  
 **Type**: replaced  
 
@@ -167,7 +167,7 @@
 
 **arXiv**: [2510.10107](https://arxiv.org/abs/2510.10107)  
 **Authors**: Yuxin Yang, Kun Liu, Xuefeng Zhang, Yi-Ming Hu  
-**Date**: 18 Jan 2026  
+**Date**: 19 Jan 2026  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -179,7 +179,7 @@
 
 **arXiv**: [2601.09054](https://arxiv.org/abs/2601.09054)  
 **Authors**: Jing Zou, Jingbo Wang Jianping Yuan, De Zhao, Yirong Wen, Wei Li, Na Wang, Yong Xia  
-**Date**: 18 Jan 2026  
+**Date**: 19 Jan 2026  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: replaced  
 
@@ -191,7 +191,7 @@
 
 **arXiv**: [2509.07074](https://arxiv.org/abs/2509.07074)  
 **Authors**: Thomas Konstandin, Anna-Malin Lemke, Andrea Mitridate, Enrico Perboni  
-**Date**: 18 Jan 2026  
+**Date**: 19 Jan 2026  
 **Categories**: astro-ph.CO  
 **Type**: replaced  
 
@@ -203,7 +203,7 @@
 
 **arXiv**: [2601.01034](https://arxiv.org/abs/2601.01034)  
 **Authors**: Huan Zhou, Bin Liu, Zheng-Xiang Li, Xi-Jing Wang, Kai Liao  
-**Date**: 18 Jan 2026  
+**Date**: 19 Jan 2026  
 **Categories**: astro-ph.CO  
 **Type**: replaced  
 
@@ -215,7 +215,7 @@
 
 **arXiv**: [2601.09863](https://arxiv.org/abs/2601.09863)  
 **Authors**: Ali Taani  
-**Date**: 18 Jan 2026  
+**Date**: 19 Jan 2026  
 **Categories**: astro-ph.HE  
 **Type**: new submission  
 
@@ -227,7 +227,7 @@
 
 **arXiv**: [2601.09868](https://arxiv.org/abs/2601.09868)  
 **Authors**: Ali Taani  
-**Date**: 18 Jan 2026  
+**Date**: 19 Jan 2026  
 **Categories**: astro-ph.HE, astro-ph.SR  
 **Type**: new submission  
 
@@ -239,7 +239,7 @@
 
 **arXiv**: [2512.22679](https://arxiv.org/abs/2512.22679)  
 **Authors**: José P. S. Lemos  
-**Date**: 18 Jan 2026  
+**Date**: 19 Jan 2026  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: cross-list from gr-qc  
 
@@ -251,7 +251,7 @@
 
 **arXiv**: [2601.09843](https://arxiv.org/abs/2601.09843)  
 **Authors**: Simon Portegies Zwart, Arjen Doelman, Jelmer Sein  
-**Date**: 18 Jan 2026  
+**Date**: 19 Jan 2026  
 **Categories**: astro-ph.GA, astro-ph.IM, math-ph  
 **Type**: new submission  
 
@@ -263,7 +263,7 @@
 
 **arXiv**: [2601.07925](https://arxiv.org/abs/2601.07925)  
 **Authors**: Emma T. Chickles , Joheen Chakraborty , Kevin B. Burdge , Vik S. Dhillon , Paul Draghis , Kareem El-Badry , Matthew J. Green , Aaron Householder , Sarah Hughes , Christopher Layden , Stuart P. Littlefair , James Munday , Ingrid Pelisoli , Maya S. Redden , John Tonry , Jan van Roestel , F. Elio Angile , Alex J. Brown , Noel Castro , Jack Dinsmore , Martin Dyer , Gabor Furesz , Michelle Gabutti , James Garbutt , Daniel Jarvis , Mark R. Kennedy , Paul Kerry , James McCormac , Geoffrey Mo , Dave Osip , Steven Parsons , Eleanor Pike , Jack Piotrowski , Roger W. Romani , David Sahman , Rob Simcoe Massachusetts Institute of Technology, Cambridge, USA, University of Sheffield, Sheffield, UK, Instituto de Astrofisica de Canarias, La Laguna, Spain, California Institute of Technology, Pasadena, USA, Max Planck Institute for Astronomy, Heidelberg, Germany, University of Warwick, Coventry, UK, Stanford University, Stanford, USA, University of Hawaii, Honolulu, USA, Institute of Science and Technology Austria, Klosterneuburg, Austria, University of Amsterdam, Amsterdam, The Netherlands, University of Hamburg, Hamburg, Germany, Research Software Engineering, University of Sheffield, Sheffield, UK, University College Cork, Cork, Ireland, Carnegie Observatories, Pasadena, USA, Las Campanas Observatory, La Serena, Chile)  
-**Date**: 18 Jan 2026  
+**Date**: 19 Jan 2026  
 **Categories**: astro-ph.SR  
 **Type**: replaced  
 
