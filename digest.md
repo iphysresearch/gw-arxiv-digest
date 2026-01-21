@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2026-01-20
+# Complete Daily GW arXiv Digest - 2026-01-21
 
 **总爬取文章**: 137 篇  
 **今天的文章**: 137 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2601.11239](https://arxiv.org/abs/2601.11239)  
 **Authors**: Neha Sharma, Aditya Vijaykumar, Prayush Kumar  
-**Date**: 20 Jan 2026  
+**Date**: 21 Jan 2026  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2601.11484](https://arxiv.org/abs/2601.11484)  
 **Authors**: Som Dev Bishoyi, Subir Sabharwal, Gaurav Khanna  
-**Date**: 20 Jan 2026  
+**Date**: 21 Jan 2026  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2601.10782](https://arxiv.org/abs/2601.10782)  
 **Authors**: Asher Berlin, Dawid Brzeminski, Erwin H. Tanin  
-**Date**: 20 Jan 2026  
+**Date**: 21 Jan 2026  
 **Categories**: hep-ph, gr-qc, hep-ex  
 **Type**: cross-list from hep-ph  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2601.11360](https://arxiv.org/abs/2601.11360)  
 **Authors**: Kaloian D. Lozanov, Misao Sasaki, Jan Tränkle  
-**Date**: 20 Jan 2026  
+**Date**: 21 Jan 2026  
 **Categories**: astro-ph.CO, gr-qc, hep-ph  
 **Type**: cross-list from astro-ph.CO  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2502.03983](https://arxiv.org/abs/2502.03983)  
 **Authors**: Gang Wang  
-**Date**: 20 Jan 2026  
+**Date**: 21 Jan 2026  
 **Categories**: gr-qc, astro-ph.IM  
 **Type**: replaced  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2508.08750](https://arxiv.org/abs/2508.08750)  
 **Authors**: Ivan Markin, Anna Puecher, Mattia Bulla, Tim Dietrich  
-**Date**: 20 Jan 2026  
+**Date**: 21 Jan 2026  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: replaced  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2509.09741](https://arxiv.org/abs/2509.09741)  
 **Authors**: Wanting Niu, Carl-Johan Haster, Jolien D. E. Creighton, Chad Hanna, Shomik Adhicary, Pratyusava Baral, Amanda Baylor, Bryce Cousins, Heather Fong, Yun-Jing Huang, Rachael Huxford, Prathamesh Joshi, James Kennington, Alvin K. Y. Li, Ryan Magee, Duncan Meacher, Cody Messick, Soichiro Morisaki, Cort Posnansky, Surabhi Sachdev, Shio Sakon, Urja Shah, Divya Singh, Ron Tapia, Leo Tsukada, Aaron Viets, Zach Yarbrough, Noah Zhang  
-**Date**: 20 Jan 2026  
+**Date**: 21 Jan 2026  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: replaced  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2601.03456](https://arxiv.org/abs/2601.03456)  
 **Authors**: Amanda M. Farah, Aditya Vijaykumar, Maya Fishbach  
-**Date**: 20 Jan 2026  
+**Date**: 21 Jan 2026  
 **Categories**: astro-ph.HE, astro-ph.GA, gr-qc  
 **Type**: replaced  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2601.10795](https://arxiv.org/abs/2601.10795)  
 **Authors**: Euclid Collaboration: F. Tarsitano, C. Schreiber, H. Miyatake, A. J. Nishizawa, W. G. Hartley, L. Miller, C. Cragg, B. Csizi, H. Hildebrandt, B. Altieri, A. Amara, S. Andreon, N. Auricchio, C. Baccigalupi, M. Baldi, A. Balestra, S. Bardelli, A. Biviano, E. Branchini, M. Brescia, J. Brinchmann, S. Camera, G. Cañas-Herrera, V. Capobianco, C. Carbone, V. F. Cardone, J. Carretero, S. Casas, F. J. Castander, M. Castellano, G. Castignani, S. Cavuoti, K. C. Chambers, A. Cimatti, C. Colodro-Conde, G. Congedo, C. J. Conselice, L. Conversi, Y. Copin, F. Courbin, H. M. Courtois, M. Cropper, H. Degaudenzi, G. De Lucia, H. Dole, F. Dubath, C. A. J. Duncan, X. Dupac, S. Escoffier, M. Farina, R. Farinelli, S. Farrens, F. Faustini, S. Ferriol, F. Finelli, N. Fourmanoit, M. Frailis, E. Franceschi, M. Fumana, S. Galeotta, K. George, W. Gillard, B. Gillis, C. Giocoli, J. Gracia-Carpio, A. Grazian, F. Grupp, S. V. H. Haugan, H. Hoekstra, W. Holmes, F. Hormuth, A. Hornstrup, K. Jahnke, M. Jhabvala, B. Joachimi, E. Keihänen, S. Kermiche, A. Kiessling, B. Kubik, M. Kümmel, M. Kunz, H. Kurki-Suonio, R. Laureijs, A. M. C. Le Brun, S. Ligori, P. B. Lilje, V. Lindholm, I. Lloro, G. Mainetti, D. Maino, E. Maiorano, O. Mansutti, S. Marcin, O. Marggraf, M. Martinelli, N. Martinet, F. Marulli, R. J. Massey, E. Medinaceli  
-**Date**: 20 Jan 2026  
+**Date**: 21 Jan 2026  
 **Categories**: astro-ph.CO, astro-ph.GA, astro-ph.IM  
 **Type**: new submission  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2601.10790](https://arxiv.org/abs/2601.10790)  
 **Authors**: Luca Brunelli, Filippo Revello, Gonzalo Villa  
-**Date**: 20 Jan 2026  
+**Date**: 21 Jan 2026  
 **Categories**: hep-th, astro-ph.CO, hep-ph  
 **Type**: cross-list from hep-th  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2411.15652](https://arxiv.org/abs/2411.15652)  
 **Authors**: Lotem Unger, Aldana Grichener, Noam Soker  
-**Date**: 20 Jan 2026  
+**Date**: 21 Jan 2026  
 **Categories**: astro-ph.SR, astro-ph.HE  
 **Type**: replaced  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2601.11415](https://arxiv.org/abs/2601.11415)  
 **Authors**: Jose Sánchez Andreu  
-**Date**: 20 Jan 2026  
+**Date**: 21 Jan 2026  
 **Categories**: astro-ph.IM, cs.LG  
 **Type**: new submission  
 
