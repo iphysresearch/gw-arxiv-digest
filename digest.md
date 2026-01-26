@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2026-01-25
+# Complete Daily GW arXiv Digest - 2026-01-26
 
 **总爬取文章**: 161 篇  
 **今天的文章**: 159 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2601.16016](https://arxiv.org/abs/2601.16016)  
 **Authors**: Caiying Shao, Zhen-Tao He, Jiageng Jiao, Jingqi Lai, Jun-Xi Shi, Yu Tian, Dandan Yuan, Hongbao Zhang  
-**Date**: 25 Jan 2026  
+**Date**: 26 Jan 2026  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2601.15365](https://arxiv.org/abs/2601.15365)  
 **Authors**: Anna Heffernan  
-**Date**: 25 Jan 2026  
+**Date**: 26 Jan 2026  
 **Categories**: astro-ph.IM, astro-ph.GA, gr-qc  
 **Type**: cross-list from astro-ph.IM  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2601.15933](https://arxiv.org/abs/2601.15933)  
 **Authors**: Ligong Bian, Guangshang Chen, Song Li, Hongxin Wang, Yang Xiao, Jin Min Yang, Yang Zhang  
-**Date**: 25 Jan 2026  
+**Date**: 26 Jan 2026  
 **Categories**: hep-ph, gr-qc  
 **Type**: cross-list from hep-ph  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2509.13402](https://arxiv.org/abs/2509.13402)  
 **Authors**: Masaki Yamada  
-**Date**: 25 Jan 2026  
+**Date**: 26 Jan 2026  
 **Categories**: gr-qc, astro-ph.CO, hep-ph  
 **Type**: replaced  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2510.02163](https://arxiv.org/abs/2510.02163)  
 **Authors**: Michael Ebersold, Tania Regimbau  
-**Date**: 25 Jan 2026  
+**Date**: 26 Jan 2026  
 **Categories**: gr-qc, astro-ph.CO, astro-ph.HE  
 **Type**: replaced  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2510.05913](https://arxiv.org/abs/2510.05913)  
 **Authors**: Bruce Allen, Arian L. von Blanckenburg, Ken D. Olum  
-**Date**: 25 Jan 2026  
+**Date**: 26 Jan 2026  
 **Categories**: gr-qc, astro-ph.CO, astro-ph.IM  
 **Type**: replaced  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2510.11197](https://arxiv.org/abs/2510.11197)  
 **Authors**: Gregory Ashton  
-**Date**: 25 Jan 2026  
+**Date**: 26 Jan 2026  
 **Categories**: gr-qc, astro-ph.HE, astro-ph.IM  
 **Type**: replaced  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2512.10729](https://arxiv.org/abs/2512.10729)  
 **Authors**: Si-Ren Xiao, Ji-Yu Song, Yue Shao, Ling-Feng Wang, Jing-Fei Zhang, Xin Zhang  
-**Date**: 25 Jan 2026  
+**Date**: 26 Jan 2026  
 **Categories**: gr-qc, astro-ph.CO, astro-ph.HE, hep-ph  
 **Type**: replaced  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2512.20468](https://arxiv.org/abs/2512.20468)  
 **Authors**: Haoyue Zhang, Dong Ye, Peng Xu, Yunhai Geng, Li-E Qiang, Ziren Luo  
-**Date**: 25 Jan 2026  
+**Date**: 26 Jan 2026  
 **Categories**: gr-qc, astro-ph.IM  
 **Type**: replaced  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2601.13173](https://arxiv.org/abs/2601.13173)  
 **Authors**: Leonardo Grimaldi, Elisa Maggio, Lorenzo Pompili, Alessandra Buonanno  
-**Date**: 25 Jan 2026  
+**Date**: 26 Jan 2026  
 **Categories**: gr-qc, hep-ph  
 **Type**: replaced  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2403.15979](https://arxiv.org/abs/2403.15979)  
 **Authors**: Wei Yang, Yu-Xuan Kang, Arshad Ali, Tao-Tao Sui, Chen-Hao Wu, Ya-Peng Hu  
-**Date**: 25 Jan 2026  
+**Date**: 26 Jan 2026  
 **Categories**: astro-ph.CO, gr-qc  
 **Type**: replaced  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2505.13589](https://arxiv.org/abs/2505.13589)  
 **Authors**: Jakob Stegmann, Davide Gerosa, Isobel Romero-Shaw, Giulia Fumagalli, Hiromichi Tagawa, Lorenz Zwick  
-**Date**: 25 Jan 2026  
+**Date**: 26 Jan 2026  
 **Categories**: astro-ph.HE, astro-ph.SR, gr-qc  
 **Type**: replaced  
 
@@ -155,7 +155,7 @@
 
 **arXiv**: [2509.12998](https://arxiv.org/abs/2509.12998)  
 **Authors**: Valeriya Korol, Andrei Igoshev  
-**Date**: 25 Jan 2026  
+**Date**: 26 Jan 2026  
 **Categories**: astro-ph.HE, astro-ph.CO, gr-qc  
 **Type**: replaced  
 
@@ -167,7 +167,7 @@
 
 **arXiv**: [2509.13884](https://arxiv.org/abs/2509.13884)  
 **Authors**: Sena Atli, Syksy Rasanen  
-**Date**: 25 Jan 2026  
+**Date**: 26 Jan 2026  
 **Categories**: astro-ph.CO, gr-qc  
 **Type**: replaced  
 
@@ -179,7 +179,7 @@
 
 **arXiv**: [2601.14366](https://arxiv.org/abs/2601.14366)  
 **Authors**: Haipeng An, Tingyu Li, Chen Yang  
-**Date**: 25 Jan 2026  
+**Date**: 26 Jan 2026  
 **Categories**: hep-ph, astro-ph.CO  
 **Type**: cross-list from hep-ph  
 
@@ -191,7 +191,7 @@
 
 **arXiv**: [2504.12384](https://arxiv.org/abs/2504.12384)  
 **Authors**: Danielle Frostig, Viraj R. Karambelkar, Robert D. Stein, Nathan P. Lourie, Mansi M. Kasliwal, Robert A. Simcoe, Mattia Bulla, Tomas Ahumada, Geoffrey Mo, Josiah Purdum, Jill Juneau, Andrew Malonis, Gabor Furesz  
-**Date**: 25 Jan 2026  
+**Date**: 26 Jan 2026  
 **Categories**: astro-ph.HE  
 **Type**: replaced  
 
