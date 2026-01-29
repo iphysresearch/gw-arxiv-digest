@@ -1,145 +1,137 @@
-# 📡 Daily GW arXiv Digest - 2026-01-28
-**Found 23 gravitational wave papers**
+# 📡 Daily GW arXiv Digest - 2026-01-29
+**Found 19 gravitational wave papers**
 
-[arXiv:2601.17509](https://arxiv.org/abs/2601.17509)[Submitted on 28 Jan 2026]
-**Nonsingular Rotating Black Holes in the Dark-Energy Dominated Universe**
-Ramon Torres
-Subjects: **gr-qc**; hep-th
-
----
-
-[arXiv:2601.17891](https://arxiv.org/abs/2601.17891)[Submitted on 28 Jan 2026]
-**The Hamiltonian for an atom interacting with gravitational waves**
-Linda M. van Manen, André Grossardt
-Subjects: **gr-qc**; quant-ph
+[arXiv:2601.18916](https://arxiv.org/abs/2601.18916)[Submitted on 29 Jan 2026]
+**Reconsidering the consistent use of precessing, higher order multipole models for gravitational wave analyses**
+Charlie Hoy
+Subjects: **gr-qc**; astro-ph.HE, astro-ph.IM
 
 ---
 
-[arXiv:2601.18378](https://arxiv.org/abs/2601.18378)[Submitted on 28 Jan 2026]
-**Assessing astrophysical foreground subtraction in DECIGO using compact binary populations inferred from the first part of the LIGO-Virgo-KAGRA's fourth observation run**
-Takahiro S. Yamamoto
-Subjects: **gr-qc**; astro-ph.IM
+[arXiv:2601.19123](https://arxiv.org/abs/2601.19123)[Submitted on 29 Jan 2026]
+**Spiral Density Waves and Torque Balance in the Kerr Geometry**
+Conor Dyson, Daniel J. D'Orazio
+Subjects: **gr-qc**; astro-ph.EP, astro-ph.GA, astro-ph.HE, hep-th
 
 ---
 
-[arXiv:2601.14918](https://arxiv.org/abs/2601.14918) (cross-list from astro-ph.HE) [Submitted on 28 Jan 2026]
-**Towards gravitational wave parameter inference for binaries with an eccentric companion**
-Kai Hendriks, Lorenz Zwick, Pankaj Saini, János Takátsy, Johan Samsing
+[arXiv:2601.19407](https://arxiv.org/abs/2601.19407)[Submitted on 29 Jan 2026]
+**Atomic clocks and gravitational waves as probes of non-metricity**
+Mohsen Khodadi, Emmanuel N. Saridakis
+Subjects: **gr-qc**; astro-ph.HE, hep-th
+
+---
+
+[arXiv:2601.19741](https://arxiv.org/abs/2601.19741)[Submitted on 29 Jan 2026]
+**Effect of noise characterization on the detection of mHz stochastic gravitational waves**
+Nikolaos Karnesis, Quentin Baghi, Jean-Baptiste Bayle, Nikiforos Galanis
+Subjects: **gr-qc**; astro-ph.CO
+
+---
+
+[arXiv:2601.18835](https://arxiv.org/abs/2601.18835) (cross-list from astro-ph.IM) [Submitted on 29 Jan 2026]
+**Beyond FINDCHIRP: Breaking the memory wall and optimal FFTs for Gravitational-Wave Matched-Filter Searches with Ratio-Filter Dechirping**
+Alexander H. Nitz, Keisi Kacanja, Kanchan Soni
+Subjects: **astro-ph.IM**; astro-ph.HE, gr-qc
+
+---
+
+[arXiv:2601.18859](https://arxiv.org/abs/2601.18859) (cross-list from astro-ph.HE) [Submitted on 29 Jan 2026]
+**Energetic Ceilings of Astrophysical Gravitational-Wave Backgrounds**
+Chiara M. F. Mingarelli
 Subjects: **astro-ph.HE**; gr-qc
 
 ---
 
-[arXiv:2601.18501](https://arxiv.org/abs/2601.18501) (cross-list from physics.optics) [Submitted on 28 Jan 2026]
-**Gravitational wave detectors from an experimental perspective**
-Marina Trad-Nery, Margherita Turconi, Walid Chaibi
-Subjects: **astro-ph.IM**; gr-qc
+[arXiv:2601.18986](https://arxiv.org/abs/2601.18986) (cross-list from astro-ph.HE) [Submitted on 29 Jan 2026]
+**Progenitor of the recoiling super-massive black hole RBH-1 identified using HST/JWST imaging**
+Tousif Islam, Tejaswi Venumadhav, Digvijay Wadekar
+Subjects: **astro-ph.HE**; gr-qc
 
 ---
 
-[arXiv:2306.12522](https://arxiv.org/abs/2306.12522) (replaced) [Submitted on 28 Jan 2026]
-**Eccentricity evolution of spinning binaries and its dependence on the equation of state of the components**
-Sayak Datta
-Subjects: **gr-qc**; astro-ph.HE
+[arXiv:2601.19405](https://arxiv.org/abs/2601.19405) (cross-list from astro-ph.HE) [Submitted on 29 Jan 2026]
+**Numerical simulations of black hole-neutron star mergers with equal and near-equal mass ratios**
+Ivan Markin, Mattia Bulla, Tim Dietrich
+Subjects: **astro-ph.HE**; gr-qc
 
 ---
 
-[arXiv:2503.21417](https://arxiv.org/abs/2503.21417) (replaced) [Submitted on 28 Jan 2026]
-**Improving the Detection of Gravitational-Wave Signals in Real Time**
-Arthur Tolley
+[arXiv:2507.21315](https://arxiv.org/abs/2507.21315) (replaced) [Submitted on 29 Jan 2026]
+**Testing modified gravity with the eccentric neutron star--black hole merger GW200105**
+Soumen Roy, Justin Janquart
 Subjects: **gr-qc**
 
 ---
 
-[arXiv:2508.18204](https://arxiv.org/abs/2508.18204) (replaced) [Submitted on 28 Jan 2026]
-**Bayesian Framework to Follow-up Continuous Gravitational Wave Candidates from Deep Surveys**
-Jasper Martins, Maria Alessandra Papa, Benjamin Steltner, Reinhard Prix, P. B. Covas
-Subjects: **gr-qc**; astro-ph.IM
+[arXiv:2510.20891](https://arxiv.org/abs/2510.20891) (replaced) [Submitted on 29 Jan 2026]
+**Ab uno disce omnes: Single-harmonic search for extreme mass-ratio inspirals**
+Lorenzo Speri, Rodrigo Tenorio, Christian Chapman-Bird, Davide Gerosa
+Subjects: **gr-qc**; astro-ph.HE, astro-ph.IM
 
 ---
 
-[arXiv:2512.15242](https://arxiv.org/abs/2512.15242) (replaced) [Submitted on 28 Jan 2026]
-**The Missing Massive Sector: Massive Boson Stars -- Stability and GW Emission in Head-on Mergers**
-Bo-Xuan Ge
-Subjects: **gr-qc**; astro-ph.HE
+[arXiv:2512.17204](https://arxiv.org/abs/2512.17204) (replaced) [Submitted on 29 Jan 2026]
+**A Search for Binary Black Hole Mergers in LIGO O1-O3 Data with Convolutional Neural Networks**
+Ethan Silver, Plamen Krastev, Edo Berger
+Subjects: **gr-qc**; astro-ph.HE, astro-ph.IM
 
 ---
 
-[arXiv:2601.02260](https://arxiv.org/abs/2601.02260) (replaced) [Submitted on 28 Jan 2026]
-**Misinterpreting Spin Precession as Orbital Eccentricity in Gravitational-Wave Signals**
-Snehal Tibrewal, Aaron Zimmerman, Jacob Lange, Deirdre Shoemaker
-Subjects: **gr-qc**
+[arXiv:2512.18795](https://arxiv.org/abs/2512.18795) (replaced) [Submitted on 29 Jan 2026]
+**Traversable wormholes inside anisotropic magnetized neutron stars: physical properties and potential observational imprints**
+Muhammad Lawrence Pattersons, Freddy Permana Zen, Hadyan Luthfan Prihadi, Muhammad F. A. R. Sakti
+Subjects: **gr-qc**; astro-ph.HE, hep-th
 
 ---
 
-[arXiv:2601.04379](https://arxiv.org/abs/2601.04379) (replaced) [Submitted on 28 Jan 2026]
-**Could black hole thermodynamics play a role in black hole mergers?**
-George Ruppeiner
-Subjects: **gr-qc**
+[arXiv:2512.24429](https://arxiv.org/abs/2512.24429) (replaced) [Submitted on 29 Jan 2026]
+**Gravitational Holonomy in Sagnac Interferometry**
+Reza Javadinezhad, Ali Seraj
+Subjects: **gr-qc**; hep-th
 
 ---
 
-[arXiv:2512.22652](https://arxiv.org/abs/2512.22652) (replaced) [Submitted on 28 Jan 2026]
-**Schwinger-Keldysh Cosmological Cutting Rules**
-Francisco Colipí-Marchant, Gabriel Marin, Gonzalo A. Palma, Francisco Rojas
-Subjects: **hep-th**; astro-ph.CO, gr-qc
+[arXiv:2410.17122](https://arxiv.org/abs/2410.17122) (replaced) [Submitted on 29 Jan 2026]
+**Thermal evolution of dark matter and gravitational-wave production in the early universe from a symplectic glueball model**
+Mattia Bruno, Niccolò Forzano, Marco Panero, Antonio Smecca
+Subjects: **hep-ph**; astro-ph.CO, gr-qc, hep-lat
 
 ---
 
-[arXiv:2601.08252](https://arxiv.org/abs/2601.08252) (replaced) [Submitted on 28 Jan 2026]
-**Resumming Scattering Amplitudes for Waveforms**
-Katsuki Aoki, Andrea Cristofoli
-Subjects: **hep-th**; gr-qc
+[arXiv:2503.09773](https://arxiv.org/abs/2503.09773) (replaced) [Submitted on 29 Jan 2026]
+**Constraining the neutron star-black hole merger rate**
+Ian Harry, Charlie Hoy
+Subjects: **hep-ex**; astro-ph.CO, astro-ph.HE, gr-qc
 
 ---
 
-[arXiv:2601.14326](https://arxiv.org/abs/2601.14326) (replaced) [Submitted on 28 Jan 2026]
-**Sample-efficient non-Gaussian noise reduction in gravitational wave data via learnable wavelets**
-Arush Pimpalkar, Digvijay Wadekar, Mark Ho-Yeuk Cheung, Emanuele Berti
-Subjects: **astro-ph.IM**; gr-qc
+[arXiv:2507.16903](https://arxiv.org/abs/2507.16903) (replaced) [Submitted on 29 Jan 2026]
+**Convection signatures in early-time gravitational waves from core-collapse supernovae**
+Marco Cusinato, Martin Obergaulinger, Miguel-Ángel Aloy
+Subjects: **astro-ph.HE**; gr-qc
 
 ---
 
-[arXiv:2601.17882](https://arxiv.org/abs/2601.17882) (cross-list from astro-ph.IM) [Submitted on 28 Jan 2026]
-**SiGMa-Net II: Distinguishing Binary Black Holes from Glitches**
-Soorya Narayan, Anupreeta More, Sunil Choudhary, Sudhagar Suyamprakasam, Sukanta Bose
-Subjects: **astro-ph.IM**; astro-ph.CO, astro-ph.HE
+[arXiv:2601.19789](https://arxiv.org/abs/2601.19789) (cross-list from nucl-th) [Submitted on 29 Jan 2026]
+**Equation of State of Highly Asymmetric Neutron-Star Matter from Liquid Drop Model and Meson Polytropes**
+Elissaios Andronopoulos, Konstantinos N. Gourgouliatos
+Subjects: **nucl-th**; astro-ph.HE, hep-th
 
 ---
 
-[arXiv:2507.19897](https://arxiv.org/abs/2507.19897) (replaced) [Submitted on 28 Jan 2026]
-**From South to North: Leveraging Ground-Based LATs for Full-Sky CMB Delensing and Constraints on $r$**
-Wen-Zheng Chen, Yang Liu, Yi-Ming Wang, Hong Li
-Subjects: **astro-ph.CO**
+[arXiv:2509.17129](https://arxiv.org/abs/2509.17129) (replaced) [Submitted on 29 Jan 2026]
+**Decaying vector dark matter with low reheating temperature for KM3NeT signal and its impact on gravitational waves**
+Sarif Khan, Jongkuk Kim, Hyun Min Lee
+Subjects: **hep-ph**; astro-ph.HE
 
 ---
 
-[arXiv:2504.00109](https://arxiv.org/abs/2504.00109) (replaced) [Submitted on 28 Jan 2026]
-**Verifiable type-III seesaw and dark matter in a gauged $\boldsymbol{U(1)_{\rm B-L}}$ symmetric model**
-Satyabrata Mahapatra, Partha Kumar Paul, Narendra Sahu, Prashant Shukla
-Subjects: **hep-ph**; astro-ph.CO, hep-th
+[arXiv:2508.17486](https://arxiv.org/abs/2508.17486) (cross-list from gr-qc) [Submitted on 29 Jan 2026]
+**Weak Lensing Approximation of Wave-optics Effects from General Symmetric Lens Profiles**
+Zhao-Feng Wu, Otto A. Hannuksela, Martin Hendry, Quynh Lan Nguyen
+Subjects: **gr-qc**; astro-ph.CO, astro-ph.IM
 
 ---
 
-[arXiv:2601.18262](https://arxiv.org/abs/2601.18262)[Submitted on 28 Jan 2026]
-**Revisiting a Quasar Microlensing Event Towards AGN~J1249+3449**
-Mario Cazzolla, Francesco De Paolis, Antonio Franco, Achille Nucita
-Subjects: **astro-ph.HE**; astro-ph.IM
-
----
-
-[arXiv:2601.18411](https://arxiv.org/abs/2601.18411)[Submitted on 28 Jan 2026]
-**Exploring the role of accretion shocks in galaxy clusters as sources of ultrahigh-energy cosmic rays**
-A.D. Supanitsky, S.E. Nuza
-Subjects: **astro-ph.HE**
-
----
-
-[arXiv:2411.08572](https://arxiv.org/abs/2411.08572) (replaced) [Submitted on 28 Jan 2026]
-**Large Gravitational Wave Phase Shifts from Strong 3-body Interactions in Dense Stellar Clusters**
-Kai Hendriks, Dany Atallah, Miguel Martinez, Michael Zevin, Lorenz Zwick, Alessandro A. Trani, Pankaj Saini, János Takátsy, Johan Samsing
-Subjects: **astro-ph.HE**
-
----
-
-📊 **Summary**: 6 New • 4 Cross-lists • 13 Replacements
-📋 Showing top 20 of 23 papers
+📊 **Summary**: 4 New • 6 Cross-lists • 9 Replacements
