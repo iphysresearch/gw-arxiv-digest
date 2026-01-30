@@ -1,0 +1,358 @@
+{
+  "date": "2026-01-30",
+  "crawl_timestamp": "2026-01-30T01:33:58.450110",
+  "query": "cat:gr-qc OR cat:astro-ph.* (filtered for gravitational waves)",
+  "summary": {
+    "total_crawled": 131,
+    "total_gw_papers": 11,
+    "by_category": {
+      "gr-qc": {
+        "total": 28,
+        "gw_related": 5
+      },
+      "astro-ph": {
+        "total": 91,
+        "gw_related": 5
+      }
+    }
+  },
+  "crawl_verification": {
+    "total_expected": 178,
+    "total_actual": 178,
+    "verification_passed": true,
+    "category_details": [
+      {
+        "category": "gr-qc",
+        "url": "https://arxiv.org/list/gr-qc/new",
+        "expected_total": 47,
+        "actual_crawled": 47,
+        "page_source_info": "Total of 47 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.CO",
+        "url": "https://arxiv.org/list/astro-ph.CO/new",
+        "expected_total": 25,
+        "actual_crawled": 25,
+        "page_source_info": "Total of 25 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.HE",
+        "url": "https://arxiv.org/list/astro-ph.HE/new",
+        "expected_total": 27,
+        "actual_crawled": 27,
+        "page_source_info": "Total of 27 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.GA",
+        "url": "https://arxiv.org/list/astro-ph.GA/new",
+        "expected_total": 27,
+        "actual_crawled": 27,
+        "page_source_info": "Total of 27 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.SR",
+        "url": "https://arxiv.org/list/astro-ph.SR/new",
+        "expected_total": 26,
+        "actual_crawled": 26,
+        "page_source_info": "Total of 26 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.IM",
+        "url": "https://arxiv.org/list/astro-ph.IM/new",
+        "expected_total": 12,
+        "actual_crawled": 12,
+        "page_source_info": "Total of 12 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.EP",
+        "url": "https://arxiv.org/list/astro-ph.EP/new",
+        "expected_total": 14,
+        "actual_crawled": 14,
+        "page_source_info": "Total of 14 entries",
+        "success": true,
+        "verification_passed": true
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "https://arxiv.org/abs/2601.20512",
+      "title": "Enhancing online estimation of CBC parameters with the low-latency MBTA analysis",
+      "authors": [
+        "Florian Aubin",
+        "Inès Bentara",
+        "Damir Buskulic",
+        "Gianluca M Guidi",
+        "Vincent Juste",
+        "Morgan Lethuillier",
+        "Frédérique Marion",
+        "Lorenzo Mobilia",
+        "Benoît Mours",
+        "Amazigh Ouzriat",
+        "Thomas Sainrat",
+        "Viola Sordini"
+      ],
+      "abstract": "Enhancing online estimation of CBC parameters with the low-latency MBTA analysis Florian Aubin, Inès Bentara, Damir Buskulic, Gianluca M Guidi, Vincent Juste, Morgan Lethuillier, Frédérique Marion, Lorenzo Mobilia, Benoît Mours, Amazigh Ouzriat, Thomas Sainrat, Viola Sordini General Relativity and Quantum Cosmology (gr-qc); Instrumentation and Methods for Astrophysics (astro-ph.IM) In this paper, we describe the procedure implemented in the Multi-Band Template Analysis (MBTA) search pipeline to produce online posterior distributions of compact binary coalescence (CBC) gravitational-wave parameters. This procedure relies on an SNR optimizer technique, which consists of filtering dense local template banks. We present how these banks are constructed using information from the initial detection and detail how the results of the filtering are used to estimate source parameters and provide posterior distributions. We demonstrate the performance of our procedure on simulations and compare our source parameter estimates with the results from the first part of the fourth observing run (O4a) recently released by the LIGO-Virgo-KAGRA (LVK) collaboration.",
+      "pdf_url": "https://arxiv.org/pdf/2601.20512.pdf",
+      "published": "2026-01-30T01:33:57.300460",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2601.20553",
+      "title": "Gravitational wave detection via photon-graviton scattering and quantum interference",
+      "authors": [
+        "K. Hari",
+        "S. Shankaranarayanan"
+      ],
+      "abstract": "Gravitational wave detection via photon-graviton scattering and quantum interference K. Hari (IIT Bombay), S. Shankaranarayanan (IIT Bombay) 23 pages, 6 figures, comments welcome General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Optics (physics.optics); Quantum Physics (quant-ph) We present a fully quantum field-theoretic framework for gravitational wave (GW) detection in which the interaction is described as photon-graviton scattering. In this picture, the GW acts as a coherent background that induces inelastic energy exchanges with the electromagnetic field - analogous to the Stokes and anti-Stokes shifts in Raman spectroscopy. We propose a detection scheme sensitive to this microscopic mechanism based on Hong-Ou-Mandel interference. We show that the scattering-induced phase shifts render frequency-entangled photon pairs distinguishable, spoiling their destructive quantum interference. GW signal is thus encoded in the modulation of photon coincidence rates rather than classical field intensity, offering a complementary quantum probe of the gravitational universe that recovers the standard classical response in the macroscopic limit.",
+      "pdf_url": "https://arxiv.org/pdf/2601.20553.pdf",
+      "published": "2026-01-30T01:33:57.300855",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "quant-ph"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2507.10696",
+      "title": "Twisting inflation to sub-Planckian axion decay constants",
+      "authors": [
+        "Peter Adshead",
+        "Suddhasattwa Brahma",
+        "Indranil Das"
+      ],
+      "abstract": "Twisting inflation to sub-Planckian axion decay constants Peter Adshead, Suddhasattwa Brahma, Indranil Das General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) We study pseudoscalar inflation in the Einstein-Cartan-Palatini (first-order) formulation of gravity while allowing for torsion. We introduce two non-minimal interactions in the gravitational sector: pseudoscalar couplings to the Pontryagin density (Chern-Simons term) and the Nieh-Yan topological invariant. In the presence of these terms, the rolling pseudoscalar sources non-trivial torsional fields during inflation. We show that pathological gradient and ghost instabilities limit the strength of the coupling to the Pontryagin density during inflation. Furthermore, we show that the interaction with the Nieh-Yan term induces a new contribution to the pseudoscalar kinetic term, which parametrically increases its decay constant and allows for inflation on steep potentials. The torsion field generated by the background is parity violating, which is manifest in the resulting chiral gravitational wave spectrum. We find that the scalar sector is largely unaffected beyond the remapping of the axion decay constant to a larger value. Consequently, we show that while natural inflation with a cosine potential remains inconsistent with observations, the squared quartic hilltop potential can be made consistent with Planck 2018 data even for sub-Planckian decay constants by coupling to the Nieh-Yan term.",
+      "pdf_url": "https://arxiv.org/pdf/2507.10696.pdf",
+      "published": "2026-01-30T01:33:57.302708",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2509.16310",
+      "title": "Spectral instability of horizonless compact objects within astrophysical environments",
+      "authors": [
+        "Kyriakos Destounis",
+        "Mateus Malato Corrêa",
+        "Caio F. B. Macedo",
+        "Rodrigo Panosso Macedo"
+      ],
+      "abstract": "Spectral instability of horizonless compact objects within astrophysical environments Kyriakos Destounis, Mateus Malato Corrêa, Caio F. B. Macedo, Rodrigo Panosso Macedo 21 pages, 8 figures, 1 table, accepted for publication in PRD General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE); High Energy Physics - Phenomenology (hep-ph); High Energy Physics - Theory (hep-th) Recent non-modal analyses have uncovered spectral instabilities in the quasinormal-mode spectrum of black holes; a phenomenon that intriguingly extends to spherically-symmetric exotic compact objects. These results point to a sensitivity of the spectrum with potentially far-reaching implications for black-hole spectroscopy. At the same time, growing attention has turned to astrophysical environments around compact objects and their role in shaping gravitational-wave astrophysics. In this work, we establish a direct link between spectral instabilities and environmental effects by modeling matter as a localized bump outside the light ring of a spectrally-unstable exotic compact object with a purely reflective surface. We find that while such environments can destabilize the fundamental quasinormal modes of loosely-compact exotic objects, the fundamental modes of ultra-compact horizonless objects remain remarkably robust. In contrast, overtones are shown to develop spectral instabilities in the presence of the bump. By tracking both interior modes, trapped between the light ring and the surface of the exotic compact object, and exterior modes, confined between the bump and the light ring, we uncover an overtaking instability in which ``unperturbed'' exterior overtones metamorphose into ``perturbed'' fundamental modes as the bump moves outward. Finally, we demonstrate that environmental effects, while capable of further amplifying spectral instabilities, cannot induce next-to-leading-order perturbations strong enough to trigger a modal instability.",
+      "pdf_url": "https://arxiv.org/pdf/2509.16310.pdf",
+      "published": "2026-01-30T01:33:57.303462",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-ph",
+        "hep-th"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2601.13725",
+      "title": "Phenomenology of Rotating GEUP Black Holes",
+      "authors": [
+        "Nikko John Leo S. Lobos"
+      ],
+      "abstract": "Phenomenology of Rotating GEUP Black Holes Nikko John Leo S. Lobos General Relativity and Quantum Cosmology (gr-qc) We investigate the phenomenological implications of quantum gravity on rotating black holes within the framework of the Generalized Extended Uncertainty Principle (GEUP), which incorporates both minimal length (ultraviolet) and large-scale (infrared) corrections. Lacking a full non-perturbative formulation of quantum gravity, we adopt a metric-based approach. We construct a stationary, axisymmetric ansatz via the Newman-Janis algorithm to model the kinematic features of a rotating black hole subject to Generalized Extended Uncertainty Principle (GEUP) corrections. The thermodynamic analysis reveals that in the infrared-dominated regime, the Hawking temperature scales as $T_H \\sim M^{-3}$, leading to a rapid cooling phase that significantly prolongs the lifetime of supermassive black holes. We derive the modified Teukolsky Master Equation for gravitational perturbations and demonstrate that the background geometry preserves the isospectrality between axial and polar modes. In the eikonal limit, the quasinormal mode (QNM) spectrum exhibits orthogonal shifts: the minimal length parameter $\\beta$ induces a spectral blueshift and enhanced damping, while the large-scale parameter $\\alpha$ induces a spectral redshift and suppressed damping. Finally, we constrain the theory using observational data from LIGO/Virgo and the Event Horizon Telescope. We establish that the shadow of M87* is approximately $10^6$ times more sensitive to large-scale corrections than Sgr A*, placing stringent bounds on the EUP parameter, while gravitational wave spectroscopy provides complementary constraints on the GUP sector.",
+      "pdf_url": "https://arxiv.org/pdf/2601.13725.pdf",
+      "published": "2026-01-30T01:33:57.303914",
+      "updated": null,
+      "categories": [
+        "gr-qc"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2601.18501",
+      "title": "Gravitational wave detectors from an experimental perspective",
+      "authors": [
+        "Marina Trad-Nery",
+        "Margherita Turconi",
+        "Walid Chaibi"
+      ],
+      "abstract": "Gravitational wave detectors from an experimental perspective Marina Trad-Nery, Margherita Turconi, Walid Chaibi Optics (physics.optics); Instrumentation and Methods for Astrophysics (astro-ph.IM); General Relativity and Quantum Cosmology (gr-qc) This chapter introduces the fundamental principles of gravitational wave detectors in a simple and comprehensive manner. Because these instruments aim for extremely high sensitivity, it is essential to understand their various noise sources, how such noise couples to the detector output, and the strategies used to mitigate them. These noises contributions are computed in the frame of the Virgo detector and a sensitivity curve is calculated. Although a simplified layout of a gravitational wave detector is considered, it takes into account the most dominant effects and yields in a sensitivity estimate close to the what is observed in real detectors.",
+      "pdf_url": "https://arxiv.org/pdf/2601.18501.pdf",
+      "published": "2026-01-30T01:33:57.306268",
+      "updated": null,
+      "categories": [
+        "astro-ph.IM",
+        "gr-qc"
+      ],
+      "primary_category": "astro-ph.IM",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2601.20767",
+      "title": "Graviton energy spectra arising from the KSVZ axion model",
+      "authors": [
+        "Yonghua Wang",
+        "Lin-Yun He",
+        "Wei Chao",
+        "Yu Gao"
+      ],
+      "abstract": "Graviton energy spectra arising from the KSVZ axion model Yonghua Wang, Lin-Yun He, Wei Chao, Yu Gao High Energy Physics - Phenomenology (hep-ph); Cosmology and Nongalactic Astrophysics (astro-ph.CO) Axion, the goldstone boson arising from the spontaneous breaking of a global $U(1)$ Peccei-Quinn symmetry, provides a dynamical solution to the strong CP problem and is an excellent dark matter candidate. Various experiments are designed to search for the axion, however no confirmative signal has been observed. On the other hand, there are also hypothetical heavy particles in axion models, such as the heavy scalar $s$, which is the CP-even component of the complex scalar that carries $U(1)_{PQ}$ charge, and the vector-like heavy quark (VLQ) in the Kim-Shifman-Vainshtein-Zakharov~(KSVZ) axion model. Studying signals induced by them are helpful for axion searches. In this paper, we calculate the graviton bremsstrahlung energy spectrum arising from the decay of the heavy scalar or VLQ in the KSVZ model. The result shows that these heavy particles can emit ultrahigh-frequency gravitational waves (GWs), with the peak frequency depending on the model's parameter inputs. In addition, the graviton spectrum is distinguished from the thermal GW background at high frequencies if there is an early matter-dominated era induced by these heavy particles. Future measurements of ultrahigh-frequency GWs may provide indirect evidence for the KSVZ axion.",
+      "pdf_url": "https://arxiv.org/pdf/2601.20767.pdf",
+      "published": "2026-01-30T01:33:57.482180",
+      "updated": null,
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "primary_category": "hep-ph",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from hep-ph",
+        "cross_list_from": "hep-ph"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2601.20202",
+      "title": "From cosmological simulations to binary black hole mergers: The impact of using analytical star formation history models on gravitational-wave source populations",
+      "authors": [
+        "Sasha Levina",
+        "Floor Broekgaarden",
+        "Lieke van Son",
+        "Emanuele Berti",
+        "Amedeo Romagnolo",
+        "Ruediger Pakmor",
+        "Ana Lam"
+      ],
+      "abstract": "From cosmological simulations to binary black hole mergers: The impact of using analytical star formation history models on gravitational-wave source populations Sasha Levina, Floor Broekgaarden, Lieke van Son, Emanuele Berti, Amedeo Romagnolo, Ruediger Pakmor, Ana Lam Submitted to ApJ. Comments welcome! High Energy Astrophysical Phenomena (astro-ph.HE); Astrophysics of Galaxies (astro-ph.GA); Solar and Stellar Astrophysics (astro-ph.SR) Observations of binary black hole (BBH) mergers provide a unique window into the lives of massive stars across cosmic time. Connecting redshift-dependent merger properties to massive star progenitors requires accurate models of cosmic star formation and chemical enrichment histories. Analytical fits for the metallicity-specific cosmic star formation rate density S(Z, z) are commonly used as proxies for the complex underlying star formation history, yet they remain unconstrained. Using the IllustrisTNG cosmological simulations, we evaluate the accuracy of these analytical S(Z, z) prescriptions and assess how simulation resolution and volume affect the inferred S(Z, z). By coupling the simulated and analytical S(Z, z) to the population synthesis code COMPAS, we investigate the resulting BBH merger rates and mass distributions. We find that analytical S(Z, z) prescriptions can overestimate BBH merger rates at high redshift ($z \\gtrsim 6$) by up to a factor of $10$-$10^4$, depending on cosmological simulation resolution, and can introduce spurious features in the BBH mass distribution. For example, they can produce an artificial feature near $8\\,M_\\odot$ in the primary mass distribution at $z \\lesssim 2$, which is absent when using the full simulation-based S(Z, z), while simultaneously suppressing high-mass features. These discrepancies arise because simple analytical models fail to capture a high-metallicity bump and a more flattened low-metallicity tail in the simulated S(Z, z) metallicity distribution. Our results highlight the importance of accurate star formation histories for modeling BBH populations, demonstrate the limitation of widely used analytical S(Z, z) fits, and underscore the need for careful integration of cosmological simulations, analytical fits, and population synthesis when interpreting gravitational-wave observations.",
+      "pdf_url": "https://arxiv.org/pdf/2601.20202.pdf",
+      "published": "2026-01-30T01:33:57.601471",
+      "updated": null,
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.GA",
+        "astro-ph.SR"
+      ],
+      "primary_category": "astro-ph.HE",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2506.14141",
+      "title": "Spectral Properties of Irradiated Circumbinary Disks around Binary Black Holes Governed by Hydrogen Opacities Dependent on Temperature and Density",
+      "authors": [
+        "Saemi Bang",
+        "Atsuo T. Okazaki",
+        "Kimitake Hayasaki"
+      ],
+      "abstract": "Spectral Properties of Irradiated Circumbinary Disks around Binary Black Holes Governed by Hydrogen Opacities Dependent on Temperature and Density Saemi Bang, Atsuo T. Okazaki, Kimitake Hayasaki 29 pages, 10 figures. Accepted for publication in ApJ. v2: clarified text; expanded explanations; added discussion; minor corrections High Energy Astrophysical Phenomena (astro-ph.HE); Astrophysics of Galaxies (astro-ph.GA) We study the thermal and spectral properties of irradiated circumbinary disks (CBDs) around binary black holes (BBHs), using analytic, hydrogen-based opacity models that capture dependencies on temperature, density, and ionization. We solve the vertical hydrostatic equilibrium and energy balance, assuming gas pressure only, using Rosseland-mean opacities from free-free and bound-free absorption plus electron scattering, with ionization fractions given by the Saha equation. Four opacity models are considered, including a reference model with no physical opacity, constructed by Lee et al. (2024), and three physically motivated alternatives. The midplane temperature profiles show significant variation across models, while the surface temperature remains largely unchanged in regions dominated by viscous heating. Opacity effects become pronounced in the outer disk, where irradiation reprocessing shapes the IR-optical continuum. Bound-free opacity introduces flattening and a mid-frequency peak in the spectral energy distribution. We compute spectra of a triple disk system including the CBD and two accreting minidisks. The high-frequency peak arises from the hot minidisks, while the low-frequency excess originates from irradiated outer CBD layers. Comparing model spectra with detection limits of Subaru, JWST, and Swift, we find that BBH systems within ~10 Mpc can exhibit a detectable IR excess. Our results highlight the need for physically consistent opacity modeling to interpret electromagnetic (EM) signatures of BBHs approaching coalescence and support integration of metallicity-dependent opacity tables. Our opacity-informed framework for irradiated CBDs provides an EM template for identifying stellar- to intermediate-mass BBHs in a mass range sparsely sampled by LISA, thereby bridging the gravitational-wave-EM gap with testable IR/optical signatures.",
+      "pdf_url": "https://arxiv.org/pdf/2506.14141.pdf",
+      "published": "2026-01-30T01:33:57.604302",
+      "updated": null,
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.GA"
+      ],
+      "primary_category": "astro-ph.HE",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2601.07925",
+      "title": "An eclipsing 8.56 minute orbital period mass-transferring binary",
+      "authors": [
+        "Emma T. Chickles , Joheen Chakraborty , Kevin B. Burdge , Vik S. Dhillon , Paul Draghis , Kareem El-Badry , Matthew J. Green , Aaron Householder , Sarah Hughes , Christopher Layden , Stuart P. Littlefair , James Munday , Ingrid Pelisoli , Maya S. Redden , John Tonry , Jan van Roestel , F. Elio Angile , Alex J. Brown , Noel Castro Segura , Jack Dinsmore , Martin Dyer , Gabor Furesz , Michelle Gabutti , James Garbutt , Juliana García-Mejía , Daniel Jarvis , Mark R. Kennedy , Paul Kerry , James McCormac , Geoffrey Mo , Dave Osip , Steven Parsons , Eleanor Pike , Jack Piotrowski , Roger W. Romani , David Sahman , Rob Simcoe Massachusetts Institute of Technology, Cambridge, USA, University of Sheffield, Sheffield, UK, Instituto de Astrofísica de Canarias, La Laguna, Spain, California Institute of Technology, Pasadena, USA, Max Planck Institute for Astronomy, Heidelberg, Germany, University of Warwick, Coventry, UK, Stanford University, Stanford, USA, University of Hawaii, Honolulu, USA, Institute of Science and Technology Austria, Klosterneuburg, Austria, University of Amsterdam, Amsterdam, The Netherlands, University of Hamburg, Hamburg, Germany, Research Software Engineering, University of Sheffield, Sheffield, UK, University College Cork, Cork, Ireland, Carnegie Observatories, Pasadena, USA, Las Campanas Observatory, La Serena, Chile, Center for Astrophysics | Harvard &amp; Smithsonian, Cambridge, USA)"
+      ],
+      "abstract": "An eclipsing 8.56 minute orbital period mass-transferring binary Emma T. Chickles (1), Joheen Chakraborty (1), Kevin B. Burdge (1), Vik S. Dhillon (2 and 3), Paul Draghis (1), Kareem El-Badry (4), Matthew J. Green (5), Aaron Householder (1), Sarah Hughes (1), Christopher Layden (1), Stuart P. Littlefair (2), James Munday (6), Ingrid Pelisoli (6), Maya S. Redden (7), John Tonry (8), Jan van Roestel (9 and 10), F. Elio Angile (1), Alex J. Brown (11), Noel Castro Segura (6), Jack Dinsmore (7), Martin Dyer (2 and 12), Gabor Furesz (1), Michelle Gabutti (1), James Garbutt (2), Juliana García-Mejía (1 and 16), Daniel Jarvis (2), Mark R. Kennedy (13), Paul Kerry (2), James McCormac (6), Geoffrey Mo (4 and 14), Dave Osip (15), Steven Parsons (2), Eleanor Pike (2), Jack Piotrowski (14), Roger W. Romani (7), David Sahman (2), Rob Simcoe (1) ((1) Massachusetts Institute of Technology, Cambridge, USA, (2) University of Sheffield, Sheffield, UK, (3) Instituto de Astrofísica de Canarias, La Laguna, Spain, (4) California Institute of Technology, Pasadena, USA, (5) Max Planck Institute for Astronomy, Heidelberg, Germany, (6) University of Warwick, Coventry, UK, (7) Stanford University, Stanford, USA, (8) University of Hawaii, Honolulu, USA, (9) Institute of Science and Technology Austria, Klosterneuburg, Austria, (10) University of Amsterdam, Amsterdam, The Netherlands, (11) University of Hamburg, Hamburg, Germany, (12) Research Software Engineering, University of Sheffield, Sheffield, UK, (13) University College Cork, Cork, Ireland, (14) Carnegie Observatories, Pasadena, USA, (15) Las Campanas Observatory, La Serena, Chile, (16) Center for Astrophysics | Harvard &amp; Smithsonian, Cambridge, USA) Solar and Stellar Astrophysics (astro-ph.SR) We report the discovery of ATLAS J101342.5-451656.8 (hereafter ATLAS J1013-4516), an 8.56 minute orbital period mass transferring AM Canum Venaticorum binary with mean Gaia magnitude G=19.51. The system was identified via periodic variability in Asteroid Terrestrial-impact Last Alert System light curves of Gaia white dwarf candidates. Follow-up spectroscopy with the Large Lenslet Array Magellan Spectrograph reveals a helium dominated accretion disk, while high speed ULTRACAM photometry shows pronounced primary and secondary eclipses. We construct a decade long orbital timing baseline using ATLAS and Gaia survey photometry together with high speed observations from ULTRACAM on the NTT and proto Lightspeed on the Magellan Clay telescope. From this baseline we measure an orbital period derivative Pdot = -1.60 +/- 0.07 x 10^-12 seconds per second. Interpreted in the context of stable mass transfer, the magnitude and sign of Pdot indicate orbital evolution governed by the interplay between gravitational wave driven angular momentum losses and mass transfer, directly probing the donor star structural response to mass loss. Assuming angular momentum loss dominated by gravitational radiation, we constrain the component masses and infer the characteristic gravitational wave strain. We predict a four year Laser Interferometer Space Antenna signal to noise ratio greater than 10, establishing ATLAS J1013-4516 as a strong prospective space based gravitational wave source that probes long term orbital evolution in the mass transferring regime.",
+      "pdf_url": "https://arxiv.org/pdf/2601.07925.pdf",
+      "published": "2026-01-30T01:33:57.833512",
+      "updated": null,
+      "categories": [
+        "astro-ph.SR"
+      ],
+      "primary_category": "astro-ph.SR",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2601.20034",
+      "title": "The Sound of Noise: Leveraging the Inductive Bias of Pre-trained Audio Transformers for Glitch Identification in LIGO",
+      "authors": [
+        "Suyash Deshmukh",
+        "Chayan Chatterjee",
+        "Abigail Petulante",
+        "Tabata Aira Ferreira",
+        "Karan Jani"
+      ],
+      "abstract": "The Sound of Noise: Leveraging the Inductive Bias of Pre-trained Audio Transformers for Glitch Identification in LIGO Suyash Deshmukh, Chayan Chatterjee, Abigail Petulante, Tabata Aira Ferreira, Karan Jani Instrumentation and Methods for Astrophysics (astro-ph.IM); Machine Learning (cs.LG) Transient noise artifacts, or glitches, fundamentally limit the sensitivity of gravitational-wave (GW) interferometers and can mimic true astrophysical signals, particularly the short-duration intermediate-mass black hole (IMBH) mergers. Current glitch classification methods, such as Gravity Spy, rely on supervised models trained from scratch using labeled datasets. These approaches suffer from a significant ``label bottleneck,\" requiring massive, expertly annotated datasets to achieve high accuracy and often struggling to generalize to new glitch morphologies or exotic GW signals encountered in observing runs. In this work, we present a novel cross-domain framework that treats GW strain data through the lens of audio processing. We utilize the Audio Spectrogram Transformer (AST), a model pre-trained on large-scale audio datasets, and adapt it to the GW domain. Instead of learning time-frequency features from scratch, our method exploits the strong inductive bias inherent in pre-trained audio models, transferring learned representations of natural sound to the characterization of detector noise and GW signals, including IMBHs. We validate this approach by analyzing strain data from the third (O3) and fourth (O4) observing runs of the LIGO detectors. We used t-Distributed Stochastic Neighbor Embedding (t-SNE), an unsupervised clustering technique, to visualize the AST-derived embeddings of signals and glitches, revealing well-separated groups that align closely with independently validated Gravity Spy glitch classes. Our results indicate that the inductive bias from audio pre-training allows superior feature extraction compared to traditional supervised techniques, offering a robust, data-efficient pathway for discovering new, anomalous transients, and classifying complex noise artifacts in the era of next-generation detectors.",
+      "pdf_url": "https://arxiv.org/pdf/2601.20034.pdf",
+      "published": "2026-01-30T01:33:58.143831",
+      "updated": null,
+      "categories": [
+        "astro-ph.IM",
+        "cs.LG"
+      ],
+      "primary_category": "astro-ph.IM",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    }
+  ]
+}
