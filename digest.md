@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2026-01-31
+# Complete Daily GW arXiv Digest - 2026-02-01
 
 **总爬取文章**: 169 篇  
 **今天的文章**: 167 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2601.21086](https://arxiv.org/abs/2601.21086)  
 **Authors**: Alberto Revilla Peña, Ruxandra Bondarescu, Andrew P. Lundgren, Jordi Miralda-Escudé  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: gr-qc, astro-ph.HE, astro-ph.SR  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2601.21145](https://arxiv.org/abs/2601.21145)  
 **Authors**: Felipe Sobrero, Luca Abrahão, Thiago Guerreiro  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: gr-qc, quant-ph  
 **Type**: new submission  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2601.21438](https://arxiv.org/abs/2601.21438)  
 **Authors**: Ke Wang  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2601.21538](https://arxiv.org/abs/2601.21538)  
 **Authors**: Ruifeng Zheng, Yanqing Xu  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: gr-qc, astro-ph.CO  
 **Type**: new submission  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2601.21630](https://arxiv.org/abs/2601.21630)  
 **Authors**: Metha Prathaban, Charlie Hoy, Michael J. Williams  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: gr-qc, astro-ph.HE, astro-ph.IM  
 **Type**: new submission  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2601.22138](https://arxiv.org/abs/2601.22138)  
 **Authors**: Anirban Kopty, Sanjit Mitra, Anupreeta More  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: gr-qc, astro-ph.HE, astro-ph.IM  
 **Type**: new submission  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2601.20953](https://arxiv.org/abs/2601.20953)  
 **Authors**: Eduardo M. Gutiérrez, David Radice, Jacob Fields, James M. Stone  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: cross-list from astro-ph.HE  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2601.20967](https://arxiv.org/abs/2601.20967)  
 **Authors**: Kylar Greene, Aurora Ireland, Gordan Krnjaic, Yuhsin Tsai  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: astro-ph.CO, gr-qc, hep-ph  
 **Type**: cross-list from astro-ph.CO  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2601.21075](https://arxiv.org/abs/2601.21075)  
 **Authors**: Gustavo de Oliveira, Thiago Henrique Moreira, Lucas Chibebe Céleri  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: quant-ph, gr-qc  
 **Type**: cross-list from quant-ph  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2601.21687](https://arxiv.org/abs/2601.21687)  
 **Authors**: Francesco Alessio, Vittorio Del Duca, Riccardo Gonzo, Emanuele Rosi  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: hep-th, gr-qc, hep-ph  
 **Type**: cross-list from hep-th  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2601.22043](https://arxiv.org/abs/2601.22043)  
 **Authors**: Gerasimos Kouniatalis, Emmanuel N. Saridakis  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: astro-ph.CO, gr-qc  
 **Type**: cross-list from astro-ph.CO  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2508.12269](https://arxiv.org/abs/2508.12269)  
 **Authors**: Cosimo Bambi  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -155,7 +155,7 @@
 
 **arXiv**: [2512.16347](https://arxiv.org/abs/2512.16347)  
 **Authors**: The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration: A. G. Abac, I. Abouelfettouh, F. Acernese, K. Ackley, C. Adamcewicz, S. Adhicary, D. Adhikari, N. Adhikari, R. X. Adhikari, V. K. Adkins, S. Afroz, A. Agapito, D. Agarwal, M. Agathos, N. Aggarwal, S. Aggarwal, O. D. Aguiar, I.-L. Ahrend, L. Aiello, A. Ain, P. Ajith, T. Akutsu, S. Albanesi, W. Ali, S. Al-Kershi, C. Alléné, A. Allocca, S. Al-Shammari, P. A. Altin, S. Alvarez-Lopez, W. Amar, O. Amarasinghe, A. Amato, F. Amicucci, C. Amra, A. Ananyeva, S. B. Anderson, W. G. Anderson, M. Andia, M. Ando, M. Andrés-Carcasona, T. Andrić, J. Anglin, S. Ansoldi, J. M. Antelis, S. Antier, M. Aoumi, E. Z. Appavuravther, S. Appert, S. K. Apple, K. Arai, A. Araya, M. C. Araya, M. Arca Sedda, J. S. Areeda, N. Aritomi, F. Armato, S. Armstrong, N. Arnaud, M. Arogeti, S. M. Aronson, G. Ashton, Y. Aso, L. Asprea, M. Assiduo, S. Assis de Souza Melo, S. M. Aston, P. Astone, F. Attadio, F. Aubin, K. AultONeal, G. Avallone, E. A. Avila, S. Babak, C. Badger, S. Bae, S. Bagnasco, L. Baiotti, R. Bajpai, T. Baka, A. M. Baker, K. A. Baker, T. Baker, G. Baldi, N. Baldicchi, M. Ball, G. Ballardin, S. W. Ballmer, S. Banagiri, B. Banerjee, D. Bankar, T. M. Baptiste, P. Baral, M. Baratti, J. C. Barayoga, B. C. Barish, D. Barker  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: gr-qc, astro-ph.CO  
 **Type**: replaced  
 
@@ -167,7 +167,7 @@
 
 **arXiv**: [2311.15065](https://arxiv.org/abs/2311.15065)  
 **Authors**: Sayantan Choudhury, Kritartha Dey, Ahaskar Karde  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: astro-ph.CO, gr-qc, hep-ph, hep-th  
 **Type**: replaced  
 
@@ -179,7 +179,7 @@
 
 **arXiv**: [2412.12287](https://arxiv.org/abs/2412.12287)  
 **Authors**: Yanou Cui, Anish Ghoshal, Pankaj Saha, Evangelos I. Sfakianakis  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: hep-ph, astro-ph.CO, gr-qc, hep-ex, hep-th  
 **Type**: replaced  
 
@@ -191,7 +191,7 @@
 
 **arXiv**: [2501.19053](https://arxiv.org/abs/2501.19053)  
 **Authors**: Yong Gao, Kota Hayashi, Kenta Kiuchi, Alan Tsz-Lok Lam, Hao-Jui Kuan, Masaru Shibata  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: astro-ph.HE, gr-qc, hep-th  
 **Type**: replaced  
 
@@ -203,7 +203,7 @@
 
 **arXiv**: [2508.08365](https://arxiv.org/abs/2508.08365)  
 **Authors**: Mikel Falxa, Alberto Sesana  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: astro-ph.IM, astro-ph.GA, gr-qc  
 **Type**: replaced  
 
@@ -215,7 +215,7 @@
 
 **arXiv**: [2509.00257](https://arxiv.org/abs/2509.00257)  
 **Authors**: Yong Gao, Hao-Jui Kuan, Cheng-Jun Xia, Hector O. Silva, Masaru Shibata  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: astro-ph.HE, gr-qc, hep-ph, nucl-th  
 **Type**: replaced  
 
@@ -227,7 +227,7 @@
 
 **arXiv**: [2512.09759](https://arxiv.org/abs/2512.09759)  
 **Authors**: Keisuke Inomata, Marc Kamionkowski  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: astro-ph.CO, gr-qc, hep-ph  
 **Type**: replaced  
 
@@ -239,7 +239,7 @@
 
 **arXiv**: [2601.20958](https://arxiv.org/abs/2601.20958)  
 **Authors**: Jessica A. Zebrowski, Aurora Ireland, Christian L. Reichardt, Kylar Greene, Gordan Krnjaic, Yuhsin Tsai, François R. Bouchet  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: astro-ph.CO  
 **Type**: new submission  
 
@@ -251,7 +251,7 @@
 
 **arXiv**: [2601.21820](https://arxiv.org/abs/2601.21820)  
 **Authors**: Anson Chen, Jun Zhang  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: astro-ph.CO  
 **Type**: new submission  
 
@@ -263,7 +263,7 @@
 
 **arXiv**: [2510.27579](https://arxiv.org/abs/2510.27579)  
 **Authors**: Aleksandr Chatrchyan, Florian Niedermann, Phoebe Richman-Taylor  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: astro-ph.CO, hep-ph, hep-th  
 **Type**: replaced  
 
@@ -275,7 +275,7 @@
 
 **arXiv**: [2510.02083](https://arxiv.org/abs/2510.02083)  
 **Authors**: C. Pallis  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: hep-ph, astro-ph.CO, hep-th  
 **Type**: replaced  
 
@@ -287,7 +287,7 @@
 
 **arXiv**: [2601.21231](https://arxiv.org/abs/2601.21231)  
 **Authors**: Alex Ross, Tianqi Zhao, Sanjay Reddy  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: astro-ph.HE, astro-ph.IM, astro-ph.SR, cs.LG  
 **Type**: new submission  
 
@@ -299,7 +299,7 @@
 
 **arXiv**: [2601.07595](https://arxiv.org/abs/2601.07595)  
 **Authors**: The IceCube Collaboration: R. Abbasi, M. Ackermann, J. Adams, S. K. Agarwalla, J. A. Aguilar, M. Ahlers, J.M. Alameddine, S. Ali, N. M. Amin, K. Andeen, C. Argüelles, Y. Ashida, S. Athanasiadou, S. N. Axani, R. Babu, X. Bai, J. Baines-Holmes, A. Balagopal V., S. W. Barwick, S. Bash, V. Basu, R. Bay, J. J. Beatty, J. Becker Tjus, P. Behrens, J. Beise, C. Bellenghi, S. Benkel, S. BenZvi, D. Berley, E. Bernardini, D. Z. Besson, E. Blaufuss, L. Bloom, S. Blot, I. Bodo, F. Bontempo, J. Y. Book Motzkin, C. Boscolo Meneguolo, S. Böser, O. Botner, J. Böttcher, J. Braun, B. Brinson, Z. Brisson-Tsavoussis, R. T. Burley, D. Butterfield, M. A. Campana, K. Carloni, J. Carpio, S. Chattopadhyay, N. Chau, Z. Chen, D. Chirkin, S. Choi, B. A. Clark, A. Coleman, P. Coleman, G. H. Collin, D. A. Coloma Borja, A. Connolly, J. M. Conrad, S. T. Countryman, D. F. Cowen, C. De Clercq, J. J. DeLaunay, D. Delgado, T. Delmeulle, S. Deng, P. Desiati, K. D. de Vries, G. de Wasseige, T. DeYoung, J. C. Díaz-Vélez, S. DiKerby, T. Ding, M. Dittmer, A. Domi, L. Draper, L. Dueser, D. Durnford, K. Dutta, M. A. DuVernois, T. Ehrhardt, L. Eidenschink, A. Eimer, C. Eldridge, P. Eller, E. Ellinger, D. Elsässer, R. Engel, H. Erpenbeck, W. Esmail, S. Eulig, J. Evans, P. A. Evenson, K. L. Fan, K. Fang, K. Farrag  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: astro-ph.HE  
 **Type**: replaced  
 
@@ -311,7 +311,7 @@
 
 **arXiv**: [2601.21013](https://arxiv.org/abs/2601.21013)  
 **Authors**: Chinmay S. Kulkarni, Thomas Behling, Elisabeth E. Banks, Jason Jones, Tyler Robbins, Nathanael Burns-Watson, S. Thomas Megeath, Robert Gutermuth, Samuel Federman, Savio B. Oliveira, Wafa Zakri, William J. Fischer, Riwaj Pokhrel  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: astro-ph.SR  
 **Type**: new submission  
 
@@ -323,7 +323,7 @@
 
 **arXiv**: [2601.21788](https://arxiv.org/abs/2601.21788)  
 **Authors**: C. J. K. Larkin, J. Mackey, H. Jin, A. A. C. Sander, B. Reville, K. Anastasopoulou, M. Andersen, A. Bayo, J. J. Drake, E. K. Grebel, M. G. Guarcello, T. J. Haworth, V. M. Kalari, R. R. Lefever, F. Najarro, B. W. Ritchie, E. Sabbi  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: astro-ph.SR  
 **Type**: new submission  
 
@@ -335,7 +335,7 @@
 
 **arXiv**: [2504.16959](https://arxiv.org/abs/2504.16959)  
 **Authors**: Xiangyu Zhang, Erik Floden, Hongru Zhao, Sara Algeri, Galin Jones, Vuk Mandic, Jesse Miller  
-**Date**: 31 Jan 2026  
+**Date**: 01 Feb 2026  
 **Categories**: astro-ph.IM  
 **Type**: replaced  
 
