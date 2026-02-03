@@ -1,0 +1,358 @@
+{
+  "date": "2026-02-03",
+  "crawl_timestamp": "2026-02-03T01:34:15.536334",
+  "query": "cat:gr-qc OR cat:astro-ph.* (filtered for gravitational waves)",
+  "summary": {
+    "total_crawled": 154,
+    "total_gw_papers": 11,
+    "by_category": {
+      "gr-qc": {
+        "total": 27,
+        "gw_related": 5
+      },
+      "astro-ph": {
+        "total": 112,
+        "gw_related": 6
+      }
+    }
+  },
+  "crawl_verification": {
+    "total_expected": 211,
+    "total_actual": 211,
+    "verification_passed": true,
+    "category_details": [
+      {
+        "category": "gr-qc",
+        "url": "https://arxiv.org/list/gr-qc/new",
+        "expected_total": 45,
+        "actual_crawled": 45,
+        "page_source_info": "Total of 45 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.CO",
+        "url": "https://arxiv.org/list/astro-ph.CO/new",
+        "expected_total": 37,
+        "actual_crawled": 37,
+        "page_source_info": "Total of 37 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.HE",
+        "url": "https://arxiv.org/list/astro-ph.HE/new",
+        "expected_total": 34,
+        "actual_crawled": 34,
+        "page_source_info": "Total of 34 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.GA",
+        "url": "https://arxiv.org/list/astro-ph.GA/new",
+        "expected_total": 42,
+        "actual_crawled": 42,
+        "page_source_info": "Total of 42 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.SR",
+        "url": "https://arxiv.org/list/astro-ph.SR/new",
+        "expected_total": 25,
+        "actual_crawled": 25,
+        "page_source_info": "Total of 25 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.IM",
+        "url": "https://arxiv.org/list/astro-ph.IM/new",
+        "expected_total": 15,
+        "actual_crawled": 15,
+        "page_source_info": "Total of 15 entries",
+        "success": true,
+        "verification_passed": true
+      },
+      {
+        "category": "astro-ph.EP",
+        "url": "https://arxiv.org/list/astro-ph.EP/new",
+        "expected_total": 13,
+        "actual_crawled": 13,
+        "page_source_info": "Total of 13 entries",
+        "success": true,
+        "verification_passed": true
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "https://arxiv.org/abs/2601.23019",
+      "title": "Towards Claiming a Detection of Gravitational Memory",
+      "authors": [
+        "Jann Zosso",
+        "Lorena Magaña Zertuche",
+        "Silvia Gasparotto",
+        "Adrien Cogez",
+        "Henri Inchauspé",
+        "Milo Jacobs"
+      ],
+      "abstract": "Towards Claiming a Detection of Gravitational Memory Jann Zosso, Lorena Magaña Zertuche, Silvia Gasparotto, Adrien Cogez, Henri Inchauspé, Milo Jacobs General Relativity and Quantum Cosmology (gr-qc) Gravitational memory is a zero-frequency effect associated with a permanent change in the asymptotic spacetime metric induced by radiation. While its universal manifestation is a net change of proper distances, gravitational-wave detectors are intrinsically insensitive to the final offset and can only probe the associated transition. A central challenge for any claim of detection therefore lies in defining a physically meaningful and operationally robust model of this time-dependent signal, which is uniquely attributable to gravitational memory and distinguishable from purely oscillatory radiation. In this work, we propose a general solution to this challenge. Building on a self-contained review of the theory of gravitational memory, we discuss a theoretical framework for defining and modeling a gravitational memory rise, in particular applicable to compact binary coalescences. Specializing to space-based detectors, we analyze the response of LISA to gravitational radiation including a memory contribution, with particular emphasis on mergers of supermassive black hole binaries, which offer the most promising prospects for a first single-event detection. The framework developed here provides the theoretical foundation for statistically well-defined hypothesis testing between memory-free and memory-full radiation and quantitative assessments of detection prospects. As such, these results establish a principled pathway toward a future observational claim of gravitational memory.",
+      "pdf_url": "https://arxiv.org/pdf/2601.23019.pdf",
+      "published": "2026-02-03T01:34:14.620110",
+      "updated": null,
+      "categories": [
+        "gr-qc"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2601.23230",
+      "title": "Detectability of Gravitational-Wave Memory with LISA: A Bayesian Approach",
+      "authors": [
+        "Adrien Cogez",
+        "Silvia Gasparotto",
+        "Jann Zosso",
+        "Henri Inchauspé",
+        "Chantal Pitte",
+        "Lorena Magaña Zertuche",
+        "Antoine Petiteau",
+        "Marc Besancon"
+      ],
+      "abstract": "Detectability of Gravitational-Wave Memory with LISA: A Bayesian Approach Adrien Cogez, Silvia Gasparotto, Jann Zosso, Henri Inchauspé, Chantal Pitte, Lorena Magaña Zertuche, Antoine Petiteau, Marc Besancon General Relativity and Quantum Cosmology (gr-qc) Gravitational wave (GW) astronomy opens a new venue to explore the universe. Future observatories such as LISA, the Laser Interferometer Space Antenna, are expected to observe previously undetectable fundamental physics effects in signals predicted by General Relativity (GR).One particularly interesting such signal is associated to the displacement memory effect, which corresponds to a permanent deformation of spacetime due to the passage of gravitational radiation. In this work, we explore the ability of LISA to observe and characterize this effect. In order to do this, we use state-of-the-art simulations of the LISA instrument, and we perform a Bayesian analysis to assess the detectability and establish general conditions to claim detection of the displacement memory effect from individual massive black hole binary (MBHB) merger events in LISA. We perform parameter estimation both to explore the impact of the displacement memory effect and to reconstruct its amplitude. We discuss the precision at which such a reconstruction can be obtained thus opening the way to tests of GR and alternative theories. To provide astrophysical context, we apply our analysis to black hole binary populations models and estimate the rates at which the displacement memory effect could be observed within the LISA planned lifetime.",
+      "pdf_url": "https://arxiv.org/pdf/2601.23230.pdf",
+      "published": "2026-02-03T01:34:14.620476",
+      "updated": null,
+      "categories": [
+        "gr-qc"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2601.21820",
+      "title": "Forecasting Constraints on Cosmology and Modified Gravitational-wave Propagation by Strongly Lensed Gravitational Waves Associating with Galaxy Surveys",
+      "authors": [
+        "Anson Chen",
+        "Jun Zhang"
+      ],
+      "abstract": "Forecasting Constraints on Cosmology and Modified Gravitational-wave Propagation by Strongly Lensed Gravitational Waves Associating with Galaxy Surveys Anson Chen, Jun Zhang Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Quantum Cosmology (gr-qc) Gravitational lensing of gravitational wave (GW) will become the next frontier in studying cosmology and gravity. While time-delay cosmography using quadruply lensed GW events associated with optical images of the lens systems can provide precise measurement of the Hubble constant ($H_0$), they are considered to be much rarer than doubly lensed events. In this work, we analyze time-delay cosmography with doubly lensed GW events for the first time. We generate mock doubly lensed GW events with designed sensitivity of the LIGO-Virgo-KAGRA (LVK) O5 network, with LIGO post-O5 upgrade, and with Einstein Telescope (ET) + Cosmic Explorer (CE) respectively, and select the events that can be associated with future galaxy surveys. Over 1000 realizations, we find an average of 0.2(2.4) qualified events with the LVK O5(post-O5) network. Whereas with the ET+CE network, we find an average of 73.2 qualified events over 100 realizations. Using the Singular Isothermal Sphere (SIS) lens model, we jointly estimate waveform parameters and the impact parameter with doubly lensed GW signals, and then forecast the constraints on cosmological parameters and modified GW propagation by combining time-delay cosmography and the standard siren approach. The average posterior gives a constraint on $H_0$ with a relative uncertainty of $14\\%$, $10\\%$ and $0.42\\%$ in the $\\Lambda$CDM model for the LVK O5, LVK post-O5, and ET+CE network, respectively. While the LVK network gives uninformative constraints on the $(w_0,w_a)$ dynamical dark energy model, the ET+CE network yields a moderate constraint of $w_0=-1.02^{+0.31}_{-0.22}$ and $w_a=0.48^{+0.99}_{-1.54}$. In addition, our method can provide precise constraints on modified GW propagation effects jointly with $H_0$.",
+      "pdf_url": "https://arxiv.org/pdf/2601.21820.pdf",
+      "published": "2026-02-03T01:34:14.620858",
+      "updated": null,
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "primary_category": "astro-ph.CO",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from astro-ph.CO",
+        "cross_list_from": "astro-ph.CO"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2601.22220",
+      "title": "Subsolar mass black holes from stellar collapse induced by primordial black holes",
+      "authors": [
+        "Thomas W. Baumgarte",
+        "Stuart L. Shapiro"
+      ],
+      "abstract": "Subsolar mass black holes from stellar collapse induced by primordial black holes Thomas W. Baumgarte, Stuart L. Shapiro High Energy Astrophysical Phenomena (astro-ph.HE); General Relativity and Quantum Cosmology (gr-qc) While no gravitational-wave detection of subsolar mass black holes has been confirmed to date, a number of candidate detections invite us to speculate on the origin of such black holes should a detection be confirmed. It is generally assumed that the observation of a black hole with subsolar mass $M_{\\rm obs}$ would provide strong evidence for primordial black holes (PBHs). The mass $M_{\\rm PBH}$ of the PBH, however, does not necessarily have to be equal to $M_{\\rm obs}$, as it would in what we term a ``direct PBH scenario\". Instead, a black hole of mass $M_{\\rm obs}$ may form in a capture of a much smaller primordial black hole, $M_{\\rm PBH} \\ll M_{\\rm obs}$, by a dwarf star of mass $M_* \\simeq M_{\\rm obs}$, followed by the total consumption of the star by the PBH. We provide some rough estimates and demonstrate that such an ``indirect PBH scenario\" may also lead to significant populations of black holes with mass $M_{\\rm obs}$, especially in dwarf galaxies, and may be able to explain rare subsolar mass events.",
+      "pdf_url": "https://arxiv.org/pdf/2601.22220.pdf",
+      "published": "2026-02-03T01:34:14.621230",
+      "updated": null,
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "primary_category": "astro-ph.HE",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from astro-ph.HE",
+        "cross_list_from": "astro-ph.HE"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2601.22464",
+      "title": "Constructing a gravitational wave analysis pipeline for extremely large mass ratio inspirals",
+      "authors": [
+        "Tian-Xiao Wang",
+        "Yan Wang",
+        "Alejandro Torres-Orjuela",
+        "Yi-Ren Lin",
+        "Hui-Min Fan",
+        "Verónica Vázquez-Aceves",
+        "Yi-Ming Hu"
+      ],
+      "abstract": "Constructing a gravitational wave analysis pipeline for extremely large mass ratio inspirals Tian-Xiao Wang, Yan Wang, Alejandro Torres-Orjuela, Yi-Ren Lin, Hui-Min Fan, Verónica Vázquez-Aceves, Yi-Ming Hu 20 pages, 9 figures, submitted to PRD, comments welcome High Energy Astrophysical Phenomena (astro-ph.HE); Instrumentation and Methods for Astrophysics (astro-ph.IM); General Relativity and Quantum Cosmology (gr-qc) Extremely large mass-ratio inspirals (XMRIs), consisting of a brown dwarf orbiting a supermassive black hole, emit long-lived and nearly monochromatic gravitational waves in the millihertz band and constitute a promising probe of strong-field gravity and black-hole properties. However, dedicated data-analysis pipelines for XMRI signals have not yet been established. In this work, we develop, for the first time, a hierarchical semi-coherent search pipeline for XMRIs tailored to space-based gravitational-wave detectors, with a particular focus on the TianQin mission. The pipeline combines a semi-coherent multi-harmonic $\\mathcal{F}$-statistic with particle swarm optimization, and incorporates a novel eccentricity estimation method based on the relative power distribution among harmonics. We validate the performance of the pipeline using simulated TianQin data for a Galactic center XMRI composed of a brown dwarf and Sgr A*. For a three-month observation, the pipeline successfully recovers the signal and achieves high-precision parameter estimation, including fractional uncertainties of $<10^{-6}$ in the orbital frequency, $\\lesssim10^{-3}$ in the eccentricity, $\\lesssim2\\times10^{-3}$ in the black-hole mass, and $\\lesssim10^{-3}$ in the black-hole spin. Our framework establishes a practical foundation for future XMRI searches with space-based detectors and highlights the potential of XMRIs as precision probes of stellar dynamics and strong-field gravity in the vicinity of supermassive black holes.",
+      "pdf_url": "https://arxiv.org/pdf/2601.22464.pdf",
+      "published": "2026-02-03T01:34:14.621618",
+      "updated": null,
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.IM",
+        "gr-qc"
+      ],
+      "primary_category": "astro-ph.HE",
+      "submission_info": {
+        "type": "cross-list",
+        "details": "cross-list from astro-ph.HE",
+        "cross_list_from": "astro-ph.HE"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2503.05487",
+      "title": "A novel Lagrange-multiplier approach to the effective-one-body dynamics of binary systems in post-Minkowskian gravity",
+      "authors": [
+        "Thibault Damour",
+        "Alessandro Nagar",
+        "Andrea Placidi",
+        "Piero Rettegno"
+      ],
+      "abstract": "A novel Lagrange-multiplier approach to the effective-one-body dynamics of binary systems in post-Minkowskian gravity Thibault Damour, Alessandro Nagar, Andrea Placidi, Piero Rettegno 40 pages, 13 figures, matches published version General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) We present a new approach to the conservative dynamics of binary systems, within the effective one-body (EOB) framework, based on the use of a Lagrange multiplier to impose the mass-shell constraint. When applied to the post-Minkowskian (PM) description of the two-body problem in Einsteinian gravity, this Lagrange-EOB (LEOB) approach allows for a new formulation of the conservative dynamics that avoids the drawbacks of the recursive definition of EOB-PM Hamiltonians. Using state-of-the-art expressions of the resummed waveform and radiation reaction, we apply our new formalism to the construction of an aligned-spin, quasi-circular, inspiraling EOB waveform model, called {\\tt LEOB-PM}, that incorporates analytical information up to the 4PM level, completed by 4PN contributions up to the sixth order in eccentricity, in the orbital sector, and by 4.5PN contributions, in the spin-orbit sector. In the nonspinning case, we find that an uncalibrated LEOB-PM model delivers maximum EOB/NR unfaithfulness ${\\bar{F}}_{\\rm EOBNR}$ (with the Advanced LIGO noise in the total mass range $10-200M_\\odot$) varying between $0.2\\%$ and $1\\%$ over all the nonspinning dataset of the Simulating eXtreme Spacetime (SXS) Numerical Relativity (NR) catalog up to mass ratio $q=15$. It also delivers excellent phasing agreement with the $q=32$ configuration of the RIT catalog. We also found consistency between binding energies within a few percent at the NR merger location. Then, when NR-informing the dynamics of the model (both orbital and spinning sectors) by using 17 SXS dataset, we find that the EOB/NR unfaithfulness (compared to 530 spin-aligned SXS waveforms) has a median value of $5.39\\times 10^{-4}$, or $6.13\\times 10^{-4}$ (depending on the spin-spin interactions), reaching at most $\\sim 1\\%$ in some of the high-spin corners.",
+      "pdf_url": "https://arxiv.org/pdf/2503.05487.pdf",
+      "published": "2026-02-03T01:34:14.623578",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.20484",
+      "title": "Fitting NANOGrav 15-year data and ACT data with modified inflation in entropic cosmology",
+      "authors": [
+        "Simone D'Onofrio",
+        "Sergei Odintsov",
+        "Tanmoy Paul"
+      ],
+      "abstract": "Fitting NANOGrav 15-year data and ACT data with modified inflation in entropic cosmology Simone D'Onofrio, Sergei Odintsov, Tanmoy Paul General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th) Recent evidences of stochastic gravitational wave background (SGWB) through Pulsar Time Array (PTA) observations hint towards an alternative inflationary scenario, compared to the usual inflation, for describing the early stage of the universe in order to be compatible with the PTA data. Moreover, currently the Atacama Cosmology Telescope (combined with the Planck 2018 and BAO) refines the constraint on inflationary observables, compared to the only-Planck 2018 measurements. In the present work, we simultaneously address these two issues by incorporating certain modification during inflation over the usual inflationary scenario. Such modification amplifies the primordial tensor perturbation over the modes that are sensitive to the NANOGrav frequency region. For this purpose, we take the thermodynamic route of cosmology where the entropy of the apparent horizon is given by a generalized form of entropy that is able to generalize the other known form of horizon entropies for suitable representations. The constraints on the model parameters coming from the ACT data also fit the NANOGrav 15-year data (based on numerical analysis), which reveal the model's compatibility with both the ACT and the PTA data.",
+      "pdf_url": "https://arxiv.org/pdf/2510.20484.pdf",
+      "published": "2026-02-03T01:34:14.623764",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2601.04168",
+      "title": "A framework for LISA population inference",
+      "authors": [
+        "Alexandre Toubiana",
+        "Jonathan Gair"
+      ],
+      "abstract": "A framework for LISA population inference Alexandre Toubiana, Jonathan Gair General Relativity and Quantum Cosmology (gr-qc); Astrophysics of Galaxies (astro-ph.GA); High Energy Astrophysical Phenomena (astro-ph.HE); Instrumentation and Methods for Astrophysics (astro-ph.IM); Solar and Stellar Astrophysics (astro-ph.SR) The Laser Interferometer Space Antenna (LISA) is expected to have a source rich data stream containing signals from large numbers of many different types of source. This will include both individually resolvable signals and overlapping stochastic backgrounds, a regime intermediate between current ground-based detectors and pulsar timing arrays. The resolved sources and backgrounds will be fitted together in a high dimensional Global Fit. To extract information about the astrophysical populations to which the sources belong, we need to decode the information in the Global Fit, which requires new methodology that has not been required for the analysis of current gravitational wave detectors. Here, we %start that development, presenting present a hierarchical Bayesian framework to infer the properties of astrophysical populations directly from the output of a LISA Global Fit, consistently accounting for information encoded in both the resolved sources and the unresolved background. Using a simplified model of the Global Fit, we illustrate how the interplay between resolved and unresolved components affects population inference and highlight the impact of data analysis choices, such as the signal-to-noise threshold for resolved sources, on the results. Our approach provides a practical foundation for population inference using LISA data.",
+      "pdf_url": "https://arxiv.org/pdf/2601.04168.pdf",
+      "published": "2026-02-03T01:34:14.624334",
+      "updated": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.GA",
+        "astro-ph.HE",
+        "astro-ph.IM",
+        "astro-ph.SR"
+      ],
+      "primary_category": "gr-qc",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.13477",
+      "title": "Probing Primordial black holes with the distortion of Stochastic Gravitational Wave Background",
+      "authors": [
+        "Mingqi Sun",
+        "Liao Kai",
+        "Xi-Long Fan"
+      ],
+      "abstract": "Probing Primordial black holes with the distortion of Stochastic Gravitational Wave Background Mingqi Sun, Liao Kai, Xi-Long Fan 9 pages, 7 figure; Accepted by Physical Review D Physical Review D 113, 023056 (2026) Cosmology and Nongalactic Astrophysics (astro-ph.CO) The stochastic gravitational-wave background (SGWB), arising from the incoherent superposition of numerous compact binary coalescences, serves as a powerful probe of both astrophysical populations and fundamental physics. In this work, we investigate the influence of gravitational lensing on the SGWB, focusing on primordial black holes (PBHs) as potential lenses. Assuming PBHs as dark matter candidates with a broad cosmic distribution, we show that their lensing optical depth can be significantly enhanced, producing pronounced effects with relative deviations at the 10^-1 level. By systematically varying the PBH mass (M_PBH) and abundance (f_PBH), we demonstrate that the mass predominantly determines the frequency-dependent diffraction features of the spectrum, while the abundance primarily amplifies the overall lensing-induced deviation. Although the SGWB from binary black holes has not yet been observed, our analytical results provide theoretical insight into the possible imprint of lensing on its spectrum and suggest that future detections could offer a novel avenue to constrain dark matter scenarios.",
+      "pdf_url": "https://arxiv.org/pdf/2510.13477.pdf",
+      "published": "2026-02-03T01:34:14.763555",
+      "updated": null,
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "primary_category": "astro-ph.CO",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.18727",
+      "title": "Gravitational-wave and electromagnetic detections in the context of the CosmoDC2 LSST synthetic catalog",
+      "authors": [
+        "Ranier Menote",
+        "Valerio Marra",
+        "Riccardo Sturani",
+        "Felipe Andrade-Oliveira",
+        "Clécio R. Bom",
+        "The LSST Dark Energy Science Collaboration"
+      ],
+      "abstract": "Gravitational-wave and electromagnetic detections in the context of the CosmoDC2 LSST synthetic catalog Ranier Menote, Valerio Marra, Riccardo Sturani, Felipe Andrade-Oliveira, Clécio R. Bom, The LSST Dark Energy Science Collaboration 23 pages, 19 figures. Matches the version accepted for publication in MNRAS. Datasets available at this https URL High Energy Astrophysical Phenomena (astro-ph.HE); Cosmology and Nongalactic Astrophysics (astro-ph.CO) We release CosmoDC2_BCO, a synthetic catalog of gravitational-wave events and electromagnetic counterparts associated with galaxies from CosmoDC2. The catalog provides intrinsic and extrinsic source parameters, signal-to-noise ratios, parameter uncertainties, sky localization areas, and kilonova apparent magnitudes in LSST filters. Our results show that third-generation detector networks substantially increase detection rates and improve parameter estimation. Second-generation detectors, when combined with third-generation ones, significantly enhance sky localization and distance precision, particularly for BNS mergers. Assuming a simplified Target of Opportunity strategy, we estimate that an LSST-like survey, partnered with the CE+ET+LVK network at 70% duty cycle, could detect about 5000 kilonovae with GW counterparts over a 10-year period on a 16000 deg^2 footprint, predominantly from low-mass BNS mergers that produce long-lived supermassive neutron star remnants. While this is a substantial number, it represents only a small fraction of the total neutron star mergers expected to be observed by third-generation networks. These projections rely on several simplifying assumptions-including the adopted merger rate, the kilonova luminosity distribution, and the configuration and scheduling of future surveys-which introduce notable uncertainties. Therefore, the estimated detection numbers should be interpreted with appropriate caution.",
+      "pdf_url": "https://arxiv.org/pdf/2510.18727.pdf",
+      "published": "2026-02-03T01:34:14.764619",
+      "updated": null,
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.CO"
+      ],
+      "primary_category": "astro-ph.HE",
+      "submission_info": {
+        "type": "replaced",
+        "details": "replaced",
+        "cross_list_from": ""
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2601.23260",
+      "title": "Evolution of Supermassive Black Hole Pairs on Inclined Orbits in Post-Merger Galaxies",
+      "authors": [
+        "Sena Ghobadi",
+        "David Ballantyne",
+        "Tamara Bogdanovic"
+      ],
+      "abstract": "Evolution of Supermassive Black Hole Pairs on Inclined Orbits in Post-Merger Galaxies Sena Ghobadi, David Ballantyne, Tamara Bogdanovic 17 pages, 12 figures, 2 tables, accepted for publication in ApJ Astrophysics of Galaxies (astro-ph.GA) Theoretical models of the evolution of supermassive black hole (SMBH) pairs in post-merger remnant galaxies are necessary to motivate observational searches for dual active galactic nuclei (AGN) and gravitational wave sources. Studies have explored the dynamical evolution of SMBH pairs under the influence of dynamical friction to calculate pairing times and predict the expected population of dual-AGNs at various redshifts. We formulate a three-dimensional dynamical model of SMBH pairs in the innermost kiloparsec of a post-merger galaxy to investigate the impact of orbital inclination with respect to the galactic disk on pairing times. The SMBH pairs are evolved in 81 different galaxy configurations initialized using a Gauss-Seidel Poisson solver. The dynamics are calculated for 12 distinct initial inclinations ranging from 0 to 75 degrees in each of the galaxies to gauge the impact of inclination on pairing time. Orbits characterized by initial inclinations greater than 20 degrees frequently require longer pairing times when compared to uninclined orbits. Pairing times for orbits with inclinations $\\gtrsim 45$ degrees often exceed 14 Gyr. Galaxies with higher mass SMBH pairs and faster rotating disks generally shorten pairing times relative to galaxies with less massive or slower rotating disks when the inclination is $\\lesssim 45$ degrees. The model suggests that SMBH pairs that form from mergers at inclinations $\\lesssim 20$ degrees are likely progenitors of dual-AGN and gravitational wave sources.",
+      "pdf_url": "https://arxiv.org/pdf/2601.23260.pdf",
+      "published": "2026-02-03T01:34:15.259952",
+      "updated": null,
+      "categories": [
+        "astro-ph.GA"
+      ],
+      "primary_category": "astro-ph.GA",
+      "submission_info": {
+        "type": "new",
+        "details": "new submission",
+        "cross_list_from": ""
+      }
+    }
+  ]
+}
