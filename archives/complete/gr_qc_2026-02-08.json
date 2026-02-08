@@ -1,0 +1,323 @@
+{
+  "date": "2026-02-08",
+  "category": "gr-qc",
+  "url": "https://arxiv.org/list/gr-qc/new",
+  "total_papers": 18,
+  "gw_related_papers": 8,
+  "papers": [
+    {
+      "id": "https://arxiv.org/abs/2602.04885",
+      "title": "Lecture Notes in Loop Quantum Gravity. LN4: Hamiltonian framework",
+      "authors": [
+        "Lorenzo Fatibene",
+        "Marco Ferraris",
+        "Andrea Orizzonte"
+      ],
+      "abstract": "Lecture Notes in Loop Quantum Gravity. LN4: Hamiltonian framework Lorenzo Fatibene, Marco Ferraris, Andrea Orizzonte 17 pages (HTML shows no commutative diagram) General Relativity and Quantum Cosmology (gr-qc) We discuss a covariant setting for Hamiltonian formalism in a relativistic field theory and we use this to obtain again the properties of Hamilton principal functional in Newtonian mechanics, relativistic mechanics, Klein-Gordon, electromagnetism, and Ashtekar-Barbero-Immirzi gravitational theory.",
+      "pdf_url": "https://arxiv.org/pdf/2602.04885.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2602.04951",
+      "title": "Impact on Inferred Neutron Star Equation of State due to Nonlinear Hydrodynamics, Background Spin, and Relativity",
+      "authors": [
+        "Joseph Bretz",
+        "Hang Yu"
+      ],
+      "abstract": "Impact on Inferred Neutron Star Equation of State due to Nonlinear Hydrodynamics, Background Spin, and Relativity Joseph Bretz, Hang Yu 26 pages, 7 figures, and 3 tables. To be submitted General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE) Tidal interaction is a unique, detectable signature in gravitational wave signals from inspiraling binary neutron stars (BNSs), which can be used to constrain the neutron star (NS) equation of state (EoS). The tidal interaction is resonantly amplified as the orbital frequency approaches the NS fundamental mode (f-mode) frequency. It has been shown that the exclusion of tidal resonance in parameter estimation leads to a significant bias in the inferred NS tidal deformability and hence the NS EoS [Pratten et al. PRL 129, 081102 (2022)]. The strength and location of tidal resonance depend sensitively on the f-mode frequency, which is typically modeled using its universal relation with the tidal deformability that is derived for an isolated, non-spinning NS assuming only linear fluid perturbations. In a BNS inspiral, the f-mode frequency can be corrected by at least three known effects: nonlinear hydrodynamics, background spin, and relativity. We use Hamiltonian Monte Carlo simulations to estimate the systematic bias on tidal deformability when each frequency correction is ignored. Our study considers both loud, individual events and the stacking of a population of detections. Both scenarios are expected when the next-generation detectors are available with a sensitivity level increased by about an order of magnitude.",
+      "pdf_url": "https://arxiv.org/pdf/2602.04951.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2602.04956",
+      "title": "Classification of Oppenheimer-Snyder Collapse: Singular, Bouncing, and Soft-Landing Scenarios",
+      "authors": [
+        "Zhi-Chao Li",
+        "H. Khodabakhshi",
+        "H. Lu"
+      ],
+      "abstract": "Classification of Oppenheimer-Snyder Collapse: Singular, Bouncing, and Soft-Landing Scenarios Zhi-Chao Li, H. Khodabakhshi, H. Lu Latex, 23 pages, 4 graphs grouped into 3 figures General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) We study Oppenheimer-Snyder (OS) gravitational collapse matched to a general static, spherically symmetric exterior spacetime. Unlike the Schwarzschild case, two new features can arise in black holes with two horizons: an apparent-horizon left vertex, a temporary minimum in the apparent-horizon radius during collapse, and a bounce, where the star surface stops collapsing at a nonzero radius and reverses into expansion. We identify the conditions that lead to these two features. For two-horizon exteriors, trapped-region consistency requires that the apparent-horizon turning point occurs no earlier than the surface crossing of the inner horizon. As a concrete example, the OS collapse of the Reissner-Nordström (RN) spacetime shows both effects. In contrast, regular black holes with de Sitter cores show neither: their collapse is smooth and monotonic, and the surface approaches the center only as the proper time goes to infinity. These results naturally classify the OS collapses into three categories: singular, which ends at the center in finite time; bouncing, which reverses at a finite radius; and soft-landing, which reaches the center only asymptotically. We argue that these features are consistent with Penrose's strong cosmic censorship conjecture.",
+      "pdf_url": "https://arxiv.org/pdf/2602.04956.pdf",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2602.04970",
+      "title": "Influence of spatial curvature in cosmological particle production",
+      "authors": [
+        "Jose A. R. Cembranos",
+        "Luis J. Garay",
+        "Álvaro Parra-López"
+      ],
+      "abstract": "Influence of spatial curvature in cosmological particle production Jose A. R. Cembranos, Luis J. Garay, Álvaro Parra-López General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Phenomenology (hep-ph); High Energy Physics - Theory (hep-th) We analyze cosmological particle production driven by spacetime expansion in the early universe for homogeneous and isotropic cosmologies with positive, negative, and zero spatial curvature. We prioritize analytical results to gain a deeper understanding of curvature-induced effects. Specifically, for a conformally coupled scalar field, we model the inflationary epoch as an exact de Sitter phase followed by a transition to a static universe. Both instantaneous and smooth exits from inflation are considered, the latter being implemented via the adiabatic vacuum prescription. Starting from an initial Bunch-Davies vacuum, we derive the associated mode functions carefully adapted to each curvature sign. Using the Bogoliubov formalism, we non-perturbatively compute the number density of produced scalar particles. Our results demonstrate that spatial curvature significantly impacts the resulting particle spectra, particularly for light fields, where the deviation from the flat-space scenario is most prominent and can reach several orders of magnitude",
+      "pdf_url": "https://arxiv.org/pdf/2602.04970.pdf",
+      "categories": [
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2602.04996",
+      "title": "Suppression of Gravitational-Wave Echoes in Diffeomorphism-Invariant Nonlocal Gravity",
+      "authors": [
+        "J. W. Moffat"
+      ],
+      "abstract": "Suppression of Gravitational-Wave Echoes in Diffeomorphism-Invariant Nonlocal Gravity J. W. Moffat General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO) Searches for late--time gravitational--wave echoes following compact binary mergers are often interpreted as probes of exotic near--horizon or horizonless physics. We show that a well--motivated class of ultraviolet--finite quantum gravity and modified gravity theories, those based on diffeomorphism--invariant, analytic, entire--function nonlocality, generically suppress observable echo signals. The suppression follows from Paley--Wiener bounds associated with the analyticity of the nonlocal regulator, which enforce exponential damping of high--frequency reflection amplitudes and smear sharp effective potentials in the black--hole interior. We demonstrate that for regular black holes with horizons, the standard ingoing boundary condition eliminates the cavity required for echoes, while for regular horizonless compact objects the nonlocal kernel strongly attenuates both inner and photon--sphere reflections. As a result, repeated reflections during the ringdown phase are exponentially suppressed in frequency space and washed out in the time domain. Our results imply that the absence of echoes in current gravitational--wave data is consistent with covariant nonlocal gravity theories and does not, by itself, favor classical horizons over regular or horizonless ultraviolet completions. The analyticity and Paley--Wiener bounds that enforce echo suppression are required to ensure unitarity, ghost freedom, and ultraviolet finiteness of the underlying quantum theory. As a result, the classical ringdown phenomenology already encodes quantum--gravity consistency conditions. We emphasize that the absence of echoes in such theories does not rely on quantum decoherence or stochastic effects, but instead reflects the analytic structure imposed by quantum gravity on the classical limit.",
+      "pdf_url": "https://arxiv.org/pdf/2602.04996.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2602.05061",
+      "title": "Transverse expansion of the metric at null infinity",
+      "authors": [
+        "Marc Mars",
+        "Gabriel Sánchez-Pérez"
+      ],
+      "abstract": "Transverse expansion of the metric at null infinity Marc Mars, Gabriel Sánchez-Pérez General Relativity and Quantum Cosmology (gr-qc); Differential Geometry (math.DG) In this paper we analyze the conformal Einstein equations to all orders at null infinity without imposing any restriction on the spacetime dimension, the topology of $\\mathscr{I}$, or fall-off conditions for the Weyl tensor. In particular, we study how the equations constrain the geometry of null infinity when it is assumed to be foliated by cross-sections, not necessarily spheres. Our approach is coordinate-free and treats the conformal factor $\\Omega$ as a dynamical variable. After identifying the free data at $\\mathscr{I}$, we show that any two asymptotically flat spacetimes sharing the same free data at null infinity are necessarily isometric to infinite order. In addition, we provide a detached definition of null infinity and prove an existence theorem for asymptotically flat spacetimes solving the field equations to infinite order at $\\mathscr{I}$ realizing the prescribed initial data.",
+      "pdf_url": "https://arxiv.org/pdf/2602.05061.pdf",
+      "categories": [
+        "gr-qc",
+        "math.DG"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2602.05194",
+      "title": "On the instability of the fundamental mode of the Regge-Wheeler effective potential",
+      "authors": [
+        "Shui-Fa Shen",
+        "Guan-Ru Li",
+        "Ramin G. Daghigh",
+        "Jodin C. Morey",
+        "Michael D. Green",
+        "Qiyuan Pan",
+        "Cheng-Gang Shao",
+        "Wei-Liang Qian"
+      ],
+      "abstract": "On the instability of the fundamental mode of the Regge-Wheeler effective potential Shui-Fa Shen, Guan-Ru Li, Ramin G. Daghigh, Jodin C. Morey, Michael D. Green, Qiyuan Pan, Cheng-Gang Shao, Wei-Liang Qian General Relativity and Quantum Cosmology (gr-qc) It was recently pointed out that the fundamental mode of the Regge-Wheeler effective potential is unstable against an insignificant Gaussian metric perturbation, which, in turn, might substantially challenge the black hole spectroscopy. This intriguing result has been interpreted by some authors as arising from essentially replacing the black hole's effective potential and its perturbation with two disjoint potential barriers. We argue that such an analysis may have oversimplified the real physical scenario. To be more precise, a metric perturbation planted farther away from the black hole horizon might not always be appropriately approximated by a disjoint minor barrier. Particularly, for the perturbed Pöschl-Teller potential, joint and disjoint metric perturbations might lead to drastically different stability properties for the low-lying modes. Following this line of thought, this study conducts a refined analysis of the stability of the fundamental mode of the Regge-Wheeler effective potential by closely examining a few physically relevant ingredients. While our analysis qualitatively confirms the main findings of previous studies, as the stability of the fundamental mode is primarily determined by the imaginary part of the quasinormal frequency, we show that specific features of both the effective potential at spatial infinity and the metric perturbation can have a sizable impact on the instability. In contrast, the spiral period, governed by the real part of the quasinormal frequency, appears largely insensitive to the details of the black hole metric or its perturbations. The analytic estimates are in reasonable agreement with the numerical results.",
+      "pdf_url": "https://arxiv.org/pdf/2602.05194.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2602.05268",
+      "title": "Effects of nonlinear interactions on the superradiant instability of charged black holes",
+      "authors": [
+        "Bo-Wen Qin",
+        "Yu-Peng Zhang"
+      ],
+      "abstract": "Effects of nonlinear interactions on the superradiant instability of charged black holes Bo-Wen Qin, Yu-Peng Zhang General Relativity and Quantum Cosmology (gr-qc) A Reissner-Nordström black hole (RNBH) enclosed in a cavity is known to be superradiantly unstable to charged scalar perturbations below a critical frequency. Inspired by the emergence of the QCD axion as a prominent dark matter candidate, we construct a model featuring an axion field coupled to an electromagnetic field that undergoes superradiant growth around an RNBH. Utilizing numerical relativity, we achieve stable, long-term evolution of this system and perform a comparative analysis across various parameter spaces. Our comprehensive investigation reveals the formation of a hairy black hole, whose final state is governed by a diverse set of physical parameters. Notably, the decay constant in the axion potential, representing nonlinear interactions, bifurcates the superradiant instability into two distinct behavioral regimes, leading to more significant dynamical shifts than previously reported. Furthermore, we examine the influence of the scalar field's charge and mass, as well as the mirror's position. We investigate the axionic bosenova process and observe a long-term beating pattern of the axion field induced by nonlinear interactions. By fine-tuning these parameter combinations, we demonstrate that the system can evolve toward a variety of distinct physical endpoints.",
+      "pdf_url": "https://arxiv.org/pdf/2602.05268.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2602.05482",
+      "title": "Modification of Aberration due to the Helicity-Rotation Coupling",
+      "authors": [
+        "Bahram Mashhoon"
+      ],
+      "abstract": "Modification of Aberration due to the Helicity-Rotation Coupling Bahram Mashhoon General Relativity and Quantum Cosmology (gr-qc) We review the physical basis for the assumption of locality in relativistic physics and its connection with the aberration of starlight. As a consequence of the hypothesis of locality, the standard relativistic formulas for the Doppler effect and aberration are independent of the polarization of the incident electromagnetic or gravitational radiation. The modification of these formulas due to the helicity-rotation coupling are discussed. In connection with the aberration of polarized radiation, we note that the helicity of radiation incident on a rotating observer couples to its angular velocity of rotation resulting in a slight helicity-dependent modification of the standard aberration formula. We discuss the physical origin of this effect and estimate the magnitude of the helicity aberration.",
+      "pdf_url": "https://arxiv.org/pdf/2602.05482.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2602.05714",
+      "title": "Detecting gravitational wave background with equivalent configurations in the network of space based optical lattice clocks",
+      "authors": [
+        "Mingzhi Lou",
+        "Hong Su",
+        "Tao Yang",
+        "Yun-Long Zhang"
+      ],
+      "abstract": "Detecting gravitational wave background with equivalent configurations in the network of space based optical lattice clocks Mingzhi Lou, Hong Su, Tao Yang, Yun-Long Zhang General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); Instrumentation and Methods for Astrophysics (astro-ph.IM); High Energy Physics - Phenomenology (hep-ph); Instrumentation and Detectors (physics.ins-det) The network of space based optical lattice clocks (OLCs) has been proposed to detect the stochastic gravitational wave background. We investigate the overlap reduction function (ORF) of the OLC detector network and analytically derive a transformation that leaves the ORF invariant. This transformation is applicable to configurations with two OLC detectors, each equipped with a one-way link. It can map a configuration with small separation and high noise correlation to another configuration with larger separation and reduced noise correlation. Using this transformation, we obtain a favourable OLC detector network configuration with high cross-correlation response, and compare its sensitivity to that of space-based laser interferometer gravitational wave detectors.",
+      "pdf_url": "https://arxiv.org/pdf/2602.05714.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.IM",
+        "hep-ph"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2602.05766",
+      "title": "\"Waveforms\" at the Horizon",
+      "authors": [
+        "Andrea Cipriani",
+        "Francesco Fucito",
+        "Carlo Heissenberg",
+        "Jose Francisco Morales",
+        "Rodolfo Russo"
+      ],
+      "abstract": "Andrea Cipriani, Francesco Fucito, Carlo Heissenberg, Jose Francisco Morales, Rodolfo Russo 27 pages + Appendices + Bibliography General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th) We study perturbations induced by a light particle scattering off a Schwarzschild black hole. Exploiting recent results for the wave propagation in this geometry, we derive the fields that this process induces on the horizon to leading order in the post-Minkowskian (PM) regime, when the light probe is far from the black hole. We then use these results to calculate the fluxes of energy and angular momentum that enter the black hole. We consider the effects due to gravitational, electromagnetic and scalar radiation, finding agreement with recent computations of the absorbed energy, while the absorbed angular momentum provides a new PM result.",
+      "pdf_url": "https://arxiv.org/pdf/2602.05766.pdf",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2602.05823",
+      "title": "Horizon Multipole Moments of a Kerr Black Hole",
+      "authors": [
+        "Eric Gourgoulhon",
+        "Alexandre Le Tiec",
+        "Marc Casals"
+      ],
+      "abstract": "Horizon Multipole Moments of a Kerr Black Hole Eric Gourgoulhon, Alexandre Le Tiec, Marc Casals General Relativity and Quantum Cosmology (gr-qc) The horizon multipole moments of a Kerr black hole are computed from two distinct definitions that have been proposed in the literature. The first one [Ashtekar et al., Class. Quantum Grav. 21, 2549 (2004)] regards axisymmetric isolated horizons, while the second one [Ashtekar et al., J. High Energ. Phys. 2022, 28 (2022)] applies to generic (i.e., not necessarily axisymmetric) non-expanding horizons. We review these definitions in a common frame and perform a detailed study of the resulting multipole moments for the Kerr event horizon. The horizon multipoles are found to share several properties with the (Hansen) field multipoles, including parity constraints and the leading scaling behavior with respect to the Kerr spin parameter a in the regime of small a. For the axisymmetry-based definition, we have obtained a closed-form expression of the multipole moments in terms of a and the spherical harmonic degree l. For the generic definition, we have established closed-form expressions for the conformal unit round metric, the `electric' and `magnetic' potentials related to the multipoles, and the values of the multipoles in the small a limit. We show that the two definitions lead to different values of the Kerr horizon multipoles as soon as l >= 1 (generic nonzero value of a) or l >= 2 (small a limit).",
+      "pdf_url": "https://arxiv.org/pdf/2602.05823.pdf",
+      "categories": [
+        "gr-qc"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2602.05923",
+      "title": "deci-Hz Gravitational Wave Observations on the Moon and Beyond",
+      "authors": [
+        "Emanuele Berti",
+        "Marica Branchesi",
+        "Alessandra Buonanno",
+        "Alessandra Corsi",
+        "Daniel J. D'Orazio",
+        "Jan Harms",
+        "Jason M. Hogan",
+        "Francesco Iacovelli",
+        "Karan Jani",
+        "Marc Kamionkowski",
+        "Kentaro Komori",
+        "Konstantinos Kritos",
+        "Andrea Maselli",
+        "M. Coleman Miller",
+        "Chiara M. F. Mingarelli",
+        "Volker Quetschke",
+        "B. S. Sathyaprakash",
+        "David H. Shoemaker",
+        "Joseph Silk",
+        "Jacob P. Slutsky",
+        "James Ira Thorpe",
+        "James Trippe",
+        "Daniele Vetrugno",
+        "Stefano Vitale"
+      ],
+      "abstract": "deci-Hz Gravitational Wave Observations on the Moon and Beyond Emanuele Berti, Marica Branchesi, Alessandra Buonanno, Alessandra Corsi, Daniel J. D'Orazio, Jan Harms, Jason M. Hogan, Francesco Iacovelli, Karan Jani, Marc Kamionkowski, Kentaro Komori, Konstantinos Kritos, Andrea Maselli, M. Coleman Miller, Chiara M. F. Mingarelli, Volker Quetschke, B. S. Sathyaprakash, David H. Shoemaker, Joseph Silk, Jacob P. Slutsky, James Ira Thorpe, James Trippe, Daniele Vetrugno, Stefano Vitale General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE); Instrumentation and Methods for Astrophysics (astro-ph.IM) This document summarizes talks and discussions from the workshop \"deci-Hz Gravitational Wave Observations on the Moon and Beyond\" that took place at Johns Hopkins University between September 1 and September 3, 2025. The workshop focused on experimental proposals to observe gravitational waves in the deci-Hz band, including lunar detectors, laser interferometers in space, and atom interferometry; gravitational wave sources in the deci-Hz frequency band; and the multi-messenger and multi-band astronomy that would be enabled by these observations.",
+      "pdf_url": "https://arxiv.org/pdf/2602.05923.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "astro-ph.IM"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2211.06405",
+      "title": "Gravitational Waves from Feebly Interacting Particles in a First Order Phase Transition",
+      "authors": [
+        "Ryusuke Jinno",
+        "Bibhushan Shakya",
+        "Jorinde van de Vis"
+      ],
+      "abstract": "Gravitational Waves from Feebly Interacting Particles in a First Order Phase Transition Ryusuke Jinno, Bibhushan Shakya, Jorinde van de Vis several explanations and discussions added. matches version accepted for publication in PRL General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Phenomenology (hep-ph) First order phase transitions are well-motivated and extensively studied sources of gravitational waves (GWs) from the early Universe. The vacuum energy released during such transitions is assumed to be transferred primarily either to the expanding bubble walls, whose collisions source GWs, or to the surrounding plasma, producing sound waves and turbulence, which source GWs. In this Letter, we study an alternative possibility that has not yet been considered: the released energy gets transferred primarily to feebly interacting particles that do not form a coherent interacting plasma but simply free-stream individually. We develop the formalism to study the production of GWs from such configurations, and demonstrate that such GW signals have qualitatively distinct characteristics compared to conventional sources and are potentially observable with near-future GW detectors.",
+      "pdf_url": "https://arxiv.org/pdf/2211.06405.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2509.15014",
+      "title": "Importance of Shot Noise in the Search for an Isotropic Stochastic Gravitational-Wave Background with Next Generation Detectors",
+      "authors": [
+        "Haowen Zhong",
+        "Vuk Mandic"
+      ],
+      "abstract": "Importance of Shot Noise in the Search for an Isotropic Stochastic Gravitational-Wave Background with Next Generation Detectors Haowen Zhong, Vuk Mandic 20 pages, 16 figures, accepted by PRD General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Astrophysical Phenomena (astro-ph.HE); Instrumentation and Methods for Astrophysics (astro-ph.IM) We investigate the impact of shot noise on the stochastic gravitational wave background generated by binary neutron star mergers, and confirm that the overall background can be significantly influenced by relatively few neighboring, loud events. To mitigate the shot noise, we propose a procedure to remove nearby events by notching them out in the time-frequency domain. Additionally, we quantify the cosmic/sample variance of the resulting background after notching, and we study the deviation between the cross-correlation measurement and the theoretical prediction of the background. Taking both effects into account, we find that the resulting sensitivity loss in the search for an isotropic background formed by binary neutron star mergers is minimal, and is limited to $\\lesssim 4\\%$ below 40 Hz, and to $\\lesssim 1\\%$ above 40 Hz.",
+      "pdf_url": "https://arxiv.org/pdf/2509.15014.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "astro-ph.IM"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2510.07252",
+      "title": "Gauge Dependence of Scalar-Induced Gravitational Waves from Isocurvature Perturbations: Analytical Results",
+      "authors": [
+        "Arshad Ali",
+        "Yang Lei",
+        "Mudassar Sabir"
+      ],
+      "abstract": "Gauge Dependence of Scalar-Induced Gravitational Waves from Isocurvature Perturbations: Analytical Results Arshad Ali, Yang Lei, Mudassar Sabir 36 pages, 27 figures, PRD in press General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th) We analytically study the gauge dependence of scalar-induced gravitational waves (SIGWs) sourced by primordial isocurvature perturbations during radiation domination (RD), working across nine gauges. Through analytical integrations of the kernels supported by graphical comparison we identify a clear dichotomy. We find that in some gauges viz. the uniform-density (UD), total-matter (TM), uniform-curvature (UC), comoving-orthogonal (CO) and transverse-traceless (TT) gauges the energy density grows polynomially in conformal time $\\eta^n$, where $n$ varies from $2$ to $8$. While in rest of the gauges viz. the longitudinal (Long.), uniform-expansion (UE), Newtonian-motion (Nm), and N-body (Nb) gauges the late-time energy spectrum converges, and SIGWs behave as radiation. For subhorizon modes ($ k\\eta \\gg 1 $), the divergence becomes severe, showing that SIGWs are gauge-dependent observables in this regime. We resolve it through a kernel projection that isolates the luminal, freely propagating gravitational wave components (oscillating as $\\sin(k\\eta)$ and $\\cos(k\\eta)$), eliminating spurious contributions. The resulting kernel decays as $ (k\\eta)^{-1} $ and yields a finite, gauge-independent late-time spectrum, confirming that only luminal modes represent physical SIGWs.",
+      "pdf_url": "https://arxiv.org/pdf/2510.07252.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "is_gw_related": true
+    },
+    {
+      "id": "https://arxiv.org/abs/2512.20802",
+      "title": "Geometric Approach to Light Rings in Axially Symmetric Spacetimes",
+      "authors": [
+        "Chenkai Qiao",
+        "Ming Li",
+        "Donghui Xie",
+        "Minyong Guo"
+      ],
+      "abstract": "Geometric Approach to Light Rings in Axially Symmetric Spacetimes Chenkai Qiao, Ming Li, Donghui Xie, Minyong Guo 30 pages, 5 figures, 3 appendices. V2: new references added General Relativity and Quantum Cosmology (gr-qc); Mathematical Physics (math-ph) Circular photon orbits have become an attractive topic in recent years. They play extremely important roles in black hole shadows, gravitational lensings, quasi-normal modes, and spacetime topological properties. The development of analytical methods for these circular orbits has also drawn extensive attention. In our recent work, \\href{this https URL}{Phys. Rev. D \\textbf{106}, L021501 (2022)}, a geometric approach to circular photon orbits was proposed for spherically symmetric spacetimes. In the present study, we give an extension of this geometric approach from spherically symmetric spacetimes to axially symmetric rotational spacetimes. In such a geometric approach, light rings in the equatorial plane are determined through the intrinsic curvatures in the optical geometry of Lorentz spacetime, which gives rise to a Randers-Finsler geometry for axially symmetric spacetimes. Specifically, light rings can be precisely determined by the condition of vanishing geodesic curvature, and the stability of light rings is classified through the intrinsic flag curvature in Randers-Finsler optical geometry. This geometric approach presented in this work is generally applicable to any stationary and axially symmetric spacetime, without imposing any restriction on the spacetime metric forms. Furthermore, we provide a rigorous demonstration to show that our geometric approach yields completely equivalent results with those derived from the conventional approach (based on the effective potential of photons).",
+      "pdf_url": "https://arxiv.org/pdf/2512.20802.pdf",
+      "categories": [
+        "gr-qc",
+        "math-ph"
+      ],
+      "is_gw_related": false
+    },
+    {
+      "id": "https://arxiv.org/abs/2601.13550",
+      "title": "Relic of quadrupole deformation produced in a hot neutron star era",
+      "authors": [
+        "Yasufumi Kojima",
+        "Akira Dohi",
+        "Shota Kisaka",
+        "Kotaro Fujisawa"
+      ],
+      "abstract": "Relic of quadrupole deformation produced in a hot neutron star era Yasufumi Kojima, Akira Dohi, Shota Kisaka, Kotaro Fujisawa General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE) A newly born neutron star is expected to exhibit significant deviations from spherical symmetry, which decay with time. Determining how much deformation remains at present is crucial for gravitational-wave astronomy. This study is the first investigation into the evolution of quadrupole deformation during the solid crust formation phase to obtain a plausible value at present. The equilibrium structure before solidification is modeled using a fluid description, and the deformation is introduced through an assumed driving force. As the star cools, this force weakens, leading to a gradual decay of the deformation. Eventually, the deformation vanishes in the fluid region but partially remains in the crust, sustained by elastic forces, after solidification. By comparing the equilibrium models before and after solidification, we estimate the residual ellipticity and demonstrate that the spatial profile of the elastic shear is imprinted in the crust. The relic ellipticity is only a few percent of the original value, with its absolute magnitude depending on the deformation mechanism during the hot era, which cannot be specified owing to the lack of elaborate models. This work provides a first step toward linking early neutron star deformation with future gravitational-wave observations.",
+      "pdf_url": "https://arxiv.org/pdf/2601.13550.pdf",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "is_gw_related": true
+    }
+  ]
+}
