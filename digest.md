@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2026-02-08
+# Complete Daily GW arXiv Digest - 2026-02-09
 
 **总爬取文章**: 146 篇  
 **今天的文章**: 144 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2602.04951](https://arxiv.org/abs/2602.04951)  
 **Authors**: Joseph Bretz, Hang Yu  
-**Date**: 08 Feb 2026  
+**Date**: 09 Feb 2026  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2602.04996](https://arxiv.org/abs/2602.04996)  
 **Authors**: J. W. Moffat  
-**Date**: 08 Feb 2026  
+**Date**: 09 Feb 2026  
 **Categories**: gr-qc, astro-ph.CO  
 **Type**: new submission  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2602.05714](https://arxiv.org/abs/2602.05714)  
 **Authors**: Mingzhi Lou, Hong Su, Tao Yang, Yun-Long Zhang  
-**Date**: 08 Feb 2026  
+**Date**: 09 Feb 2026  
 **Categories**: gr-qc, astro-ph.CO, astro-ph.IM, hep-ph  
 **Type**: new submission  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2602.05923](https://arxiv.org/abs/2602.05923)  
 **Authors**: Emanuele Berti, Marica Branchesi, Alessandra Buonanno, Alessandra Corsi, Daniel J. D'Orazio, Jan Harms, Jason M. Hogan, Francesco Iacovelli, Karan Jani, Marc Kamionkowski, Kentaro Komori, Konstantinos Kritos, Andrea Maselli, M. Coleman Miller, Chiara M. F. Mingarelli, Volker Quetschke, B. S. Sathyaprakash, David H. Shoemaker, Joseph Silk, Jacob P. Slutsky, James Ira Thorpe, James Trippe, Daniele Vetrugno, Stefano Vitale  
-**Date**: 08 Feb 2026  
+**Date**: 09 Feb 2026  
 **Categories**: gr-qc, astro-ph.HE, astro-ph.IM  
 **Type**: new submission  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2602.05169](https://arxiv.org/abs/2602.05169)  
 **Authors**: Mallika R. Sinha, Teagan A. Clarke, Qifang Zhang, Nikhil Sarin, Eric Thrane, Paul D. Lasky  
-**Date**: 08 Feb 2026  
+**Date**: 09 Feb 2026  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: cross-list from astro-ph.HE  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2602.05368](https://arxiv.org/abs/2602.05368)  
 **Authors**: Slava G. Turyshev  
-**Date**: 08 Feb 2026  
+**Date**: 09 Feb 2026  
 **Categories**: astro-ph.CO, gr-qc  
 **Type**: cross-list from astro-ph.CO  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2602.05645](https://arxiv.org/abs/2602.05645)  
 **Authors**: Avinash Tiwari, Shasvath J. Kapadia  
-**Date**: 08 Feb 2026  
+**Date**: 09 Feb 2026  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: cross-list from astro-ph.HE  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2602.05969](https://arxiv.org/abs/2602.05969)  
 **Authors**: Jonathan Morais, Rodrigo Gonçalves, Jailson Alcaniz  
-**Date**: 08 Feb 2026  
+**Date**: 09 Feb 2026  
 **Categories**: astro-ph.CO, gr-qc  
 **Type**: cross-list from astro-ph.CO  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2211.06405](https://arxiv.org/abs/2211.06405)  
 **Authors**: Ryusuke Jinno, Bibhushan Shakya, Jorinde van de Vis  
-**Date**: 08 Feb 2026  
+**Date**: 09 Feb 2026  
 **Categories**: gr-qc, astro-ph.CO, hep-ph  
 **Type**: replaced  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2509.15014](https://arxiv.org/abs/2509.15014)  
 **Authors**: Haowen Zhong, Vuk Mandic  
-**Date**: 08 Feb 2026  
+**Date**: 09 Feb 2026  
 **Categories**: gr-qc, astro-ph.CO, astro-ph.HE, astro-ph.IM  
 **Type**: replaced  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2510.07252](https://arxiv.org/abs/2510.07252)  
 **Authors**: Arshad Ali, Yang Lei, Mudassar Sabir  
-**Date**: 08 Feb 2026  
+**Date**: 09 Feb 2026  
 **Categories**: gr-qc, astro-ph.CO, hep-th  
 **Type**: replaced  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2503.15393](https://arxiv.org/abs/2503.15393)  
 **Authors**: Gonzalo Morras, Geraint Pratten, Patricia Schmidt  
-**Date**: 08 Feb 2026  
+**Date**: 09 Feb 2026  
 **Categories**: astro-ph.HE, astro-ph.CO, gr-qc  
 **Type**: replaced  
 
@@ -155,7 +155,7 @@
 
 **arXiv**: [2506.09121](https://arxiv.org/abs/2506.09121)  
 **Authors**: Jakob Stegmann, Jakub Klencki  
-**Date**: 08 Feb 2026  
+**Date**: 09 Feb 2026  
 **Categories**: astro-ph.HE, astro-ph.SR, gr-qc  
 **Type**: replaced  
 
@@ -167,7 +167,7 @@
 
 **arXiv**: [2507.15967](https://arxiv.org/abs/2507.15967)  
 **Authors**: Jakob Stegmann, Aleksandra Olejak, Selma E. de Mink  
-**Date**: 08 Feb 2026  
+**Date**: 09 Feb 2026  
 **Categories**: astro-ph.HE, astro-ph.GA, astro-ph.SR, gr-qc  
 **Type**: replaced  
 
@@ -179,7 +179,7 @@
 
 **arXiv**: [2602.06027](https://arxiv.org/abs/2602.06027)  
 **Authors**: F. B. M. dos Santos, J. G. Rodrigues, G. Rodrigues, C. Siqueira, J. S. Alcaniz  
-**Date**: 08 Feb 2026  
+**Date**: 09 Feb 2026  
 **Categories**: astro-ph.CO  
 **Type**: new submission  
 
@@ -191,7 +191,7 @@
 
 **arXiv**: [2602.05501](https://arxiv.org/abs/2602.05501)  
 **Authors**: Jintao Zou, Ligong Bian, Shao-Jiang Wang  
-**Date**: 08 Feb 2026  
+**Date**: 09 Feb 2026  
 **Categories**: hep-ph, astro-ph.CO, hep-th  
 **Type**: cross-list from hep-ph  
 
@@ -203,7 +203,7 @@
 
 **arXiv**: [2511.01779](https://arxiv.org/abs/2511.01779)  
 **Authors**: Satyabrata Datta, Anish Ghoshal, Angus Spalding, Graham White  
-**Date**: 08 Feb 2026  
+**Date**: 09 Feb 2026  
 **Categories**: astro-ph.CO, hep-ph  
 **Type**: replaced  
 
@@ -215,7 +215,7 @@
 
 **arXiv**: [2512.05108](https://arxiv.org/abs/2512.05108)  
 **Authors**: Evan McDonough, Elisa G. M. Ferreira  
-**Date**: 08 Feb 2026  
+**Date**: 09 Feb 2026  
 **Categories**: astro-ph.CO  
 **Type**: replaced  
 
@@ -227,7 +227,7 @@
 
 **arXiv**: [2601.13550](https://arxiv.org/abs/2601.13550)  
 **Authors**: Yasufumi Kojima, Akira Dohi, Shota Kisaka, Kotaro Fujisawa  
-**Date**: 08 Feb 2026  
+**Date**: 09 Feb 2026  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: cross-list from gr-qc  
 
@@ -239,7 +239,7 @@
 
 **arXiv**: [2506.00623](https://arxiv.org/abs/2506.00623)  
 **Authors**: Andrzej A. Zdziarski, Gregoire Marcel, Alexandra Veledina, Aleksandra Olejak, Debora Lancova  
-**Date**: 08 Feb 2026  
+**Date**: 09 Feb 2026  
 **Categories**: astro-ph.HE  
 **Type**: replaced  
 
@@ -251,7 +251,7 @@
 
 **arXiv**: [2511.15347](https://arxiv.org/abs/2511.15347)  
 **Authors**: Koushik Sen , Mathieu Renzo , Harim Jin , Norbert Langer , Abel Schootemeijer , Jaime I. Villaseñor , Laurent Mahy , Aldana Grichener , Neev Shah , Chen Wang , Xiao-Tian Xu Steward Observatory, Department of Astronomy, University of Arizona , Argelander-Institut für Astronomie , Max-Planck-Institut für Astronomie , Royal Observatory of Belgium , School of Astronomy and Space Science, Nanjing University , Key Laboratory of Modern Astronomy and Astrophysics, Nanjing University, Ministry of Education , Max Planck Institute for Astrophysics , Tsung-Dao Lee Institute, Shanghai Jiao-Tong University )  
-**Date**: 08 Feb 2026  
+**Date**: 09 Feb 2026  
 **Categories**: astro-ph.SR  
 **Type**: replaced  
 
@@ -263,7 +263,7 @@
 
 **arXiv**: [2509.02657](https://arxiv.org/abs/2509.02657)  
 **Authors**: Quentin Changeat, Pierre-Olivier Lagage, Giovanna Tinetti, Benjamin Charnay, Nicolas B. Cowan, Camilla Danielski, Elsa Ducrot, Achrene Dyrek, Billy Edwards, Masahiro Ikoma, Theresa Lueftinger, Giuseppina Micela, Giuseppe Morello, Olja Panic, Enzo Pascale, Severine Robert, Olivia Venot, Joanna K. Barstow, Andrea Bocchieri, James Y-K. Cho, Ryan Cloutier, Athena Coustenis, Lisa Dang, Yuka Fujii, Yuichi Ito, Panayotis Lavvas, Yamila Miguel, Lorenzo V. Mugnai, Kay Hou Yip, Jiri Zak  
-**Date**: 08 Feb 2026  
+**Date**: 09 Feb 2026  
 **Categories**: astro-ph.IM, astro-ph.EP  
 **Type**: replaced  
 
