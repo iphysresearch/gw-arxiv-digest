@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2026-02-14
+# Complete Daily GW arXiv Digest - 2026-02-15
 
 **总爬取文章**: 163 篇  
 **今天的文章**: 163 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2602.12011](https://arxiv.org/abs/2602.12011)  
 **Authors**: Rui Niu, Chang Feng, Wen Zhao  
-**Date**: 14 Feb 2026  
+**Date**: 15 Feb 2026  
 **Categories**: gr-qc, astro-ph.IM  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2602.12022](https://arxiv.org/abs/2602.12022)  
 **Authors**: Yang Zhao, Yungui Gong  
-**Date**: 14 Feb 2026  
+**Date**: 15 Feb 2026  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2602.12101](https://arxiv.org/abs/2602.12101)  
 **Authors**: Cheng-Yong Zhang, Yunqi Liu, Bin Wang  
-**Date**: 14 Feb 2026  
+**Date**: 15 Feb 2026  
 **Categories**: gr-qc, hep-ph  
 **Type**: new submission  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2602.11282](https://arxiv.org/abs/2602.11282)  
 **Authors**: Matthew Mould, Jack Heinzel, Sofia Alvarez-Lopez, Cailin Plunkett, Noah E. Wolfe, Salvatore Vitale  
-**Date**: 14 Feb 2026  
+**Date**: 15 Feb 2026  
 **Categories**: astro-ph.HE, astro-ph.CO, astro-ph.IM, astro-ph.SR, gr-qc  
 **Type**: cross-list from astro-ph.HE  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2602.12252](https://arxiv.org/abs/2602.12252)  
 **Authors**: D. Blas, J. W. Foster, Y. Gouttenoire, A. J. Iovino, I. Musco, S. Trifinopoulos, M. Vanvlasselaer  
-**Date**: 14 Feb 2026  
+**Date**: 15 Feb 2026  
 **Categories**: astro-ph.CO, gr-qc, hep-ph  
 **Type**: cross-list from astro-ph.CO  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2503.19660](https://arxiv.org/abs/2503.19660)  
 **Authors**: Kabir Chakravarti, Soham Acharya, Sumanta Chakraborty, Sudipta Sarkar  
-**Date**: 14 Feb 2026  
+**Date**: 15 Feb 2026  
 **Categories**: gr-qc, astro-ph.GA, hep-th  
 **Type**: replaced  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2508.02466](https://arxiv.org/abs/2508.02466)  
 **Authors**: Jun-Cheng Zhu, Shu-Yu Li, Xian Gao  
-**Date**: 14 Feb 2026  
+**Date**: 15 Feb 2026  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2508.20000](https://arxiv.org/abs/2508.20000)  
 **Authors**: Jiehao Jiang, Jieming Lin, Xian Gao  
-**Date**: 14 Feb 2026  
+**Date**: 15 Feb 2026  
 **Categories**: gr-qc, astro-ph.CO  
 **Type**: replaced  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2509.01458](https://arxiv.org/abs/2509.01458)  
 **Authors**: Daan W. Janssen  
-**Date**: 14 Feb 2026  
+**Date**: 15 Feb 2026  
 **Categories**: gr-qc, math-ph  
 **Type**: replaced  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2510.16762](https://arxiv.org/abs/2510.16762)  
 **Authors**: Mahmut Elbistan, Peng-Ming Zhang, Peter Horvathy  
-**Date**: 14 Feb 2026  
+**Date**: 15 Feb 2026  
 **Categories**: gr-qc, hep-th, math-ph  
 **Type**: replaced  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2510.17398](https://arxiv.org/abs/2510.17398)  
 **Authors**: Shubham Kejriwal, Enrico Barausse, Alvin J. K. Chua  
-**Date**: 14 Feb 2026  
+**Date**: 15 Feb 2026  
 **Categories**: gr-qc, astro-ph.CO  
 **Type**: replaced  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2512.17088](https://arxiv.org/abs/2512.17088)  
 **Authors**: Gabriel Gomez, Jose F. Rodriguez  
-**Date**: 14 Feb 2026  
+**Date**: 15 Feb 2026  
 **Categories**: astro-ph.CO, gr-qc  
 **Type**: replaced  
 
@@ -155,7 +155,7 @@
 
 **arXiv**: [2601.21820](https://arxiv.org/abs/2601.21820)  
 **Authors**: Anson Chen, Jun Zhang  
-**Date**: 14 Feb 2026  
+**Date**: 15 Feb 2026  
 **Categories**: astro-ph.CO, gr-qc  
 **Type**: replaced  
 
@@ -167,7 +167,7 @@
 
 **arXiv**: [2602.11512](https://arxiv.org/abs/2602.11512)  
 **Authors**: Alan Zhang, Yourong Wang, J. Luna Zagorac, Richard Easther  
-**Date**: 14 Feb 2026  
+**Date**: 15 Feb 2026  
 **Categories**: astro-ph.CO, astro-ph.GA  
 **Type**: new submission  
 
@@ -179,7 +179,7 @@
 
 **arXiv**: [2602.11529](https://arxiv.org/abs/2602.11529)  
 **Authors**: Yiqin Chen, Shi-Yi Zhao, Zhi-Zhang Peng, Xingjiang Zhu, N. D. Ramesh Bhat, Zu-Cheng Chen, Małgorzata Curyło, Valentina Di Marco, George Hobbs, Agastya Kapur, Wenhua Ling, Rami Mandow, Saurav Mishra, Daniel J. Reardon, Christopher J. Russell, Ryan M. Shannon, Jacob Cardinal Tremblay, Jingbo Wang, Lei Zhang, Andrew Zic  
-**Date**: 14 Feb 2026  
+**Date**: 15 Feb 2026  
 **Categories**: astro-ph.HE  
 **Type**: new submission  
 
@@ -191,7 +191,7 @@
 
 **arXiv**: [2602.11765](https://arxiv.org/abs/2602.11765)  
 **Authors**: Jake McMillan , Adam Ingram , Cordelia Dashwood Brown , Andrei Igoshev , Matthew Middleton , Grzegorz Wiktorowicz , Simone Scaringi School of Mathematics, Statistics, and Physics, Newcastle University, Centre for Advanced Instrumentation, Department of Physics, Durham University, School of Physics and Astronomy, University of Southampton, Nicolaus Copernicus Astronomical Center, Polish Academy of Sciences, Centre for Extragalactic Astronomy, Department of Physics, Durham University, INAF - Osservatorio Astronomico di Capodimonte)  
-**Date**: 14 Feb 2026  
+**Date**: 15 Feb 2026  
 **Categories**: astro-ph.HE  
 **Type**: new submission  
 
@@ -203,7 +203,7 @@
 
 **arXiv**: [2602.11809](https://arxiv.org/abs/2602.11809)  
 **Authors**: Junbo Pang, Hong Shen, Jinniu Hu  
-**Date**: 14 Feb 2026  
+**Date**: 15 Feb 2026  
 **Categories**: astro-ph.HE  
 **Type**: new submission  
 
@@ -215,7 +215,7 @@
 
 **arXiv**: [2502.14836](https://arxiv.org/abs/2502.14836)  
 **Authors**: H.-Thomas Janka  
-**Date**: 14 Feb 2026  
+**Date**: 15 Feb 2026  
 **Categories**: astro-ph.HE, hep-ph, nucl-th  
 **Type**: replaced  
 
@@ -227,7 +227,7 @@
 
 **arXiv**: [2512.24729](https://arxiv.org/abs/2512.24729)  
 **Authors**: Asim Kumar Saha, Tuhin Malik, Ritam Mallick  
-**Date**: 14 Feb 2026  
+**Date**: 15 Feb 2026  
 **Categories**: astro-ph.HE  
 **Type**: replaced  
 
@@ -239,7 +239,7 @@
 
 **arXiv**: [2602.11620](https://arxiv.org/abs/2602.11620)  
 **Authors**: Xu-Fang Li, Cong-Zhan Liu, Ai-Mei Zhang, Zheng-Wei Li, Xue-Feng Lu, Zhong-Xue Xin, Guo-Feng Wang, Yong-Ping Li, Yong-Jie Zhang, Shi-Bo Shu, Yi-Fei Zhang, Ya-Qiong Li, Zhi Chang, Dai-Kang Yan  
-**Date**: 14 Feb 2026  
+**Date**: 15 Feb 2026  
 **Categories**: astro-ph.IM  
 **Type**: new submission  
 
