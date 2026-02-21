@@ -1,81 +1,116 @@
-# 📡 Daily GW arXiv Digest - 2026-02-20
-**Found 11 gravitational wave papers**
+# 📡 Daily GW arXiv Digest - 2026-02-21
+**Found 16 gravitational wave papers**
 
-[arXiv:2602.16292](https://arxiv.org/abs/2602.16292)[Submitted on 20 Feb 2026]
-**Gravitational Waves from Primordial Black Holes formed by Null Energy Condition Violation during Inflation**
-Dong-Hui Yu, Jia-Zuo Zhang, Yong Cai
-Subjects: **gr-qc**; astro-ph.CO, hep-ph, hep-th
-
----
-
-[arXiv:2507.05207](https://arxiv.org/abs/2507.05207) (replaced) [Submitted on 20 Feb 2026]
-**Interacting Scalar Fields as Dark Energy and Dark Matter in Einstein scalar Gauss Bonnet Gravity**
-Saddam Hussain, Simran Arora, Yamuna Rana, Benjamin Rose, Anzhong Wang
-Subjects: **gr-qc**; hep-ph
+[arXiv:2602.17154](https://arxiv.org/abs/2602.17154)[Submitted on 21 Feb 2026]
+**Extreme-mass ratio inspirals in Schwarzschild - de Sitter spacetime I: Weak-field orbits**
+John Adrian N. Villanueva, Ian Vega
+Subjects: **gr-qc**; astro-ph.HE
 
 ---
 
-[arXiv:2512.18637](https://arxiv.org/abs/2512.18637) (replaced) [Submitted on 20 Feb 2026]
-**Post-Newtonian Dynamics of Radiating Charges: Canonical Formulation and Binary Inspiral Laws**
-Suhani Verma, Siddarth Mediratta, Nanditha Kilari, Prakhar Nigam, Ishaan Singh, Daksh Tamoli, Aakash Palakurthi, Valluru Ishaan, Tanmay Golchha, Sanjay Raghav R, Sugapriyan S, Yash Narayan, Pasupuleti Devi, Prathamesh Kapase, G Prudhvi Raj, Lakshya Sachdeva, Shreya Meher, K Nanda Kishore, G Keshav, Jetain Chetan, Rickmoy Samanta
-Subjects: **gr-qc**; astro-ph.HE, hep-th
+[arXiv:2602.17343](https://arxiv.org/abs/2602.17343)[Submitted on 21 Feb 2026]
+**Uncovering subdominant multipole asymmetries in binary black-hole mergers**
+Jannik Mielke, Angela Borchers, Frank Ohme
+Subjects: **gr-qc**
 
 ---
 
-[arXiv:2307.11043](https://arxiv.org/abs/2307.11043) (replaced) [Submitted on 20 Feb 2026]
-**Adiabatic or Non-Adiabatic? Unraveling the Nature of Initial Conditions in the Cosmological Gravitational Wave Background**
-Lorenzo Valbusa Dall'Armi, Alina Mierna, Sabino Matarrese, Angelo Ricciardone
-Subjects: **astro-ph.CO**; gr-qc
+[arXiv:2602.17524](https://arxiv.org/abs/2602.17524)[Submitted on 21 Feb 2026]
+**Inspiral tests of general relativity and waveform geometry**
+Brian C. Seymour, Jacob Golomb, Yanbei Chen
+Subjects: **gr-qc**
 
 ---
 
-[arXiv:2508.10088](https://arxiv.org/abs/2508.10088) (replaced) [Submitted on 20 Feb 2026]
-**Can GW231123 have a stellar origin?**
-Djuna Croon, Davide Gerosa, Jeremy Sakstein
-Subjects: **astro-ph.HE**; astro-ph.GA, astro-ph.SR, gr-qc
+[arXiv:2602.16792](https://arxiv.org/abs/2602.16792) (cross-list from astro-ph.IM) [Submitted on 21 Feb 2026]
+**Fast pre-merger detection of massive black-hole binaries in LISA based on time-frequency excess power**
+Francesco Nobili, Malvina Bellotti, Riccardo Buscicchio, Massimo Dotti, Alessandro Lupi
+Subjects: **astro-ph.IM**; astro-ph.HE, gr-qc
 
 ---
 
-[arXiv:2601.20967](https://arxiv.org/abs/2601.20967) (replaced) [Submitted on 20 Feb 2026]
-**A Universal CMB $B$-Mode Spectrum from Early Causal Tensor Sources**
-Kylar Greene, Aurora Ireland, Gordan Krnjaic, Yuhsin Tsai
-Subjects: **astro-ph.CO**; gr-qc, hep-ph
+[arXiv:2602.16808](https://arxiv.org/abs/2602.16808) (cross-list from astro-ph.CO) [Submitted on 21 Feb 2026]
+**Analytical Estimates of Gravitational Wave Background Anisotropies from Shot Noise and Large-Scale Structure in Pulsar Timing Arrays**
+Meng-Xiang Lin, Adam Lidz, Chung-Pei Ma
+Subjects: **astro-ph.CO**; astro-ph.GA, astro-ph.HE, gr-qc
 
 ---
 
-[arXiv:2602.16575](https://arxiv.org/abs/2602.16575)[Submitted on 20 Feb 2026]
-**Chiral gravitational waves from multi-phase magnetogenesis**
-H. V. Ragavendra, Gianmassimo Tasinato, L. Sriramkumar
+[arXiv:2602.17188](https://arxiv.org/abs/2602.17188) (cross-list from astro-ph.IM) [Submitted on 21 Feb 2026]
+**Kolmogorov analysis of pulsar TOA**
+N. Galikyan, A.A. Kocharyan, V.G. Gurzadyan
+Subjects: **astro-ph.IM**; gr-qc
+
+---
+
+[arXiv:2602.17267](https://arxiv.org/abs/2602.17267) (cross-list from astro-ph.HE) [Submitted on 21 Feb 2026]
+**Illuminating the Mass Gap Through Deep Optical Constraint on a Neutron Star Merger Candidate S250206dm**
+Zhengyan Liu, Zelin Xu, Ji-an Jiang, Wen Zhao, Zhiping Jin, Zigao Dai, Dezheng Meng, Xuefeng Wu, Daming Wei, Runduo Liang, Lei He, Minxuan Cai, Lulu Fan, Weiyu Wu, Junhan Zhao, Ziqing Jia, Kexin Yu, Jinjun Geng, Di Xiao, Feng Li, Jinlong Tang, Yingxi Zuo, Xiaoling Zhang, Hao Liu, Jian Wang, Hongfei Zhang, Ming Liang, Hairen Wang, Dazhi Yao, Lei Hu, Xu Kong, Bin Li, Ning Jiang, Tinggui Wang, Zhen Wan, Yongquan Xue, Qingfeng Zhu, Xianzhong Zheng
+Subjects: **astro-ph.HE**; gr-qc
+
+---
+
+[arXiv:2508.18081](https://arxiv.org/abs/2508.18081) (replaced) [Submitted on 21 Feb 2026]
+**GWTC-4.0: Methods for Identifying and Characterizing Gravitational-wave Transients**
+The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration: A. G. Abac, I. Abouelfettouh, F. Acernese, K. Ackley, S. Adhicary, D. Adhikari, N. Adhikari, R. X. Adhikari, V. K. Adkins, S. Afroz, D. Agarwal, M. Agathos, M. Aghaei Abchouyeh, O. D. Aguiar, S. Ahmadzadeh, L. Aiello, A. Ain, P. Ajith, S. Akcay, T. Akutsu, S. Albanesi, R. A. Alfaidi, A. Al-Jodah, C. Alléné, A. Allocca, S. Al-Shammari, P. A. Altin, S. Alvarez-Lopez, O. Amarasinghe, A. Amato, C. Amra, A. Ananyeva, S. B. Anderson, W. G. Anderson, M. Andia, M. Ando, T. Andrade, M. Andrés-Carcasona, T. Andrić, J. Anglin, S. Ansoldi, J. M. Antelis, S. Antier, M. Aoumi, E. Z. Appavuravther, S. Appert, S. K. Apple, K. Arai, A. Araya, M. C. Araya, M. Arca Sedda, J. S. Areeda, L. Argianas, N. Aritomi, F. Armato, S. Armstrong, N. Arnaud, M. Arogeti, S. M. Aronson, G. Ashton, Y. Aso, M. Assiduo, S. Assis de Souza Melo, S. M. Aston, P. Astone, F. Attadio, F. Aubin, K. AultONeal, G. Avallone, S. Babak, F. Badaracco, C. Badger, S. Bae, S. Bagnasco, E. Bagui, L. Baiotti, R. Bajpai, T. Baka, T. Baker, M. Ball, G. Ballardin, S. W. Ballmer, S. Banagiri, B. Banerjee, D. Bankar, T. M. Baptiste, P. Baral, J. C. Barayoga, B. C. Barish, D. Barker, N. Barman, P. Barneo, F. Barone, B. Barr, L. Barsotti, M. Barsuglia, D. Barta
+Subjects: **gr-qc**; astro-ph.HE
+
+---
+
+[arXiv:2508.20421](https://arxiv.org/abs/2508.20421) (replaced) [Submitted on 21 Feb 2026]
+**Self-regularized entropy: What does black hole entropy predict for tests of Kerr no-hair theorem?**
+Shokoufe Faraji, Niayesh Afshordi
+Subjects: **gr-qc**; astro-ph.HE, hep-ph, hep-th
+
+---
+
+[arXiv:2602.06536](https://arxiv.org/abs/2602.06536) (replaced) [Submitted on 21 Feb 2026]
+**Continued fraction method for high overtone quasinormal modes in effective potentials with discontinuity**
+Guan-Ru Li, Jodin C. Morey, Wei-Liang Qian, Ramin G. Daghigh, Michael D. Green, Kai Lin, Rui-Hong Yue
+Subjects: **gr-qc**
+
+---
+
+[arXiv:2511.02653](https://arxiv.org/abs/2511.02653) (replaced) [Submitted on 21 Feb 2026]
+**A Bayesian Inference of Hybrid Stars with Large Quark Cores**
+Milena Albino, Tuhin Malik, Márcio Ferreira, Constança Providência
+Subjects: **nucl-th**; astro-ph.HE, gr-qc, hep-ph
+
+---
+
+[arXiv:2602.16822](https://arxiv.org/abs/2602.16822) (cross-list from hep-ph) [Submitted on 21 Feb 2026]
+**Rescuing Overabundant Dark Matter with a Strongly First Order Phase Transition in the Dark Sector**
+Peisi Huang, Anibal D. Medina, Carlos E. M. Wagner
+Subjects: **hep-ph**; astro-ph.CO, hep-th
+
+---
+
+[arXiv:2512.15292](https://arxiv.org/abs/2512.15292) (replaced) [Submitted on 21 Feb 2026]
+**Ultralight Dark Matter Constraints from NanoHertz Gravitational Waves**
+Shreyas Tiruvaskar, Russell Boey, Richard Easther, Chris Gordon
 Subjects: **astro-ph.CO**
 
 ---
 
-[arXiv:2602.16559](https://arxiv.org/abs/2602.16559)[Submitted on 20 Feb 2026]
+[arXiv:2510.11913](https://arxiv.org/abs/2510.11913) (replaced) [Submitted on 21 Feb 2026]
+**Gravitational Wave Signatures from Lepton Number Breaking Phase Transitions with Flat Potentials**
+Gabriela Barenboim, Yeji Park, Liliana Velasco-Sevilla
+Subjects: **hep-ph**; astro-ph.CO
+
+---
+
+[arXiv:2511.14266](https://arxiv.org/abs/2511.14266) (replaced) [Submitted on 21 Feb 2026]
+**Quarkyonic Neutron Stars as Candidates for the GW230529 Mass-Gap Object**
+Jeet Amrit Pattnaik, S. K. Patra
+Subjects: **astro-ph.HE**
+
+---
+
+[arXiv:2602.16559](https://arxiv.org/abs/2602.16559) (replaced) [Submitted on 21 Feb 2026]
 **GOTO identification and broadband modelling of the counterpart to the SVOM GRB 250818B**
-Sergey Belkin, Gavin P. Lamb, Kristian Ackley, Matthew E. Wortley, Stuart McGee, Genevieve Schroeder, Manor Shrestha, Benjamin P. Gompertz, Duncan K. Galloway, Rebecca Starling, Wen-fai Fong, Tanmoy Laskar, Chang Liu, Alexander C. Gordon, Nikolai Pankov, Alexander E. Volvach, Leonid N. Volvach, Alexander Shein, Andrey Pozanenko, Matthew J. Dyer, James Lyman, Krzysztof Ulaczyk, Danny Steeghs, Vik Dhillon, Paul O'Brien, Gavin Ramsay, K. Noysena, Rubina Kotak, Ryan P. Breton, Laura K. Nuttall, Danny Pollacco, Supachai Awiphan, Jorge Casares, Patrick Chote, Adam Chrimes, Richard Eyles-Ferris, Ben Godson, P. Irawati, David Jarvis, Y. Julakanti, Luke Kelsey, Michael R. Kennedy, Thomas Killestein, A. Kumar, Andrew Levan, Sarah Littlefair, Michael Magee, S. Mandhai, David Mata Sánchez, Seppo Mattila, James McCormac, D. Mkrtichian, S. Moran, James Mullaney, David O'Neill, M. Patel, Kevin Pu, Matt Pursiainen, A. Sahu, U. Sawangwit, Emma Stanway, Y. Sun, B. Warwick, Katherine Wiersema
+S. Belkin, G. P. Lamb, K. Ackley, M. E. Wortley, S. McGee, G. Schroeder, M. Shrestha, B. P. Gompertz, D. K. Galloway, R. Starling, W.-f. Fong, T. Laskar, C. Liu, A. C. Gordon, N. Pankov, A. E. Volvach, L. N. Volvach, A. Shein, A. Pozanenko, M. J. Dyer, J. Lyman, K. Ulaczyk, D. Steeghs, V. S. Dhillon, P. O'Brien, G. Ramsay, K. Noysena, R. Kotak, R. P. Breton, L. K. Nuttall, D. Pollacco, S. Awiphan, J. Casares, P. Chote, A. Chrimes, R. Eyles-Ferris, B. Godson, P. Irawati, D. Jarvis, Y. Julakanti, L. Kelsey, M. R. Kennedy, T. Killestein, A. Kumar, A. Levan, S. Littlefair, M. Magee, S. Mandhai, D. Mata S'anchez, S. Mattila, J. McCormac, D. Mkrtichian, S. Moran, J. Mullaney, D. O'Neill, M. Patel, K. Pu, M. Pursiainen, A. Sahu, U. Sawangwit, E. Stanway, Y. Sun, B. Warwick, K. Wiersema
 Subjects: **astro-ph.HE**
 
 ---
 
-[arXiv:2602.15938](https://arxiv.org/abs/2602.15938) (cross-list from astro-ph.GA) [Submitted on 20 Feb 2026]
-**Implications of the nanoHertz Gravitational-Wave Background for Galactic Feedback and Massive Black Hole Growth**
-Megan Taylor Tillman, Blakesley Burkhart, Chiara M. F. Mingarelli, J. Andrew Casey-Clyde, Lars Hernquist, Sownak Bose, Eniko Regos, César Hernández-Aguayo
-Subjects: **astro-ph.GA**; astro-ph.HE
-
----
-
-[arXiv:2602.14300](https://arxiv.org/abs/2602.14300) (replaced) [Submitted on 20 Feb 2026]
-**Production of Jets before Neutron Star Mergers**
-Praveen Sharma, Slava G. Turyshev, Maxim V. Barkov, Maxim Lyutikov
-Subjects: **astro-ph.HE**
-
----
-
-[arXiv:2602.16550](https://arxiv.org/abs/2602.16550) (cross-list from astro-ph.SR) [Submitted on 20 Feb 2026]
-**Searching for White Dwarf Candidates Formed Through Binary evolution in Star Clusters**
-Huahui Yan, Li Wang, David R. Miller, Chenyu He, Jiamao Lin, Xiaoying Pang, Jingkun Zhao, Jincheng Guo, Richard de Grijs, Hongwei Ge, Zhen Guo, Bo Ma, Dichang Chen, Chengyuan Li
-Subjects: **astro-ph.SR**; astro-ph.GA
-
----
-
-📊 **Summary**: 3 New • 2 Cross-lists • 6 Replacements
+📊 **Summary**: 3 New • 5 Cross-lists • 8 Replacements
