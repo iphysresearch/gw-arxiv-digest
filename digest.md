@@ -1,4 +1,4 @@
-# Complete Daily GW arXiv Digest - 2026-02-22
+# Complete Daily GW arXiv Digest - 2026-02-23
 
 **总爬取文章**: 140 篇  
 **今天的文章**: 140 篇  
@@ -11,7 +11,7 @@
 
 **arXiv**: [2602.17154](https://arxiv.org/abs/2602.17154)  
 **Authors**: John Adrian N. Villanueva, Ian Vega  
-**Date**: 22 Feb 2026  
+**Date**: 23 Feb 2026  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: new submission  
 
@@ -23,7 +23,7 @@
 
 **arXiv**: [2602.17343](https://arxiv.org/abs/2602.17343)  
 **Authors**: Jannik Mielke, Angela Borchers, Frank Ohme  
-**Date**: 22 Feb 2026  
+**Date**: 23 Feb 2026  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -35,7 +35,7 @@
 
 **arXiv**: [2602.17524](https://arxiv.org/abs/2602.17524)  
 **Authors**: Brian C. Seymour, Jacob Golomb, Yanbei Chen  
-**Date**: 22 Feb 2026  
+**Date**: 23 Feb 2026  
 **Categories**: gr-qc  
 **Type**: new submission  
 
@@ -47,7 +47,7 @@
 
 **arXiv**: [2602.16792](https://arxiv.org/abs/2602.16792)  
 **Authors**: Francesco Nobili, Malvina Bellotti, Riccardo Buscicchio, Massimo Dotti, Alessandro Lupi  
-**Date**: 22 Feb 2026  
+**Date**: 23 Feb 2026  
 **Categories**: astro-ph.IM, astro-ph.HE, gr-qc  
 **Type**: cross-list from astro-ph.IM  
 
@@ -59,7 +59,7 @@
 
 **arXiv**: [2602.16808](https://arxiv.org/abs/2602.16808)  
 **Authors**: Meng-Xiang Lin, Adam Lidz, Chung-Pei Ma  
-**Date**: 22 Feb 2026  
+**Date**: 23 Feb 2026  
 **Categories**: astro-ph.CO, astro-ph.GA, astro-ph.HE, gr-qc  
 **Type**: cross-list from astro-ph.CO  
 
@@ -71,7 +71,7 @@
 
 **arXiv**: [2602.17188](https://arxiv.org/abs/2602.17188)  
 **Authors**: N. Galikyan, A.A. Kocharyan, V.G. Gurzadyan  
-**Date**: 22 Feb 2026  
+**Date**: 23 Feb 2026  
 **Categories**: astro-ph.IM, gr-qc  
 **Type**: cross-list from astro-ph.IM  
 
@@ -83,7 +83,7 @@
 
 **arXiv**: [2602.17267](https://arxiv.org/abs/2602.17267)  
 **Authors**: Zhengyan Liu, Zelin Xu, Ji-an Jiang, Wen Zhao, Zhiping Jin, Zigao Dai, Dezheng Meng, Xuefeng Wu, Daming Wei, Runduo Liang, Lei He, Minxuan Cai, Lulu Fan, Weiyu Wu, Junhan Zhao, Ziqing Jia, Kexin Yu, Jinjun Geng, Di Xiao, Feng Li, Jinlong Tang, Yingxi Zuo, Xiaoling Zhang, Hao Liu, Jian Wang, Hongfei Zhang, Ming Liang, Hairen Wang, Dazhi Yao, Lei Hu, Xu Kong, Bin Li, Ning Jiang, Tinggui Wang, Zhen Wan, Yongquan Xue, Qingfeng Zhu, Xianzhong Zheng  
-**Date**: 22 Feb 2026  
+**Date**: 23 Feb 2026  
 **Categories**: astro-ph.HE, gr-qc  
 **Type**: cross-list from astro-ph.HE  
 
@@ -95,7 +95,7 @@
 
 **arXiv**: [2508.18081](https://arxiv.org/abs/2508.18081)  
 **Authors**: The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration: A. G. Abac, I. Abouelfettouh, F. Acernese, K. Ackley, S. Adhicary, D. Adhikari, N. Adhikari, R. X. Adhikari, V. K. Adkins, S. Afroz, D. Agarwal, M. Agathos, M. Aghaei Abchouyeh, O. D. Aguiar, S. Ahmadzadeh, L. Aiello, A. Ain, P. Ajith, S. Akcay, T. Akutsu, S. Albanesi, R. A. Alfaidi, A. Al-Jodah, C. Alléné, A. Allocca, S. Al-Shammari, P. A. Altin, S. Alvarez-Lopez, O. Amarasinghe, A. Amato, C. Amra, A. Ananyeva, S. B. Anderson, W. G. Anderson, M. Andia, M. Ando, T. Andrade, M. Andrés-Carcasona, T. Andrić, J. Anglin, S. Ansoldi, J. M. Antelis, S. Antier, M. Aoumi, E. Z. Appavuravther, S. Appert, S. K. Apple, K. Arai, A. Araya, M. C. Araya, M. Arca Sedda, J. S. Areeda, L. Argianas, N. Aritomi, F. Armato, S. Armstrong, N. Arnaud, M. Arogeti, S. M. Aronson, G. Ashton, Y. Aso, M. Assiduo, S. Assis de Souza Melo, S. M. Aston, P. Astone, F. Attadio, F. Aubin, K. AultONeal, G. Avallone, S. Babak, F. Badaracco, C. Badger, S. Bae, S. Bagnasco, E. Bagui, L. Baiotti, R. Bajpai, T. Baka, T. Baker, M. Ball, G. Ballardin, S. W. Ballmer, S. Banagiri, B. Banerjee, D. Bankar, T. M. Baptiste, P. Baral, J. C. Barayoga, B. C. Barish, D. Barker, N. Barman, P. Barneo, F. Barone, B. Barr, L. Barsotti, M. Barsuglia, D. Barta  
-**Date**: 22 Feb 2026  
+**Date**: 23 Feb 2026  
 **Categories**: gr-qc, astro-ph.HE  
 **Type**: replaced  
 
@@ -107,7 +107,7 @@
 
 **arXiv**: [2508.20421](https://arxiv.org/abs/2508.20421)  
 **Authors**: Shokoufe Faraji, Niayesh Afshordi  
-**Date**: 22 Feb 2026  
+**Date**: 23 Feb 2026  
 **Categories**: gr-qc, astro-ph.HE, hep-ph, hep-th  
 **Type**: replaced  
 
@@ -119,7 +119,7 @@
 
 **arXiv**: [2602.06536](https://arxiv.org/abs/2602.06536)  
 **Authors**: Guan-Ru Li, Jodin C. Morey, Wei-Liang Qian, Ramin G. Daghigh, Michael D. Green, Kai Lin, Rui-Hong Yue  
-**Date**: 22 Feb 2026  
+**Date**: 23 Feb 2026  
 **Categories**: gr-qc  
 **Type**: replaced  
 
@@ -131,7 +131,7 @@
 
 **arXiv**: [2511.02653](https://arxiv.org/abs/2511.02653)  
 **Authors**: Milena Albino, Tuhin Malik, Márcio Ferreira, Constança Providência  
-**Date**: 22 Feb 2026  
+**Date**: 23 Feb 2026  
 **Categories**: nucl-th, astro-ph.HE, gr-qc, hep-ph  
 **Type**: replaced  
 
@@ -143,7 +143,7 @@
 
 **arXiv**: [2602.16822](https://arxiv.org/abs/2602.16822)  
 **Authors**: Peisi Huang, Anibal D. Medina, Carlos E. M. Wagner  
-**Date**: 22 Feb 2026  
+**Date**: 23 Feb 2026  
 **Categories**: hep-ph, astro-ph.CO, hep-th  
 **Type**: cross-list from hep-ph  
 
@@ -155,7 +155,7 @@
 
 **arXiv**: [2512.15292](https://arxiv.org/abs/2512.15292)  
 **Authors**: Shreyas Tiruvaskar, Russell Boey, Richard Easther, Chris Gordon  
-**Date**: 22 Feb 2026  
+**Date**: 23 Feb 2026  
 **Categories**: astro-ph.CO  
 **Type**: replaced  
 
@@ -167,7 +167,7 @@
 
 **arXiv**: [2510.11913](https://arxiv.org/abs/2510.11913)  
 **Authors**: Gabriela Barenboim, Yeji Park, Liliana Velasco-Sevilla  
-**Date**: 22 Feb 2026  
+**Date**: 23 Feb 2026  
 **Categories**: hep-ph, astro-ph.CO  
 **Type**: replaced  
 
@@ -179,7 +179,7 @@
 
 **arXiv**: [2511.14266](https://arxiv.org/abs/2511.14266)  
 **Authors**: Jeet Amrit Pattnaik, S. K. Patra  
-**Date**: 22 Feb 2026  
+**Date**: 23 Feb 2026  
 **Categories**: astro-ph.HE  
 **Type**: replaced  
 
@@ -191,7 +191,7 @@
 
 **arXiv**: [2602.16559](https://arxiv.org/abs/2602.16559)  
 **Authors**: S. Belkin, G. P. Lamb, K. Ackley, M. E. Wortley, S. McGee, G. Schroeder, M. Shrestha, B. P. Gompertz, D. K. Galloway, R. Starling, W.-f. Fong, T. Laskar, C. Liu, A. C. Gordon, N. Pankov, A. E. Volvach, L. N. Volvach, A. Shein, A. Pozanenko, M. J. Dyer, J. Lyman, K. Ulaczyk, D. Steeghs, V. S. Dhillon, P. O'Brien, G. Ramsay, K. Noysena, R. Kotak, R. P. Breton, L. K. Nuttall, D. Pollacco, S. Awiphan, J. Casares, P. Chote, A. Chrimes, R. Eyles-Ferris, B. Godson, P. Irawati, D. Jarvis, Y. Julakanti, L. Kelsey, M. R. Kennedy, T. Killestein, A. Kumar, A. Levan, S. Littlefair, M. Magee, S. Mandhai, D. Mata S'anchez, S. Mattila, J. McCormac, D. Mkrtichian, S. Moran, J. Mullaney, D. O'Neill, M. Patel, K. Pu, M. Pursiainen, A. Sahu, U. Sawangwit, E. Stanway, Y. Sun, B. Warwick, K. Wiersema  
-**Date**: 22 Feb 2026  
+**Date**: 23 Feb 2026  
 **Categories**: astro-ph.HE  
 **Type**: replaced  
 
