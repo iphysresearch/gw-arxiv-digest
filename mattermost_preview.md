@@ -1,109 +1,145 @@
-# 📡 Daily GW arXiv Digest - 2026-02-24
-**Found 15 gravitational wave papers**
+# 📡 Daily GW arXiv Digest - 2026-02-25
+**Found 22 gravitational wave papers**
 
-[arXiv:2602.17724](https://arxiv.org/abs/2602.17724)[Submitted on 24 Feb 2026]
-**There and back again -- Closed timelike curves as EFT selection principle**
-Bum-Hoon Lee, Nils A. Nilsson, Somyadip Thakur
-Subjects: **gr-qc**; hep-th
-
----
-
-[arXiv:2602.17725](https://arxiv.org/abs/2602.17725)[Submitted on 24 Feb 2026]
-**Scaling Laws for Template-Free Detection of Environmental Phase Modulation in Gravitational-Wave Signals**
-Jericho Cain
-Subjects: **gr-qc**; astro-ph.IM
-
----
-
-[arXiv:2602.18385](https://arxiv.org/abs/2602.18385)[Submitted on 24 Feb 2026]
-**Detection prospects of solar $g$-modes with LISA**
-Aman Awasthi
-Subjects: **gr-qc**; astro-ph.HE, astro-ph.SR
-
----
-
-[arXiv:2602.16575](https://arxiv.org/abs/2602.16575) (cross-list from astro-ph.CO) [Submitted on 24 Feb 2026]
-**Chiral gravitational waves from multi-phase magnetogenesis**
-H. V. Ragavendra, Gianmassimo Tasinato, L. Sriramkumar
-Subjects: **astro-ph.CO**; gr-qc, hep-th
-
----
-
-[arXiv:2602.17702](https://arxiv.org/abs/2602.17702) (cross-list from physics.gen-ph) [Submitted on 24 Feb 2026]
-**Cosmological Bounce Relics: Black Holes, Gravitational Waves, and Dark Matter**
-Enrique Gaztanaga
+[arXiv:2602.18615](https://arxiv.org/abs/2602.18615)[Submitted on 25 Feb 2026]
+**Two Parameter Deformation of Embedding Class-I Compact Stars in Linear $f(Q)$ Gravity**
+Samstuti Chanda, Ranjan Sharma
 Subjects: **gr-qc**
 
 ---
 
-[arXiv:2602.17756](https://arxiv.org/abs/2602.17756) (cross-list from astro-ph.CO) [Submitted on 24 Feb 2026]
-**Pushing spectral siren cosmology into the third-generation era: a blinded mock data challenge**
-Matteo Tagliazucchi, Michele Moresco, Alessandro Agapito, Michele Mancarella, Sarah Ferraiuolo, Simone Mastrogiovanni, Nicola Borghi, Francesco Pannarale, Daniele Bonacorsi
-Subjects: **astro-ph.CO**; gr-qc
-
----
-
-[arXiv:1805.05382](https://arxiv.org/abs/1805.05382) (replaced) [Submitted on 24 Feb 2026]
-**Ultrarelativistic boost of a black hole in the magnetic universe of Levi-Civita--Bertotti--Robinson**
-Marcello Ortaggio, Marco Astorino
+[arXiv:2602.19186](https://arxiv.org/abs/2602.19186)[Submitted on 25 Feb 2026]
+**Propagation effects of Lorentz violation in gravitational waves**
+A. A. Araújo Filho, N. Heidari, Iarley P. Lobo
 Subjects: **gr-qc**; hep-th
 
 ---
 
-[arXiv:2411.13714](https://arxiv.org/abs/2411.13714) (replaced) [Submitted on 24 Feb 2026]
-**Gravitational-wave signatures of nonviolent nonlocality**
-Brian C. Seymour, Yanbei Chen
-Subjects: **gr-qc**; astro-ph.HE, hep-th
-
----
-
-[arXiv:2507.04083](https://arxiv.org/abs/2507.04083) (replaced) [Submitted on 24 Feb 2026]
-**Primordial black hole ringdown: The irreducible stochastic gravitational wave background**
-Valerio De Luca, Antonio J. Iovino, Antonio Riotto
-Subjects: **gr-qc**; astro-ph.CO, hep-ph
-
----
-
-[arXiv:2511.13154](https://arxiv.org/abs/2511.13154) (replaced) [Submitted on 24 Feb 2026]
-**Towards an anomaly detection pipeline for gravitational waves at the Einstein Telescope**
-Gianluca Inguglia, Huw Haigh, Kristyna Vitulova, Ulyana Dupletsa
+[arXiv:2602.19436](https://arxiv.org/abs/2602.19436)[Submitted on 25 Feb 2026]
+**Improving calibration accuracy with torque coupled gravity field calibrator for sub-Hz gravitational wave observation in CHRONOS**
+Yuki Inoue, Daiki Tanabe, Vivek Kumar
 Subjects: **gr-qc**; astro-ph.IM
 
 ---
 
-[arXiv:2602.04055](https://arxiv.org/abs/2602.04055) (replaced) [Submitted on 24 Feb 2026]
-**A simple mechanism for the enhancement of the inflationary power spectrum**
-I. Dalianis, A. Katsis, N. Tetradis
-Subjects: **astro-ph.CO**; gr-qc, hep-ph, hep-th
+[arXiv:2602.19541](https://arxiv.org/abs/2602.19541)[Submitted on 25 Feb 2026]
+**Chaotic imprints of dark matter in extreme mass-ratio inspirals**
+Mustapha Azreg-Aïnou, Mubasher Jamil, Emmanuel N. Saridakis
+Subjects: **gr-qc**; astro-ph.CO
 
 ---
 
-[arXiv:2602.06125](https://arxiv.org/abs/2602.06125) (replaced) [Submitted on 24 Feb 2026]
-**Gravitational Wave Scattering in Spinless WQFT**
-Yilber Fabian Bautista, Mathias Driesse, Kays Haddad, Gustav Uhre Jakobsen
-Subjects: **hep-th**; gr-qc
+[arXiv:2602.20075](https://arxiv.org/abs/2602.20075)[Submitted on 25 Feb 2026]
+**Addressing leakage and mode suppression in angular power spectrum estimation for gravitational-wave backgrounds using pulsar timing arrays**
+Deepali Agarwal, Joseph D. Romano, Yacine Ali-Haïmoud, Tristan L. Smith
+Subjects: **gr-qc**; astro-ph.CO
 
 ---
 
-[arXiv:2602.18105](https://arxiv.org/abs/2602.18105)[Submitted on 24 Feb 2026]
-**TROYE: Modeling Dynamic Phase Transitions in Gravitational Waves from Neutron Star-Black Hole Mergers**
-Ofek Dan, Ofek Birnholtz
-Subjects: **astro-ph.HE**
+[arXiv:2602.18560](https://arxiv.org/abs/2602.18560) (cross-list from astro-ph.HE) [Submitted on 25 Feb 2026]
+**Inferring the population properties of galactic binaries from LISA's stochastic foreground**
+Federico De Santi, Alessandro Santini, Alexandre Toubiana, Nikolaos Karnesis, Davide Gerosa
+Subjects: **astro-ph.HE**; astro-ph.IM, gr-qc
 
 ---
 
-[arXiv:2511.07190](https://arxiv.org/abs/2511.07190) (replaced) [Submitted on 24 Feb 2026]
-**Rethinking mass transfer: a unified semianalytical framework for circular and eccentric binaries. II. Orbital evolution due to nonconservative mass transfer**
-A. Parkosidis, S. Toonen, E. Laplace, F. Dosopoulou
-Subjects: **astro-ph.SR**
+[arXiv:2602.19118](https://arxiv.org/abs/2602.19118) (cross-list from astro-ph.CO) [Submitted on 25 Feb 2026]
+**Exponential Quintessence Model: Analytical Quantification of the Fine-Tuning Problem in Dark Energy**
+Naoto Maki, Kazunori Kohri
+Subjects: **astro-ph.CO**; gr-qc, hep-th
 
 ---
 
-[arXiv:2602.18239](https://arxiv.org/abs/2602.18239)[Submitted on 24 Feb 2026]
-**Mathematical derivation and verification of the amplitude of LISA's interferometric signals on an ultra-stable interferometer testbed**
-Alvise Pizzella, Lennart Wissel, Miguel Dovale-Alvarez, Pablo Martinez Cano, Rodrigo Garcia Alvarez, Christoph Bode, Juan Jose Esteban Delgado, Gerhard Heinzel
-Subjects: **astro-ph.IM**
+[arXiv:2602.19627](https://arxiv.org/abs/2602.19627) (cross-list from astro-ph.HE) [Submitted on 25 Feb 2026]
+**A unified study of nuclear physics and dark matter constraints through gravitational-wave observations of binary neutron star mergers**
+Nina Kunert, Guilherme Grams, William Newton, Edoardo Giangrandi, Anna Puecher, Hauke Koehn, Violetta Sagun, Tim Dietrich
+Subjects: **astro-ph.HE**; gr-qc
 
 ---
 
-📊 **Summary**: 5 New • 3 Cross-lists • 7 Replacements
+[arXiv:2602.20110](https://arxiv.org/abs/2602.20110) (cross-list from astro-ph.HE) [Submitted on 25 Feb 2026]
+**The Universal Eccentricity Distribution for Dynamical Gravitational-Wave Merger Channels**
+Mor Rozner, Teagan A.Clarke, Isobel M. Romero-Shaw, Johan Samsing
+Subjects: **astro-ph.HE**; gr-qc
+
+---
+
+[arXiv:2405.05884](https://arxiv.org/abs/2405.05884) (replaced) [Submitted on 25 Feb 2026]
+**A meta inspiral-merger-ringdown consistency test of general relativity with gravitational wave signals from compact binaries**
+Sakshi Satish Madekar, Nathan K Johnson-McDaniel, Anuradha Gupta, Abhirup Ghosh
+Subjects: **gr-qc**
+
+---
+
+[arXiv:2506.13035](https://arxiv.org/abs/2506.13035) (replaced) [Submitted on 25 Feb 2026]
+**Probing Dark Matter's Gravitational Effects Locally with TianQin**
+Zheng-Cheng Liang, Fa-Peng Huang, Xuefeng Zhang, Yi-Ming Hu
+Subjects: **gr-qc**
+
+---
+
+[arXiv:2507.09543](https://arxiv.org/abs/2507.09543) (replaced) [Submitted on 25 Feb 2026]
+**Distinguishing gravity theories with networks of space-based gravitational-wave detectors**
+Bo Mu, Zong-Kuan Guo
+Subjects: **gr-qc**; astro-ph.CO
+
+---
+
+[arXiv:2508.00516](https://arxiv.org/abs/2508.00516) (replaced) [Submitted on 25 Feb 2026]
+**Probing scalar field with generic extreme mass-ratio inspirals around Kerr black holes**
+Tieguang Zi, Shailesh Kumar
+Subjects: **gr-qc**; astro-ph.HE, hep-th
+
+---
+
+[arXiv:2509.21652](https://arxiv.org/abs/2509.21652) (replaced) [Submitted on 25 Feb 2026]
+**A User-Friendly Python Interface for the Numerical Relativity Code AMSS-NCKU**
+Chen-Kai Qiao, Yi Zheng, Zhou-Jian Cao
+Subjects: **gr-qc**; astro-ph.HE
+
+---
+
+[arXiv:2405.09723](https://arxiv.org/abs/2405.09723) (replaced) [Submitted on 25 Feb 2026]
+**Gravitational Wave-Induced Freeze-In of Fermionic Dark Matter**
+Azadeh Maleknejad, Joachim Kopp
+Subjects: **hep-ph**; astro-ph.CO, gr-qc, hep-th
+
+---
+
+[arXiv:2504.03825](https://arxiv.org/abs/2504.03825) (replaced) [Submitted on 25 Feb 2026]
+**Resonant amplification of multimessenger emission in rotating stellar core collapse**
+Marco Cusinato, Martin Obergaulinger, Miguel-Ángel Aloy, José-Antonio Font
+Subjects: **astro-ph.HE**; gr-qc
+
+---
+
+[arXiv:2507.03103](https://arxiv.org/abs/2507.03103) (replaced) [Submitted on 25 Feb 2026]
+**An Open System Approach to Gravity**
+Santiago Agüí Salcedo, Thomas Colas, Lennard Dufner, Enrico Pajer
+Subjects: **hep-th**; astro-ph.CO, gr-qc, hep-ph
+
+---
+
+[arXiv:2510.18791](https://arxiv.org/abs/2510.18791) (replaced) [Submitted on 25 Feb 2026]
+**Beware of the running $n_s$ when producing heavy primordial black holes**
+Sasha Allegrini, Antonio J. Iovino, Hardi Veermäe
+Subjects: **astro-ph.CO**; gr-qc
+
+---
+
+[arXiv:2510.24780](https://arxiv.org/abs/2510.24780) (replaced) [Submitted on 25 Feb 2026]
+**Optical design and sensitivity optimization of Cryogenic sub-Hz cROss torsion bar detector with quantum NOn-demolition Speed meter (CHRONOS)**
+Yuki Inoue, Daiki Tanabe, M.Afif Ismail, Vivek Kumar, Mario Juvenal S Onglao III, Ta-Chun Yu
+Subjects: **astro-ph.CO**; astro-ph.IM, gr-qc
+
+---
+
+[arXiv:2510.20203](https://arxiv.org/abs/2510.20203) (replaced) [Submitted on 25 Feb 2026]
+**Exploring Joint Observation of the CSST Shear and clustering of astrophysical gravitational wave source measurements**
+Pengfei Su, Yan Gong, Qi Xiong, Dingao Hu, Hengjie Lin, Furen Deng, Xuelei Chen
+Subjects: **astro-ph.CO**
+
+---
+
+📊 **Summary**: 6 New • 4 Cross-lists • 12 Replacements
+📋 Showing top 20 of 22 papers
