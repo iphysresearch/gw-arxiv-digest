@@ -1,81 +1,109 @@
-# 📡 Daily GW arXiv Digest - 2026-02-26
-**Found 11 gravitational wave papers**
+# 📡 Daily GW arXiv Digest - 2026-02-27
+**Found 15 gravitational wave papers**
 
-[arXiv:2602.20212](https://arxiv.org/abs/2602.20212)[Submitted on 26 Feb 2026]
-**Likelihood-Based One-Class Scoring in CWT Latent Space for Confusion-Limited LISA Gravitational-Wave Detection**
-Jericho Cain
-Subjects: **gr-qc**; astro-ph.IM
-
----
-
-[arXiv:2602.20745](https://arxiv.org/abs/2602.20745)[Submitted on 26 Feb 2026]
-**Gravitational wave radiation from periodic orbits in regular black holes**
-Rishav Agrawal, Anjan Kar, Soumya Jana, Sayan Kar
-Subjects: **gr-qc**; astro-ph.HE, hep-th
-
----
-
-[arXiv:2602.21018](https://arxiv.org/abs/2602.21018)[Submitted on 26 Feb 2026]
-**5PN eccentric waveforms for intermediate-mass-ratio-inspirals (IMRIs) from post-Newtonian and black hole perturbation theory**
-M Laxman, Ryuichi Fujita, Chandra Kant Mishra
+[arXiv:2602.21261](https://arxiv.org/abs/2602.21261)[Submitted on 27 Feb 2026]
+**Using thermodynamics to learn gravitational wave physics**
+Caio César Rodrigues Evangelista, Níckolas de Aguiar Alves
 Subjects: **gr-qc**; astro-ph.HE
 
 ---
 
-[arXiv:2602.20277](https://arxiv.org/abs/2602.20277) (cross-list from astro-ph.IM) [Submitted on 26 Feb 2026]
-**Neural Bayesian updates to populations with growing gravitational-wave catalogs**
-Noah E. Wolfe, Matthew Mould, John Veitch, Salvatore Vitale
-Subjects: **astro-ph.IM**; astro-ph.HE, gr-qc
+[arXiv:2602.21303](https://arxiv.org/abs/2602.21303)[Submitted on 27 Feb 2026]
+**Beam tube boundary effects in stray light modeling of long Fabry-Perot arm cavities for third-generation gravitational-wave detectors**
+M. Andrés-Carcasona, M. Evans
+Subjects: **gr-qc**; astro-ph.IM
 
 ---
 
-[arXiv:2602.20734](https://arxiv.org/abs/2602.20734) (cross-list from astro-ph.CO) [Submitted on 26 Feb 2026]
-**Bypassing the Lyth Bound with Entangled Gravitons: Primordial Signatures and Late-Time Noise**
-Shingo Akama, Chunshan Lin
-Subjects: **astro-ph.CO**; gr-qc
+[arXiv:2602.21432](https://arxiv.org/abs/2602.21432)[Submitted on 27 Feb 2026]
+**Breathing Black Hole Shadows in Modified Gravity (MOG)**
+Nikko John Leo S. Lobos, Emmanuel T. Rodulfo
+Subjects: **gr-qc**
 
 ---
 
-[arXiv:2510.20442](https://arxiv.org/abs/2510.20442) (replaced) [Submitted on 26 Feb 2026]
-**Probing cosmic strings via gravitational-wave lensing**
-Oleg Bulashenko, Nino Villanueva, Roberto Bada Nerin, José A. Font
-Subjects: **gr-qc**; astro-ph.CO, astro-ph.GA, astro-ph.HE
+[arXiv:2602.21607](https://arxiv.org/abs/2602.21607)[Submitted on 27 Feb 2026]
+**Direction-of-arrival estimation of a gravitational wave by correlations between quadrupole moments of pulsar timings**
+Taichi Ueyama, Hodaka Tamura, Hideki Asada
+Subjects: **gr-qc**; astro-ph.HE, hep-th
 
 ---
 
-[arXiv:2512.21390](https://arxiv.org/abs/2512.21390) (replaced) [Submitted on 26 Feb 2026]
-**GraviBERT: Transformer-based inference for gravitational-wave time series**
-Martin Benedikt, Ippocratis D. Saltas
-Subjects: **gr-qc**; astro-ph.CO, astro-ph.IM
+[arXiv:2602.21615](https://arxiv.org/abs/2602.21615)[Submitted on 27 Feb 2026]
+**GW070605: An Undisclosed Binary Neutron Star Hardware Injection in LIGO's Fifth Science Run**
+Heather Fong, Kipp Cannon, Chi-Wai Chan, Richard N. George, Alvin K. Y. Li, Soichiro Kuwahara, Hiroaki Ohta, Minori Shikauchi, Leo Tsukada, Takuya Tsutsui
+Subjects: **gr-qc**
 
 ---
 
-[arXiv:2510.00989](https://arxiv.org/abs/2510.00989) (replaced) [Submitted on 26 Feb 2026]
-**Generalized Unitarity Method for Worldline Field Theory**
-Vincent F. He, Julio Parra-Martinez
-Subjects: **hep-th**; gr-qc
+[arXiv:2602.21923](https://arxiv.org/abs/2602.21923)[Submitted on 27 Feb 2026]
+**Stochastic Evolution of Primordial Black Holes to near-extremality in EFTs of Gravity**
+Soham Acharya, Shuvayu Roy, Sudipta Sarkar
+Subjects: **gr-qc**; hep-th
 
 ---
 
-[arXiv:2507.07075](https://arxiv.org/abs/2507.07075) (replaced) [Submitted on 26 Feb 2026]
-**Resolving the QCD Axion Domain Wall Problem with a Light Axion**
-Junseok Lee, Kai Murai, Fuminobu Takahashi, Wen Yin
+[arXiv:2602.22074](https://arxiv.org/abs/2602.22074)[Submitted on 27 Feb 2026]
+**Beyond Gaussian Assumptions: A new robust statistical framework for gravitational-wave data analysis**
+Argyro Sasli, Minas Karamanis, Nikolaos Karnesis, Michael W. Coughlin, Vuk Mandic, Uroš Seljak, Nikolaos Stergioulas
+Subjects: **gr-qc**
+
+---
+
+[arXiv:2511.17422](https://arxiv.org/abs/2511.17422) (replaced) [Submitted on 27 Feb 2026]
+**A battle of designs: triangular vs. L-shaped detectors and parity violation in the gravitational-wave background**
+Hannah Duval, Charles Badger, Mairi Sakellariadou
+Subjects: **gr-qc**; astro-ph.CO, hep-th
+
+---
+
+[arXiv:2601.07091](https://arxiv.org/abs/2601.07091) (replaced) [Submitted on 27 Feb 2026]
+**Balance flux laws beyond general relativity**
+David Maibach, Jann Zosso
+Subjects: **gr-qc**
+
+---
+
+[arXiv:2512.00701](https://arxiv.org/abs/2512.00701) (replaced) [Submitted on 27 Feb 2026]
+**Probing a minimal dark gauge sector via microlensing of compact dark objects**
+Juan Barranco, Argelia Bernal, Víctor Jaramillo, Darío Núñez, Milton Ruiz
+Subjects: **hep-ph**; astro-ph.CO, gr-qc
+
+---
+
+[arXiv:2602.21493](https://arxiv.org/abs/2602.21493)[Submitted on 27 Feb 2026]
+**Resurgence and Hyperasymptotics in Wave Optics Astronomy**
+Job Feldbrugge, Samuel Crew, Ue-Li Pen
+Subjects: **astro-ph.CO**; math-ph
+
+---
+
+[arXiv:2506.19962](https://arxiv.org/abs/2506.19962) (replaced) [Submitted on 27 Feb 2026]
+**New bounds on Axion-Like Particles in the Ultraviolet from Legacy Data**
+Elisa Todarello
+Subjects: **astro-ph.CO**; hep-ph
+
+---
+
+[arXiv:2510.26767](https://arxiv.org/abs/2510.26767) (replaced) [Submitted on 27 Feb 2026]
+**Unbiased Primordial Gravitational Wave Inference from the CMB with SMICA**
+Alexander Steier, Shamik Ghosh, Jacques Delabrouille
+Subjects: **astro-ph.CO**
+
+---
+
+[arXiv:2212.07559](https://arxiv.org/abs/2212.07559) (replaced) [Submitted on 27 Feb 2026]
+**Supercool subtleties of cosmological phase transitions**
+Peter Athron, Csaba Balázs, Lachlan Morris
 Subjects: **hep-ph**; astro-ph.CO
 
 ---
 
-[arXiv:2602.20522](https://arxiv.org/abs/2602.20522)[Submitted on 26 Feb 2026]
-**ASKAP J005512.2-255834: A Luminous, Long-Lived Radio Transient at z = 0.1 -- an Orphan Afterglow or an off-nuclear TDE from an IMBH?**
-Ashna Gulati, Tara Murphy, David L. Kaplan, Dougal Dobie, Charlotte Ward, Gemma Anderson, Manisha Caleb, Poonam Chandra, Jeff Cooke, Barnali Das, Adam Deller, Adelle Goodwin, Kelly Gourdji, Giancarlo Ghirlanda, Emil Lenc, Anais Möller, James K. Leung, Stella Koch Ocker, Joshua Pritchard, Claudio Ricci, Elaine M. Sadler, Om Sharan Salafia, Kavya Shaji, Roberto Soria, Mark Suhr, Artem Tuntsov, Ziteng Wang
-Subjects: **astro-ph.HE**
+[arXiv:2504.08304](https://arxiv.org/abs/2504.08304) (replaced) [Submitted on 27 Feb 2026]
+**Asteroid-mass soliton as the dark matter-baryon coincidence solution**
+Shinya Kanemura, Shao-Ping Li, Ke-Pan Xie
+Subjects: **hep-ph**; astro-ph.CO
 
 ---
 
-[arXiv:2602.00724](https://arxiv.org/abs/2602.00724) (replaced) [Submitted on 26 Feb 2026]
-**Population synthesis of double white dwarfs: evolutionary effects on system properties**
-Sreeta Roy, Surajit Kalita
-Subjects: **astro-ph.SR**; astro-ph.HE
-
----
-
-📊 **Summary**: 4 New • 2 Cross-lists • 5 Replacements
+📊 **Summary**: 8 New • 0 Cross-lists • 7 Replacements
